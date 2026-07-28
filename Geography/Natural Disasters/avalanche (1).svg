@@ -1,9 +1,0 @@
-<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-<polygon points="50,5 5,85 95,85" fill="#d0dce8" stroke="#6080a0" stroke-width="2.5" stroke-linejoin="round"/>
-  <polygon points="50,5 30,45 70,45" fill="#b8cad8" stroke="#6080a0" stroke-width="2"/>
-  <path d="M30 45 Q40 35 50 38 Q60 41 70 45 Q75 58 80 65 Q85 72 90 80 L40 80 Q38 72 35 62 Q32 52 30 45 Z" fill="white" stroke="#8090a8" stroke-width="2" stroke-linejoin="round"/>
-  <path d="M32 48 Q42 38 52 42 Q62 45 68 50 Q72 60 76 68 L42 68 Q39 60 36 52 Z" fill="#e8eef4" stroke="#8090a8" stroke-width="1.5" stroke-linejoin="round"/>
-  <path d="M28 50 Q50 35 72 50 Q80 60 88 72" fill="none" stroke="white" stroke-width="3" stroke-linecap="round"/>
-  <path d="M25 56 Q45 42 68 56 Q76 65 85 76" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M22 62 Q40 50 62 62 Q70 70 80 80" fill="none" stroke="#c8d8e8" stroke-width="2" stroke-linecap="round"/>
-</svg>

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-<!-- Cyclone spiral viewed from above -->
-  <circle cx="50" cy="50" r="40" fill="#b0c4de" stroke="#333" stroke-width="2"/>
-  <!-- Spiral arms -->
-  <path d="M50,50 C50,35 60,28 68,32 C76,36 78,46 74,54 C70,62 60,66 50,63 C40,60 33,52 34,42 C35,32 42,25 52,24" fill="none" stroke="#555" stroke-width="3" stroke-linecap="round"/>
-  <path d="M50,50 C55,44 62,42 66,46 C70,50 68,57 62,60 C56,63 49,60 47,54" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
-  <!-- Eye of storm -->
-  <circle cx="50" cy="50" r="6" fill="#e8f4f8" stroke="#333" stroke-width="1.5"/>
-</svg>

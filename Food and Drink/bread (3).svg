@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-<!-- bread loaf body -->
-  <rect x="15" y="50" width="70" height="32" rx="5" fill="#c8874a" stroke="#7a4a20" stroke-width="2.5"/>
-  <!-- bread top dome -->
-  <path d="M 18 52 Q 30 20 50 18 Q 70 20 82 52 Z" fill="#d4944e" stroke="#7a4a20" stroke-width="2.5"/>
-  <!-- score line on top -->
-  <path d="M 35 30 Q 50 24 65 30" fill="none" stroke="#7a4a20" stroke-width="1.5"/>
-</svg>

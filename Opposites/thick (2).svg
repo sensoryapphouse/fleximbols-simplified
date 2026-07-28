@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-<!-- thick slab -->
-  <rect x="10" y="28" width="80" height="40" rx="4" fill="#a8a8a8" stroke="#333" stroke-width="2.5"/>
-  <!-- thickness arrows on side -->
-  <line x1="96" y1="28" x2="96" y2="68" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
-  <polygon points="92,28 100,28 96,22" fill="#333"/>
-  <polygon points="92,68 100,68 96,74" fill="#333"/>
-</svg>

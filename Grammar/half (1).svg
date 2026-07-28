@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <g transform="translate(-24.693 -21.700) scale(1.4953)">
-<!-- half = circle split, left filled right empty -->
-  <circle cx="50" cy="48" r="30" fill="#e0e0e0" stroke="#333" stroke-width="2.5"/>
-  <path d="M50 18 A30 30 0 0 0 50 78 Z" fill="#6baed6" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
-  <line x1="50" y1="18" x2="50" y2="78" stroke="#333" stroke-width="2.5"/>
-</g>
-  </svg>

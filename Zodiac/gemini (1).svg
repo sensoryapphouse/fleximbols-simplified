@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-<!-- Gemini star/diamond shape - four-pointed star -->
-  <path d="M50,10 Q52,46 88,48 Q52,50 50,86 Q48,50 12,48 Q48,46 50,10Z" fill="#4285f4" stroke="#2c6fc9" stroke-width="2" stroke-linejoin="round"/>
-  <!-- Inner lighter diamond -->
-  <path d="M50,24 Q51,46 72,48 Q51,50 50,72 Q49,50 28,48 Q49,46 50,24Z" fill="#8ab4f8" stroke="none"/>
-  <!-- G letter hint -->
-  <text x="50" y="52" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">G</text>
-</svg>

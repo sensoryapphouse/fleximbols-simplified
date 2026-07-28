@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-<!-- Road/path line -->
-  <rect x="10" y="46" width="80" height="10" rx="3" fill="#d4c8a0" stroke="#888" stroke-width="1.5"/>
-  <!-- Dot/person moving along the path -->
-  <circle cx="28" cy="51" r="6" fill="#4a90d9" stroke="#333" stroke-width="2"/>
-  <!-- Arrow showing direction along -->
-  <line x1="38" y1="51" x2="74" y2="51" stroke="#cc5500" stroke-width="2" stroke-linecap="round"/>
-  <polygon points="74,51 67,47 67,55" fill="#cc5500"/>
-</svg>

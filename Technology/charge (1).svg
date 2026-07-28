@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-<!-- Battery outline -->
-<!-- Battery terminal -->
-  <rect x="80" y="40" width="10" height="20" rx="3" fill="#555" stroke="#333" stroke-width="2"/>
-  <!-- Battery fill (partially charged, green) -->
-  <rect x="16" y="32" width="36" height="36" rx="3" fill="#6ab04c"/>
-  <!-- Lightning bolt (charging symbol) -->
-  <polygon points="52,30 44,52 52,48 46,70 62,44 52,48 58,30" fill="#f39c12" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
-</svg>

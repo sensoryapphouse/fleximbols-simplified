@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-<rect x="12" y="30" width="76" height="48" rx="3" fill="#a8a8a8" stroke="#333" stroke-width="2.5"/>
-  <!-- cracks/texture -->
-  <line x1="35" y1="30" x2="30" y2="78" stroke="#555" stroke-width="1.5"/>
-  <line x1="60" y1="30" x2="65" y2="78" stroke="#555" stroke-width="1.5"/>
-  <line x1="12" y1="50" x2="88" y2="54" stroke="#555" stroke-width="1"/>
-  <!-- shadow -->
-  <ellipse cx="50" cy="80" rx="38" ry="5" fill="#ccc" stroke="none"/>
-</svg>
