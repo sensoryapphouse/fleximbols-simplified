@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-10.016 -8.843) scale(1.2015)">
+<!-- Cylinder speaker body (like Amazon Echo) -->
+  <ellipse cx="50" cy="72" rx="24" ry="6" fill="#c0b8d0" stroke="#333" stroke-width="2"/>
+  <rect x="26" y="26" width="48" height="46" fill="#c0b8d0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Top ellipse -->
+  <ellipse cx="50" cy="26" rx="24" ry="6" fill="#d0c8e0" stroke="#333" stroke-width="2"/>
+  <!-- Speaker grill lines (vertical) -->
+  <line x1="34" y1="30" x2="34" y2="68" stroke="#888" stroke-width="1.5"/>
+  <line x1="40" y1="30" x2="40" y2="68" stroke="#888" stroke-width="1.5"/>
+  <line x1="46" y1="30" x2="46" y2="68" stroke="#888" stroke-width="1.5"/>
+  <line x1="52" y1="30" x2="52" y2="68" stroke="#888" stroke-width="1.5"/>
+  <line x1="58" y1="30" x2="58" y2="68" stroke="#888" stroke-width="1.5"/>
+  <line x1="64" y1="30" x2="64" y2="68" stroke="#888" stroke-width="1.5"/>
+  <!-- LED ring on top -->
+  <ellipse cx="50" cy="26" rx="16" ry="4" fill="none" stroke="#5af" stroke-width="3"/>
+  <!-- WiFi arcs above -->
+  <path d="M40 18 Q50 10 60 18" stroke="#888" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M44 14 Q50 8 56 14" stroke="#888" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Label -->
+</g>
+  </svg>

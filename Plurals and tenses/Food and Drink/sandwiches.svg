@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,8.160) scale(0.9184)">
+<!-- top bread slice -->
+  <path d="M 15 30 Q 15 22 50 22 Q 85 22 85 30 L 82 42 Q 82 46 50 46 Q 18 46 18 42 Z" fill="#d4903a" stroke="#8a5020" stroke-width="2"/>
+  <!-- lettuce -->
+  <path d="M 15 46 Q 30 40 50 44 Q 70 40 85 46 L 85 50 Q 70 56 50 52 Q 30 56 15 50 Z" fill="#80c060" stroke="#408020" stroke-width="1.5"/>
+  <!-- cheese -->
+  <rect x="15" y="50" width="70" height="7" fill="#f5d840" stroke="#a09020" stroke-width="1.5"/>
+  <!-- meat -->
+  <rect x="15" y="57" width="70" height="7" fill="#c87050" stroke="#884030" stroke-width="1.5"/>
+  <!-- bottom bread -->
+  <rect x="15" y="64" width="70" height="14" rx="3" fill="#d4903a" stroke="#8a5020" stroke-width="2"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1669" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1669)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

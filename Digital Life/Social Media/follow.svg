@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-2.168 -0.286) scale(1.1014)">
+<!-- Leading figure (ahead, smaller to show distance) -->
+  <circle cx="70" cy="25" r="6" fill="#f5c5a3" stroke="#333" stroke-width="2"/>
+  <rect x="65" y="32" width="10" height="16" rx="3" fill="#9b59b6" stroke="#333" stroke-width="2"/>
+  <line x1="65" y1="37" x2="59" y2="48" stroke="#f5c5a3" stroke-width="2" stroke-linecap="round"/>
+  <line x1="75" y1="37" x2="80" y2="48" stroke="#f5c5a3" stroke-width="2" stroke-linecap="round"/>
+  <line x1="67" y1="48" x2="65" y2="60" stroke="#f5c5a3" stroke-width="2" stroke-linecap="round"/>
+  <line x1="73" y1="48" x2="75" y2="60" stroke="#f5c5a3" stroke-width="2" stroke-linecap="round"/>
+  <!-- Following figure (behind, larger) -->
+  <circle cx="30" cy="28" r="8" fill="#f5c5a3" stroke="#333" stroke-width="2"/>
+  <rect x="23" y="37" width="14" height="20" rx="4" fill="#6ab0e8" stroke="#333" stroke-width="2"/>
+  <line x1="23" y1="42" x2="15" y2="57" stroke="#f5c5a3" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="37" y1="42" x2="42" y2="55" stroke="#f5c5a3" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="25" y1="57" x2="23" y2="72" stroke="#f5c5a3" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="35" y1="57" x2="37" y2="72" stroke="#f5c5a3" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Footstep dots following -->
+  <circle cx="48" cy="65" r="2" fill="#aaa"/>
+  <circle cx="54" cy="68" r="2" fill="#aaa"/>
+  <circle cx="60" cy="65" r="2" fill="#aaa"/>
+</g>
+  </svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Left mitten -->
+  <path d="M15 65 Q13 50 15 38 Q17 28 24 28 Q31 28 33 38 L33 65 Q33 72 24 73 Q15 72 15 65 Z" fill="#E8524A" stroke="#8B1A14" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Left thumb -->
+  <path d="M33 48 Q40 45 41 52 Q41 58 34 60 Z" fill="#E8524A" stroke="#8B1A14" stroke-width="2"/>
+  <!-- Left cuff -->
+  <rect x="13" y="63" width="22" height="9" rx="3" fill="#C0C0E0" stroke="#5050A0" stroke-width="2"/>
+  <!-- Right mitten -->
+  <path d="M85 65 Q87 50 85 38 Q83 28 76 28 Q69 28 67 38 L67 65 Q67 72 76 73 Q85 72 85 65 Z" fill="#E8524A" stroke="#8B1A14" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Right thumb -->
+  <path d="M67 48 Q60 45 59 52 Q59 58 66 60 Z" fill="#E8524A" stroke="#8B1A14" stroke-width="2"/>
+  <!-- Right cuff -->
+  <rect x="65" y="63" width="22" height="9" rx="3" fill="#C0C0E0" stroke="#5050A0" stroke-width="2"/>
+  <!-- Label -->
+</svg>

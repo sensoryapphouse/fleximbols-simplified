@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Socket on wall -->
+  <rect x="56" y="25" width="34" height="50" rx="5" fill="#dde3eb" stroke="#333" stroke-width="2.5"/>
+  <!-- Socket holes (empty) -->
+  <rect x="62" y="35" width="6" height="12" rx="2" fill="#333"/>
+  <rect x="75" y="35" width="6" height="12" rx="2" fill="#333"/>
+  <ellipse cx="72" cy="62" rx="5" ry="4" fill="#333"/>
+  <!-- Plug being pulled away -->
+  <rect x="22" y="35" width="24" height="30" rx="4" fill="#888" stroke="#333" stroke-width="2.5"/>
+  <!-- Plug prongs (short, not reaching socket) -->
+  <rect x="28" y="63" width="5" height="8" rx="2" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <rect x="39" y="63" width="5" height="8" rx="2" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <!-- Cable -->
+  <path d="M8 50 Q15 50 22 50" fill="none" stroke="#555" stroke-width="5" stroke-linecap="round"/>
+  <!-- Arrow pulling away from socket -->
+  <line x1="46" y1="50" x2="57" y2="50" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4,3"/>
+  <polyline points="50,44 42,50 50,56" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

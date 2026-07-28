@@ -1,0 +1,18 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<path d="M15 45 Q15 32 28 30 Q30 22 42 22 Q50 18 58 22 Q68 20 72 30 Q82 30 84 40 Q88 52 78 55 L18 55 Q10 52 15 45 Z" fill="#8090a8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <line x1="15" y1="60" x2="8" y2="72" stroke="#a8c0e0" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="25" y1="58" x2="18" y2="70" stroke="#a8c0e0" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="35" y1="58" x2="28" y2="70" stroke="#a8c0e0" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="45" y1="58" x2="38" y2="70" stroke="#a8c0e0" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="55" y1="58" x2="48" y2="70" stroke="#a8c0e0" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="65" y1="58" x2="58" y2="70" stroke="#a8c0e0" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="75" y1="58" x2="68" y2="70" stroke="#a8c0e0" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="85" y1="58" x2="78" y2="70" stroke="#a8c0e0" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="20" y1="72" x2="13" y2="84" stroke="#c0d8f0" stroke-width="2" stroke-linecap="round"/>
+  <line x1="35" y1="72" x2="28" y2="84" stroke="#c0d8f0" stroke-width="2" stroke-linecap="round"/>
+  <line x1="50" y1="72" x2="43" y2="84" stroke="#c0d8f0" stroke-width="2" stroke-linecap="round"/>
+  <line x1="65" y1="72" x2="58" y2="84" stroke="#c0d8f0" stroke-width="2" stroke-linecap="round"/>
+  <line x1="80" y1="72" x2="73" y2="84" stroke="#c0d8f0" stroke-width="2" stroke-linecap="round"/>
+  <path d="M5 62 Q12 59 20 62" fill="none" stroke="#b0c8e0" stroke-width="2" stroke-linecap="round"/>
+  <path d="M78 75 Q85 72 92 75" fill="none" stroke="#b0c8e0" stroke-width="2" stroke-linecap="round"/>
+</svg>

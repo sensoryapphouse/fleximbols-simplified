@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Roasting pan -->
+  <path d="M10 70 L12 88 L88 88 L90 70 Z" fill="#c8a870" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="6" y="64" width="88" height="8" rx="3" fill="#b09050" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Meat/chicken in pan -->
+  <path d="M20 64 Q22 54 35 52 Q50 48 65 52 Q78 54 80 64" fill="#c07840" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Drumstick bone-->
+  <ellipse cx="30" cy="60" rx="8" ry="5" fill="#e8b060" stroke="#333" stroke-width="1.5"/>
+  <line x1="22" y1="60" x2="14" y2="68" stroke="#e8c8a0" stroke-width="4" stroke-linecap="round"/>
+  <!-- Roasted surface lines -->
+  <path d="M40 56 Q50 52 60 56" fill="none" stroke="#8b4513" stroke-width="2" stroke-linecap="round"/>
+  <path d="M36 60 Q50 56 64 60" fill="none" stroke="#8b4513" stroke-width="2" stroke-linecap="round"/>
+  <!-- Basting brush -->
+  <rect x="62" y="15" width="8" height="38" rx="2" fill="#c8a060" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="60" y="48" width="12" height="8" rx="1" fill="#8b4513" stroke="#333" stroke-width="1.5"/>
+  <!-- Brush bristles -->
+  <line x1="61" y1="56" x2="59" y2="66" stroke="#e8b060" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="64" y1="56" x2="64" y2="68" stroke="#e8b060" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="67" y1="56" x2="69" y2="66" stroke="#e8b060" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="70" y1="56" x2="72" y2="64" stroke="#e8b060" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Drips of basting liquid -->
+  <path d="M64 66 Q62 70 64 74" fill="none" stroke="#c8a060" stroke-width="2" stroke-linecap="round"/>
+  <path d="M67 68 Q70 72 68 76" fill="none" stroke="#c8a060" stroke-width="2" stroke-linecap="round"/>
+</svg>

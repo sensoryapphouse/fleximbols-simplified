@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-24.461 -34.142) scale(1.4907)">
+<!-- Base -->
+  <rect x="32" y="74" width="36" height="8" rx="3" fill="#cc0000" stroke="#333" stroke-width="2"/>
+  <!-- Lower barrel -->
+  <rect x="36" y="60" width="28" height="18" rx="4" fill="#cc0000" stroke="#333" stroke-width="2.5"/>
+  <!-- Middle section -->
+  <rect x="34" y="52" width="32" height="12" rx="3" fill="#cc0000" stroke="#333" stroke-width="2.5"/>
+  <!-- Upper barrel -->
+  <rect x="38" y="36" width="24" height="20" rx="4" fill="#cc0000" stroke="#333" stroke-width="2.5"/>
+  <!-- Cap/bonnet -->
+  <ellipse cx="50" cy="36" rx="14" ry="6" fill="#cc0000" stroke="#333" stroke-width="2"/>
+  <ellipse cx="50" cy="33" rx="8" ry="5" fill="#cc0000" stroke="#333" stroke-width="2"/>
+  <!-- Nut on top -->
+  <ellipse cx="50" cy="30" rx="5" ry="4" fill="#cc0000" stroke="#333" stroke-width="2"/>
+  <!-- Outlet caps (sides) -->
+  <ellipse cx="30" cy="58" rx="6" ry="5" fill="#cc0000" stroke="#333" stroke-width="2"/>
+  <ellipse cx="70" cy="58" rx="6" ry="5" fill="#cc0000" stroke="#333" stroke-width="2"/>
+  <!-- Horizontal bolts -->
+  <line x1="34" y1="64" x2="66" y2="64" stroke="#333" stroke-width="1.5"/>
+  <line x1="36" y1="68" x2="64" y2="68" stroke="#333" stroke-width="1.5"/>
+</g>
+  </svg>

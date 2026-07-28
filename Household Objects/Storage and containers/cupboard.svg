@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Cupboard body -->
+  <rect x="12" y="12" width="76" height="74" rx="3" fill="#e8d5b0" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Center divider -->
+  <line x1="50" y1="12" x2="50" y2="86" stroke="#555" stroke-width="2"/>
+  <!-- Top rail -->
+  <line x1="12" y1="28" x2="88" y2="28" stroke="#555" stroke-width="2"/>
+  <!-- Left door handle -->
+  <rect x="40" y="52" width="4" height="10" rx="2" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <!-- Right door handle -->
+  <rect x="56" y="52" width="4" height="10" rx="2" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <!-- Legs -->
+  <rect x="18" y="84" width="5" height="8" fill="#c8a46e" stroke="#555" stroke-width="1.5"/>
+  <rect x="77" y="84" width="5" height="8" fill="#c8a46e" stroke="#555" stroke-width="1.5"/>
+</svg>

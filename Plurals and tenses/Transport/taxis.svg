@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Yellow cab body -->
+  <rect x="8" y="52" width="84" height="24" rx="5" fill="#f5c800" stroke="#333" stroke-width="2.5"/>
+  <!-- Taxi roof/cabin -->
+  <path d="M22 52 Q26 34 38 30 L62 30 Q74 34 78 52 Z" fill="#f5c800" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Windows -->
+  <rect x="26" y="34" width="20" height="16" rx="3" fill="#aaddff" stroke="#333" stroke-width="1.5"/>
+  <rect x="54" y="34" width="20" height="16" rx="3" fill="#aaddff" stroke="#333" stroke-width="1.5"/>
+  <!-- Taxi light on roof -->
+
+  <!-- Black checker stripe -->
+  <rect x="8" y="60" width="84" height="6" rx="0" fill="none"/>
+  <!-- Checker pattern -->
+  <rect x="8" y="60" width="6" height="6" fill="#333"/>
+  <rect x="20" y="60" width="6" height="6" fill="#333"/>
+  <rect x="32" y="60" width="6" height="6" fill="#333"/>
+  <rect x="44" y="60" width="6" height="6" fill="#333"/>
+  <rect x="56" y="60" width="6" height="6" fill="#333"/>
+  <rect x="68" y="60" width="6" height="6" fill="#333"/>
+  <rect x="80" y="60" width="6" height="6" fill="#333"/>
+  <rect x="14" y="60" width="6" height="6" fill="#f5c800"/>
+  <!-- Phone icon showing app -->
+  <rect x="78" y="46" width="12" height="18" rx="2" fill="#eee" stroke="#555" stroke-width="1"/>
+  <rect x="79" y="48" width="10" height="12" rx="1" fill="#aaddff"/>
+  <circle cx="84" cy="62" r="1.5" fill="#555"/>
+  <!-- Wheels -->
+  <circle cx="26" cy="76" r="10" fill="#333" stroke="#555" stroke-width="2"/>
+  <circle cx="26" cy="76" r="5" fill="#777"/>
+  <circle cx="74" cy="76" r="10" fill="#333" stroke="#555" stroke-width="2"/>
+  <circle cx="74" cy="76" r="5" fill="#777"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3607" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3607)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

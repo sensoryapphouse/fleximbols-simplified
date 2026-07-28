@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Microwave oven (same as heat-modern but with defrost indicator) -->
+  <rect x="10" y="28" width="80" height="54" rx="6" fill="#d0d0c8" stroke="#444" stroke-width="2.5"/>
+  <!-- Microwave door -->
+  <rect x="15" y="33" width="52" height="44" rx="4" fill="#888" stroke="#444" stroke-width="2"/>
+  <rect x="19" y="37" width="44" height="36" rx="3" fill="#2a2a2a" stroke="#555" stroke-width="1.5"/>
+  <!-- Frozen food inside -->
+  <rect x="25" y="45" width="32" height="20" rx="3" fill="#c8e8f8" stroke="#5b9bd5" stroke-width="1.5"/>
+  <!-- Snowflake on food -->
+  <line x1="37" y1="55" x2="43" y2="55" stroke="#5b9bd5" stroke-width="2" stroke-linecap="round"/>
+  <line x1="40" y1="52" x2="40" y2="58" stroke="#5b9bd5" stroke-width="2" stroke-linecap="round"/>
+  <!-- Control panel -->
+  <rect x="70" y="33" width="16" height="44" rx="3" fill="#b0b0a8" stroke="#444" stroke-width="1.5"/>
+  <!-- Defrost symbol (snowflake with arrow) -->
+  <line x1="74" y1="42" x2="82" y2="42" stroke="#5b9bd5" stroke-width="2" stroke-linecap="round"/>
+  <line x1="78" y1="39" x2="78" y2="45" stroke="#5b9bd5" stroke-width="2" stroke-linecap="round"/>
+  <!-- Arrow indicating defrost/heat into frozen -->
+  <path d="M78" y1="48" x2="78" y2="52" fill="none" stroke="#e07020" stroke-width="1.5"/>
+  <line x1="78" y1="48" x2="78" y2="53" stroke="#e07020" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="75,52 78,56 81,52" fill="#e07020"/>
+  <!-- Buttons -->
+  <circle cx="78" cy="60" r="3" fill="#888" stroke="#555" stroke-width="1"/>
+  <circle cx="78" cy="69" r="3" fill="#888" stroke="#555" stroke-width="1"/>
+  <!-- Defrost label on panel -->
+  <rect x="71" y="74" width="14" height="6" rx="1" fill="#2a3a2a" stroke="#444" stroke-width="1"/>
+  
+</svg>

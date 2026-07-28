@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Flat paddle tail: wide oval -->
+  <ellipse cx="73" cy="72" rx="16" ry="10" fill="#6a4a28" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Tail cross-hatch pattern -->
+  <line x1="62" y1="68" x2="84" y2="68" stroke="#5a3a18" stroke-width="1"/>
+  <line x1="62" y1="72" x2="84" y2="72" stroke="#5a3a18" stroke-width="1"/>
+  <line x1="62" y1="76" x2="84" y2="76" stroke="#5a3a18" stroke-width="1"/>
+  <line x1="68" y1="63" x2="68" y2="81" stroke="#5a3a18" stroke-width="1"/>
+  <line x1="73" y1="62" x2="73" y2="82" stroke="#5a3a18" stroke-width="1"/>
+  <line x1="78" y1="63" x2="78" y2="81" stroke="#5a3a18" stroke-width="1"/>
+  <!-- Body: large stocky -->
+  <ellipse cx="46" cy="64" rx="26" ry="18" fill="#9a7450" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="26" cy="52" rx="18" ry="15" fill="#9a7450" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Ears: small round -->
+  <ellipse cx="18" cy="37" rx="6" ry="7" fill="#9a7450" stroke="#444" stroke-width="2"/>
+  <ellipse cx="18" cy="37" rx="3.5" ry="4.5" fill="#c49878"/>
+  <ellipse cx="36" cy="36" rx="6" ry="7" fill="#9a7450" stroke="#444" stroke-width="2"/>
+  <ellipse cx="36" cy="36" rx="3.5" ry="4.5" fill="#c49878"/>
+  <!-- Eyes -->
+  <circle cx="19" cy="48" r="3" fill="#222"/>
+  <circle cx="20" cy="47" r="1" fill="white"/>
+  <circle cx="33" cy="47" r="3" fill="#222"/>
+  <circle cx="34" cy="46" r="1" fill="white"/>
+  <!-- Snout: wide -->
+  <ellipse cx="14" cy="58" rx="9" ry="6" fill="#8a6440" stroke="#444" stroke-width="2"/>
+  <!-- Nose -->
+  <ellipse cx="10" cy="57" rx="3" ry="2.5" fill="#333"/>
+  <!-- Bucked teeth -->
+  <rect x="12" y="61" width="5" height="5" rx="1" fill="#f0f0d0" stroke="#888" stroke-width="1"/>
+  <line x1="14.5" y1="61" x2="14.5" y2="66" stroke="#888" stroke-width="1"/>
+  <!-- Feet: webbed -->
+  <ellipse cx="34" cy="80" rx="9" ry="4.5" fill="#7a5430" stroke="#444" stroke-width="1.5"/>
+  <ellipse cx="54" cy="82" rx="9" ry="4.5" fill="#7a5430" stroke="#444" stroke-width="1.5"/>
+  <!-- Webbing toes -->
+  <line x1="27" y1="83" x2="26" y2="88" stroke="#6a4420" stroke-width="1"/>
+  <line x1="31" y1="84" x2="31" y2="89" stroke="#6a4420" stroke-width="1"/>
+  <line x1="35" y1="84" x2="36" y2="89" stroke="#6a4420" stroke-width="1"/>
+  <line x1="39" y1="83" x2="41" y2="88" stroke="#6a4420" stroke-width="1"/>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,13.460) scale(0.8654)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Full-size Class A motorhome (bus conversion style) -->
+  <!-- Body - very boxy, bus-like -->
+  <rect x="4" y="28" width="92" height="40" rx="3" fill="#778866" stroke="#333" stroke-width="2.5"/>
+  <!-- Flat roof -->
+  <rect x="4" y="20" width="92" height="10" rx="2" fill="#667755" stroke="#333" stroke-width="2"/>
+  <!-- Cab-over windshield (full width) -->
+  <rect x="6" y="24" width="22" height="18" rx="3" fill="#aaddff" stroke="#333" stroke-width="2"/>
+  <!-- Living quarters windows -->
+  <rect x="32" y="32" width="12" height="12" rx="2" fill="#aaddff" stroke="#333" stroke-width="1.5"/>
+  <rect x="48" y="32" width="12" height="12" rx="2" fill="#aaddff" stroke="#333" stroke-width="1.5"/>
+  <rect x="64" y="32" width="12" height="12" rx="2" fill="#aaddff" stroke="#333" stroke-width="1.5"/>
+  <!-- Rear window -->
+  <rect x="82" y="30" width="10" height="16" rx="2" fill="#aaddff" stroke="#333" stroke-width="1.5"/>
+  <!-- Horizontal trim stripe -->
+  <line x1="4" y1="46" x2="96" y2="46" stroke="#c8b400" stroke-width="2"/>
+  <line x1="4" y1="48" x2="96" y2="48" stroke="#c8b400" stroke-width="1"/>
+  <!-- Motorhome text / badge -->
+  
+  <!-- Entry door with steps -->
+  <rect x="82" y="44" width="12" height="22" rx="2" fill="#667755" stroke="#333" stroke-width="1.5"/>
+  <rect x="83" y="46" width="10" height="10" rx="1" fill="#aaddff" stroke="#333" stroke-width="1"/>
+  <circle cx="84" cy="53" r="1.5" fill="#c8b400"/>
+  <!-- Steps -->
+  <rect x="80" y="64" width="16" height="3" rx="1" fill="#888" stroke="#333" stroke-width="1"/>
+  <rect x="80" y="67" width="16" height="3" rx="1" fill="#777" stroke="#333" stroke-width="1"/>
+  <!-- Satellite dish on roof -->
+  <ellipse cx="70" cy="20" rx="8" ry="4" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <line x1="70" y1="20" x2="70" y2="16" stroke="#333" stroke-width="1.5"/>
+  <!-- Wheels - dual rear axle on full motorhome -->
+  <circle cx="16" cy="68" r="10" fill="#333" stroke="#555" stroke-width="2"/>
+  <circle cx="16" cy="68" r="5" fill="#666"/>
+  <circle cx="74" cy="68" r="10" fill="#333" stroke="#555" stroke-width="2"/>
+  <circle cx="74" cy="68" r="5" fill="#666"/>
+  <circle cx="86" cy="68" r="10" fill="#333" stroke="#555" stroke-width="2"/>
+  <circle cx="86" cy="68" r="5" fill="#666"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3373" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3373)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

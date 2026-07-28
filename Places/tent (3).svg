@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ground -->
+  <line x1="5" y1="82" x2="95" y2="82" stroke="#8a6030" stroke-width="2" stroke-linecap="round"/>
+  <!-- Main tent body -->
+  <polygon points="50,12 88,82 12,82" fill="#cc7744" stroke="#882200" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Left panel -->
+  <polygon points="50,12 12,82 50,82" fill="#dd8855" stroke="#882200" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Right panel -->
+  <polygon points="50,12 88,82 50,82" fill="#bb6633" stroke="#882200" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Door opening - triangular -->
+  <polygon points="50,40 38,82 62,82" fill="#3a2a10" stroke="#882200" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Door flap rolled up on left -->
+  <path d="M50,40 Q43,52 38,82" fill="none" stroke="#882200" stroke-width="2" stroke-linecap="round"/>
+  <!-- Ridge line -->
+  <line x1="50" y1="12" x2="50" y2="82" stroke="#882200" stroke-width="1.5" stroke-dasharray="4,3" stroke-linecap="round" opacity="0.5"/>
+  <!-- Guy ropes -->
+  <line x1="50" y1="12" x2="8" y2="60" stroke="#aa8844" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+  <line x1="50" y1="12" x2="92" y2="60" stroke="#aa8844" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+  <!-- Tent pegs -->
+  <line x1="8" y1="60" x2="6" y2="68" stroke="#666" stroke-width="2" stroke-linecap="round"/>
+  <line x1="92" y1="60" x2="94" y2="68" stroke="#666" stroke-width="2" stroke-linecap="round"/>
+  <!-- Stars/sky suggestion -->
+  <circle cx="20" cy="22" r="1.5" fill="#ffee88"/>
+  <circle cx="75" cy="18" r="1.5" fill="#ffee88"/>
+  <circle cx="88" cy="30" r="1" fill="#ffee88"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Water -->
+  <rect x="0" y="55" width="100" height="25" fill="#7ab8d4" stroke="#4a88aa" stroke-width="1.5"/>
+  <!-- Water ripples -->
+  <path d="M10 62 Q20 58 30 62 Q40 66 50 62 Q60 58 70 62 Q80 66 90 62" fill="none" stroke="#5a98b4" stroke-width="1.5"/>
+  <path d="M5 70 Q20 66 35 70 Q50 74 65 70 Q80 66 95 70" fill="none" stroke="#5a98b4" stroke-width="1"/>
+  <!-- Bridge arch -->
+  <path d="M10 55 Q50 25 90 55" fill="none" stroke="#888" stroke-width="3"/>
+  <!-- Bridge deck (road on top) -->
+  <rect x="8" y="48" width="84" height="9" fill="#888" stroke="#333" stroke-width="2"/>
+  <!-- Suspender cables or pillars -->
+  <line x1="30" y1="50" x2="26" y2="55" stroke="#666" stroke-width="1.5"/>
+  <line x1="42" y1="50" x2="40" y2="55" stroke="#666" stroke-width="1.5"/>
+  <line x1="50" y1="50" x2="50" y2="55" stroke="#666" stroke-width="1.5"/>
+  <line x1="58" y1="50" x2="60" y2="55" stroke="#666" stroke-width="1.5"/>
+  <line x1="70" y1="50" x2="74" y2="55" stroke="#666" stroke-width="1.5"/>
+  <!-- Road markings on bridge -->
+<!-- Label -->
+</svg>

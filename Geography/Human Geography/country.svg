@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Map outline of a country shape -->
+  <path d="M25 30 L20 20 L35 15 L50 10 L65 18 L78 15 L82 28 L75 40 L80 55 L70 65 L60 75 L50 82 L38 78 L25 70 L18 55 L22 42 Z" fill="#c8e6a0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Internal detail - mountain suggestion -->
+  <polyline points="35 55 42 45 48 50 55 38 62 48 68 44" fill="none" stroke="#7a9a5a" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- River suggestion -->
+  <path d="M30 35 Q40 50 45 65 Q50 72 55 75" fill="none" stroke="#7ab8d4" stroke-width="2" stroke-linecap="round"/>
+  <!-- Star for capital -->
+  <polygon points="50,28 52,34 58,34 53,38 55,44 50,40 45,44 47,38 42,34 48,34" fill="#e74c3c" stroke="#333" stroke-width="1"/>
+  <!-- Label -->
+</svg>

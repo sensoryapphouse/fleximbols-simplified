@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Gourd body -->
+  <ellipse cx="50" cy="75" rx="18" ry="16" fill="#c8a464" stroke="#5a3a10" stroke-width="2.5"/>
+  <!-- Small upper gourd -->
+  <ellipse cx="50" cy="53" rx="9" ry="8" fill="#c8a464" stroke="#5a3a10" stroke-width="2"/>
+  <!-- Long neck -->
+  <rect x="47" y="10" width="6" height="44" rx="2" fill="#a07840" stroke="#5a3a10" stroke-width="2"/>
+  <!-- Peg head -->
+  <path d="M44,10 Q50,5 56,10 L55,16 L45,16 Z" fill="#a07840" stroke="#5a3a10" stroke-width="1.5"/>
+  <!-- Tuning pegs -->
+  <circle cx="46" cy="13" r="1.5" fill="#5a3a10"/>
+  <circle cx="50" cy="12" r="1.5" fill="#5a3a10"/>
+  <circle cx="54" cy="13" r="1.5" fill="#5a3a10"/>
+  <!-- Frets on neck -->
+  <line x1="47" y1="22" x2="53" y2="22" stroke="#5a3a10" stroke-width="1.2"/>
+  <line x1="47" y1="28" x2="53" y2="28" stroke="#5a3a10" stroke-width="1.2"/>
+  <line x1="47" y1="34" x2="53" y2="34" stroke="#5a3a10" stroke-width="1.2"/>
+  <line x1="47" y1="40" x2="53" y2="40" stroke="#5a3a10" stroke-width="1.2"/>
+  <!-- Strings -->
+  <line x1="49" y1="10" x2="49" y2="85" stroke="#999" stroke-width="0.7"/>
+  <line x1="51" y1="10" x2="51" y2="85" stroke="#999" stroke-width="0.7"/>
+  <!-- Sound hole -->
+  <circle cx="50" cy="75" r="4" fill="none" stroke="#5a3a10" stroke-width="1.2"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2434" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2434)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

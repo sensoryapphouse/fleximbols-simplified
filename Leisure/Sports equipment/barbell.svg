@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- left large plate -->
+  <rect x="6" y="32" width="12" height="40" rx="3" fill="#7f8c8d" stroke="#2c3e50" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- left small plate -->
+  <rect x="18" y="38" width="7" height="28" rx="2" fill="#95a5a6" stroke="#2c3e50" stroke-width="2"/>
+  <!-- left collar -->
+  <rect x="25" y="42" width="5" height="20" rx="1" fill="#aab7b8" stroke="#2c3e50" stroke-width="2"/>
+  <!-- bar -->
+  <rect x="30" y="47" width="40" height="10" rx="2" fill="#aab7b8" stroke="#2c3e50" stroke-width="2.5"/>
+  <!-- right collar -->
+  <rect x="70" y="42" width="5" height="20" rx="1" fill="#aab7b8" stroke="#2c3e50" stroke-width="2"/>
+  <!-- right small plate -->
+  <rect x="75" y="38" width="7" height="28" rx="2" fill="#95a5a6" stroke="#2c3e50" stroke-width="2"/>
+  <!-- right large plate -->
+  <rect x="82" y="32" width="12" height="40" rx="3" fill="#7f8c8d" stroke="#2c3e50" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- grip texture -->
+  <line x1="38" y1="47" x2="38" y2="57" stroke="#7f8c8d" stroke-width="1"/>
+  <line x1="44" y1="47" x2="44" y2="57" stroke="#7f8c8d" stroke-width="1"/>
+  <line x1="50" y1="47" x2="50" y2="57" stroke="#7f8c8d" stroke-width="1"/>
+  <line x1="56" y1="47" x2="56" y2="57" stroke="#7f8c8d" stroke-width="1"/>
+  <line x1="62" y1="47" x2="62" y2="57" stroke="#7f8c8d" stroke-width="1"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- most = large filled bar + small empty bar, like a bar chart -->
+  <rect x="15" y="20" width="28" height="58" rx="3" fill="#f5a623" stroke="#333" stroke-width="2"/>
+  <rect x="57" y="52" width="28" height="26" rx="3" fill="#cce0ff" stroke="#333" stroke-width="2"/>
+  <line x1="10" y1="78" x2="90" y2="78" stroke="#333" stroke-width="2"/>
+</svg>

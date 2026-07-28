@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Several small toasted bread rounds -->
+  <!-- Crostino 1 - back left -->
+  <ellipse cx="28" cy="52" rx="16" ry="10" fill="#c4904a" stroke="#333" stroke-width="2"/>
+  <ellipse cx="28" cy="50" rx="14" ry="8" fill="#d4a060" stroke="#8b5e28" stroke-width="1.5"/>
+  <!-- Topping on 1 - cream -->
+  <ellipse cx="28" cy="49" rx="10" ry="5" fill="#f5eecc" stroke="#d4c090" stroke-width="1"/>
+  <!-- Crostino 2 - back right -->
+  <ellipse cx="72" cy="52" rx="16" ry="10" fill="#c4904a" stroke="#333" stroke-width="2"/>
+  <ellipse cx="72" cy="50" rx="14" ry="8" fill="#d4a060" stroke="#8b5e28" stroke-width="1.5"/>
+  <ellipse cx="72" cy="49" rx="10" ry="5" fill="#c0392b" stroke="#8b1a1a" stroke-width="1"/>
+  <!-- Herb on red topping -->
+  <circle cx="72" cy="48" r="2" fill="#4a8820" stroke="#2a6010" stroke-width="1"/>
+  <!-- Crostino 3 - front centre large -->
+  <ellipse cx="50" cy="66" rx="20" ry="12" fill="#c4904a" stroke="#333" stroke-width="2.5"/>
+  <ellipse cx="50" cy="64" rx="18" ry="10" fill="#d4a060" stroke="#8b5e28" stroke-width="2"/>
+  <!-- Topping - olive tapenade dark -->
+  <ellipse cx="50" cy="63" rx="14" ry="7" fill="#3a3020" stroke="#2a2010" stroke-width="1.5"/>
+  <!-- Grill/toast marks -->
+  <path d="M34 63 Q50 59 66 63" fill="none" stroke="#b07828" stroke-width="2" stroke-linecap="round"/>
+  <!-- Olive bits in tapenade -->
+  <circle cx="44" cy="62" r="2.5" fill="#2a2020" stroke="#333" stroke-width="1"/>
+  <circle cx="50" cy="61" r="2.5" fill="#6a8830" stroke="#333" stroke-width="1"/>
+  <circle cx="56" cy="62" r="2.5" fill="#2a2020" stroke="#333" stroke-width="1"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Hard granular wedge, tan/brown rind -->
+  <path d="M15 75 L15 36 L75 36 L75 75 Z" fill="#e8d098" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Thick brown rind on top -->
+  <rect x="15" y="28" width="60" height="10" rx="3" fill="#a07828" stroke="#333" stroke-width="2.5"/>
+  <!-- Brown rind on right -->
+  <rect x="75" y="36" width="8" height="39" rx="2" fill="#a07828" stroke="#333" stroke-width="2"/>
+  <!-- Granular texture - small specks -->
+  <circle cx="28" cy="48" r="1.5" fill="#c8a860"/>
+  <circle cx="36" cy="56" r="1.5" fill="#c8a860"/>
+  <circle cx="44" cy="44" r="1.5" fill="#c8a860"/>
+  <circle cx="52" cy="60" r="1.5" fill="#c8a860"/>
+  <circle cx="60" cy="50" r="1.5" fill="#c8a860"/>
+  <circle cx="68" cy="56" r="1.5" fill="#c8a860"/>
+  <circle cx="32" cy="65" r="1" fill="#c8a860"/>
+  <circle cx="46" cy="68" r="1" fill="#c8a860"/>
+  <circle cx="56" cy="68" r="1" fill="#c8a860"/>
+  <circle cx="64" cy="68" r="1" fill="#c8a860"/>
+  <!-- Crumble at cut edge -->
+  <path d="M15 50 Q17 48 15 46" fill="none" stroke="#d4b870" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M15 60 Q18 58 15 56" fill="none" stroke="#d4b870" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

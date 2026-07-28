@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-15.938 -9.682) scale(1.2562)">
+<!-- Right angle corner with small square indicator -->
+  <polyline points="25,20 25,75 80,75" fill="none" stroke="#333" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Square corner indicator -->
+  <polyline points="25,62 38,62 38,75" fill="none" stroke="#c0392b" stroke-width="2.5"/>
+</g>
+  </svg>

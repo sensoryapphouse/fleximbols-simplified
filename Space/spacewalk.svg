@@ -1,0 +1,28 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ISS module in corner -->
+  <rect x="60" y="5" width="35" height="25" rx="4" fill="#cccccc" stroke="#222" stroke-width="2"/>
+  <line x1="72" y1="5" x2="72" y2="30" stroke="#aaa" stroke-width="1.5"/>
+  <line x1="82" y1="5" x2="82" y2="30" stroke="#aaa" stroke-width="1.5"/>
+  <!-- Tether line -->
+  <path d="M55,25 Q48,35 40,42" fill="none" stroke="#ffcc44" stroke-width="2" stroke-dasharray="4,2" stroke-linecap="round"/>
+  <!-- Astronaut floating (smaller figure) -->
+  <!-- Helmet -->
+  <circle cx="30" cy="52" r="13" fill="#eeeeee" stroke="#222" stroke-width="2.5"/>
+  <path d="M20,48 Q30,42 40,48 Q40,56 30,58 Q20,56 20,48 Z" fill="#4499cc" stroke="#333" stroke-width="1.5"/>
+  <!-- Torso -->
+  <rect x="20" y="63" width="20" height="18" rx="4" fill="#eeeeee" stroke="#222" stroke-width="2"/>
+  <!-- PLSS backpack -->
+  <rect x="22" y="64" width="16" height="14" rx="2" fill="#cccccc" stroke="#333" stroke-width="1.5"/>
+  <rect x="25" y="67" width="10" height="7" rx="1" fill="#aaaaaa" stroke="#333" stroke-width="1"/>
+  <!-- Arms outstretched -->
+  <rect x="5" y="63" width="15" height="10" rx="4" fill="#eeeeee" stroke="#222" stroke-width="2"/>
+  <rect x="40" y="63" width="15" height="10" rx="4" fill="#eeeeee" stroke="#222" stroke-width="2"/>
+  <!-- Stars -->
+  <circle cx="8" cy="20" r="1.5" fill="#ffffcc"/>
+  <circle cx="50" cy="12" r="1.5" fill="#ffffcc"/>
+  <circle cx="15" cy="80" r="1" fill="#ffffcc"/>
+  <circle cx="85" cy="70" r="1.5" fill="#ffffcc"/>
+  <!-- Tool floating -->
+  <rect x="62" y="55" width="8" height="4" rx="1" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <line x1="70" y1="57" x2="77" y2="57" stroke="#888" stroke-width="2" stroke-linecap="round"/>
+</svg>

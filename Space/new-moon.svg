@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Night sky background -->
+  <circle cx="50" cy="48" r="40" fill="#1a1a2e" stroke="#333" stroke-width="2.5"/>
+  <!-- Dark new moon circle (almost invisible, slight dark grey) -->
+  <circle cx="50" cy="48" r="28" fill="#2a2a3e" stroke="#555" stroke-width="2"/>
+  <!-- Stars around -->
+  <circle cx="20" cy="22" r="1.5" fill="white"/>
+  <circle cx="78" cy="18" r="1.5" fill="white"/>
+  <circle cx="85" cy="60" r="1.5" fill="white"/>
+  <circle cx="15" cy="72" r="1.5" fill="white"/>
+  <circle cx="72" cy="78" r="1.2" fill="white"/>
+  <circle cx="30" cy="80" r="1" fill="white"/>
+  <!-- Label inside or below -->
+  
+  
+</svg>

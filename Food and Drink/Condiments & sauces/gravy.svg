@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- gravy boat body -->
+  <path d="M12,60 Q12,78 38,78 L62,78 Q82,78 86,65 Q88,55 80,50 L78,48 Q82,44 80,40 Q78,36 72,38 L70,40 Q60,38 50,38 Q30,38 20,48 Q12,52 12,60 Z" fill="#a86820" stroke="#6a4010" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- gravy liquid surface -->
+  <path d="M14,60 Q14,75 38,75 L62,75 Q78,75 82,65 Q78,55 62,52 Q50,50 38,52 Q20,55 14,60 Z" fill="#b87830" stroke="none"/>
+  <!-- spout -->
+  <path d="M80,48 Q90,44 88,56 Q86,62 80,60" fill="#a86820" stroke="#6a4010" stroke-width="2" stroke-linejoin="round"/>
+  <!-- handle -->
+  <path d="M20,52 Q8,52 8,62 Q8,72 20,70" fill="none" stroke="#6a4010" stroke-width="4" stroke-linecap="round"/>
+  <!-- steam -->
+  <path d="M38,48 C37,44 39,40 38,36" fill="none" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M50,46 C49,42 51,38 50,34" fill="none" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- small playful puppy - crouching/bounding pose -->
+  <!-- body small -->
+  <ellipse cx="48" cy="64" rx="20" ry="14" fill="#d4b080" stroke="#8b6030" stroke-width="2.5"/>
+  <!-- head bigger relative to body -->
+  <circle cx="70" cy="50" r="16" fill="#d4b080" stroke="#8b6030" stroke-width="2.5"/>
+  <!-- big floppy ear -->
+  <path d="M58,40 C52,28 46,24 50,34 C52,40 56,46 56,52 Q58,44 58,40 Z" fill="#b88040" stroke="#8b6030" stroke-width="2" stroke-linejoin="round"/>
+  <!-- big snout puppy -->
+  <ellipse cx="80" cy="56" rx="8" ry="6" fill="#e0c090" stroke="#8b6030" stroke-width="2"/>
+  <!-- big wet nose -->
+  <ellipse cx="84" cy="54" rx="3.5" ry="2.5" fill="#3a2010"/>
+  <!-- big round eye -->
+  <circle cx="72" cy="46" r="4" fill="#3a2010"/>
+  <circle cx="73" cy="44" r="1.5" fill="white"/>
+  <!-- tongue out - playful -->
+  <path d="M78,60 Q76,66 74,68 Q72,70 74,72 Q78,72 80,68 Q82,64 80,60 Z" fill="#e87090" stroke="#c05070" stroke-width="1.5"/>
+  <!-- front paws raised (playing) -->
+  <ellipse cx="38" cy="74" rx="6" ry="4" fill="#d4b080" stroke="#8b6030" stroke-width="2"/>
+  <ellipse cx="54" cy="76" rx="6" ry="4" fill="#d4b080" stroke="#8b6030" stroke-width="2"/>
+  <!-- back legs -->
+  <ellipse cx="34" cy="70" rx="8" ry="6" fill="#d4b080" stroke="#8b6030" stroke-width="2"/>
+  <!-- tail wagging up -->
+  <path d="M28,60 C20,50 20,40 28,38 C32,36 34,42 30,48" fill="none" stroke="#d4b080" stroke-width="6" stroke-linecap="round"/>
+  <path d="M28,60 C20,50 20,40 28,38 C32,36 34,42 30,48" fill="none" stroke="#8b6030" stroke-width="2" stroke-linecap="round"/>
+</svg>

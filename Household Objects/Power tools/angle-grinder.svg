@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- main body -->
+  <rect x="22" y="28" width="50" height="22" rx="5" fill="#606060" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- rear handle/barrel extension -->
+  <rect x="68" y="32" width="16" height="14" rx="5" fill="#505050" stroke="#222" stroke-width="2"/>
+  <!-- side handle (attached perpendicular) -->
+  <rect x="26" y="18" width="8" height="22" rx="4" fill="#404040" stroke="#222" stroke-width="2"/>
+  <!-- gear head/right angle -->
+  <rect x="18" y="34" width="16" height="14" rx="3" fill="#505050" stroke="#222" stroke-width="2"/>
+  <!-- disc guard (half circle) -->
+  <path d="M12 48 Q10 64 28 68 L28 48 Z" fill="#707070" stroke="#333" stroke-width="2"/>
+  <!-- grinding disc -->
+  <circle cx="28" cy="60" r="12" fill="#8A8A8A" stroke="#444" stroke-width="2"/>
+  <circle cx="28" cy="60" r="4" fill="#6A6A6A" stroke="#333" stroke-width="1.5"/>
+  <!-- disc texture lines -->
+  <line x1="18" y1="55" x2="38" y2="65" stroke="#555" stroke-width="1"/>
+  <line x1="18" y1="65" x2="38" y2="55" stroke="#555" stroke-width="1"/>
+</svg>

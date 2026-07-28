@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- body sitting -->
+  <ellipse cx="50" cy="68" rx="22" ry="18" fill="#a0a0b8" stroke="#555" stroke-width="2.5"/>
+  <!-- tail curled around -->
+  <path d="M28,72 C18,76 14,68 20,62 C24,58 28,62 26,68" fill="none" stroke="#a0a0b8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M28,72 C18,76 14,68 20,62 C24,58 28,62 26,68" fill="none" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <!-- head -->
+  <circle cx="50" cy="42" r="20" fill="#a0a0b8" stroke="#555" stroke-width="2.5"/>
+  <!-- ears - pointed -->
+  <polygon points="34,28 30,14 42,24" fill="#a0a0b8" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="66,28 70,14 58,24" fill="#a0a0b8" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- inner ear pink -->
+  <polygon points="35,26 32,18 41,24" fill="#e8b0c0" stroke="none"/>
+  <polygon points="65,26 68,18 59,24" fill="#e8b0c0" stroke="none"/>
+  <!-- eyes -->
+  <ellipse cx="43" cy="40" rx="4" ry="5" fill="#70a840"/>
+  <ellipse cx="57" cy="40" rx="4" ry="5" fill="#70a840"/>
+  <ellipse cx="43" cy="40" rx="1.5" ry="4" fill="#1a1a1a"/>
+  <ellipse cx="57" cy="40" rx="1.5" ry="4" fill="#1a1a1a"/>
+  <circle cx="44" cy="38" r="1" fill="white"/>
+  <circle cx="58" cy="38" r="1" fill="white"/>
+  <!-- nose -->
+  <polygon points="50,47 48,50 52,50" fill="#e87090" stroke="#c05070" stroke-width="1"/>
+  <!-- mouth -->
+  <path d="M48,50 Q46,54 44,52" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M52,50 Q54,54 56,52" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- whiskers -->
+  <line x1="30" y1="46" x2="44" y2="48" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="30" y1="50" x2="44" y2="50" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="56" y1="48" x2="70" y2="46" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="56" y1="50" x2="70" y2="50" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- front paws -->
+  <ellipse cx="38" cy="82" rx="8" ry="5" fill="#a0a0b8" stroke="#555" stroke-width="2"/>
+  <ellipse cx="62" cy="82" rx="8" ry="5" fill="#a0a0b8" stroke="#555" stroke-width="2"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl443" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl443)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

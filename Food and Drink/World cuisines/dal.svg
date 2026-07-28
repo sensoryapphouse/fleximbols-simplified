@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Bowl -->
+  <path d="M15 55 Q15 80 50 80 Q85 80 85 55 Z" fill="#e8a83a" stroke="#7a5010" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="50" cy="55" rx="35" ry="11" fill="#f0b84a" stroke="#7a5010" stroke-width="2"/>
+  <!-- Lentil soup surface with lentils -->
+  <ellipse cx="50" cy="52" rx="28" ry="8" fill="#d4892a" stroke="#7a5010" stroke-width="1.5"/>
+  <!-- Lentil dots -->
+  <ellipse cx="42" cy="51" rx="3" ry="2" fill="#c07010" stroke="#7a5010" stroke-width="1"/>
+  <ellipse cx="52" cy="49" rx="3" ry="2" fill="#c07010" stroke="#7a5010" stroke-width="1"/>
+  <ellipse cx="60" cy="52" rx="3" ry="2" fill="#c07010" stroke="#7a5010" stroke-width="1"/>
+  <!-- Tempering oil swirl (red) -->
+  <circle cx="48" cy="50" r="2" fill="#c44a1a" stroke="none"/>
+  <!-- Steam -->
+  <path d="M44 44 Q42 38 44 32" fill="none" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M50 42 Q48 36 50 30" fill="none" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M56 44 Q54 38 56 32" fill="none" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

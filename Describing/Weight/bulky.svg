@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Oversized cube front face -->
+  <rect x="18" y="38" width="52" height="42" rx="3" fill="#a8c8e8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Cube top face -->
+  <polygon points="18,38 36,22 88,22 70,38" fill="#c8dff0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Cube right face -->
+  <polygon points="70,38 88,22 88,64 70,80" fill="#88aac8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

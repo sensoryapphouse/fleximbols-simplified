@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- shell - main dome -->
+  <ellipse cx="50" cy="56" rx="30" ry="22" fill="#4a8a2a" stroke="#2a5a10" stroke-width="2.5"/>
+  <!-- shell pattern - hexagonal scutes -->
+  <ellipse cx="50" cy="52" rx="14" ry="11" fill="#3a7a1a" stroke="#2a5a10" stroke-width="1.5"/>
+  <ellipse cx="34" cy="52" rx="9" ry="8" fill="#3a7a1a" stroke="#2a5a10" stroke-width="1.5"/>
+  <ellipse cx="66" cy="52" rx="9" ry="8" fill="#3a7a1a" stroke="#2a5a10" stroke-width="1.5"/>
+  <ellipse cx="50" cy="64" rx="11" ry="7" fill="#3a7a1a" stroke="#2a5a10" stroke-width="1.5"/>
+  <!-- head -->
+  <ellipse cx="50" cy="36" rx="11" ry="9" fill="#5a9a3a" stroke="#2a5a10" stroke-width="2"/>
+  <!-- neck -->
+  <rect x="43" y="40" width="14" height="12" rx="4" fill="#5a9a3a" stroke="#2a5a10" stroke-width="1.5"/>
+  <!-- eye -->
+  <circle cx="44" cy="33" r="3" fill="#1a1a1a"/>
+  <circle cx="44.8" cy="32.2" r="0.8" fill="white"/>
+  <!-- nostril -->
+  <circle cx="55" cy="34" r="1.5" fill="#2a5a10"/>
+  <!-- mouth line -->
+  <path d="M46,38 Q50,40 54,38" fill="none" stroke="#2a5a10" stroke-width="1.5"/>
+  <!-- front legs -->
+  <ellipse cx="22" cy="62" rx="7" ry="4" fill="#5a9a3a" stroke="#2a5a10" stroke-width="1.5"/>
+  <ellipse cx="78" cy="62" rx="7" ry="4" fill="#5a9a3a" stroke="#2a5a10" stroke-width="1.5"/>
+  <!-- back legs -->
+  <ellipse cx="25" cy="74" rx="7" ry="4" fill="#5a9a3a" stroke="#2a5a10" stroke-width="1.5"/>
+  <ellipse cx="75" cy="74" rx="7" ry="4" fill="#5a9a3a" stroke="#2a5a10" stroke-width="1.5"/>
+  <!-- tail -->
+  <path d="M50,78 Q52,85 50,87" fill="none" stroke="#5a9a3a" stroke-width="3" stroke-linecap="round"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl533" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl533)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

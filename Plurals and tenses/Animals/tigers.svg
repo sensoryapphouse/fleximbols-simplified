@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- body -->
+  <ellipse cx="54" cy="60" rx="26" ry="17" fill="#e08030" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- stripes on body -->
+  <path d="M40 44 Q38 52 40 60" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M50 43 Q48 52 50 62" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M62 44 Q60 53 62 63" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M72 46 Q70 54 72 64" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- rump -->
+  <ellipse cx="72" cy="58" rx="12" ry="16" fill="#e08030" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- neck -->
+  <path d="M32 53 Q28 40 30 30 Q38 28 40 40 Q42 52 36 56 Z" fill="#e08030" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- head -->
+  <ellipse cx="28" cy="36" rx="16" ry="14" fill="#e08030" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- white face patches -->
+  <ellipse cx="28" cy="42" rx="9" ry="7" fill="#f5f0e0" stroke="#333" stroke-width="1" stroke-linejoin="round"/>
+  <!-- head stripes -->
+  <path d="M20 26 Q22 22 24 26" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <path d="M28 24 Q28 20 30 24" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <path d="M34 26 Q36 22 36 26" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- nose -->
+  <path d="M23 40 Q28 38 33 40 Q32 44 28 44 Q24 44 23 40 Z" fill="#c05060" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- mouth -->
+  <path d="M23 44 Q26 47 28 46 Q30 47 33 44" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- eyes -->
+  <ellipse cx="21" cy="33" rx="3" ry="2.5" fill="#c8b020" stroke="#333" stroke-width="1"/>
+  <circle cx="21" cy="33" r="1.5" fill="#333"/>
+  <circle cx="20.5" cy="32.5" r="0.5" fill="white"/>
+  <ellipse cx="35" cy="33" rx="3" ry="2.5" fill="#c8b020" stroke="#333" stroke-width="1"/>
+  <circle cx="35" cy="33" r="1.5" fill="#333"/>
+  <circle cx="34.5" cy="32.5" r="0.5" fill="white"/>
+  <!-- ears -->
+  <path d="M16 28 Q14 20 18 18 Q22 20 22 28 Z" fill="#e08030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- black on ear -->
+  <path d="M16.5 27 Q15 21 18 19 Q20 21 20 27 Z" fill="#333" stroke="none"/>
+  <path d="M34 28 Q34 20 38 18 Q42 20 40 28 Z" fill="#e08030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M35 27 Q35 21 38 19 Q40 21 39 27 Z" fill="#333" stroke="none"/>
+  <!-- tail striped -->
+  <path d="M82 54 Q94 50 92 64 Q86 68 82 62" fill="#e08030" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M85 52 Q90 50 90 56" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <path d="M84 60 Q90 60 90 64" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- legs -->
+  <rect x="36" y="75" width="8" height="13" rx="3" fill="#e08030" stroke="#333" stroke-width="2"/>
+  <rect x="48" y="76" width="8" height="12" rx="3" fill="#e08030" stroke="#333" stroke-width="2"/>
+  <rect x="60" y="75" width="8" height="13" rx="3" fill="#e08030" stroke="#333" stroke-width="2"/>
+  <rect x="70" y="74" width="8" height="13" rx="3" fill="#e08030" stroke="#333" stroke-width="2"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl531" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl531)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

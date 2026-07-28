@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,13.460) scale(0.8654)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Swallowtail - yellow black butterfly with tail extensions -->
+  <!-- Upper left wing -->
+  <path d="M50 45 Q32 22 12 20 Q6 32 14 46 Q30 56 50 50Z" fill="#e8d820" stroke="#1a1010" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Upper right wing -->
+  <path d="M50 45 Q68 22 88 20 Q94 32 86 46 Q70 56 50 50Z" fill="#e8d820" stroke="#1a1010" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Lower left wing with tail -->
+  <path d="M50 50 Q32 58 18 68 Q16 82 30 78 Q40 70 50 55Z" fill="#e8d820" stroke="#1a1010" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Lower left swallowtail extension -->
+  <path d="M26 74 Q22 88 28 90 Q32 86 30 78Z" fill="#e8d820" stroke="#1a1010" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Lower right wing with tail -->
+  <path d="M50 50 Q68 58 82 68 Q84 82 70 78 Q60 70 50 55Z" fill="#e8d820" stroke="#1a1010" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Lower right swallowtail extension -->
+  <path d="M74 74 Q78 88 72 90 Q68 86 70 78Z" fill="#e8d820" stroke="#1a1010" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Black tiger stripes on wings -->
+  <path d="M28 30 Q38 35 50 32" fill="none" stroke="#1a1010" stroke-width="3" stroke-linecap="round"/>
+  <path d="M18 40 Q32 44 50 40" fill="none" stroke="#1a1010" stroke-width="3" stroke-linecap="round"/>
+  <path d="M72 30 Q62 35 50 32" fill="none" stroke="#1a1010" stroke-width="3" stroke-linecap="round"/>
+  <path d="M82 40 Q68 44 50 40" fill="none" stroke="#1a1010" stroke-width="3" stroke-linecap="round"/>
+  <!-- Blue spots on lower wing -->
+  <circle cx="32" cy="68" r="4" fill="#6080d0" stroke="#1a1010" stroke-width="1"/>
+  <circle cx="68" cy="68" r="4" fill="#6080d0" stroke="#1a1010" stroke-width="1"/>
+  <!-- Red eyespot near tail -->
+  <circle cx="28" cy="78" r="3" fill="#c03030" stroke="#1a1010" stroke-width="1"/>
+  <circle cx="72" cy="78" r="3" fill="#c03030" stroke="#1a1010" stroke-width="1"/>
+  <!-- Body -->
+  <rect x="48" y="38" width="4" height="22" rx="2" fill="#1a1010"/>
+  <!-- Antennae -->
+  <path d="M50 40 Q44 28 38 18" fill="none" stroke="#1a1010" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M50 40 Q56 28 62 18" fill="none" stroke="#1a1010" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="38" cy="18" r="2" fill="#1a1010"/>
+  <circle cx="62" cy="18" r="2" fill="#1a1010"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl255" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl255)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Plate -->
+  <ellipse cx="50" cy="74" rx="40" ry="10" fill="#f0f0f0" stroke="#bbb" stroke-width="1.5"/>
+  <ellipse cx="50" cy="68" rx="40" ry="10" fill="#f8f8f8" stroke="#ccc" stroke-width="2"/>
+  <!-- Folded omelet half-moon shape -->
+  <path d="M18 62 Q20 40 50 42 Q80 40 82 62 Q65 72 50 70 Q35 72 18 62Z" fill="#f5d44a" stroke="#cc9900" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Fold line -->
+  <path d="M18 62 Q50 55 82 62" stroke="#cc8800" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Filling peeking out from fold -->
+  <path d="M30 62 Q40 58 50 60 Q60 58 70 62" fill="none" stroke="#cc4444" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="50" cy="62" rx="10" ry="3" fill="#88cc44" opacity="0.8" stroke="none"/>
+  <ellipse cx="40" cy="63" rx="5" ry="2.5" fill="#cc4444" opacity="0.8" stroke="none"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1331" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1331)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

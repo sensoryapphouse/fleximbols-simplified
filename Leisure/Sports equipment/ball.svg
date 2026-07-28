@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-24.693 -21.700) scale(1.4953)">
+<!-- Ball -->
+  <circle cx="50" cy="48" r="30" fill="#e74c3c" stroke="#333" stroke-width="2.5"/>
+  <!-- Seam lines -->
+  <path d="M24 38 Q50 48 76 38" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <path d="M24 58 Q50 48 76 58" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <path d="M38 20 Q50 48 38 76" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <path d="M62 20 Q50 48 62 76" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <!-- Highlight -->
+  <ellipse cx="38" cy="36" rx="8" ry="5" fill="rgba(255,255,255,0.3)"/>
+  <!-- Label -->
+</g>
+  </svg>

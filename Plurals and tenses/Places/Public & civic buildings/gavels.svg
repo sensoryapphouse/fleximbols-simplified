@@ -1,0 +1,21 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sound block (base) -->
+  <rect x="15" y="68" width="70" height="18" rx="5" fill="#a87040" stroke="#333" stroke-width="2.5"/>
+  <!-- Shadow -->
+  <rect x="18" y="84" width="64" height="5" rx="3" fill="#7a5020" opacity="0.5"/>
+  <!-- Handle -->
+  <rect x="48" y="28" width="8" height="50" rx="4" fill="#c89050" stroke="#333" stroke-width="2.5" transform="rotate(-35,52,53)"/>
+  <!-- Gavel head -->
+  <rect x="18" y="12" width="38" height="20" rx="5" fill="#8a5830" stroke="#333" stroke-width="2.5" transform="rotate(-35,37,22)"/>
+  <!-- Wood grain on head -->
+  <line x1="14" y1="20" x2="28" y2="8" stroke="#7a4820" stroke-width="1.5" opacity="0.6"/>
+  <line x1="20" y1="24" x2="34" y2="12" stroke="#7a4820" stroke-width="1.5" opacity="0.6"/>
+  <!-- Metal band on head -->
+  <rect x="30" y="11" width="6" height="20" rx="2" fill="#888" stroke="#555" stroke-width="1.5" transform="rotate(-35,33,21)"/>
+  <!-- Impact lines (bang!) -->
+  <line x1="68" y1="55" x2="78" y2="50" stroke="#f0c030" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="72" y1="60" x2="84" y2="60" stroke="#f0c030" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="68" y1="65" x2="78" y2="72" stroke="#f0c030" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- ORDER text on block -->
+  <text x="50" y="81" text-anchor="middle" font-size="7" fill="#5a3010" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold">ORDER</text>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2648" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2648)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

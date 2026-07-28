@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Concertina - hexagonal shape with bellows -->
+  <!-- Left hexagonal end -->
+  <polygon points="18,38 8,50 18,62 32,62 42,50 32,38" fill="#8a4a2a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Left end buttons -->
+  <circle cx="22" cy="46" r="3" fill="#d4c890" stroke="#333" stroke-width="1.5"/>
+  <circle cx="30" cy="42" r="3" fill="#d4c890" stroke="#333" stroke-width="1.5"/>
+  <circle cx="30" cy="50" r="3" fill="#d4c890" stroke="#333" stroke-width="1.5"/>
+  <circle cx="22" cy="54" r="3" fill="#d4c890" stroke="#333" stroke-width="1.5"/>
+  <circle cx="26" cy="48" r="2" fill="#e0d8a0" stroke="#333" stroke-width="1"/>
+  <!-- Bellows (accordion folds) -->
+  <rect x="42" y="40" width="16" height="20" fill="none" stroke="none"/>
+  <!-- Bellows folds -->
+  <line x1="42" y1="40" x2="42" y2="60" stroke="#333" stroke-width="1.5"/>
+  <line x1="46" y1="38" x2="46" y2="62" stroke="#a06030" stroke-width="2"/>
+  <line x1="50" y1="40" x2="50" y2="60" stroke="#333" stroke-width="1.5"/>
+  <line x1="54" y1="38" x2="54" y2="62" stroke="#a06030" stroke-width="2"/>
+  <line x1="58" y1="40" x2="58" y2="60" stroke="#333" stroke-width="1.5"/>
+  <!-- Bellows top/bottom edges -->
+  <line x1="42" y1="40" x2="58" y2="40" stroke="#333" stroke-width="2"/>
+  <line x1="42" y1="60" x2="58" y2="60" stroke="#333" stroke-width="2"/>
+  <!-- Diagonal folds -->
+  <line x1="42" y1="40" x2="46" y2="38" stroke="#333" stroke-width="1.5"/>
+  <line x1="46" y1="38" x2="50" y2="40" stroke="#333" stroke-width="1.5"/>
+  <line x1="50" y1="40" x2="54" y2="38" stroke="#333" stroke-width="1.5"/>
+  <line x1="54" y1="38" x2="58" y2="40" stroke="#333" stroke-width="1.5"/>
+  <line x1="42" y1="60" x2="46" y2="62" stroke="#333" stroke-width="1.5"/>
+  <line x1="46" y1="62" x2="50" y2="60" stroke="#333" stroke-width="1.5"/>
+  <line x1="50" y1="60" x2="54" y2="62" stroke="#333" stroke-width="1.5"/>
+  <line x1="54" y1="62" x2="58" y2="60" stroke="#333" stroke-width="1.5"/>
+  <!-- Right hexagonal end -->
+  <polygon points="58,38 68,38 78,50 68,62 58,62 48,50" fill="#8a4a2a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Right buttons -->
+  <circle cx="64" cy="44" r="3" fill="#d4c890" stroke="#333" stroke-width="1.5"/>
+  <circle cx="72" cy="46" r="3" fill="#d4c890" stroke="#333" stroke-width="1.5"/>
+  <circle cx="72" cy="54" r="3" fill="#d4c890" stroke="#333" stroke-width="1.5"/>
+  <circle cx="64" cy="56" r="3" fill="#d4c890" stroke="#333" stroke-width="1.5"/>
+  <circle cx="68" cy="50" r="2" fill="#e0d8a0" stroke="#333" stroke-width="1"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2439" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2439)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

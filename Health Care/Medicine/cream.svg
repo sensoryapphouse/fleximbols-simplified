@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-24.346 -31.468) scale(1.4884)">
+<!-- cream jug body -->
+  <path d="M 35 35 L 30 75 Q 30 80 50 80 Q 70 80 70 75 L 65 35 Z" fill="#f8f8f0" stroke="#888" stroke-width="2.5"/>
+  <!-- jug rim/top -->
+  <ellipse cx="50" cy="35" rx="18" ry="6" fill="#f0f0e8" stroke="#888" stroke-width="2"/>
+  <!-- spout -->
+  <path d="M 68 42 Q 78 40 80 35 Q 78 32 72 34" fill="none" stroke="#888" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- handle -->
+  <path d="M 30 45 Q 18 50 20 62 Q 22 72 30 70" fill="none" stroke="#888" stroke-width="2.5"/>
+  <!-- cream inside -->
+  <ellipse cx="50" cy="35" rx="13" ry="4" fill="white"/>
+</g>
+  </svg>

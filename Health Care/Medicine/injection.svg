@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Background -->
+  <rect width="512" height="512" fill="white"/>
+  <!-- Arm (upper left area) -->
+  <ellipse cx="148" cy="280" rx="100" ry="160" fill="#f5cba7" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Needle entering arm - connected directly to barrel -->
+  <line x1="246" y1="262" x2="298" y2="262" stroke="#aaaaaa" stroke-width="6" stroke-linecap="round"/>
+  <!-- Syringe barrel - starts right where needle ends -->
+  <rect x="296" y="232" width="100" height="60" rx="10" fill="#d4e8f8" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Liquid in barrel -->
+  <rect x="304" y="240" width="58" height="44" rx="6" fill="#5599cc" opacity="0.75"/>
+  <!-- Barrel tip (narrow part connecting to needle) -->
+  <rect x="246" y="252" width="52" height="20" rx="6" fill="#d4e8f8" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Plunger rod -->
+  <line x1="394" y1="262" x2="440" y2="262" stroke="#888888" stroke-width="8" stroke-linecap="round"/>
+  <!-- Plunger end cap -->
+  <rect x="434" y="244" width="32" height="36" rx="8" fill="#888888" stroke="#1a1a1a" stroke-width="4"/>
+  <!-- Entry point on skin -->
+  <circle cx="248" cy="262" r="10" fill="#e74c3c" opacity="0.8" stroke="#1a1a1a" stroke-width="2"/>
+  <!-- Scale marks on barrel -->
+  <line x1="320" y1="240" x2="320" y2="252" stroke="#1a1a1a" stroke-width="2"/>
+  <line x1="340" y1="240" x2="340" y2="252" stroke="#1a1a1a" stroke-width="2"/>
+  <line x1="360" y1="240" x2="360" y2="252" stroke="#1a1a1a" stroke-width="2"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Bass waveform with wobble -->
+  <!-- Large bass wave -->
+  <path d="M8 50 Q15 20 22 50 Q29 80 36 50 Q43 20 50 50" fill="none" stroke="#2c3e50" stroke-width="4" stroke-linecap="round"/>
+  <!-- Wobble (compressed high freq) -->
+  <path d="M50 50 Q54 38 58 50 Q62 62 66 50 Q70 38 74 50 Q78 62 82 50 Q86 38 90 50" fill="none" stroke="#e74c3c" stroke-width="3" stroke-linecap="round"/>
+  <!-- Drop marker arrow -->
+  <polygon points="50,28 46,20 54,20" fill="#f39c12" stroke="#333" stroke-width="1.5"/>
+  <line x1="50" y1="28" x2="50" y2="42" stroke="#f39c12" stroke-width="2.5"/>
+  <!-- Sub bass rumble lines at bottom -->
+  <path d="M10 70 Q20 65 30 70 Q40 75 50 70 Q60 65 70 70 Q80 75 90 70" fill="none" stroke="#8e44ad" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M10 78 Q20 74 30 78 Q40 82 50 78 Q60 74 70 78 Q80 82 90 78" fill="none" stroke="#8e44ad" stroke-width="2" stroke-linecap="round"/>
+</svg>

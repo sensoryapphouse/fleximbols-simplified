@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-19.397 -34.863) scale(1.3893)">
+<line x1="50" y1="78" x2="50" y2="90" stroke="#4aaa4a" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="43" cy="85" rx="9" ry="3" fill="#4aaa4a" stroke="#2d7a2d" stroke-width="1.5" transform="rotate(-20 43 85)"/>
+  <!-- 5 large funnel petals -->
+  <ellipse cx="50" cy="48" rx="10" ry="18" fill="#dd2244" stroke="#991122" stroke-width="2" transform="rotate(0 50 64)"/>
+  <ellipse cx="50" cy="48" rx="10" ry="18" fill="#cc2244" stroke="#991122" stroke-width="2" transform="rotate(72 50 64)"/>
+  <ellipse cx="50" cy="48" rx="10" ry="18" fill="#dd2244" stroke="#991122" stroke-width="2" transform="rotate(144 50 64)"/>
+  <ellipse cx="50" cy="48" rx="10" ry="18" fill="#cc2244" stroke="#991122" stroke-width="2" transform="rotate(216 50 64)"/>
+  <ellipse cx="50" cy="48" rx="10" ry="18" fill="#dd2244" stroke="#991122" stroke-width="2" transform="rotate(288 50 64)"/>
+  <!-- dark centre -->
+  <circle cx="50" cy="64" r="6" fill="#660011" stroke="#330000" stroke-width="1.5"/>
+  <!-- prominent stamen tube -->
+  <line x1="50" y1="58" x2="50" y2="40" stroke="#cc4466" stroke-width="3" stroke-linecap="round"/>
+  <!-- anthers at tip -->
+  <circle cx="46" cy="40" r="2" fill="#ffdd00" stroke="#cc9900" stroke-width="1"/>
+  <circle cx="50" cy="38" r="2" fill="#ffdd00" stroke="#cc9900" stroke-width="1"/>
+  <circle cx="54" cy="40" r="2" fill="#ffdd00" stroke="#cc9900" stroke-width="1"/>
+</g>
+  </svg>

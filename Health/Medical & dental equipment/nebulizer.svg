@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Nebulizer - mask with mist and compressor machine -->
+  <!-- COMPRESSOR machine (base unit) -->
+  <rect x="55" y="58" width="38" height="28" rx="5" fill="#a0a8b8" stroke="#606878" stroke-width="2"/>
+  <!-- Machine details -->
+  <circle cx="66" cy="68" r="5" fill="#6070a0" stroke="#404860" stroke-width="1.5"/>
+  <circle cx="66" cy="68" r="2" fill="#4060908" stroke="none"/>
+  <!-- On/off button -->
+  <circle cx="78" cy="64" r="3" fill="#40a040" stroke="#206020" stroke-width="1.5"/>
+  <!-- Power indicator -->
+  <circle cx="86" cy="64" r="2" fill="#e0a020" stroke="#a07010" stroke-width="1"/>
+  <!-- Filter intake -->
+  <rect x="57" y="72" width="8" height="10" rx="2" fill="#808898" stroke="#606878" stroke-width="1"/>
+  <!-- Tubing from machine to mask -->
+  <path d="M74 58 Q72 48 65 42 Q58 36 50 35" fill="none" stroke="#90a0b0" stroke-width="4" stroke-linecap="round"/>
+  <!-- FACE MASK -->
+  <path d="M18 28 Q30 18 50 18 Q68 18 70 30 Q72 44 60 50 Q50 54 40 50 Q22 44 18 28Z" fill="#c0d8f0" stroke="#4060a0" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Mask strap -->
+  <path d="M18 30 Q10 30 8 38 Q8 46 14 48 Q18 48 22 44" fill="none" stroke="#90a0b0" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M70 30 Q78 30 80 38 Q80 46 74 48 Q70 48 68 44" fill="none" stroke="#90a0b0" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- MIST coming from mask interior -->
+  <path d="M32 38 Q28 32 26 26 M36 42 Q32 34 34 26 M42 44 Q40 36 44 28 M50 44 Q50 36 54 28 M56 42 Q60 34 58 26" fill="none" stroke="#a0c8e8" stroke-width="1.5" stroke-linecap="round" opacity="0.8"/>
+  <!-- Mist particles -->
+  <circle cx="28" cy="24" r="2" fill="#c0e0f8" opacity="0.8"/>
+  <circle cx="36" cy="22" r="1.5" fill="#c0e0f8" opacity="0.7"/>
+  <circle cx="44" cy="20" r="2" fill="#c0e0f8" opacity="0.8"/>
+  <circle cx="52" cy="22" r="1.5" fill="#c0e0f8" opacity="0.7"/>
+  <circle cx="60" cy="24" r="2" fill="#c0e0f8" opacity="0.8"/>
+  <!-- Medicine cup inside mask (nebule cup) -->
+  <ellipse cx="44" cy="40" rx="10" ry="7" fill="#d8e8c0" stroke="#6080408" stroke-width="1.5" opacity="0.8"/>
+</svg>

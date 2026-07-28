@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ground -->
+  <rect x="5" y="72" width="90" height="5" fill="#a0a080" stroke="#333" stroke-width="1"/>
+  <!-- Building left -->
+  <rect x="10" y="45" width="22" height="27" fill="#d4a06a" stroke="#333" stroke-width="2"/>
+  <polygon points="10,45 21,30 32,45" fill="#a06828" stroke="#333" stroke-width="1.5"/>
+  <rect x="17" y="58" width="8" height="14" fill="#8B6914" stroke="#333" stroke-width="1"/>
+  <!-- Building center -->
+  <rect x="35" y="38" width="28" height="34" fill="#c8d4b0" stroke="#333" stroke-width="2"/>
+  <polygon points="35,38 49,22 63,38" fill="#7a9a5a" stroke="#333" stroke-width="1.5"/>
+  <rect x="44" y="56" width="10" height="16" fill="#8B6914" stroke="#333" stroke-width="1"/>
+  <!-- Windows center building -->
+  <rect x="38" y="44" width="8" height="7" fill="#aed6f1" stroke="#333" stroke-width="1"/>
+  <rect x="52" y="44" width="8" height="7" fill="#aed6f1" stroke="#333" stroke-width="1"/>
+  <!-- Building right -->
+  <rect x="66" y="48" width="22" height="24" fill="#bfb0a0" stroke="#333" stroke-width="2"/>
+  <polygon points="66,48 77,35 88,48" fill="#8a7a6a" stroke="#333" stroke-width="1.5"/>
+  <rect x="73" y="60" width="8" height="12" fill="#8B6914" stroke="#333" stroke-width="1"/>
+  <!-- Label -->
+</svg>

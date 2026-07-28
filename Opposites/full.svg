@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Face with full/satisfied look -->
+  <circle cx="50" cy="28" r="18" fill="#ffe0a0" stroke="#333" stroke-width="2.5"/>
+  <!-- Happy eyes -->
+  <path d="M39 25 Q43 22 47 25" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <path d="M53 25 Q57 22 61 25" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Satisfied smile -->
+  <path d="M41 33 Q50 39 59 33" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Big round belly -->
+  <ellipse cx="50" cy="65" rx="22" ry="20" fill="#ffddaa" stroke="#333" stroke-width="2.5"/>
+  <!-- Belly satisfied lines -->
+  <path d="M36 62 Q50 68 64 62" fill="none" stroke="#cc9944" stroke-width="1.5"/>
+  <!-- Belt/waistband -->
+  <rect x="28" y="45" width="44" height="6" rx="3" fill="#ccaaee" stroke="#9977cc" stroke-width="1.5"/>
+</svg>

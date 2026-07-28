@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.416 -26.060) scale(1.4097)">
+<!-- Perfect plump apple -->
+  <path d="M50 78 Q26 75 23 54 Q21 36 36 31 Q44 28 50 33 Q56 28 64 31 Q79 36 77 54 Q74 75 50 78 Z" fill="#e84848" stroke="#8a2020" stroke-width="2.5"/>
+  <!-- Stem -->
+  <line x1="50" y1="31" x2="52" y2="22" stroke="#6a4a20" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Leaf on stem -->
+  <path d="M52 26 Q60 20 62 24 Q60 28 52 26 Z" fill="#7bc878" stroke="#3a7a38" stroke-width="1.5"/>
+  <!-- Shine highlight -->
+  <ellipse cx="40" cy="44" rx="7" ry="5" fill="white" opacity="0.4"/>
+  <!-- Small shine dot -->
+  <circle cx="38" cy="42" r="2" fill="white" opacity="0.5"/>
+  <!-- Checkmark for "perfect" -->
+  <path d="M64 66 L68 71 L76 60" fill="none" stroke="#3a8a30" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+  </svg>

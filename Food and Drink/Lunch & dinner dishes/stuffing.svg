@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-24.810 -43.969) scale(1.4977)">
+<!-- bowl -->
+  <path d="M20 55 Q20 80 50 82 Q80 80 80 55 Z" fill="#e8dcc8" stroke="#333" stroke-width="2.5"/>
+  <ellipse cx="50" cy="55" rx="30" ry="8" fill="#f0e8d8" stroke="#333" stroke-width="2.5"/>
+  <!-- stuffing texture in bowl -->
+  <ellipse cx="50" cy="52" rx="26" ry="9" fill="#c8a868" stroke="none"/>
+  <!-- bread cubes texture -->
+  <rect x="34" y="47" width="7" height="7" rx="1.5" fill="#d4b478" stroke="#a07840" stroke-width="1.5"/>
+  <rect x="43" y="45" width="7" height="7" rx="1.5" fill="#c4a460" stroke="#a07840" stroke-width="1.5"/>
+  <rect x="52" y="47" width="7" height="7" rx="1.5" fill="#d4b478" stroke="#a07840" stroke-width="1.5"/>
+  <rect x="38" y="53" width="6" height="6" rx="1.5" fill="#c4a460" stroke="#a07840" stroke-width="1.5"/>
+  <rect x="47" y="52" width="6" height="6" rx="1.5" fill="#d4b478" stroke="#a07840" stroke-width="1.5"/>
+  <rect x="56" y="53" width="6" height="6" rx="1.5" fill="#c4a460" stroke="#a07840" stroke-width="1.5"/>
+  <!-- herbs specks -->
+  <circle cx="37" cy="50" r="1" fill="#4a7c3f"/>
+  <circle cx="55" cy="49" r="1" fill="#4a7c3f"/>
+  <circle cx="46" cy="55" r="1" fill="#4a7c3f"/>
+  <circle cx="61" cy="55" r="1" fill="#4a7c3f"/>
+  <!-- bowl rim highlight -->
+  <ellipse cx="50" cy="55" rx="24" ry="6" fill="none" stroke="#c8b898" stroke-width="1.5"/>
+</g>
+  </svg>

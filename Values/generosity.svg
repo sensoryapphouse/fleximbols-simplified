@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Left open hand -->
+  <path d="M 14,50 C 12,46 14,42 18,42 L 34,40 C 37,39 39,41 39,44 L 39,58 C 39,62 36,64 32,64 L 18,64 C 14,64 12,62 12,58 C 12,54 14,52 18,52 L 14,50 Z" fill="#f5d5a0" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Right open hand -->
+  <path d="M 86,50 C 88,46 86,42 82,42 L 66,40 C 63,39 61,41 61,44 L 61,58 C 61,62 64,64 68,64 L 82,64 C 86,64 88,62 88,58 C 88,54 86,52 82,52 L 86,50 Z" fill="#f5d5a0" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Coins/items being given - floating above -->
+  <circle cx="38" cy="32" r="5" fill="#f0c040" stroke="#444" stroke-width="2"/>
+  <text x="38" y="35" font-size="6" text-anchor="middle" fill="#444" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif">$</text>
+  <circle cx="50" cy="26" r="6" fill="#f0c040" stroke="#444" stroke-width="2"/>
+  <text x="50" y="29" font-size="7" text-anchor="middle" fill="#444" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif">$</text>
+  <circle cx="62" cy="32" r="5" fill="#f0c040" stroke="#444" stroke-width="2"/>
+  <text x="62" y="35" font-size="6" text-anchor="middle" fill="#444" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif">$</text>
+  <!-- Motion lines up -->
+  <line x1="38" y1="38" x2="38" y2="42" stroke="#f0c040" stroke-width="1.5" stroke-dasharray="2,1"/>
+  <line x1="50" y1="33" x2="50" y2="40" stroke="#f0c040" stroke-width="1.5" stroke-dasharray="2,1"/>
+  <line x1="62" y1="38" x2="62" y2="42" stroke="#f0c040" stroke-width="1.5" stroke-dasharray="2,1"/>
+  <!-- Heart between hands -->
+  <path d="M 42,52 C 42,48 46,46 50,49 C 54,46 58,48 58,52 C 58,57 50,62 50,62 C 50,62 42,57 42,52 Z" fill="#e85c8a" stroke="#444" stroke-width="2" stroke-linejoin="round"/>
+</svg>

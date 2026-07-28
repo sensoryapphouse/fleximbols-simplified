@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Soaring wings spread -->
+  <!-- Left wing -->
+  <path d="M50,52 L18,42 L12,50 L18,54 Z" fill="#8a6030" stroke="#444" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M18,54 L12,50 L8,56 L16,58 Z" fill="#7a5020" stroke="#444" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Right wing -->
+  <path d="M50,52 L82,42 L88,50 L82,54 Z" fill="#8a6030" stroke="#444" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M82,54 L88,50 L92,56 L84,58 Z" fill="#7a5020" stroke="#444" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Wing barring -->
+  <line x1="20" y1="44" x2="18" y2="52" stroke="#5a4020" stroke-width="1.2"/>
+  <line x1="28" y1="44" x2="26" y2="52" stroke="#5a4020" stroke-width="1.2"/>
+  <line x1="36" y1="45" x2="34" y2="52" stroke="#5a4020" stroke-width="1.2"/>
+  <line x1="44" y1="46" x2="42" y2="52" stroke="#5a4020" stroke-width="1.2"/>
+  <line x1="80" y1="44" x2="82" y2="52" stroke="#5a4020" stroke-width="1.2"/>
+  <line x1="72" y1="44" x2="74" y2="52" stroke="#5a4020" stroke-width="1.2"/>
+  <line x1="64" y1="45" x2="66" y2="52" stroke="#5a4020" stroke-width="1.2"/>
+  <line x1="56" y1="46" x2="58" y2="52" stroke="#5a4020" stroke-width="1.2"/>
+  <!-- Body: torpedo -->
+  <ellipse cx="50" cy="56" rx="14" ry="9" fill="#c8a060" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Barred belly -->
+  <line x1="40" y1="54" x2="60" y2="54" stroke="#8a6020" stroke-width="1.2"/>
+  <line x1="40" y1="57" x2="60" y2="57" stroke="#8a6020" stroke-width="1.2"/>
+  <line x1="40" y1="60" x2="60" y2="60" stroke="#8a6020" stroke-width="1.2"/>
+  <!-- Head: round -->
+  <ellipse cx="50" cy="44" rx="11" ry="10" fill="#8a6030" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Sharp eye with yellow ring -->
+  <circle cx="45" cy="41" r="3.5" fill="#e8a820" stroke="#444" stroke-width="1.5"/>
+  <circle cx="45" cy="41" r="2" fill="#222"/>
+  <circle cx="44" cy="40" r="0.7" fill="white"/>
+  <circle cx="55" cy="41" r="3.5" fill="#e8a820" stroke="#444" stroke-width="1.5"/>
+  <circle cx="55" cy="41" r="2" fill="#222"/>
+  <circle cx="54" cy="40" r="0.7" fill="white"/>
+  <!-- Superciliary stripe (eyebrow) -->
+  <path d="M42,38 Q45,36 57,38" stroke="#f0f0d8" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Hooked beak -->
+  <path d="M44,47 Q50,45 56,47 Q56,52 52,53 Q48,53 44,51 Z" fill="#d8a820" stroke="#444" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Nostril -->
+  <circle cx="49" cy="47" r="1" fill="#8a7010"/>
+  <!-- Tail: banded -->
+  <path d="M42,65 L58,65 L60,75 L40,75 Z" fill="#c8a060" stroke="#444" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="40" y1="69" x2="60" y2="69" stroke="#8a6020" stroke-width="1.5"/>
+  <line x1="40" y1="73" x2="60" y2="73" stroke="#8a6020" stroke-width="1.5"/>
+  <!-- Talons -->
+  <line x1="44" y1="75" x2="40" y2="80" stroke="#555" stroke-width="2"/>
+  <line x1="48" y1="75" x2="48" y2="82" stroke="#555" stroke-width="2"/>
+  <line x1="52" y1="75" x2="52" y2="82" stroke="#555" stroke-width="2"/>
+  <line x1="56" y1="75" x2="60" y2="80" stroke="#555" stroke-width="2"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl58" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl58)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

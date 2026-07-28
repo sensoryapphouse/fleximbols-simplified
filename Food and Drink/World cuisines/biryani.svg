@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-18.212 -20.613) scale(1.3656)">
+<!-- pot/handi -->
+<path d="M18,42 Q16,68 18,74 L82,74 Q84,68 82,42 Z" fill="#c8a060" stroke="#886633" stroke-width="2.5"/>
+<ellipse cx="50" cy="42" rx="32" ry="10" fill="#ddbb77" stroke="#886633" stroke-width="2"/>
+<!-- saffron-yellow rice (layered) -->
+<ellipse cx="50" cy="40" rx="29" ry="8" fill="#ffdd44" stroke="none"/>
+<!-- rice texture -->
+<path d="M24,38 Q32,32 40,38 Q48,44 56,38 Q64,32 72,38" fill="none" stroke="#eecc88" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M22,42 Q32,36 42,42 Q52,48 62,42 Q68,38 72,42" fill="none" stroke="#cc9933" stroke-width="1" stroke-linecap="round"/>
+<!-- chicken pieces (brown) -->
+<ellipse cx="34" cy="36" rx="8" ry="5" fill="#884422" stroke="#662211" stroke-width="1.5"/>
+<ellipse cx="58" cy="34" rx="8" ry="5" fill="#774411" stroke="#662211" stroke-width="1.5"/>
+<!-- crispy onions on top -->
+<ellipse cx="50" cy="32" rx="10" ry="4" fill="#cc6622" stroke="#884411" stroke-width="1.5"/>
+<!-- fresh mint leaf -->
+<ellipse cx="64" cy="28" rx="5" ry="8" fill="#55aa33" stroke="#338822" stroke-width="1" transform="rotate(20,64,28)"/>
+<ellipse cx="36" cy="28" rx="5" ry="8" fill="#55aa33" stroke="#338822" stroke-width="1" transform="rotate(-20,36,28)"/>
+</g>
+  </svg>

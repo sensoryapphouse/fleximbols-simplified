@@ -1,0 +1,17 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- fudge squares arranged on surface -->
+  <!-- back row -->
+  <rect x="28" y="38" width="20" height="20" rx="2" fill="#5a2800" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="52" y="38" width="20" height="20" rx="2" fill="#7a3800" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- front row -->
+  <rect x="16" y="55" width="22" height="22" rx="2" fill="#6a3000" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="40" y="55" width="22" height="22" rx="2" fill="#5a2800" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="63" y="55" width="22" height="22" rx="2" fill="#7a3800" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- shine on each piece -->
+  <path d="M20,58 Q28,55 35,58" fill="none" stroke="#8a5030" stroke-width="1.5"/>
+  <path d="M44,58 Q52,55 59,58" fill="none" stroke="#8a5030" stroke-width="1.5"/>
+  <path d="M67,58 Q75,55 82,58" fill="none" stroke="#8a5030" stroke-width="1.5"/>
+  <!-- walnut pieces on some -->
+  <ellipse cx="27" cy="66" r="4" fill="#8b6030" stroke="#5a3010" stroke-width="1"/>
+  <ellipse cx="51" cy="66" r="4" fill="#8b6030" stroke="#5a3010" stroke-width="1"/>
+</svg>

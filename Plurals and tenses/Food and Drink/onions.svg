@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,5.260) scale(0.9474)">
+  <g transform="translate(-7.845 -12.481) scale(1.1580)">
+<!-- stem -->
+  <line x1="50" y1="15" x2="50" y2="28" stroke="#5a8a3a" stroke-width="3" stroke-linecap="round"/>
+  <!-- outer layer -->
+  <path d="M50,28 C30,28 18,40 18,55 C18,70 32,80 50,80 C68,80 82,70 82,55 C82,40 70,28 50,28 Z" fill="#d4a8c8" stroke="#8b5a7a" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- inner layer lines -->
+  <path d="M50,35 C35,35 26,44 26,55 C26,66 36,73 50,73" fill="none" stroke="#8b5a7a" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M50,35 C65,35 74,44 74,55 C74,66 64,73 50,73" fill="none" stroke="#8b5a7a" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- inner oval -->
+  <ellipse cx="50" cy="55" rx="12" ry="16" fill="#e8c8e0" stroke="#8b5a7a" stroke-width="1.5"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1658" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1658)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

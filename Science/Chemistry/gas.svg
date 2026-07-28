@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- gas pipe -->
+  <rect x="10" y="58" width="65" height="14" rx="7" fill="#888" stroke="#555" stroke-width="2.5"/>
+  <!-- pipe highlight -->
+  <path d="M14,62 Q40,58 72,62" stroke="#aaa" stroke-width="2" fill="none"/>
+  <!-- valve wheel -->
+  <circle cx="58" cy="44" r="10" fill="none" stroke="#888" stroke-width="2.5"/>
+  <line x1="58" y1="34" x2="58" y2="54" stroke="#888" stroke-width="2.5"/>
+  <line x1="48" y1="44" x2="68" y2="44" stroke="#888" stroke-width="2.5"/>
+  <line x1="51" y1="37" x2="65" y2="51" stroke="#888" stroke-width="1.5"/>
+  <line x1="65" y1="37" x2="51" y2="51" stroke="#888" stroke-width="1.5"/>
+  <circle cx="58" cy="44" r="4" fill="#888" stroke="#555" stroke-width="2"/>
+  <rect x="55" y="52" width="6" height="8" rx="1" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <!-- flame at end -->
+  <path d="M75,60 Q74,50 76,40 Q78,50 75,60Z" fill="#f5c518" stroke="#e87c1e" stroke-width="2"/>
+  <path d="M80,62 Q78,52 80,42 Q82,52 80,62Z" fill="#f5c518" stroke="#e87c1e" stroke-width="2"/>
+  <path d="M84,60 Q82,52 84,44 Q86,52 84,60Z" fill="#e87c1e" stroke="#b05000" stroke-width="1.5"/>
+</svg>

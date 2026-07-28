@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Water -->
+  <path d="M5 76 Q30 72 55 76 Q75 80 95 74" fill="none" stroke="#2176ae" stroke-width="2" stroke-linecap="round"/>
+  <!-- Long hull -->
+  <path d="M5 70 Q50 80 95 70 L92 63 L8 63 Z" fill="#3a4a6a" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Deck -->
+  <rect x="8" y="57" width="84" height="7" rx="1" fill="#4a5a7a" stroke="#111" stroke-width="2"/>
+  <!-- Container row 1 (bottom) -->
+  <rect x="10" y="50" width="13" height="8" rx="1" fill="#c0392b" stroke="#7b0000" stroke-width="1.5"/>
+  <rect x="25" y="50" width="13" height="8" rx="1" fill="#2980b9" stroke="#1a4a6a" stroke-width="1.5"/>
+  <rect x="40" y="50" width="13" height="8" rx="1" fill="#27ae60" stroke="#1a5a30" stroke-width="1.5"/>
+  <rect x="55" y="50" width="13" height="8" rx="1" fill="#f39c12" stroke="#7a5000" stroke-width="1.5"/>
+  <rect x="70" y="50" width="13" height="8" rx="1" fill="#c0392b" stroke="#7b0000" stroke-width="1.5"/>
+  <!-- Container row 2 (top) -->
+  <rect x="10" y="42" width="13" height="8" rx="1" fill="#2980b9" stroke="#1a4a6a" stroke-width="1.5"/>
+  <rect x="25" y="42" width="13" height="8" rx="1" fill="#f39c12" stroke="#7a5000" stroke-width="1.5"/>
+  <rect x="40" y="42" width="13" height="8" rx="1" fill="#c0392b" stroke="#7b0000" stroke-width="1.5"/>
+  <rect x="55" y="42" width="13" height="8" rx="1" fill="#27ae60" stroke="#1a5a30" stroke-width="1.5"/>
+  <!-- Bridge at stern -->
+  <rect x="77" y="33" width="16" height="19" rx="2" fill="#aaa" stroke="#555" stroke-width="2"/>
+  <rect x="80" y="36" width="5" height="4" rx="1" fill="#aed6f1" stroke="#555" stroke-width="1"/>
+  <rect x="87" y="36" width="4" height="4" rx="1" fill="#aed6f1" stroke="#555" stroke-width="1"/>
+  <!-- Mast -->
+  <line x1="85" y1="33" x2="85" y2="20" stroke="#666" stroke-width="2" stroke-linecap="round"/>
+  <!-- Label -->
+</svg>

@@ -1,0 +1,23 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Space Shuttle silhouette, pointing up -->
+  <!-- Main fuselage -->
+  <polygon points="50,5 40,30 38,75 62,75 60,30" fill="#dddddd" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Nose cone tip -->
+  <polygon points="50,5 42,28 58,28" fill="#cccccc" stroke="#222" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Cockpit windows -->
+  <ellipse cx="50" cy="32" rx="6" ry="4" fill="#336699" stroke="#222" stroke-width="1.5"/>
+  <!-- Delta wings -->
+  <polygon points="38,55 10,80 38,80" fill="#cccccc" stroke="#222" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="62,55 90,80 62,80" fill="#cccccc" stroke="#222" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Tail fin -->
+  <polygon points="47,60 53,60 55,75 45,75" fill="#bbbbbb" stroke="#222" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Main engines -->
+  <rect x="41" y="75" width="7" height="8" rx="2" fill="#888" stroke="#222" stroke-width="1.5"/>
+  <rect x="52" y="75" width="7" height="8" rx="2" fill="#888" stroke="#222" stroke-width="1.5"/>
+  <!-- Engine glow -->
+  <ellipse cx="44" cy="85" rx="3" ry="4" fill="#ff8800" stroke="none" opacity="0.8"/>
+  <ellipse cx="56" cy="85" rx="3" ry="4" fill="#ff8800" stroke="none" opacity="0.8"/>
+  <!-- Payload bay line -->
+  <line x1="42" y1="42" x2="58" y2="42" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="42" y1="52" x2="58" y2="52" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

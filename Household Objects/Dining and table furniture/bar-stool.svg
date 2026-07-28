@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-16.689 -5.474) scale(1.1095)">
+<!-- Tall bar stool -->
+  <!-- Seat (round) -->
+  <ellipse cx="50" cy="28" rx="22" ry="10" fill="#C4956A" stroke="#7A4A2C" stroke-width="2.5"/>
+  <!-- Seat top surface -->
+  <ellipse cx="50" cy="26" rx="20" ry="8" fill="#D4A870" stroke="#7A4A2C" stroke-width="1.5"/>
+  <!-- Central tall leg -->
+  <line x1="50" y1="36" x2="50" y2="72" stroke="#888" stroke-width="4" stroke-linecap="round"/>
+  <!-- Footrest ring (horizontal bar) -->
+  <ellipse cx="50" cy="58" rx="16" ry="6" fill="none" stroke="#888" stroke-width="2.5"/>
+  <!-- Base (4 legs spread) -->
+  <line x1="50" y1="72" x2="28" y2="80" stroke="#888" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="72" x2="72" y2="80" stroke="#888" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="72" x2="34" y2="82" stroke="#888" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="72" x2="66" y2="82" stroke="#888" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Height arrow indicating "tall" -->
+  <line x1="80" y1="26" x2="80" y2="72" stroke="#555" stroke-width="1.5"/>
+  <line x1="77" y1="26" x2="83" y2="26" stroke="#555" stroke-width="1.5"/>
+  <line x1="77" y1="72" x2="83" y2="72" stroke="#555" stroke-width="1.5"/>
+  <text x="88" y="52" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="7" text-anchor="middle" fill="#555" transform="rotate(90,88,52)">tall</text>
+</g>
+  </svg>

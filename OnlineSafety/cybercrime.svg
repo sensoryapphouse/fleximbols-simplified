@@ -1,0 +1,22 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Laptop lid / screen -->
+  <rect x="14" y="14" width="72" height="50" rx="4" fill="#37474f" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="19" y="19" width="62" height="40" rx="2" fill="#1a1a2a" stroke="#333" stroke-width="1.5"/>
+  <!-- Skull on screen (malware) -->
+  <path d="M50,26 C39,26 32,33 32,43 c0,5 2,8 5,10 v4 a3,3 0 0 0 3,3 h20 a3,3 0 0 0 3,-3 v-4 c3,-2 5,-5 5,-10 C68,33 61,26 50,26 Z" fill="#e8e8e8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="43" cy="42" r="4" fill="#1a1a2a"/>
+  <circle cx="57" cy="42" r="4" fill="#1a1a2a"/>
+  <path d="M50,48 l-3,5 M50,48 l3,5" stroke="#1a1a2a" stroke-width="2" stroke-linecap="round"/>
+  <!-- teeth -->
+  <line x1="44" y1="55" x2="44" y2="60" stroke="#333" stroke-width="1.5"/>
+  <line x1="50" y1="55" x2="50" y2="60" stroke="#333" stroke-width="1.5"/>
+  <line x1="56" y1="55" x2="56" y2="60" stroke="#333" stroke-width="1.5"/>
+  <!-- Laptop base -->
+  <path d="M8,64 h84 l5,9 h-94 z" fill="#90a4ae" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="42" y="66" width="16" height="3" rx="1.5" fill="#607d8b"/>
+  <!-- Broken padlock -->
+  <rect x="62" y="80" width="22" height="16" rx="3" fill="#f3b53b" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M66,80 v-4 a7,7 0 0 1 11,-5" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M81,73 l4,-3" stroke="#e05a4f" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="73" cy="88" r="2.2" fill="#333"/>
+</svg>

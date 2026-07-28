@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- device base -->
+  <rect x="24" y="55" width="52" height="26" rx="6" fill="#d6eaf8" stroke="#2c3e50" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- water tank on top (dome shape) -->
+  <ellipse cx="50" cy="56" rx="26" ry="8" fill="#aed6f1" stroke="#2c3e50" stroke-width="2.5"/>
+  <rect x="24" y="30" width="52" height="26" rx="8" fill="#aed6f1" stroke="#2c3e50" stroke-width="2.5"/>
+  <ellipse cx="50" cy="30" rx="26" ry="8" fill="#85c1e9" stroke="#2c3e50" stroke-width="2.5"/>
+  <!-- mist output nozzle -->
+  <rect x="44" y="20" width="12" height="12" rx="6" fill="#d6eaf8" stroke="#2c3e50" stroke-width="2"/>
+  <!-- mist waves -->
+  <path d="M 40 10 Q 42 6 44 10 Q 46 14 48 10" fill="none" stroke="#5dade2" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 48 8 Q 50 4 52 8 Q 54 12 56 8" fill="none" stroke="#5dade2" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 52 12 Q 54 8 56 12 Q 58 16 60 12" fill="none" stroke="#5dade2" stroke-width="2" stroke-linecap="round"/>
+  <!-- indicator light -->
+  <circle cx="64" cy="65" r="4" fill="#82e0aa" stroke="#2c3e50" stroke-width="1.5"/>
+  <!-- control button -->
+  <circle cx="36" cy="65" r="5" fill="#7f8c8d" stroke="#2c3e50" stroke-width="2"/>
+</svg>

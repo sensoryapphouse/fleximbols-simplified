@@ -1,0 +1,22 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Deed: formal document with red seal and ribbon -->
+  <!-- Scroll/parchment -->
+  <ellipse cx="50" cy="14" rx="34" ry="7" fill="#e8d8a0" stroke="#333" stroke-width="2"/>
+  <rect x="16" y="14" width="68" height="68" fill="#f5eecc" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="50" cy="82" rx="34" ry="7" fill="#e8d8a0" stroke="#333" stroke-width="2"/>
+  <!-- DEED text -->
+  
+  <line x1="22" y1="32" x2="78" y2="32" stroke="#555" stroke-width="1" stroke-linecap="round"/>
+  <!-- Content lines -->
+  <line x1="22" y1="38" x2="78" y2="38" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="22" y1="44" x2="78" y2="44" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="22" y1="50" x2="78" y2="50" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="22" y1="56" x2="60" y2="56" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Red seal with ribbon -->
+  <rect x="44" y="62" width="12" height="12" fill="#c0392b" stroke="#8b2222" stroke-width="1"/>
+  <rect x="46" y="60" width="8" height="3" fill="#8b2222" stroke="#333" stroke-width="1"/>
+  <rect x="46" y="73" width="8" height="3" fill="#8b2222" stroke="#333" stroke-width="1"/>
+  <!-- Seal emboss circles -->
+  <circle cx="50" cy="68" r="5" fill="#e8a0a0" stroke="#8b2222" stroke-width="1"/>
+  <circle cx="50" cy="68" r="3" fill="none" stroke="#8b2222" stroke-width="0.8"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Brain outer shape - walnut-like -->
+  <ellipse cx="50" cy="50" rx="35" ry="28" fill="#d5d8dc" stroke="#7f8c8d" stroke-width="2.5"/>
+  <!-- Central groove -->
+  <line x1="50" y1="22" x2="50" y2="78" stroke="#7f8c8d" stroke-width="2"/>
+  <!-- Left hemisphere folds -->
+  <path d="M28 40 Q22 50 28 60" fill="none" stroke="#7f8c8d" stroke-width="2" stroke-linecap="round"/>
+  <path d="M35 30 Q28 42 35 55" fill="none" stroke="#7f8c8d" stroke-width="2" stroke-linecap="round"/>
+  <path d="M42 26 Q36 38 42 52" fill="none" stroke="#7f8c8d" stroke-width="2" stroke-linecap="round"/>
+  <!-- Right hemisphere folds -->
+  <path d="M72 40 Q78 50 72 60" fill="none" stroke="#7f8c8d" stroke-width="2" stroke-linecap="round"/>
+  <path d="M65 30 Q72 42 65 55" fill="none" stroke="#7f8c8d" stroke-width="2" stroke-linecap="round"/>
+  <path d="M58 26 Q64 38 58 52" fill="none" stroke="#7f8c8d" stroke-width="2" stroke-linecap="round"/>
+</svg>

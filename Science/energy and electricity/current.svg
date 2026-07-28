@@ -1,0 +1,35 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Electric current: circuit with flowing electrons, ammeter -->
+  <defs>
+    <marker id="earr" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <polygon points="0,0 6,3 0,6" fill="#e74c3c"/>
+    </marker>
+    <marker id="earr2" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <polygon points="0,0 6,3 0,6" fill="#e74c3c"/>
+    </marker>
+  </defs>
+  <!-- Circuit rectangle -->
+  <line x1="15" y1="15" x2="85" y2="15" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="85" y1="15" x2="85" y2="85" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="85" y1="85" x2="15" y2="85" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="15" y1="85" x2="15" y2="15" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Ammeter (circle with A) on top wire -->
+  <circle cx="50" cy="15" r="12" fill="#fffde7" stroke="#333" stroke-width="2.5"/>
+  <text x="44" y="20" font-size="13" fill="#333" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold">A</text>
+  <!-- Electron flow arrows around circuit (conventional current direction) -->
+  <!-- Top right -->
+  <line x1="62" y1="15" x2="80" y2="15" stroke="#e74c3c" stroke-width="2" marker-end="url(#earr)" stroke-linecap="round"/>
+  <!-- Right side down -->
+  <line x1="85" y1="35" x2="85" y2="65" stroke="#e74c3c" stroke-width="2" marker-end="url(#earr)" stroke-linecap="round"/>
+  <!-- Bottom left -->
+  <line x1="65" y1="85" x2="35" y2="85" stroke="#e74c3c" stroke-width="2" marker-end="url(#earr)" stroke-linecap="round"/>
+  <!-- Left side up -->
+  <line x1="15" y1="65" x2="15" y2="35" stroke="#e74c3c" stroke-width="2" marker-end="url(#earr2)" stroke-linecap="round"/>
+  <!-- Battery on left side -->
+  <line x1="15" y1="55" x2="8" y2="55" stroke="#333" stroke-width="3"/>
+  <line x1="8" y1="50" x2="8" y2="60" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+  <line x1="4" y1="53" x2="4" y2="57" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Resistor on right (zigzag) -->
+  <polyline points="85,40 91,43 79,47 91,51 79,55 91,59 85,62"
+            fill="none" stroke="#555" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

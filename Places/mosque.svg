@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Sky/ground -->
+  <rect x="10" y="72" width="80" height="10" rx="2" fill="#DDD" stroke="#999" stroke-width="1"/>
+  <!-- Main building body -->
+  <rect x="22" y="48" width="56" height="24" rx="2" fill="#E8D8A0" stroke="#333" stroke-width="2.5"/>
+  <!-- Main dome -->
+  <path d="M30 48 Q30 26 50 22 Q70 26 70 48Z" fill="#4488AA" stroke="#333" stroke-width="2.5"/>
+  <!-- Dome finial -->
+  <line x1="50" y1="22" x2="50" y2="14" stroke="#333" stroke-width="2"/>
+  <!-- Crescent on top -->
+  <path d="M46 14 Q46 8 50 7 Q54 8 50 12 Q52 10 54 12 Q54 16 50 14 Z" fill="#FFCC00" stroke="#AA8800" stroke-width="1.5"/>
+  <!-- Left minaret -->
+  <rect x="14" y="38" width="8" height="34" rx="2" fill="#E8D8A0" stroke="#333" stroke-width="2"/>
+  <path d="M14 38 Q18 28 22 38Z" fill="#4488AA" stroke="#333" stroke-width="1.5"/>
+  <line x1="18" y1="28" x2="18" y2="22" stroke="#333" stroke-width="1.5"/>
+  <!-- Right minaret -->
+  <rect x="78" y="38" width="8" height="34" rx="2" fill="#E8D8A0" stroke="#333" stroke-width="2"/>
+  <path d="M78 38 Q82 28 86 38Z" fill="#4488AA" stroke="#333" stroke-width="1.5"/>
+  <line x1="82" y1="28" x2="82" y2="22" stroke="#333" stroke-width="1.5"/>
+  <!-- Arched doorway -->
+  <path d="M43 72 L43 58 Q50 52 57 58 L57 72Z" fill="#4488AA" stroke="#333" stroke-width="1.5"/>
+  <!-- Windows -->
+  <path d="M28 58 Q32 52 36 58 L36 64 L28 64Z" fill="#88CCFF" stroke="#333" stroke-width="1"/>
+  <path d="M64 58 Q68 52 72 58 L72 64 L64 64Z" fill="#88CCFF" stroke="#333" stroke-width="1"/>
+</svg>

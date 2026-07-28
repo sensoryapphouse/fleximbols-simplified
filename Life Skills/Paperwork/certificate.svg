@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Scroll body -->
+  <rect x="18" y="22" width="64" height="50" rx="4" fill="#fffde7" stroke="#333" stroke-width="2.5"/>
+  <!-- Scroll ends -->
+  <ellipse cx="18" cy="47" rx="5" ry="25" fill="#e0d8b0" stroke="#333" stroke-width="2"/>
+  <ellipse cx="82" cy="47" rx="5" ry="25" fill="#e0d8b0" stroke="#333" stroke-width="2"/>
+  <!-- Certificate text lines -->
+  <line x1="28" y1="34" x2="72" y2="34" stroke="#aaa" stroke-width="1.5"/>
+  <line x1="32" y1="41" x2="68" y2="41" stroke="#aaa" stroke-width="1.5"/>
+  <!-- Seal -->
+  <circle cx="50" cy="57" r="10" fill="#f5c842" stroke="#333" stroke-width="2"/>
+  <circle cx="50" cy="57" r="7" fill="none" stroke="#333" stroke-width="1"/>
+  <text x="50" y="61" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="8" fill="#333" text-anchor="middle" font-weight="bold">★</text>
+</svg>

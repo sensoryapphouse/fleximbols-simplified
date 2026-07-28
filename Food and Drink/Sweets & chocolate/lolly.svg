@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <circle cx="50" cy="36" r="28" fill="#ff5090" stroke="#222" stroke-width="2.5"/>
+  <path d="M50 36 m-22 0 a22 22 0 1 1 44 0 a22 22 0 1 1 -44 0" fill="none" stroke="#fff" stroke-width="3"/>
+  <path d="M50 36 m-15 0 a15 15 0 1 1 30 0 a15 15 0 1 1 -30 0" fill="none" stroke="#fff" stroke-width="3"/>
+  <path d="M50 36 m-8 0 a8 8 0 1 1 16 0 a8 8 0 1 1 -16 0" fill="none" stroke="#fff" stroke-width="3"/>
+  <rect x="47" y="60" width="6" height="34" fill="#f4f4f4" stroke="#222" stroke-width="2"/>
+</svg>

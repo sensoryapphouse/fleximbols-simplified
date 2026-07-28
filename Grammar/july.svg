@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<rect x="8" y="12" width="84" height="72" rx="6" fill="#e0f7fa" stroke="#00838f" stroke-width="2.5"/>
+  <rect x="8" y="12" width="84" height="18" rx="6" fill="#00838f" stroke="#00838f" stroke-width="2.5"/>
+  <rect x="8" y="22" width="84" height="8" fill="#00838f"/>
+  
+  <!-- Beach scene: sand + sea -->
+  <rect x="8" y="68" width="84" height="16" rx="3" fill="#ffe082"/>
+  <rect x="8" y="55" width="84" height="16" fill="#80deea"/>
+  <!-- Sun -->
+  <circle cx="72" cy="38" r="12" fill="#f5c518" stroke="#c8900a" stroke-width="2"/>
+  <line x1="72" y1="23" x2="72" y2="19" stroke="#c8900a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="84" y1="38" x2="88" y2="38" stroke="#c8900a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="80" y1="30" x2="83" y2="27" stroke="#c8900a" stroke-width="2" stroke-linecap="round"/>
+  <!-- Beach umbrella -->
+  <line x1="35" y1="68" x2="35" y2="42" stroke="#555" stroke-width="2"/>
+  <path d="M15 48 Q35 36 55 48 Z" fill="#e53935" stroke="#333" stroke-width="1.5"/>
+  <path d="M15 48 Q35 42 55 48" fill="#f5c518" stroke="#333" stroke-width="1"/>
+</svg>

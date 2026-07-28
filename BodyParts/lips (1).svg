@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.210 -21.788) scale(1.4056)">
+<!-- Upper lip shape -->
+  <path d="M18 40 Q28 32 40 40 Q50 32 60 40 Q72 32 82 40 L82 46 Q72 44 60 46 Q50 44 40 46 Q28 44 18 46 Z" fill="#c96a6a" stroke="#333" stroke-width="2.5"/>
+  <!-- Cupid bow line -->
+  <path d="M18 40 Q28 32 40 40 Q50 32 60 40 Q72 32 82 40" fill="none" stroke="#a03333" stroke-width="1.5"/>
+  <!-- Centre line between lips -->
+  <path d="M18 46 Q50 50 82 46" fill="none" stroke="#333" stroke-width="1.5"/>
+  <!-- Lower lip shape -->
+  <path d="M18 46 Q28 44 40 46 Q50 44 60 46 Q72 44 82 46 L82 52 Q72 62 60 64 Q50 66 40 64 Q28 62 18 52 Z" fill="#d47a7a" stroke="#333" stroke-width="2.5"/>
+</g>
+  </svg>

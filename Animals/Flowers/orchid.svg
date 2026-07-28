@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Stem -->
+  <path d="M50,65 Q52,78 50,88" fill="none" stroke="#4a8a2a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Wavy stem with flowers -->
+  <path d="M50,65 Q60,55 62,42" fill="none" stroke="#4a8a2a" stroke-width="2" stroke-linecap="round"/>
+  <!-- Leaf -->
+  <path d="M50,75 Q38,68 36,72 Q40,80 50,78 Z" fill="#5a9a3a" stroke="#2a5a0a" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Main orchid flower - 5 petals + lip -->
+  <!-- Back petals -->
+  <ellipse cx="50" cy="35" rx="8" ry="14" fill="#cc77cc" stroke="#882288" stroke-width="1.5" transform="rotate(-25,50,42)"/>
+  <ellipse cx="50" cy="35" rx="8" ry="14" fill="#cc77cc" stroke="#882288" stroke-width="1.5" transform="rotate(25,50,42)"/>
+  <!-- Side petals -->
+  <ellipse cx="50" cy="35" rx="8" ry="14" fill="#dd88dd" stroke="#882288" stroke-width="1.5" transform="rotate(-75,50,42)"/>
+  <ellipse cx="50" cy="35" rx="8" ry="14" fill="#dd88dd" stroke="#882288" stroke-width="1.5" transform="rotate(75,50,42)"/>
+  <!-- Top petal -->
+  <ellipse cx="50" cy="30" rx="7" ry="12" fill="#cc77cc" stroke="#882288" stroke-width="1.5"/>
+  <!-- Lip petal - distinctive orchid shape -->
+  <path d="M50,44 Q42,50 40,55 Q44,60 50,58 Q56,60 60,55 Q58,50 50,44 Z" fill="#ffaaff" stroke="#882288" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Column -->
+  <ellipse cx="50" cy="42" rx="5" ry="4" fill="#ffeeaa" stroke="#aa7700" stroke-width="1.5"/>
+  <!-- Small bud on stem -->
+  <ellipse cx="64" cy="40" rx="5" ry="7" fill="#dd88dd" stroke="#882288" stroke-width="1.5" transform="rotate(20,64,40)"/>
+</svg>

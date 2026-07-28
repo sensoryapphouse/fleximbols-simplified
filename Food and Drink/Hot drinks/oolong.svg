@@ -1,0 +1,21 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Gaiwan/teacup with amber-brown oolong, rolled leaf, steam -->
+  <!-- Saucer -->
+  <ellipse cx="50" cy="88" rx="34" ry="7" fill="#d4c8a0" stroke="#333" stroke-width="2"/>
+  <!-- Gaiwan body (wide cup) -->
+  <path d="M20 42 Q18 68 22 78 L78 78 Q82 68 80 42 Z" fill="#c89050" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Amber-brown oolong -->
+  <path d="M22 48 Q20 68 23 76 L77 76 Q80 68 78 48 Z" fill="#a06830"/>
+  <!-- Gaiwan lid -->
+  <path d="M28 42 Q34 34 50 32 Q66 34 72 42 Z" fill="#c89050" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="50" cy="42" rx="24" ry="6" fill="#d4a060" stroke="#333" stroke-width="2"/>
+  <!-- Lid knob -->
+  <circle cx="50" cy="38" r="5" fill="#a86830" stroke="#333" stroke-width="2"/>
+  <!-- Rolled oolong leaf visible through side -->
+  <ellipse cx="38" cy="62" rx="6" ry="4" fill="#5a8030" stroke="#3a6020" stroke-width="1.5" transform="rotate(-15 38 62)"/>
+  <ellipse cx="62" cy="58" rx="5" ry="3" fill="#5a8030" stroke="#3a6020" stroke-width="1.5" transform="rotate(20 62 58)"/>
+  <!-- Steam wisps from lid -->
+  <path d="M38 30 Q41 23 38 16" fill="none" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <path d="M50 28 Q53 21 50 14" fill="none" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <path d="M62 30 Q65 23 62 16" fill="none" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+</svg>

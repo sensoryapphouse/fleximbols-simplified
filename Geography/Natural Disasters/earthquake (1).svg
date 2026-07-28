@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ground layers -->
+  <rect x="5" y="60" width="90" height="12" fill="#c8a96e" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="5" y="72" width="90" height="10" fill="#b08050" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Crack / zigzag splitting the ground -->
+  <polyline points="50,40 44,52 52,56 42,62 50,68 44,72" fill="none" stroke="#333" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left ground block shifting -->
+  <rect x="5" y="58" width="42" height="14" fill="#c8a96e" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Right ground block -->
+  <rect x="52" y="62" width="43" height="14" fill="#c8a96e" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Shockwave lines -->
+  <path d="M10,50 Q20,44 28,50" fill="none" stroke="#e87722" stroke-width="2" stroke-linecap="round"/>
+  <path d="M70,50 Q80,44 90,50" fill="none" stroke="#e87722" stroke-width="2" stroke-linecap="round"/>
+  <path d="M15,42 Q22,36 30,42" fill="none" stroke="#e87722" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M68,42 Q76,36 84,42" fill="none" stroke="#e87722" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

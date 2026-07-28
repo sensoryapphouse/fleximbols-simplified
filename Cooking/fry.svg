@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Frying pan -->
+  <ellipse cx="48" cy="68" rx="30" ry="12" fill="#9ab0c0" stroke="#2c4a6e" stroke-width="2.5"/>
+  <ellipse cx="48" cy="63" rx="30" ry="8" fill="#8ab0cc" stroke="#2c4a6e" stroke-width="2.5"/>
+  <!-- Pan handle -->
+  <rect x="78" y="60" width="16" height="6" rx="3" fill="#7a8a90" stroke="#2c4a6e" stroke-width="2"/>
+  <!-- Oil/sizzle shimmer -->
+  <ellipse cx="48" cy="63" rx="26" ry="5" fill="#f0d878" opacity="0.5"/>
+  <!-- Food (egg/chicken piece) -->
+  <ellipse cx="40" cy="62" rx="12" ry="8" fill="white" stroke="#ccc" stroke-width="1.5"/>
+  <circle cx="40" cy="61" r="5" fill="#f0b030" stroke="#d09020" stroke-width="1.5"/>
+  <!-- Sizzle lines -->
+  <path d="M60 55 Q63 52 60 49" fill="none" stroke="#e07020" stroke-width="2" stroke-linecap="round"/>
+  <path d="M65 57 Q68 54 65 51" fill="none" stroke="#e07020" stroke-width="2" stroke-linecap="round"/>
+  <path d="M70 53 Q73 50 70 47" fill="none" stroke="#e07020" stroke-width="2" stroke-linecap="round"/>
+  <!-- Flame -->
+  <path d="M32 82 Q40 74 48 82 Q56 74 64 82 Q60 90 48 88 Q36 90 32 82Z" fill="#e07020" stroke="#c05010" stroke-width="1.5"/>
+  <path d="M38 82 Q43 77 48 82 Q53 77 58 82 Q56 87 48 86 Q40 87 38 82Z" fill="#f0b030"/>
+</svg>

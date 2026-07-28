@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- left wall -->
+  <rect x="5" y="15" width="30" height="68" rx="3" fill="#c8a870" stroke="#8B6914" stroke-width="2.5"/>
+  <!-- right wall -->
+  <rect x="65" y="15" width="30" height="68" rx="3" fill="#c8a870" stroke="#8B6914" stroke-width="2.5"/>
+  <!-- narrow gap in middle -->
+  <rect x="35" y="15" width="30" height="68" fill="#e8f4ff"/>
+  <!-- arrows showing narrow gap -->
+  <line x1="37" y1="50" x2="63" y2="50" stroke="#2255aa" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="37,46 37,54 31,50" fill="#2255aa"/>
+  <polygon points="63,46 63,54 69,50" fill="#2255aa"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Hand spreading items (like spreading cards or seeds) -->
+  <!-- Hand base -->
+  <path d="M30 62 C28 56 32 50 36 50 L64 50 C68 50 72 56 70 62 C68 68 62 70 58 68 L42 68 C38 70 32 68 30 62Z" fill="#f5c8a0" stroke="#333" stroke-width="2"/>
+  <!-- Spread items going outward from hand -->
+  <circle cx="14" cy="32" r="6" fill="#f0a070" stroke="#333" stroke-width="1.5"/>
+  <circle cx="30" cy="22" r="6" fill="#7db8e0" stroke="#333" stroke-width="1.5"/>
+  <circle cx="50" cy="18" r="6" fill="#b8d8a0" stroke="#333" stroke-width="1.5"/>
+  <circle cx="70" cy="22" r="6" fill="#f0c040" stroke="#333" stroke-width="1.5"/>
+  <circle cx="86" cy="32" r="6" fill="#c8a0d0" stroke="#333" stroke-width="1.5"/>
+  <!-- Lines from hand to items -->
+  <line x1="36" y1="50" x2="20" y2="38" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="40" y1="50" x2="34" y2="28" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="50" x2="50" y2="24" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="60" y1="50" x2="66" y2="28" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="64" y1="50" x2="80" y2="38" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

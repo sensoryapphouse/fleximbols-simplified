@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Exploding star burst -->
+  <!-- Outer shockwave rings -->
+  <circle cx="50" cy="48" r="42" fill="none" stroke="#4080c0" stroke-width="1.5" opacity="0.4"/>
+  <circle cx="50" cy="48" r="34" fill="none" stroke="#6090d0" stroke-width="1.5" opacity="0.5"/>
+  <!-- Explosion rays -->
+  <line x1="50" y1="48" x2="50" y2="6" stroke="#ffee40" stroke-width="3" stroke-linecap="round"/>
+  <line x1="50" y1="48" x2="50" y2="90" stroke="#ffee40" stroke-width="3" stroke-linecap="round"/>
+  <line x1="50" y1="48" x2="8" y2="48" stroke="#ffee40" stroke-width="3" stroke-linecap="round"/>
+  <line x1="50" y1="48" x2="92" y2="48" stroke="#ffee40" stroke-width="3" stroke-linecap="round"/>
+  <line x1="50" y1="48" x2="20" y2="18" stroke="#ff8840" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="48" x2="80" y2="18" stroke="#ff8840" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="48" x2="20" y2="78" stroke="#ff8840" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="48" x2="80" y2="78" stroke="#ff8840" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Diagonal rays -->
+  <line x1="50" y1="48" x2="10" y2="32" stroke="#ff6020" stroke-width="2" stroke-linecap="round"/>
+  <line x1="50" y1="48" x2="90" y2="32" stroke="#ff6020" stroke-width="2" stroke-linecap="round"/>
+  <line x1="50" y1="48" x2="10" y2="64" stroke="#ff6020" stroke-width="2" stroke-linecap="round"/>
+  <line x1="50" y1="48" x2="90" y2="64" stroke="#ff6020" stroke-width="2" stroke-linecap="round"/>
+  <!-- Bright core -->
+  <circle cx="50" cy="48" r="14" fill="#ffee80" stroke="#ffcc20" stroke-width="2"/>
+  <circle cx="50" cy="48" r="8" fill="white" stroke="none"/>
+</svg>

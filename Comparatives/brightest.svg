@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,7.110) scale(0.9289)">
+  <g transform="translate(-4.131 1.261) scale(1.0826)">
+<!-- Sun rays -->
+  <line x1="50" y1="12" x2="50" y2="22" stroke="#e8a000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="68" x2="50" y2="78" stroke="#e8a000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="18" y1="45" x2="28" y2="45" stroke="#e8a000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="72" y1="45" x2="82" y2="45" stroke="#e8a000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="26" y1="21" x2="33" y2="28" stroke="#e8a000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="67" y1="62" x2="74" y2="69" stroke="#e8a000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="74" y1="21" x2="67" y2="28" stroke="#e8a000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="33" y1="62" x2="26" y2="69" stroke="#e8a000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Sun body -->
+  <circle cx="50" cy="45" r="16" fill="#ffd966" stroke="#e8a000" stroke-width="2.5"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.195312) translate(360 8) scale(0.2812)"><path d="M 256,44 L 300,178 L 441,178 L 327,262 L 370,396 L 256,313 L 142,396 L 185,262 L 71,178 L 212,178 Z" fill="#f0b400" stroke="#1a1a1a" stroke-width="26" stroke-linejoin="round"/><rect x="86" y="412" width="340" height="72" rx="16" fill="#3fae5a" stroke="#1a1a1a" stroke-width="26"/></g></svg>

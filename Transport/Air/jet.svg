@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Sleek fuselage -->
+  <path d="M5 50 Q20 44 40 44 L78 44 Q92 44 95 50 Q92 56 78 56 L40 56 Q20 56 5 50 Z" fill="#d0d8e8" stroke="#303060" stroke-width="2.5"/>
+  <!-- Pointed nose -->
+  <path d="M78 44 L97 50 L78 56 Z" fill="#b0b8d0" stroke="#303060" stroke-width="2"/>
+  <!-- Swept wings -->
+  <path d="M45 44 L35 18 L30 20 L38 44 Z" fill="#b0b8d0" stroke="#303060" stroke-width="2"/>
+  <path d="M50 56 L40 80 L35 78 L43 56 Z" fill="#b0b8d0" stroke="#303060" stroke-width="2"/>
+  <!-- Tail fin -->
+  <path d="M12 44 L8 30 L14 30 L16 44 Z" fill="#b0b8d0" stroke="#303060" stroke-width="2"/>
+  <!-- Tail horizontal stabilisers -->
+  <path d="M10 50 L5 42 L10 42 L13 50 Z" fill="#b0b8d0" stroke="#303060" stroke-width="2"/>
+  <path d="M13 50 L8 58 L13 58 L15 50 Z" fill="#b0b8d0" stroke="#303060" stroke-width="2"/>
+  <!-- Engine under wing -->
+  <ellipse cx="38" cy="38" rx="8" ry="4" fill="#808898" stroke="#303060" stroke-width="1.5"/>
+  <!-- Cockpit window -->
+  <ellipse cx="82" cy="50" rx="5" ry="4" fill="#aaddff" stroke="#303060" stroke-width="1.5"/>
+  <!-- Afterburner flame -->
+  <path d="M5 48 Q0 50 2 50 Q0 50 5 52" fill="none" stroke="#ff8844" stroke-width="2"/>
+  <!-- Speed lines -->
+  <line x1="5" y1="44" x2="0" y2="44" stroke="#303060" stroke-width="1" stroke-dasharray="2,2"/>
+  <line x1="5" y1="56" x2="0" y2="56" stroke="#303060" stroke-width="1" stroke-dasharray="2,2"/>
+  <!-- Stripe -->
+  <line x1="40" y1="48" x2="90" y2="48" stroke="#4060c0" stroke-width="1.5"/>
+  <!-- Label -->
+</svg>

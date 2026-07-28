@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Gooey dripping blob -->
+  <ellipse cx="50" cy="35" rx="28" ry="22" fill="#c8e6a0" stroke="#4a7a20" stroke-width="2.5"/>
+  <!-- Drips -->
+  <path d="M35 55 Q33 65 35 72 Q37 78 35 82" fill="#c8e6a0" stroke="#4a7a20" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="35" cy="83" rx="4" ry="5" fill="#c8e6a0" stroke="#4a7a20" stroke-width="2"/>
+  <path d="M50 57 Q48 68 50 76 Q52 82 50 87" fill="#c8e6a0" stroke="#4a7a20" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="50" cy="88" rx="4" ry="5" fill="#c8e6a0" stroke="#4a7a20" stroke-width="2"/>
+  <path d="M65 54 Q63 64 65 71 Q67 77 65 80" fill="#c8e6a0" stroke="#4a7a20" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="65" cy="81" rx="4" ry="4" fill="#c8e6a0" stroke="#4a7a20" stroke-width="2"/>
+</svg>

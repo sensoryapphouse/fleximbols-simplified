@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-18.997 -19.537) scale(1.3813)">
+<!-- Pint glass -->
+  <path d="M28 18 L22 80 Q50 86 78 80 L72 18Z" fill="#f8f0d8" stroke="#8b7a20" stroke-width="2.5"/>
+  <!-- Golden lager -->
+  <path d="M30 28 L22 80 Q50 86 78 80 L70 28Z" fill="#e8c840" stroke="none"/>
+  <!-- White foam head -->
+  <path d="M30 28 L30 40 L70 40 L70 28Z" fill="white" stroke="none"/>
+  <ellipse cx="50" cy="28" rx="20" ry="6" fill="white" stroke="#e8e0d0" stroke-width="1.5"/>
+  <!-- Tiny bubbles (lager characteristic) -->
+  <circle cx="36" cy="55" r="1.5" fill="none" stroke="#f0d020" stroke-width="1"/>
+  <circle cx="44" cy="48" r="1" fill="none" stroke="#f0d020" stroke-width="1"/>
+  <circle cx="55" cy="60" r="1.5" fill="none" stroke="#f0d020" stroke-width="1"/>
+  <circle cx="63" cy="50" r="1" fill="none" stroke="#f0d020" stroke-width="1"/>
+  <circle cx="48" cy="68" r="1.5" fill="none" stroke="#f0d020" stroke-width="1"/>
+  <circle cx="40" cy="72" r="1" fill="none" stroke="#f0d020" stroke-width="1"/>
+</g>
+  </svg>

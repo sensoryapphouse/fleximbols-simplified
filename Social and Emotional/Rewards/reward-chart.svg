@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Chart board -->
+  <rect x="8" y="10" width="84" height="70" rx="4" fill="#fffbe8" stroke="#7a6010" stroke-width="2.5"/>
+  <!-- Grid: 5 day columns -->
+  <line x1="24" y1="14" x2="24" y2="64" stroke="#d0c080" stroke-width="1.2"/>
+  <line x1="40" y1="14" x2="40" y2="64" stroke="#d0c080" stroke-width="1.2"/>
+  <line x1="56" y1="14" x2="56" y2="64" stroke="#d0c080" stroke-width="1.2"/>
+  <line x1="72" y1="14" x2="72" y2="64" stroke="#d0c080" stroke-width="1.2"/>
+  <line x1="12" y1="32" x2="88" y2="32" stroke="#d0c080" stroke-width="1.2"/>
+  <line x1="12" y1="50" x2="88" y2="50" stroke="#d0c080" stroke-width="1.2"/>
+  <line x1="12" y1="64" x2="88" y2="64" stroke="#7a6010" stroke-width="1.6"/>
+  <!-- Row 1 stars (gold) -->
+  <polygon points="16,18 18,24 24,24 19,28 21,34 16,30 11,34 13,28 8,24 14,24" fill="#f0c030" stroke="#7a6010" stroke-width="1"/>
+  <polygon points="32,18 34,24 40,24 35,28 37,34 32,30 27,34 29,28 24,24 30,24" fill="#f0c030" stroke="#7a6010" stroke-width="1"/>
+  <polygon points="48,18 50,24 56,24 51,28 53,34 48,30 43,34 45,28 40,24 46,24" fill="#f0c030" stroke="#7a6010" stroke-width="1"/>
+  <polygon points="64,18 66,24 72,24 67,28 69,34 64,30 59,34 61,28 56,24 62,24" fill="#f0c030" stroke="#7a6010" stroke-width="1"/>
+  <polygon points="80,18 82,24 88,24 83,28 85,34 80,30 75,34 77,28 72,24 78,24" fill="none" stroke="#c8b87a" stroke-width="1.2"/>
+  <!-- Row 2 stars -->
+  <polygon points="16,36 18,42 24,42 19,46 21,52 16,48 11,52 13,46 8,42 14,42" fill="#f0c030" stroke="#7a6010" stroke-width="1"/>
+  <polygon points="32,36 34,42 40,42 35,46 37,52 32,48 27,52 29,46 24,42 30,42" fill="#f0c030" stroke="#7a6010" stroke-width="1"/>
+  <polygon points="48,36 50,42 56,42 51,46 53,52 48,48 43,52 45,46 40,42 46,42" fill="none" stroke="#c8b87a" stroke-width="1.2"/>
+  <polygon points="64,36 66,42 72,42 67,46 69,52 64,48 59,52 61,46 56,42 62,42" fill="none" stroke="#c8b87a" stroke-width="1.2"/>
+  <polygon points="80,36 82,42 88,42 83,46 85,52 80,48 75,52 77,46 72,42 78,42" fill="none" stroke="#c8b87a" stroke-width="1.2"/>
+  <!-- Day markers (no text) -->
+  <circle cx="16" cy="72" r="2.5" fill="#7a6010"/>
+  <circle cx="32" cy="72" r="2.5" fill="#7a6010"/>
+  <circle cx="48" cy="72" r="2.5" fill="#7a6010"/>
+  <circle cx="64" cy="72" r="2.5" fill="#7a6010"/>
+  <circle cx="80" cy="72" r="2.5" fill="#7a6010"/>
+</svg>

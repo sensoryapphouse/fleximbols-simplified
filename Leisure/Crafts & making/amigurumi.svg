@@ -1,0 +1,31 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Amigurumi bear - classic crocheted stuffed animal -->
+  <!-- Body -->
+  <ellipse cx="50" cy="72" rx="26" ry="22" fill="#d4a76a" stroke="#333" stroke-width="2.5"/>
+  <!-- Belly patch -->
+  <ellipse cx="50" cy="72" rx="16" ry="14" fill="#f0d9b5" stroke="#a07825" stroke-width="1.5"/>
+  <!-- Head -->
+  <circle cx="50" cy="40" rx="22" ry="22" fill="#d4a76a" stroke="#333" stroke-width="2.5" r="22"/>
+  <!-- Ears -->
+  <circle cx="30" cy="22" r="10" fill="#d4a76a" stroke="#333" stroke-width="2.5"/>
+  <circle cx="70" cy="22" r="10" fill="#d4a76a" stroke="#333" stroke-width="2.5"/>
+  <circle cx="30" cy="22" r="6" fill="#c8a46e" stroke="none"/>
+  <circle cx="70" cy="22" r="6" fill="#c8a46e" stroke="none"/>
+  <!-- Face -->
+  <!-- Snout -->
+  <ellipse cx="50" cy="46" rx="10" ry="7" fill="#f0d9b5" stroke="#a07825" stroke-width="1.5"/>
+  <!-- Nose -->
+  <ellipse cx="50" cy="42" rx="4" ry="3" fill="#333"/>
+  <!-- Eyes -->
+  <circle cx="41" cy="35" r="4" fill="#333"/>
+  <circle cx="59" cy="35" r="4" fill="#333"/>
+  <circle cx="42" cy="34" r="1.5" fill="#fff"/>
+  <circle cx="60" cy="34" r="1.5" fill="#fff"/>
+  <!-- Smile -->
+  <path d="M44,48 Q50,53 56,48" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Arms -->
+  <ellipse cx="24" cy="72" rx="8" ry="14" fill="#d4a76a" stroke="#333" stroke-width="2" transform="rotate(-15 24 72)"/>
+  <ellipse cx="76" cy="72" rx="8" ry="14" fill="#d4a76a" stroke="#333" stroke-width="2" transform="rotate(15 76 72)"/>
+  <!-- Crochet stitch marks -->
+  <path d="M30,70 Q50,66 70,70" fill="none" stroke="#c8a46e" stroke-width="1.5"/>
+</svg>

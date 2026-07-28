@@ -1,0 +1,19 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Soursop - elongated oval with soft spines, dark green -->
+  <!-- Main body -->
+  <ellipse cx="50" cy="55" rx="28" ry="38" fill="#3a6a2a" stroke="#1a4a0a" stroke-width="2.5"/>
+  <!-- Soft spine pattern -->
+  <ellipse cx="50" cy="25" rx="5" ry="7" fill="#4a7a3a" stroke="#1a4a0a" stroke-width="1.5" transform="rotate(0 50 25)"/>
+  <ellipse cx="34" cy="35" rx="5" ry="7" fill="#4a7a3a" stroke="#1a4a0a" stroke-width="1.5" transform="rotate(-30 34 35)"/>
+  <ellipse cx="66" cy="35" rx="5" ry="7" fill="#4a7a3a" stroke="#1a4a0a" stroke-width="1.5" transform="rotate(30 66 35)"/>
+  <ellipse cx="26" cy="52" rx="5" ry="7" fill="#4a7a3a" stroke="#1a4a0a" stroke-width="1.5" transform="rotate(-60 26 52)"/>
+  <ellipse cx="74" cy="52" rx="5" ry="7" fill="#4a7a3a" stroke="#1a4a0a" stroke-width="1.5" transform="rotate(60 74 52)"/>
+  <ellipse cx="32" cy="70" rx="5" ry="7" fill="#4a7a3a" stroke="#1a4a0a" stroke-width="1.5" transform="rotate(-40 32 70)"/>
+  <ellipse cx="68" cy="70" rx="5" ry="7" fill="#4a7a3a" stroke="#1a4a0a" stroke-width="1.5" transform="rotate(40 68 70)"/>
+  <ellipse cx="50" cy="85" rx="5" ry="7" fill="#4a7a3a" stroke="#1a4a0a" stroke-width="1.5"/>
+  <ellipse cx="42" cy="45" rx="5" ry="7" fill="#4a7a3a" stroke="#1a4a0a" stroke-width="1.5" transform="rotate(-15 42 45)"/>
+  <ellipse cx="58" cy="45" rx="5" ry="7" fill="#4a7a3a" stroke="#1a4a0a" stroke-width="1.5" transform="rotate(15 58 45)"/>
+  <!-- Stem -->
+  <line x1="50" y1="17" x2="50" y2="8" stroke="#5a3a1a" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="58" cy="6" rx="9" ry="4" fill="#3a6a2a" stroke="#1a4a0a" stroke-width="2" transform="rotate(15 58 6)"/>
+</svg>

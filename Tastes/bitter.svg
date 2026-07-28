@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-24.810 -18.813) scale(1.4977)">
+<!-- Puckered/sour face -->
+  <!-- Head -->
+  <circle cx="50" cy="46" r="30" fill="#ffd9a0" stroke="#6b4a1a" stroke-width="2.5"/>
+  <!-- Eyes squeezed shut -->
+  <path d="M36 38 Q40 35 44 38" fill="none" stroke="#6b4a1a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M56 38 Q60 35 64 38" fill="none" stroke="#6b4a1a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Eyebrow furrowed -->
+  <path d="M34 33 Q40 29 44 33" fill="none" stroke="#6b4a1a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M56 33 Q60 29 66 33" fill="none" stroke="#6b4a1a" stroke-width="2" stroke-linecap="round"/>
+  <!-- Puckered mouth -->
+  <ellipse cx="50" cy="57" rx="6" ry="4" fill="#e88888" stroke="#c06060" stroke-width="2"/>
+  <!-- Cheek lines (puckered) -->
+  <path d="M38 52 Q42 54 44 56" fill="none" stroke="#c09080" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M62 52 Q58 54 56 56" fill="none" stroke="#c09080" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+  </svg>

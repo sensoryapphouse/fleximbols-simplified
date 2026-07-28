@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Angelfish: very tall thin laterally-compressed body -->
+  <!-- Body: diamond-like -->
+  <path d="M50,15 Q68,30 72,50 Q68,70 50,85 Q32,70 28,50 Q32,30 50,15 Z" fill="#e8c040" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Vertical black stripes: 3 -->
+  <path d="M50,15 Q50,50 50,85" stroke="#222" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M62,22 Q66,50 62,78" stroke="#222" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M38,22 Q34,50 38,78" stroke="#222" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Dorsal fin: very tall spike -->
+  <path d="M46,16 Q42,6 38,2 Q36,8 40,16" fill="#d4a830" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M50,15 L44,8 L40,14" fill="#d4a830" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Anal fin: below, also pointed -->
+  <path d="M46,84 Q42,92 38,96 Q36,90 40,84" fill="#d4a830" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M50,85 L44,90 L40,84" fill="#d4a830" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Trailing ventral filaments -->
+  <path d="M54,60 Q50,72 44,88" stroke="#c8a028" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M56,62 Q54,76 50,90" stroke="#c8a028" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Tail: fan shaped -->
+  <path d="M70,38 L86,28 L82,50 L86,72 L70,62 Z" fill="#d4a830" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Head: small pointed -->
+  <ellipse cx="34" cy="50" rx="8" ry="12" fill="#e8c040" stroke="#333" stroke-width="2"/>
+  <!-- Eye -->
+  <circle cx="30" cy="46" r="4" fill="#e8a820" stroke="#333" stroke-width="1.5"/>
+  <circle cx="30" cy="46" r="2.5" fill="#222"/>
+  <circle cx="29" cy="45" r="0.8" fill="white"/>
+  <!-- Mouth -->
+  <path d="M26,52 Q28,54 32,53" stroke="#333" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Pectoral fin -->
+  <path d="M34,44 L22,38 L26,54 Z" fill="#d4a830" stroke="#333" stroke-width="1.5"/>
+</svg>

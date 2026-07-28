@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.565 -34.361) scale(1.4792)">
+<!-- body -->
+  <ellipse cx="52" cy="66" rx="20" ry="14" fill="#e8c840" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- tail -->
+  <path d="M70 62 Q80 56 78 66 Q74 70 68 68 Z" fill="#c8a830" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- neck -->
+  <path d="M40 62 Q35 55 36 48 Q42 50 44 58 Z" fill="#e8c840" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- head -->
+  <circle cx="36" cy="44" r="12" fill="#e8c840" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- bill -->
+  <path d="M24 44 L35 42 L34 48 Z" fill="#f0a030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- eye -->
+  <circle cx="32" cy="41" r="2" fill="#333"/>
+  <circle cx="31.5" cy="40.5" r="0.6" fill="white"/>
+  <!-- wing -->
+  <path d="M44 62 Q54 56 64 62 Q58 68 48 68 Z" fill="#c8a830" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- water ripple -->
+  <path d="M30 78 Q40 74 50 78 Q60 82 70 78" fill="none" stroke="#5599cc" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+  </svg>

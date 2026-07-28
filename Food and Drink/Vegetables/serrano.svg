@@ -1,0 +1,11 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Serrano: slender, pointed, bright green, smaller than jalapeño -->
+  <!-- Stem -->
+  <line x1="50" y1="6" x2="50" y2="18" stroke="#3a7020" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Slender pointed serrano body -->
+  <path d="M50 18 Q62 18 66 30 Q70 42 68 56 Q66 68 62 78 Q58 86 54 90 Q52 94 50 96 Q48 94 46 90 Q42 86 38 78 Q34 68 32 56 Q30 42 34 30 Q38 18 50 18Z" fill="#2a8020" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Slim highlight -->
+  <path d="M40 26 Q36 42 36 58 Q38 72 44 84" fill="none" stroke="#4aa030" stroke-width="2.5" stroke-linecap="round" opacity="0.5"/>
+  <!-- Center vein -->
+  <path d="M50 20 Q50 56 50 92" fill="none" stroke="#1a6010" stroke-width="1" stroke-linecap="round" opacity="0.6"/>
+</svg>

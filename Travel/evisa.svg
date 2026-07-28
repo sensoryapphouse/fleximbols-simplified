@@ -1,0 +1,31 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Phone/tablet showing e-visa -->
+  <rect x="28" y="6" width="44" height="76" rx="6" fill="#333" stroke="#222" stroke-width="2.5"/>
+  <rect x="32" y="12" width="36" height="62" rx="3" fill="#f0f0f0"/>
+  <!-- Screen content -->
+  <!-- QR code style visa -->
+<!-- QR code pattern (simplified) -->
+  <rect x="38" y="18" width="8" height="8" rx="1" fill="#222"/>
+  <rect x="50" y="18" width="8" height="8" rx="1" fill="#222"/>
+  <rect x="38" y="30" width="8" height="8" rx="1" fill="#222"/>
+  <rect x="50" y="30" width="4" height="4" fill="#222"/>
+  <rect x="56" y="30" width="4" height="4" fill="#222"/>
+  <rect x="44" y="24" width="4" height="4" fill="#222"/>
+  <rect x="50" y="26" width="2" height="2" fill="#222"/>
+  <!-- E-visa text area -->
+  <rect x="34" y="48" width="32" height="6" rx="1" fill="#5b9bd5" stroke="#222" stroke-width="1"/>
+  <rect x="34" y="58" width="32" height="5" rx="1" fill="#eee" stroke="#aaa" stroke-width="1"/>
+  <rect x="34" y="67" width="32" height="5" rx="1" fill="#eee" stroke="#aaa" stroke-width="1"/>
+  <!-- Approved stamp -->
+  <path d="M52 50 Q62 46 62 54 Q62 62 52 62 Q42 62 42 54 Q42 46 52 50Z" fill="none" stroke="#5cb85c" stroke-width="2" stroke-dasharray="3 2"/>
+  <text x="44" y="56" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="5" fill="#5cb85c" font-weight="bold">APPROVED</text>
+  <!-- Home button -->
+  <circle cx="50" cy="84" r="4" fill="#555" stroke="#333" stroke-width="1"/>
+  <!-- Globe icon (international e-visa) -->
+  <circle cx="12" cy="22" r="10" fill="#5b9bd5" stroke="#222" stroke-width="2"/>
+  <ellipse cx="12" cy="22" rx="10" ry="4" fill="none" stroke="#222" stroke-width="1" opacity="0.5"/>
+  <line x1="12" y1="12" x2="12" y2="32" stroke="#222" stroke-width="1" opacity="0.5"/>
+  <ellipse cx="10" cy="20" rx="3" ry="5" fill="#4a8c3f" stroke="#222" stroke-width="1"/>
+  <!-- e-prefix with lightning (electronic) -->
+  <text x="4" y="40" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="10" fill="#5b9bd5" font-weight="bold">e</text>
+</svg>

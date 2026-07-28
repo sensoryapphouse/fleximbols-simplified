@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Branch -->
+  <rect x="15" y="76" width="70" height="7" rx="3" fill="#8a6040" stroke="#5a3818" stroke-width="2"/>
+  <!-- Right bird -->
+  <!-- Body -->
+  <ellipse cx="62" cy="62" rx="13" ry="12" fill="#2a9838" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Right wing -->
+  <ellipse cx="72" cy="64" rx="7" ry="12" fill="#228030" stroke="#333" stroke-width="1.5" transform="rotate(10,72,64)"/>
+  <!-- Head -->
+  <ellipse cx="62" cy="46" rx="11" ry="10" fill="#d83020" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Eye -->
+  <circle cx="58" cy="43" r="2.5" fill="#222"/>
+  <circle cx="59" cy="42" r="0.8" fill="white"/>
+  <!-- Bill: short hooked -->
+  <path d="M55,48 Q52,48 51,51 Q53,53 57,52" fill="#e8b020" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Tail -->
+  <path d="M62,73 Q60,82 58,88" stroke="#1a7828" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M62,73 Q64,82 66,88" stroke="#1a7828" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- Left bird -->
+  <!-- Body -->
+  <ellipse cx="38" cy="62" rx="13" ry="12" fill="#2a9838" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Left wing -->
+  <ellipse cx="28" cy="64" rx="7" ry="12" fill="#228030" stroke="#333" stroke-width="1.5" transform="rotate(-10,28,64)"/>
+  <!-- Head -->
+  <ellipse cx="38" cy="46" rx="11" ry="10" fill="#d83020" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Eye -->
+  <circle cx="42" cy="43" r="2.5" fill="#222"/>
+  <circle cx="43" cy="42" r="0.8" fill="white"/>
+  <!-- Bill: short hooked -->
+  <path d="M45,48 Q48,48 49,51 Q47,53 43,52" fill="#e8b020" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Tail -->
+  <path d="M38,73 Q36,82 34,88" stroke="#1a7828" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M38,73 Q40,82 42,88" stroke="#1a7828" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- Hearts between the birds -->
+  <path d="M50,52 Q50,48 47,48 Q44,48 44,52 Q44,56 50,60 Q56,56 56,52 Q56,48 53,48 Q50,48 50,52 Z" fill="#d84040" stroke="#333" stroke-width="1"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Room walls -->
+  <rect x="8" y="15" width="84" height="65" fill="#F5EFE0" stroke="#4A3800" stroke-width="2.5"/>
+  <!-- Bench -->
+  <rect x="14" y="55" width="50" height="10" fill="#C9A060" stroke="#7A5A00" stroke-width="2"/>
+  <rect x="16" y="65" width="8" height="10" fill="#8B6A3C" stroke="#7A5A00" stroke-width="1.5"/>
+  <rect x="34" y="65" width="8" height="10" fill="#8B6A3C" stroke="#7A5A00" stroke-width="1.5"/>
+  <rect x="52" y="65" width="8" height="10" fill="#8B6A3C" stroke="#7A5A00" stroke-width="1.5"/>
+  <!-- Wall hooks (coat rack) -->
+  <line x1="14" y1="40" x2="64" y2="40" stroke="#7A5A00" stroke-width="2.5"/>
+  <!-- Hooks -->
+  <path d="M22,40 Q22,46 26,46" fill="none" stroke="#7A5A00" stroke-width="2" stroke-linecap="round"/>
+  <path d="M36,40 Q36,46 40,46" fill="none" stroke="#7A5A00" stroke-width="2" stroke-linecap="round"/>
+  <path d="M50,40 Q50,46 54,46" fill="none" stroke="#7A5A00" stroke-width="2" stroke-linecap="round"/>
+  <!-- Coats on hooks -->
+  <path d="M20,46 Q22,55 28,55" fill="#C0392B" stroke="#7A1A00" stroke-width="3" stroke-linecap="round"/>
+  <path d="M34,46 Q36,55 42,55" fill="#5B8DB8" stroke="#2C4F6B" stroke-width="3" stroke-linecap="round"/>
+  <!-- Boots on floor -->
+  <ellipse cx="22" cy="76" rx="5" ry="4" fill="#4A3800" stroke="#2A1800" stroke-width="1.5"/>
+  <rect x="18" y="68" width="8" height="10" rx="2" fill="#4A3800" stroke="#2A1800" stroke-width="1.5"/>
+  <ellipse cx="34" cy="76" rx="5" ry="4" fill="#8B5E3C" stroke="#4A2800" stroke-width="1.5"/>
+  <rect x="30" y="68" width="8" height="10" rx="2" fill="#8B5E3C" stroke="#4A2800" stroke-width="1.5"/>
+  <!-- Door (entry) on right -->
+  <rect x="72" y="28" width="16" height="50" fill="#D4A860" stroke="#7A5A00" stroke-width="2"/>
+  <circle cx="74" cy="55" r="2" fill="#C8A060"/>
+</svg>

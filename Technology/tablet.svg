@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Tablet body -->
+  <rect x="22" y="10" width="56" height="76" rx="6" fill="#333" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Screen -->
+  <rect x="26" y="16" width="48" height="62" rx="3" fill="#A8C8E8" stroke="none"/>
+  <!-- Screen content -->
+  <rect x="32" y="22" width="36" height="6" rx="2" fill="#5B8CC8"/>
+  <rect x="32" y="32" width="36" height="5" rx="1" fill="#D4C5A9"/>
+  <rect x="32" y="40" width="36" height="5" rx="1" fill="#D4C5A9"/>
+  <rect x="32" y="50" width="36" height="5" rx="1" fill="#D4C5A9"/>
+  <!-- Home button -->
+  <circle cx="50" cy="81" r="4" fill="#555" stroke="#888" stroke-width="1.5"/>
+  <!-- Camera -->
+  <circle cx="50" cy="14" r="2" fill="#555"/>
+</svg>

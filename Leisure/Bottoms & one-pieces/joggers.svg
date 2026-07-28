@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Waistband -->
+  <rect x="22" y="14" width="56" height="10" rx="4" fill="#555" stroke="#333" stroke-width="2"/>
+  <!-- Pants body -->
+  <path d="M22,24 L22,58 L42,58 L50,72 L58,58 L78,58 L78,24 Z" fill="#8899aa" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Tapered legs -->
+  <path d="M22,58 L36,84 L44,84 L42,58" fill="#8899aa" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M78,58 L64,84 L56,84 L58,58" fill="#8899aa" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Elastic/ribbed cuffs at ankle -->
+  <rect x="34" y="80" width="12" height="6" rx="3" fill="#6677aa" stroke="#333" stroke-width="1.5"/>
+  <rect x="54" y="80" width="12" height="6" rx="3" fill="#6677aa" stroke="#333" stroke-width="1.5"/>
+  <!-- Drawstring -->
+  <line x1="44" y1="18" x2="40" y2="26" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="56" y1="18" x2="60" y2="26" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

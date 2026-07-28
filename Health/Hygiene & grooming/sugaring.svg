@@ -1,0 +1,22 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sugaring: hand applying sugar paste ball to leg -->
+  <!-- Leg segment -->
+  <path d="M55,8 Q47,8 46,35 Q45,62 47,92 Q51,94 55,92 Q58,62 60,35 Q62,11 57,8 Z" fill="#f5c98a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Hair on leg -->
+  <line x1="50" y1="20" x2="50" y2="13" stroke="#8B6914" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="53" y1="32" x2="53" y2="25" stroke="#8B6914" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="44" x2="50" y2="37" stroke="#8B6914" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Sugar paste ball (amber colour) -->
+  <ellipse cx="38" cy="38" rx="14" ry="11" fill="#c8860a" stroke="#8B6914" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Paste texture highlight -->
+  <ellipse cx="34" cy="34" rx="5" ry="4" fill="#d4a030" stroke="none" opacity="0.5"/>
+  <!-- Hand holding paste -->
+  <!-- Palm -->
+  <path d="M18,55 Q15,40 22,32 Q30,26 38,30 Q44,28 44,38 Q44,44 40,48 Q34,52 28,54 Q22,56 18,55 Z" fill="#f5c98a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Fingers -->
+  <path d="M22,32 Q20,24 24,20 Q28,18 28,26" fill="#f5c98a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M28,30 Q27,20 31,17 Q35,16 34,26" fill="#f5c98a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M34,30 Q34,21 38,18 Q42,17 40,27" fill="#f5c98a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Paste smear on leg showing direction -->
+  <rect x="44" y="25" width="10" height="6" rx="3" fill="#c8860a" stroke="#8B6914" stroke-width="1.5" opacity="0.7"/>
+</svg>

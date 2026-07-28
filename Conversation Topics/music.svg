@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-5.800 -3.566) scale(1.1160)">
+<!-- treble clef -->
+  <!-- main curl and stem -->
+  <path d="M50,80 C50,80 38,72 38,58 C38,48 45,42 52,42 C60,42 66,48 66,56 C66,64 60,70 52,70 C46,70 42,66 42,60 C42,55 46,52 50,52 C54,52 56,55 56,58 C56,62 54,65 50,66" 
+        fill="none" stroke="#1a237e" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- top curl -->
+  <path d="M50,16 C50,16 60,22 62,30 C64,38 58,44 52,42 C46,40 44,34 46,28 C48,22 52,18 56,20" 
+        fill="none" stroke="#1a237e" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- vertical stem -->
+  <line x1="50" y1="16" x2="50" y2="80" stroke="#1a237e" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- staff lines (5) -->
+  <line x1="20" y1="40" x2="80" y2="40" stroke="#9e9e9e" stroke-width="1.5"/>
+  <line x1="20" y1="48" x2="80" y2="48" stroke="#9e9e9e" stroke-width="1.5"/>
+  <line x1="20" y1="56" x2="80" y2="56" stroke="#9e9e9e" stroke-width="1.5"/>
+  <line x1="20" y1="64" x2="80" y2="64" stroke="#9e9e9e" stroke-width="1.5"/>
+  <line x1="20" y1="72" x2="80" y2="72" stroke="#9e9e9e" stroke-width="1.5"/>
+</g>
+  </svg>

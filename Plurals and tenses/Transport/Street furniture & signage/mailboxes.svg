@@ -1,0 +1,19 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-8.766 -0.551) scale(1.1765)">
+<!-- Post -->
+<rect x="46" y="52" width="8" height="28" fill="#888" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<!-- Mailbox body -->
+<rect x="22" y="30" width="56" height="26" rx="4" fill="#4466aa" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<!-- Rounded top -->
+<rect x="22" y="30" width="56" height="12" rx="4" fill="#5577bb" stroke="#333" stroke-width="2"/>
+<!-- Mail slot -->
+<rect x="30" y="44" width="30" height="4" rx="2" fill="#333" stroke="#222" stroke-width="1"/>
+<!-- Door latch -->
+<circle cx="72" cy="43" r="3" fill="#ccaa00" stroke="#333" stroke-width="1.5"/>
+<!-- Flag -->
+<line x1="78" y1="30" x2="78" y2="44" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+<rect x="78" y="30" width="10" height="8" fill="#cc2222" stroke="#333" stroke-width="1.5"/>
+<!-- Ground base -->
+<rect x="36" y="78" width="28" height="4" rx="2" fill="#888" stroke="#333" stroke-width="1.5"/>
+</g>
+  <g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3430" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3430)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-18.997 -19.537) scale(1.3813)">
+<!-- Pint glass -->
+  <path d="M28 18 L22 80 Q50 86 78 80 L72 18Z" fill="#e8e0d8" stroke="#4a3820" stroke-width="2.5"/>
+  <!-- Very dark stout -->
+  <path d="M30 30 L22 80 Q50 86 78 80 L70 30Z" fill="#1a0a05" stroke="none"/>
+  <!-- Creamy tan foam (nitrogen-style) -->
+  <path d="M30 30 L30 44 L70 44 L70 30Z" fill="#c8a870" stroke="none"/>
+  <ellipse cx="50" cy="30" rx="20" ry="7" fill="#d4b888" stroke="#b89868" stroke-width="1.5"/>
+  <!-- Cascading effect (settling) -->
+  <path d="M34 45 Q38 60 34 75" fill="none" stroke="#2a1808" stroke-width="1" stroke-linecap="round"/>
+  <path d="M50 45 Q54 60 50 75" fill="none" stroke="#2a1808" stroke-width="1" stroke-linecap="round"/>
+  <path d="M66 45 Q62 60 66 75" fill="none" stroke="#2a1808" stroke-width="1" stroke-linecap="round"/>
+</g>
+  </svg>

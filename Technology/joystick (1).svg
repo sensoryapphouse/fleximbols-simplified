@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Base plate -->
+  <rect x="15" y="62" width="70" height="18" rx="6" fill="#c0b0a0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Stick shaft -->
+  <rect x="45" y="28" width="10" height="36" rx="5" fill="#888" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Top ball handle -->
+  <circle cx="50" cy="26" r="12" fill="#d0302a" stroke="#333" stroke-width="2.5"/>
+  <!-- Button on top of ball -->
+  <circle cx="50" cy="22" r="4" fill="#f0f0a0" stroke="#333" stroke-width="2"/>
+  <!-- Buttons on base -->
+  <circle cx="30" cy="71" r="5" fill="#d0302a" stroke="#333" stroke-width="2"/>
+  <circle cx="46" cy="71" r="5" fill="#2a80d0" stroke="#333" stroke-width="2"/>
+  <circle cx="62" cy="71" r="5" fill="#30a030" stroke="#333" stroke-width="2"/>
+  <circle cx="76" cy="71" r="5" fill="#d0a020" stroke="#333" stroke-width="2"/>
+  <!-- Label -->
+</svg>

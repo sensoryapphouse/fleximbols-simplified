@@ -1,0 +1,15 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Background map grid -->
+  <rect x="5" y="5" width="90" height="90" rx="2" fill="#ecf0f1" stroke="#222" stroke-width="2"/>
+  <!-- Grid lines (subtle) -->
+  <line x1="35" y1="5" x2="35" y2="95" stroke="#bdc3c7" stroke-width="1"/>
+  <line x1="65" y1="5" x2="65" y2="95" stroke="#bdc3c7" stroke-width="1"/>
+  <line x1="5" y1="35" x2="95" y2="35" stroke="#bdc3c7" stroke-width="1"/>
+  <line x1="5" y1="65" x2="95" y2="65" stroke="#bdc3c7" stroke-width="1"/>
+  <!-- Gerrymandered district (weird, squiggly shape) -->
+  <path d="M10,10 L30,10 L30,30 L50,30 L50,10 L70,10 L70,40 L60,40 L60,60 L80,60 L80,90 L60,90 L60,70 L40,70 L40,90 L10,90 L10,70 L20,70 L20,50 L10,50 Z" fill="#3498db" stroke="#c0392b" stroke-width="3" stroke-linejoin="round" fill-opacity="0.5"/>
+  <!-- Label -->
+  <text x="50" y="52" font-size="7" text-anchor="middle" fill="#c0392b" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold">DISTRICT 1</text>
+  <!-- Question mark indicating odd shape -->
+  <text x="85" y="20" font-size="14" fill="#c0392b" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold">?</text>
+</svg>

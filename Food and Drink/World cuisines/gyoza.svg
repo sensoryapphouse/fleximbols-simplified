@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- three gyoza dumplings on plate -->
+<!-- plate -->
+<ellipse cx="50" cy="74" rx="38" ry="8" fill="#f0f0f0" stroke="#cccccc" stroke-width="2"/>
+<!-- gyoza 1 -->
+<ellipse cx="28" cy="62" rx="14" ry="8" fill="#ffffee" stroke="#ccccaa" stroke-width="2"/>
+<path d="M16,60 Q28,54 40,60" fill="none" stroke="#ccccaa" stroke-width="1.5"/>
+<path d="M14,62 Q28,56 42,62" fill="none" stroke="#ccccaa" stroke-width="1"/>
+<!-- browned bottom -->
+<ellipse cx="28" cy="68" rx="12" ry="4" fill="#cc8833" stroke="#886622" stroke-width="1"/>
+<!-- gyoza 2 -->
+<ellipse cx="50" cy="60" rx="14" ry="8" fill="#ffffee" stroke="#ccccaa" stroke-width="2"/>
+<path d="M38,58 Q50,52 62,58" fill="none" stroke="#ccccaa" stroke-width="1.5"/>
+<ellipse cx="50" cy="66" rx="12" ry="4" fill="#cc8833" stroke="#886622" stroke-width="1"/>
+<!-- gyoza 3 -->
+<ellipse cx="72" cy="62" rx="14" ry="8" fill="#ffffee" stroke="#ccccaa" stroke-width="2"/>
+<path d="M60,60 Q72,54 84,60" fill="none" stroke="#ccccaa" stroke-width="1.5"/>
+<ellipse cx="72" cy="68" rx="12" ry="4" fill="#cc8833" stroke="#886622" stroke-width="1"/>
+</svg>

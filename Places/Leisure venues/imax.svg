@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Large curved IMAX screen -->
+  <path d="M8 20 Q50 10 92 20 L92 68 Q50 58 8 68 Z" fill="#d0e8ff" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Screen glare -->
+  <path d="M18 25 Q50 17 82 25 L82 30 Q50 22 18 30 Z" fill="white" opacity="0.5"/>
+  <!-- Cinema curtains left -->
+  <path d="M5 15 Q12 35 8 68 L14 68 Q18 35 14 15 Z" fill="#8b2020" stroke="#333" stroke-width="2"/>
+  <!-- Cinema curtains right -->
+  <path d="M95 15 Q88 35 92 68 L86 68 Q82 35 86 15 Z" fill="#8b2020" stroke="#333" stroke-width="2"/>
+  <!-- IMAX text on screen -->
+  
+  <!-- Small seats at bottom -->
+  <rect x="20" y="72" width="8" height="6" rx="1" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <rect x="32" y="72" width="8" height="6" rx="1" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <rect x="44" y="72" width="8" height="6" rx="1" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <rect x="56" y="72" width="8" height="6" rx="1" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <rect x="68" y="72" width="8" height="6" rx="1" fill="#555" stroke="#333" stroke-width="1.5"/>
+</svg>

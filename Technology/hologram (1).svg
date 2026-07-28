@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-15.682 -25.876) scale(1.4701)">
+<!-- Projector base -->
+  <rect x="30" y="72" width="40" height="10" rx="4" fill="#bbb" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="38" y="66" width="24" height="8" rx="3" fill="#888" stroke="#333" stroke-width="2"/>
+  <!-- Projection beams (wide at top, narrow at base) -->
+  <path d="M38 66 L22 20 L50 20 L62 66" fill="#7ec8e3" fill-opacity="0.2" stroke="none"/>
+  <line x1="38" y1="66" x2="22" y2="20" stroke="#7ec8e3" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <line x1="62" y1="66" x2="50" y2="20" stroke="#7ec8e3" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <!-- Holographic figure (wireframe person) -->
+  <circle cx="36" cy="30" r="7" fill="none" stroke="#7ec8e3" stroke-width="2"/>
+  <line x1="36" y1="37" x2="36" y2="52" stroke="#7ec8e3" stroke-width="2"/>
+  <line x1="36" y1="42" x2="28" y2="46" stroke="#7ec8e3" stroke-width="2" stroke-linecap="round"/>
+  <line x1="36" y1="42" x2="44" y2="46" stroke="#7ec8e3" stroke-width="2" stroke-linecap="round"/>
+  <line x1="36" y1="52" x2="30" y2="62" stroke="#7ec8e3" stroke-width="2" stroke-linecap="round"/>
+  <line x1="36" y1="52" x2="42" y2="62" stroke="#7ec8e3" stroke-width="2" stroke-linecap="round"/>
+  <!-- Horizontal scan lines in projection -->
+  <line x1="24" y1="35" x2="56" y2="35" stroke="#7ec8e3" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
+  <line x1="24" y1="45" x2="58" y2="45" stroke="#7ec8e3" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
+  <line x1="24" y1="55" x2="60" y2="55" stroke="#7ec8e3" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
+</g>
+  </svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-10.000 2.861) scale(1.2083)">
+<!-- circular arrows -->
+  <path d="M26,22 A30,30 0 0,1 74,22" fill="none" stroke="#5bba5b" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="74,22 63,14 65,27" fill="#5bba5b"/>
+  <path d="M78,34 A30,30 0 0,1 62,68" fill="none" stroke="#5bba5b" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="62,68 55,57 67,58" fill="#5bba5b"/>
+  <path d="M38,68 A30,30 0 0,1 22,34" fill="none" stroke="#5bba5b" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="22,34 30,45 19,44" fill="#5bba5b"/>
+  <!-- sun in centre -->
+  <circle cx="50" cy="45" r="14" fill="#f5c518" stroke="#c8940a" stroke-width="2.5"/>
+  <line x1="50" y1="27" x2="50" y2="23" stroke="#c8940a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="50" y1="63" x2="50" y2="67" stroke="#c8940a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="32" y1="45" x2="28" y2="45" stroke="#c8940a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="68" y1="45" x2="72" y2="45" stroke="#c8940a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="37" y1="32" x2="34" y2="29" stroke="#c8940a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="63" y1="32" x2="66" y2="29" stroke="#c8940a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="37" y1="58" x2="34" y2="61" stroke="#c8940a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="63" y1="58" x2="66" y2="61" stroke="#c8940a" stroke-width="2" stroke-linecap="round"/>
+</g>
+  </svg>

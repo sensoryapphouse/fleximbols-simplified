@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ground -->
+  <rect x="5" y="72" width="90" height="8" fill="#a0c870" stroke="#6a8a30" stroke-width="1.5"/>
+  <!-- Person figure -->
+  <circle cx="28" cy="32" r="8" fill="#f0d0a0" stroke="#9a7040" stroke-width="2"/>
+  <!-- Person body -->
+  <rect x="22" y="40" width="12" height="20" rx="3" fill="#5b8fce" stroke="#2a5a9a" stroke-width="2"/>
+  <!-- Person arms -->
+  <line x1="22" y1="44" x2="12" y2="55" stroke="#5b8fce" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="34" y1="44" x2="44" y2="52" stroke="#5b8fce" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Person legs -->
+  <line x1="25" y1="60" x2="23" y2="72" stroke="#5b8fce" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="31" y1="60" x2="33" y2="72" stroke="#5b8fce" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Sapling being planted -->
+  <line x1="44" y1="52" x2="44" y2="72" stroke="#7a5c2e" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="44" cy="48" rx="8" ry="10" fill="#60bf40" stroke="#308010" stroke-width="2"/>
+  <!-- Trees in background (already grown) -->
+  <rect x="62" y="50" width="5" height="22" fill="#7a5c2e" stroke="#4a3010" stroke-width="2"/>
+  <ellipse cx="65" cy="44" rx="14" ry="18" fill="#508030" stroke="#306010" stroke-width="2"/>
+  <rect x="80" y="55" width="4" height="17" fill="#7a5c2e" stroke="#4a3010" stroke-width="1.5"/>
+  <ellipse cx="82" cy="50" rx="11" ry="14" fill="#60bf40" stroke="#308010" stroke-width="2"/>
+</svg>

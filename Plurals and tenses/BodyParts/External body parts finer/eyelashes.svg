@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,9.090) scale(0.9091)">
+<!-- Eye white (sclera) -->
+  <path d="M10 50 Q25 30 50 28 Q75 30 90 50 Q75 70 50 72 Q25 70 10 50Z" fill="white" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Iris -->
+  <circle cx="50" cy="50" r="16" fill="#5a90c0" stroke="#333" stroke-width="2"/>
+  <!-- Pupil -->
+  <circle cx="50" cy="50" r="8" fill="#222"/>
+  <!-- Light reflection -->
+  <circle cx="55" cy="44" r="3" fill="white"/>
+  <!-- Upper eyelashes -->
+  <path d="M18 42 Q14 32 16 24" fill="none" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+  <path d="M28 34 Q26 24 30 16" fill="none" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+  <path d="M40 30 Q40 20 44 12" fill="none" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+  <path d="M52 28 Q54 18 58 11" fill="none" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+  <path d="M64 30 Q68 20 74 14" fill="none" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+  <path d="M75 36 Q80 28 86 24" fill="none" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+  <!-- Lower lashes (shorter) -->
+  <path d="M25 64 Q22 72 20 76" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M40 70 Q38 78 38 82" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <path x="55" y="70" d="M55 70 Q56 78 56 82" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M70 66 Q72 74 74 78" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl592" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl592)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

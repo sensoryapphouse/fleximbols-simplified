@@ -1,0 +1,22 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Modern accordion-cup plunger -->
+  <!-- Handle -->
+  <rect x="46" y="8" width="8" height="50" rx="4" ry="4" fill="#c84820" stroke="#333" stroke-width="2.5"/>
+  <!-- Handle top grip knob -->
+  <ellipse cx="50" cy="10" rx="7" ry="5" fill="#a83810" stroke="#333" stroke-width="2"/>
+  <!-- Accordion/bellows cup -->
+  <!-- Main cup shape -->
+  <path d="M24 72 Q24 60 50 58 Q76 60 76 72 Q76 88 50 90 Q24 88 24 72 Z" fill="#e84820" stroke="#333" stroke-width="2.5"/>
+  <!-- Accordion folds -->
+  <path d="M26 65 Q50 62 74 65" fill="none" stroke="#c83818" stroke-width="2"/>
+  <path d="M28 72 Q50 69 72 72" fill="none" stroke="#c83818" stroke-width="2"/>
+  <path d="M27 79 Q50 76 73 79" fill="none" stroke="#c83818" stroke-width="2"/>
+  <!-- Cup collar connecting to handle -->
+  <ellipse cx="50" cy="58" rx="14" ry="5" fill="#d04018" stroke="#333" stroke-width="2"/>
+  <!-- Bottom rim of cup -->
+  <ellipse cx="50" cy="89" rx="24" ry="5" fill="#c03010" stroke="#333" stroke-width="2"/>
+  <!-- Handle grip marks -->
+  <line x1="46" y1="25" x2="54" y2="25" stroke="#a83810" stroke-width="1.5"/>
+  <line x1="46" y1="33" x2="54" y2="33" stroke="#a83810" stroke-width="1.5"/>
+  <line x1="46" y1="41" x2="54" y2="41" stroke="#a83810" stroke-width="1.5"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2364" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2364)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

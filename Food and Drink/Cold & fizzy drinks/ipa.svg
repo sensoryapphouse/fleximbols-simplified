@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-18.997 -19.537) scale(1.3813)">
+<!-- Pint glass -->
+  <path d="M28 18 L22 80 Q50 86 78 80 L72 18Z" fill="#f5e8d0" stroke="#8b6a20" stroke-width="2.5"/>
+  <!-- Golden/amber IPA -->
+  <path d="M30 28 L22 80 Q50 86 78 80 L70 28Z" fill="#e8a020" stroke="none"/>
+  <!-- Foam head -->
+  <path d="M30 28 L30 40 L70 40 L70 28Z" fill="#f8f4ec" stroke="none"/>
+  <ellipse cx="50" cy="28" rx="20" ry="6" fill="#f8f4ec" stroke="#e0d8c8" stroke-width="1.5"/>
+  <!-- Hop cones (IPA icon) -->
+  <path d="M42 55 Q40 50 44 48 Q48 50 46 55 Q44 58 42 55Z" fill="#7ab648" stroke="#4a7a1e" stroke-width="1"/>
+  <path d="M50 52 Q48 47 52 45 Q56 47 54 52 Q52 55 50 52Z" fill="#6aad4a" stroke="#4a7a1e" stroke-width="1"/>
+  <path d="M58 55 Q56 50 60 48 Q64 50 62 55 Q60 58 58 55Z" fill="#7ab648" stroke="#4a7a1e" stroke-width="1"/>
+  <!-- IPA text label inside -->
+  
+</g>
+  </svg>

@@ -1,0 +1,24 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Red envelope (hongbao) -->
+  <!-- Envelope body -->
+  <rect x="12" y="28" width="76" height="58" rx="5" fill="#e74c3c" stroke="#333" stroke-width="2.5"/>
+  <!-- Envelope flap (V shape) -->
+  <polygon points="12,28 50,55 88,28" fill="#c0392b" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Envelope flap bottom lines -->
+  <line x1="12" y1="86" x2="35" y2="60" stroke="#c0392b" stroke-width="2"/>
+  <line x1="88" y1="86" x2="65" y2="60" stroke="#c0392b" stroke-width="2"/>
+  <!-- Gold circle/medallion on front -->
+  <circle cx="50" cy="65" r="18" fill="#f0d080" stroke="#e8a030" stroke-width="2.5"/>
+  <!-- Gold character (fu = good fortune) -->
+  <text x="50" y="72" text-anchor="middle" font-size="18" font-weight="bold" fill="#e74c3c" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif">福</text>
+  <!-- Gold decorative border on envelope -->
+  <rect x="12" y="28" width="76" height="58" rx="5" fill="none" stroke="#f0d080" stroke-width="1.5"/>
+  <!-- Corner gold flourishes -->
+  <circle cx="17" cy="33" r="3" fill="#f0d080" stroke="#e8a030" stroke-width="1"/>
+  <circle cx="83" cy="33" r="3" fill="#f0d080" stroke="#e8a030" stroke-width="1"/>
+  <circle cx="17" cy="81" r="3" fill="#f0d080" stroke="#e8a030" stroke-width="1"/>
+  <circle cx="83" cy="81" r="3" fill="#f0d080" stroke="#e8a030" stroke-width="1"/>
+  <!-- Stack of envelopes behind (suggesting gift giving) -->
+  <rect x="8" y="32" width="76" height="58" rx="5" fill="#c0392b" stroke="#333" stroke-width="2" opacity="0.5"/>
+  <rect x="4" y="36" width="76" height="58" rx="5" fill="#a93226" stroke="#333" stroke-width="2" opacity="0.3"/>
+</svg>

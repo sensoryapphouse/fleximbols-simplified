@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Old parchment / scroll background -->
+  <rect x="10" y="15" width="80" height="65" rx="5" fill="#fdf6e3" stroke="#8d6e40" stroke-width="2.5"/>
+  <!-- Scroll curls top/bottom -->
+  <ellipse cx="50" cy="15" rx="40" ry="6" fill="#e8d5a0" stroke="#8d6e40" stroke-width="2"/>
+  <ellipse cx="50" cy="80" rx="40" ry="6" fill="#e8d5a0" stroke="#8d6e40" stroke-width="2"/>
+  <!-- Large 100 -->
+  <text x="50" y="58" font-size="32" text-anchor="middle" fill="#5d4037" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold">100</text>
+  <!-- "years" sub label -->
+  <text x="50" y="70" font-size="8" text-anchor="middle" fill="#8d6e40" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif">years</text>
+</svg>

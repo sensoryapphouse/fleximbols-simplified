@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Screen/monitor -->
+  <rect x="8" y="8" width="50" height="40" rx="4" fill="#1a1a2e" stroke="#888" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Image on screen (baby outline) -->
+  <ellipse cx="30" cy="26" rx="12" ry="10" fill="#2a4a6e" stroke="#6688aa" stroke-width="1.5"/>
+  <!-- Baby shape on screen -->
+  <circle cx="30" cy="21" r="5" fill="#3a6a8e" stroke="#6688aa" stroke-width="1"/>
+  <path d="M26,26 Q28,32 32,32 Q36,30 34,26" fill="#3a6a8e" stroke="#6688aa" stroke-width="1"/>
+  <!-- Screen stand -->
+  <rect x="28" y="48" width="8" height="6" rx="1" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <rect x="22" y="54" width="20" height="4" rx="2" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <!-- Belly/torso being scanned -->
+  <ellipse cx="74" cy="56" rx="20" ry="28" fill="#f5cba7" stroke="#8B6914" stroke-width="2.5"/>
+  <!-- Gel (blue) on belly -->
+  <ellipse cx="74" cy="48" rx="12" ry="7" fill="#a8d8e8" opacity="0.7"/>
+  <!-- Ultrasound probe -->
+  <rect x="55" y="36" width="12" height="22" rx="5" fill="#c0c0c0" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Cable from probe to machine -->
+  <path d="M62,36 Q62,18 58,14" fill="none" stroke="#888" stroke-width="2" stroke-linecap="round"/>
+</svg>

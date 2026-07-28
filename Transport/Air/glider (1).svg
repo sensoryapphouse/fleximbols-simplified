@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Sleek narrow fuselage -->
+  <path d="M8 50 Q20 46 40 46 L75 46 Q88 47 92 50 Q88 53 75 54 L40 54 Q20 54 8 50 Z" fill="#e8e0d0" stroke="#4a3a20" stroke-width="2"/>
+  <!-- Pointed nose -->
+  <path d="M75 46 L94 50 L75 54 Z" fill="#d0c8b8" stroke="#4a3a20" stroke-width="1.5"/>
+  <!-- Very long swept wings -->
+  <path d="M42 46 L10 25 L8 28 L38 46 Z" fill="#d8d0c0" stroke="#4a3a20" stroke-width="2"/>
+  <path d="M48 54 L18 75 L16 72 L44 54 Z" fill="#d8d0c0" stroke="#4a3a20" stroke-width="2"/>
+  <!-- Wing tip winglets -->
+  <path d="M10 25 L8 20 L14 26" fill="none" stroke="#4a3a20" stroke-width="1.5"/>
+  <!-- T-tail -->
+  <path d="M14 46 L10 32 L15 32 L17 46 Z" fill="#d8d0c0" stroke="#4a3a20" stroke-width="1.5"/>
+  <line x1="7" y1="32" x2="22" y2="32" stroke="#4a3a20" stroke-width="2"/>
+  <!-- Horizontal tail -->
+  <path d="M12 50 L7 44 L10 44 L14 50 Z" fill="#d8d0c0" stroke="#4a3a20" stroke-width="1.5"/>
+  <path d="M14 50 L9 56 L12 56 L15 50 Z" fill="#d8d0c0" stroke="#4a3a20" stroke-width="1.5"/>
+  <!-- Cockpit canopy -->
+  <path d="M65 46 L88 48 L88 52 L65 54 Z" fill="#aaddff" stroke="#4a3a20" stroke-width="1.5"/>
+  <!-- Single wheel -->
+  <circle cx="50" cy="58" r="4" fill="none" stroke="#4a3a20" stroke-width="2"/>
+  <!-- Label -->
+</svg>

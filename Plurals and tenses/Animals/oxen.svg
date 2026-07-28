@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- body - large muscular -->
+  <ellipse cx="53" cy="59" rx="28" ry="20" fill="#8a7060" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- hump -->
+  <ellipse cx="40" cy="48" rx="14" ry="10" fill="#8a7060" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- neck -->
+  <path d="M32 52 Q26 40 26 30 Q34 26 38 36 Q40 48 36 55 Z" fill="#8a7060" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- head - large boxy -->
+  <path d="M14 26 Q26 18 36 22 Q40 32 36 44 Q24 46 14 40 Z" fill="#8a7060" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- large muzzle -->
+  <ellipse cx="14" cy="36" rx="8" ry="7" fill="#7a6050" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- nostril -->
+  <ellipse cx="11" cy="37" rx="1.5" ry="1.2" fill="#555"/>
+  <ellipse cx="17" cy="37" rx="1.5" ry="1.2" fill="#555"/>
+  <!-- eye -->
+  <circle cx="27" cy="27" r="3" fill="#333"/>
+  <circle cx="26" cy="26" r="0.9" fill="white"/>
+  <!-- horns - wide curved -->
+  <path d="M24 20 Q18 10 10 14 Q12 20 20 22" fill="#d0b060" stroke="#333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M32 18 Q34 8 42 10 Q40 16 34 20" fill="#d0b060" stroke="#333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- ear -->
+  <path d="M22 22 Q18 16 20 12 Q25 14 26 20 Z" fill="#8a7060" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- dewlap -->
+  <path d="M20 42 Q16 50 18 56 Q22 54 22 46 Z" fill="#7a6050" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- tail -->
+  <path d="M80 55 L88 50 Q92 58 88 64 L80 62" fill="none" stroke="#6a5040" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- legs - thick -->
+  <rect x="28" y="77" width="9" height="12" rx="2" fill="#8a7060" stroke="#333" stroke-width="2"/>
+  <rect x="42" y="78" width="9" height="11" rx="2" fill="#8a7060" stroke="#333" stroke-width="2"/>
+  <rect x="57" y="77" width="9" height="12" rx="2" fill="#8a7060" stroke="#333" stroke-width="2"/>
+  <rect x="70" y="76" width="9" height="12" rx="2" fill="#8a7060" stroke="#333" stroke-width="2"/>
+  <!-- hooves -->
+  <rect x="28" y="87" width="9" height="4" rx="1" fill="#444"/>
+  <rect x="42" y="87" width="9" height="4" rx="1" fill="#444"/>
+  <rect x="57" y="87" width="9" height="4" rx="1" fill="#444"/>
+  <rect x="70" y="86" width="9" height="4" rx="1" fill="#444"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl502" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl502)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

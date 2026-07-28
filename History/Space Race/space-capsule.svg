@@ -1,0 +1,19 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Crew capsule (bell/cone shape) -->
+  <!-- Heat shield base -->
+  <ellipse cx="50" cy="82" rx="28" ry="7" fill="#cc5533" stroke="#222" stroke-width="2.5"/>
+  <!-- Main capsule body -->
+  <path d="M22,82 Q22,35 50,12 Q78,35 78,82 Z" fill="#cccccc" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Window -->
+  <circle cx="50" cy="45" r="9" fill="#336699" stroke="#222" stroke-width="2"/>
+  <circle cx="50" cy="45" r="5" fill="#4488bb" stroke="#222" stroke-width="1"/>
+  <!-- Parachute lines (deployed) -->
+  <line x1="40" y1="15" x2="25" y2="5" stroke="#cc8833" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="12" x2="50" y2="2" stroke="#cc8833" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="60" y1="15" x2="75" y2="5" stroke="#cc8833" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Parachute canopy -->
+  <path d="M18,5 Q50,-10 82,5 Q75,20 50,15 Q25,20 18,5 Z" fill="#cc3333" stroke="#222" stroke-width="2" stroke-linejoin="round"/>
+  <!-- RCS thruster nubs -->
+  <rect x="18" y="60" width="5" height="8" rx="1" fill="#999" stroke="#333" stroke-width="1.5"/>
+  <rect x="77" y="60" width="5" height="8" rx="1" fill="#999" stroke="#333" stroke-width="1.5"/>
+</svg>

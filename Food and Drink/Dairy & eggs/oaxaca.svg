@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-16.694 -23.344) scale(1.3352)">
+<!-- Stringy cheese wound in a ball -->
+  <!-- Base ball shape -->
+  <circle cx="50" cy="55" r="28" fill="#f8f5ee" stroke="#333" stroke-width="2.5"/>
+  <!-- String winds around the ball - layered coils -->
+  <path d="M28 45 Q50 35 72 45" fill="none" stroke="#ddd" stroke-width="3" stroke-linecap="round"/>
+  <path d="M24 52 Q50 40 76 52" fill="none" stroke="#e8e4d8" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M23 58 Q50 46 77 58" fill="none" stroke="#ddd" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M25 64 Q50 52 75 64" fill="none" stroke="#e8e4d8" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M28 70 Q50 58 72 70" fill="none" stroke="#ddd" stroke-width="2" stroke-linecap="round"/>
+  <!-- Vertical winds -->
+  <path d="M38 27 Q30 55 38 83" fill="none" stroke="#e0dcd0" stroke-width="2" stroke-linecap="round"/>
+  <path d="M62 27 Q70 55 62 83" fill="none" stroke="#e0dcd0" stroke-width="2" stroke-linecap="round"/>
+  <!-- String tail -->
+  <path d="M72 45 Q80 40 84 35" fill="none" stroke="#ccc" stroke-width="2" stroke-linecap="round"/>
+</g>
+  </svg>

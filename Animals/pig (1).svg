@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- body - round pink -->
+  <ellipse cx="52" cy="62" rx="28" ry="20" fill="#f0a0a8" stroke="#c06070" stroke-width="2"/>
+  <!-- legs -->
+  <rect x="30" y="77" width="9" height="10" rx="3" fill="#f0a0a8" stroke="#c06070" stroke-width="1.5"/>
+  <rect x="42" y="77" width="9" height="10" rx="3" fill="#f0a0a8" stroke="#c06070" stroke-width="1.5"/>
+  <rect x="55" y="77" width="9" height="10" rx="3" fill="#f0a0a8" stroke="#c06070" stroke-width="1.5"/>
+  <rect x="67" y="77" width="9" height="10" rx="3" fill="#f0a0a8" stroke="#c06070" stroke-width="1.5"/>
+  <!-- hooves -->
+  <rect x="30" y="85" width="9" height="4" rx="2" fill="#7a4050"/>
+  <rect x="42" y="85" width="9" height="4" rx="2" fill="#7a4050"/>
+  <rect x="55" y="85" width="9" height="4" rx="2" fill="#7a4050"/>
+  <rect x="67" y="85" width="9" height="4" rx="2" fill="#7a4050"/>
+  <!-- curly tail -->
+  <path d="M80,60 Q88,56 86,50 Q84,46 80,50" fill="none" stroke="#f0a0a8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M80,60 Q88,56 86,50 Q84,46 80,50" fill="none" stroke="#c06070" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- neck -->
+  <ellipse cx="28" cy="57" rx="12" ry="9" fill="#f0a0a8" stroke="#c06070" stroke-width="1.5"/>
+  <!-- head - round -->
+  <circle cx="22" cy="44" r="17" fill="#f0a0a8" stroke="#c06070" stroke-width="2"/>
+  <!-- ears - floppy -->
+  <ellipse cx="10" cy="32" rx="7" ry="10" fill="#f0a0a8" stroke="#c06070" stroke-width="1.5" transform="rotate(-20 10 32)"/>
+  <ellipse cx="10" cy="33" rx="4" ry="7" fill="#f4c0c8" transform="rotate(-20 10 33)"/>
+  <ellipse cx="34" cy="30" rx="7" ry="10" fill="#f0a0a8" stroke="#c06070" stroke-width="1.5" transform="rotate(20 34 30)"/>
+  <ellipse cx="34" cy="31" rx="4" ry="7" fill="#f4c0c8" transform="rotate(20 34 31)"/>
+  <!-- snout - big round -->
+  <ellipse cx="13" cy="50" rx="9" ry="7" fill="#e08898" stroke="#c06070" stroke-width="1.5"/>
+  <circle cx="10" cy="51" r="2.5" fill="#7a4050"/>
+  <circle cx="16" cy="51" r="2.5" fill="#7a4050"/>
+  <!-- eyes -->
+  <circle cx="17" cy="40" r="3.5" fill="#2a1a1a"/>
+  <circle cx="17.8" cy="39.2" r="1" fill="white"/>
+  <circle cx="27" cy="40" r="3.5" fill="#2a1a1a"/>
+  <circle cx="27.8" cy="39.2" r="1" fill="white"/>
+</svg>

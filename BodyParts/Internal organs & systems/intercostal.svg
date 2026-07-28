@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-10.510 -2.059) scale(1.2102)">
+<!-- rib cage -->
+  <path d="M50 14 Q50 14 50 14" fill="none"/>
+  <!-- sternum -->
+  <rect x="46" y="14" width="8" height="58" rx="2" fill="#e8d5b7" stroke="#333" stroke-width="2"/>
+  <!-- ribs left side -->
+  <path d="M46 20 Q32 22 26 30 Q22 38 28 44 Q34 46 46 44" fill="none" stroke="#e8d5b7" stroke-width="6" stroke-linecap="round"/>
+  <path d="M46 30 Q30 32 24 40 Q20 48 26 54 Q32 56 46 54" fill="none" stroke="#e8d5b7" stroke-width="6" stroke-linecap="round"/>
+  <path d="M46 40 Q32 42 26 50 Q22 58 28 63 Q34 65 46 63" fill="none" stroke="#e8d5b7" stroke-width="6" stroke-linecap="round"/>
+  <!-- rib outlines left -->
+  <path d="M46 20 Q32 22 26 30 Q22 38 28 44 Q34 46 46 44" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <path d="M46 30 Q30 32 24 40 Q20 48 26 54 Q32 56 46 54" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <path d="M46 40 Q32 42 26 50 Q22 58 28 63 Q34 65 46 63" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- ribs right side -->
+  <path d="M54 20 Q68 22 74 30 Q78 38 72 44 Q66 46 54 44" fill="none" stroke="#e8d5b7" stroke-width="6" stroke-linecap="round"/>
+  <path d="M54 30 Q70 32 76 40 Q80 48 74 54 Q68 56 54 54" fill="none" stroke="#e8d5b7" stroke-width="6" stroke-linecap="round"/>
+  <path d="M54 40 Q68 42 74 50 Q78 58 72 63 Q66 65 54 63" fill="none" stroke="#e8d5b7" stroke-width="6" stroke-linecap="round"/>
+  <!-- rib outlines right -->
+  <path d="M54 20 Q68 22 74 30 Q78 38 72 44 Q66 46 54 44" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <path d="M54 30 Q70 32 76 40 Q80 48 74 54 Q68 56 54 54" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <path d="M54 40 Q68 42 74 50 Q78 58 72 63 Q66 65 54 63" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- intercostal muscle fill between ribs (left) -->
+  <path d="M36 25 Q28 30 26 36" fill="none" stroke="#ffb3a0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M35 35 Q27 40 25 47" fill="none" stroke="#ffb3a0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M36 46 Q28 51 27 57" fill="none" stroke="#ffb3a0" stroke-width="3" stroke-linecap="round"/>
+</g>
+  </svg>

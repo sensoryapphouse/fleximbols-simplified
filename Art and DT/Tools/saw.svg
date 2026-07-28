@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Handle -->
+  <rect x="15" y="35" width="28" height="18" rx="7" fill="#c8a97a" stroke="#333" stroke-width="2.5"/>
+  <!-- Hole in handle -->
+  <ellipse cx="29" cy="44" rx="7" ry="5" fill="white" stroke="#c8a97a" stroke-width="1"/>
+  <!-- Blade -->
+  <rect x="15" y="44" width="72" height="10" rx="2" fill="#b0b8c8" stroke="#333" stroke-width="2.5"/>
+  <!-- Teeth -->
+  <polygon points="25,54 28,62 31,54" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <polygon points="33,54 36,62 39,54" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <polygon points="41,54 44,62 47,54" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <polygon points="49,54 52,62 55,54" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <polygon points="57,54 60,62 63,54" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <polygon points="65,54 68,62 71,54" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <polygon points="73,54 76,62 79,54" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <!-- Label -->
+</svg>

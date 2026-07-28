@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Face (slightly square jaw) -->
+  <path d="M22 45 Q22 22 50 20 Q78 22 78 45 Q78 65 50 72 Q22 65 22 45 Z" fill="#f5c89a" stroke="#222" stroke-width="2"/>
+  <!-- Short hair -->
+  <path d="M22 42 Q22 20 50 18 Q78 20 78 42" fill="#5c3a1e" stroke="#222" stroke-width="2"/>
+  <!-- Brows (strong) -->
+  <path d="M33 37 Q40 34 46 37" fill="none" stroke="#5c3a1e" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M54 37 Q60 34 67 37" fill="none" stroke="#5c3a1e" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Eyes -->
+  <ellipse cx="40" cy="43" rx="5" ry="4" fill="white" stroke="#222" stroke-width="1.5"/>
+  <circle cx="40" cy="43" r="2.5" fill="#3e5ea8"/>
+  <circle cx="40" cy="42" r="1" fill="black"/>
+  <ellipse cx="60" cy="43" rx="5" ry="4" fill="white" stroke="#222" stroke-width="1.5"/>
+  <circle cx="60" cy="43" r="2.5" fill="#3e5ea8"/>
+  <circle cx="60" cy="42" r="1" fill="black"/>
+  <!-- Nose -->
+  <path d="M50 47 Q48 53 46 55 Q50 57 54 55 Q52 53 50 47" fill="none" stroke="#c09070" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Smile (confident) -->
+  <path d="M40 62 Q50 68 60 62" fill="none" stroke="#c0392b" stroke-width="2" stroke-linecap="round"/>
+  <!-- Sparkles -->
+  <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="12" y="30" font-size="12" fill="#f9d71c">✦</text>
+  <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="78" y="30" font-size="11" fill="#f9d71c">✦</text>
+</svg>

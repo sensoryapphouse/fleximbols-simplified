@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.210 -35.789) scale(1.4056)">
+<!-- Bowl -->
+  <path d="M18 50 Q18 78 50 80 Q82 78 82 50Z" fill="#f5f0e8" stroke="#8b7355" stroke-width="2.5"/>
+  <ellipse cx="50" cy="50" rx="32" ry="7" fill="#f5f0e8" stroke="#8b7355" stroke-width="2.5"/>
+  <!-- Bulgur grain texture (fine cracked wheat) -->
+  <rect x="27" y="53" width="4" height="2" rx="1" fill="#c8a052" transform="rotate(10 27 53)"/>
+  <rect x="34" y="56" width="4" height="2" rx="1" fill="#d4aa60" transform="rotate(-15 34 56)"/>
+  <rect x="42" y="53" width="4" height="2" rx="1" fill="#c8a052" transform="rotate(5 42 53)"/>
+  <rect x="50" y="56" width="4" height="2" rx="1" fill="#d4aa60" transform="rotate(20 50 56)"/>
+  <rect x="58" y="53" width="4" height="2" rx="1" fill="#c8a052" transform="rotate(-10 58 53)"/>
+  <rect x="65" y="57" width="4" height="2" rx="1" fill="#d4aa60" transform="rotate(8 65 57)"/>
+  <rect x="32" y="62" width="4" height="2" rx="1" fill="#c8a052" transform="rotate(-5 32 62)"/>
+  <rect x="44" y="64" width="4" height="2" rx="1" fill="#d4aa60" transform="rotate(15 44 64)"/>
+  <rect x="56" y="63" width="4" height="2" rx="1" fill="#c8a052" transform="rotate(-8 56 63)"/>
+  <!-- Parsley on top -->
+  <circle cx="50" cy="47" r="5" fill="#5a9a3a" stroke="#3a7a1a" stroke-width="1.5"/>
+  <circle cx="42" cy="48" r="4" fill="#6aad4a" stroke="#3a7a1a" stroke-width="1"/>
+  <circle cx="58" cy="48" r="4" fill="#6aad4a" stroke="#3a7a1a" stroke-width="1"/>
+</g>
+  </svg>

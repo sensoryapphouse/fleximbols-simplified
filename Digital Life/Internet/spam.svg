@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-6.552 -18.742) scale(1.2869)">
+<!-- Envelope -->
+  <rect x="12" y="32" width="64" height="44" rx="4" fill="#f5d77e" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Envelope flap -->
+  <polyline points="12,32 44,58 76,32" fill="none" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Warning triangle on envelope -->
+  <polygon points="58,18 72,42 44,42" fill="#e57373" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <text x="58" y="38" font-size="14" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold" text-anchor="middle" fill="#333">!</text>
+  <!-- Lines suggesting text in envelope -->
+  <line x1="22" y1="62" x2="52" y2="62" stroke="#bbb" stroke-width="2" stroke-linecap="round"/>
+  <line x1="22" y1="68" x2="46" y2="68" stroke="#bbb" stroke-width="2" stroke-linecap="round"/>
+</g>
+  </svg>

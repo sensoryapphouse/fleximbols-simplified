@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,3.740) scale(0.9626)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Water -->
+  <rect x="5" y="72" width="90" height="18" fill="#4488BB" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Rocks at base -->
+  <ellipse cx="50" cy="74" rx="20" ry="6" fill="#888" stroke="#555" stroke-width="2"/>
+  <ellipse cx="35" cy="76" rx="12" ry="5" fill="#777" stroke="#555" stroke-width="1.5"/>
+  <ellipse cx="65" cy="76" rx="10" ry="4" fill="#777" stroke="#555" stroke-width="1.5"/>
+  <!-- Tower body - tapered -->
+  <polygon points="38,72 62,72 57,12 43,12" fill="white" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Red stripes -->
+  <polygon points="38,72 62,72 61,60 39,60" fill="#CC3333"/>
+  <polygon points="44,46 56,46 57,34 43,34" fill="#CC3333"/>
+  <!-- Tower outline over stripes -->
+  <polygon points="38,72 62,72 57,12 43,12" fill="none" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Lantern room -->
+  <rect x="40" y="8" width="20" height="8" fill="#FFDD44" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Lantern roof -->
+  <polygon points="36,8 50,2 64,8" fill="#CC3333" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Light beams -->
+  <line x1="50" y1="12" x2="15" y2="35" stroke="#FFEE88" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  <line x1="50" y1="12" x2="85" y2="35" stroke="#FFEE88" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  <line x1="50" y1="12" x2="5" y2="20" stroke="#FFEE88" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+  <!-- Gallery railing -->
+  <line x1="37" y1="8" x2="63" y2="8" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <!-- Door -->
+  <rect x="44" y="60" width="12" height="13" fill="#C8A87A" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3472" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3472)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

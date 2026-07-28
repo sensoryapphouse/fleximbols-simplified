@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-25.353 -19.245) scale(1.5071)">
+<!-- Clock face -->
+  <circle cx="50" cy="46" r="28" fill="#fffdf0" stroke="#333" stroke-width="2.5"/>
+  <!-- Hour markers -->
+  <line x1="50" y1="22" x2="50" y2="27" stroke="#333" stroke-width="2"/>
+  <line x1="50" y1="65" x2="50" y2="70" stroke="#333" stroke-width="2"/>
+  <line x1="26" y1="46" x2="31" y2="46" stroke="#333" stroke-width="2"/>
+  <line x1="69" y1="46" x2="74" y2="46" stroke="#333" stroke-width="2"/>
+  <!-- Clock hands pointing roughly to now (12 and 3) -->
+  <line x1="50" y1="46" x2="50" y2="28" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="46" x2="64" y2="46" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="50" cy="46" r="3" fill="#333"/>
+  <!-- Star/flash around clock to indicate "now" -->
+  <circle cx="50" cy="46" r="30" fill="none" stroke="#f0c030" stroke-width="2" stroke-dasharray="4,4"/>
+</g>
+  </svg>

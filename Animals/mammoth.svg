@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- body -->
+  <ellipse cx="50" cy="58" rx="32" ry="22" fill="#b8956a" stroke="#5c3a1e" stroke-width="2.5"/>
+  <!-- head -->
+  <ellipse cx="22" cy="46" rx="14" ry="13" fill="#b8956a" stroke="#5c3a1e" stroke-width="2.5"/>
+  <!-- trunk -->
+  <path d="M12,52 Q4,64 12,72 Q16,76 18,68" fill="none" stroke="#5c3a1e" stroke-width="3" stroke-linecap="round"/>
+  <!-- tusks -->
+  <path d="M14,54 Q6,58 10,66" fill="none" stroke="#f0e0a0" stroke-width="3" stroke-linecap="round"/>
+  <!-- eye -->
+  <circle cx="18" cy="42" r="2" fill="#333"/>
+  <!-- legs -->
+  <rect x="28" y="76" width="9" height="12" rx="2" fill="#b8956a" stroke="#5c3a1e" stroke-width="2"/>
+  <rect x="42" y="76" width="9" height="12" rx="2" fill="#b8956a" stroke="#5c3a1e" stroke-width="2"/>
+  <rect x="56" y="76" width="9" height="12" rx="2" fill="#b8956a" stroke="#5c3a1e" stroke-width="2"/>
+  <!-- fur lines -->
+  <line x1="35" y1="38" x2="30" y2="50" stroke="#8B6914" stroke-width="1"/>
+  <line x1="48" y1="37" x2="44" y2="50" stroke="#8B6914" stroke-width="1"/>
+  <line x1="62" y1="40" x2="58" y2="52" stroke="#8B6914" stroke-width="1"/>
+</svg>

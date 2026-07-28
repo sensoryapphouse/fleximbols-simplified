@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-3.147 3.652) scale(1.0629)">
+<!-- Body -->
+  <polygon points="50,10 62,55 38,55" fill="#c0c8d8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Middle section -->
+  <rect x="38" y="55" width="24" height="14" rx="3" fill="#a0b0cc" stroke="#333" stroke-width="2.5"/>
+  <!-- Fins -->
+  <polygon points="38,55 28,72 38,69" fill="#7a8faa" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="62,55 72,72 62,69" fill="#7a8faa" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Window -->
+  <circle cx="50" cy="42" r="5" fill="#b8e0f0" stroke="#333" stroke-width="2"/>
+  <!-- Flame -->
+  <ellipse cx="46" cy="73" rx="3" ry="5" fill="#f5a623" stroke="#e07000" stroke-width="1"/>
+  <ellipse cx="54" cy="73" rx="3" ry="5" fill="#f5a623" stroke="#e07000" stroke-width="1"/>
+</g>
+  <g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2908" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2908)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

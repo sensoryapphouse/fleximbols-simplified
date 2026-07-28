@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Water -->
+  <path d="M5 76 Q30 72 55 76 Q75 80 95 74" fill="none" stroke="#2176ae" stroke-width="2" stroke-linecap="round"/>
+  <!-- Hull - long and sleek -->
+  <path d="M8 70 Q50 80 92 70 L88 63 L12 63 Z" fill="#2c3e50" stroke="#111" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Boot stripe -->
+  <line x1="10" y1="67" x2="90" y2="67" stroke="#c0c0c0" stroke-width="1.5"/>
+  <!-- Main deck -->
+  <rect x="13" y="57" width="74" height="7" rx="2" fill="#ecf0f1" stroke="#bbb" stroke-width="1.5"/>
+  <!-- Superstructure level 1 -->
+  <rect x="22" y="47" width="55" height="12" rx="3" fill="#f0f0f0" stroke="#888" stroke-width="2"/>
+  <!-- Superstructure level 2 -->
+  <rect x="30" y="38" width="38" height="11" rx="3" fill="#e8e8e8" stroke="#888" stroke-width="1.5"/>
+  <!-- Bridge/wheelhouse -->
+  <rect x="40" y="30" width="22" height="10" rx="2" fill="#dde" stroke="#888" stroke-width="1.5"/>
+  <!-- Windows level 1 -->
+  <rect x="28" y="50" width="8" height="5" rx="1" fill="#aed6f1" stroke="#555" stroke-width="1"/>
+  <rect x="42" y="50" width="8" height="5" rx="1" fill="#aed6f1" stroke="#555" stroke-width="1"/>
+  <rect x="56" y="50" width="8" height="5" rx="1" fill="#aed6f1" stroke="#555" stroke-width="1"/>
+  <rect x="70" y="50" width="5" height="5" rx="1" fill="#aed6f1" stroke="#555" stroke-width="1"/>
+  <!-- Mast/communications -->
+  <line x1="51" y1="30" x2="51" y2="16" stroke="#666" stroke-width="2" stroke-linecap="round"/>
+  <line x1="44" y1="20" x2="58" y2="20" stroke="#666" stroke-width="1.5"/>
+  <!-- Label -->
+</svg>

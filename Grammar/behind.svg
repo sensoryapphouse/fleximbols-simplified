@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(-117.071 -222.464) scale(1.4587)">
+
+  <!-- Ball drawn FIRST at cx=256 cy=290 — center of box interior -->
+  <circle cx="256" cy="290" r="54" fill="#e74c3c" stroke="#000000" stroke-width="5"/>
+  <circle cx="236" cy="270" r="16" fill="#f7b8b0"/>
+
+  <!-- Canonical OPEN BOX drawn AFTER — front face (y=326-420) covers lower half of ball -->
+  <!-- Interior back wall -->
+  <rect x="140" y="270" width="232" height="44" fill="#7a5028" stroke="#000000" stroke-width="5"/>
+  <!-- Interior floor sloping forward -->
+  <path d="M 140 314 L 372 314 L 388 326 L 124 326 Z" fill="#a06840" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Front face -->
+  <rect x="120" y="326" width="272" height="94" fill="#caa379" stroke="#000000" stroke-width="5"/>
+
+  <!-- Dashed circle outline drawn AFTER box to hint at obscured ball -->
+  <circle cx="256" cy="290" r="54" fill="none" stroke="#000000" stroke-width="5" stroke-dasharray="8,6"/>
+
+</g>
+  </svg>

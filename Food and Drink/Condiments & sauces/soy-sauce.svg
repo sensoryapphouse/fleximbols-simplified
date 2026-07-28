@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- soy sauce bottle - traditional dark bottle -->
+  <!-- cap/stopper -->
+  <rect x="45" y="10" width="10" height="8" rx="2" fill="#555" stroke="#333" stroke-width="2"/>
+  <!-- neck slim -->
+  <rect x="43" y="18" width="14" height="20" rx="3" fill="#4a3020" stroke="#2a1508" stroke-width="2.5"/>
+  <!-- body wide -->
+  <path d="M28,38 Q26,38 26,44 L26,72 Q26,80 50,80 Q74,80 74,72 L74,44 Q74,38 72,38 Z" fill="#3a2010" stroke="#2a1508" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- label band -->
+  <rect x="28" y="50" width="44" height="20" rx="2" fill="#e8d8b0" stroke="#8b7a50" stroke-width="1.5"/>
+  
+  
+  <!-- shine on dark bottle -->
+  <line x1="68" y1="42" x2="68" y2="70" stroke="#6a5040" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+</svg>

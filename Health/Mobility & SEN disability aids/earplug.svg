@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Left earplug -->
+  <ellipse cx="28" cy="44" rx="12" ry="18" fill="#e87730" stroke="#333" stroke-width="2.5"/>
+  <!-- Taper at bottom -->
+  <ellipse cx="28" cy="60" rx="6" ry="6" fill="#c85020" stroke="#333" stroke-width="2"/>
+  <!-- Foam texture lines -->
+  <line x1="20" y1="38" x2="36" y2="38" stroke="#c85020" stroke-width="1" stroke-dasharray="2,2"/>
+  <line x1="18" y1="44" x2="38" y2="44" stroke="#c85020" stroke-width="1" stroke-dasharray="2,2"/>
+  <line x1="20" y1="50" x2="36" y2="50" stroke="#c85020" stroke-width="1" stroke-dasharray="2,2"/>
+  <!-- Right earplug -->
+  <ellipse cx="72" cy="44" rx="12" ry="18" fill="#e87730" stroke="#333" stroke-width="2.5"/>
+  <ellipse cx="72" cy="60" rx="6" ry="6" fill="#c85020" stroke="#333" stroke-width="2"/>
+  <line x1="64" y1="38" x2="80" y2="38" stroke="#c85020" stroke-width="1" stroke-dasharray="2,2"/>
+  <line x1="62" y1="44" x2="82" y2="44" stroke="#c85020" stroke-width="1" stroke-dasharray="2,2"/>
+  <line x1="64" y1="50" x2="80" y2="50" stroke="#c85020" stroke-width="1" stroke-dasharray="2,2"/>
+  <!-- Connecting string/cord -->
+  <path d="M28,66 Q50,72 72,66" fill="none" stroke="#888" stroke-width="1.5" stroke-dasharray="4,2" stroke-linecap="round"/>
+  <!-- Sound waves being blocked -->
+  <line x1="50" y1="28" x2="50" y2="22" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="44" y1="26" x2="41" y2="21" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="56" y1="26" x2="59" y2="21" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

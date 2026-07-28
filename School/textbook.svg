@@ -1,0 +1,22 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Textbook: thick, heavy academic book -->
+  <rect x="14" y="10" width="14" height="80" rx="2" fill="#1a237e" stroke="#333" stroke-width="2.5"/>
+  <rect x="14" y="8" width="72" height="84" rx="3" fill="#283593" stroke="#333" stroke-width="2.5"/>
+  <rect x="24" y="13" width="59" height="74" rx="2" fill="#e8eaf6" stroke="#9fa8da" stroke-width="1.5"/>
+  <!-- Subject icon: math/science formula -->
+  <rect x="27" y="16" width="53" height="22" rx="1" fill="#1a237e"/>
+  <!-- Formula text -->
+  <text x="30" y="30" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" fill="#fff" font-weight="bold">E=mc²</text>
+  <!-- Diagrams/figures -->
+  <circle cx="40" cy="55" r="10" fill="none" stroke="#3949ab" stroke-width="2"/>
+  <line x1="30" y1="55" x2="50" y2="55" stroke="#3949ab" stroke-width="1.5"/>
+  <line x1="40" y1="45" x2="40" y2="65" stroke="#3949ab" stroke-width="1.5"/>
+  <!-- Text columns -->
+  <line x1="55" y1="44" x2="77" y2="44" stroke="#9fa8da" stroke-width="1"/>
+  <line x1="55" y1="50" x2="77" y2="50" stroke="#9fa8da" stroke-width="1"/>
+  <line x1="55" y1="56" x2="77" y2="56" stroke="#9fa8da" stroke-width="1"/>
+  <line x1="55" y1="62" x2="77" y2="62" stroke="#9fa8da" stroke-width="1"/>
+  <line x1="27" y1="68" x2="77" y2="68" stroke="#9fa8da" stroke-width="1"/>
+  <line x1="27" y1="74" x2="77" y2="74" stroke="#9fa8da" stroke-width="1"/>
+  <line x1="27" y1="80" x2="65" y2="80" stroke="#9fa8da" stroke-width="1"/>
+</svg>

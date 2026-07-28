@@ -1,0 +1,23 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-13.683 -12.189) scale(1.2749)">
+<!-- Water butt: tall green/dark barrel on stand with tap -->
+  <!-- Stand legs -->
+  <line x1="32" y1="77" x2="28" y2="84" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <line x1="68" y1="77" x2="72" y2="84" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <line x1="28" y1="84" x2="72" y2="84" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Barrel body (tall, slightly tapered) -->
+  <path d="M28,25 Q22,50 25,77 L75,77 Q78,50 72,25Z" fill="#4a7c59" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Top lid (open top for rain) -->
+  <ellipse cx="50" cy="25" rx="22" ry="5" fill="#3a6649" stroke="#333" stroke-width="2"/>
+  <!-- Barrel hoops -->
+  <ellipse cx="50" cy="42" rx="22" ry="4" fill="none" stroke="#2a4a35" stroke-width="2"/>
+  <ellipse cx="50" cy="60" rx="23" ry="4" fill="none" stroke="#2a4a35" stroke-width="2"/>
+  <!-- Tap/spigot at bottom -->
+  <rect x="44" y="71" width="12" height="7" rx="2" fill="#888" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="56" y1="74" x2="63" y2="74" stroke="#888" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Handle (turn knob) -->
+  <circle cx="66" cy="74" r="3" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <!-- Water drop below tap -->
+  <path d="M52,78 Q52,82 50,84 Q48,82 48,78Z" fill="#4488cc"/>
+</g>
+  </svg>

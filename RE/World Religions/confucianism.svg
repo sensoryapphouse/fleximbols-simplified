@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Confucianism: scholar figure with hands together in sleeves -->
+  <!-- Robe, shoulders touch head bottom -->
+  <path d="M30,88 Q28,56 50,52 Q72,56 70,88 Z" fill="#34699c" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Robe centre seam -->
+  <line x1="50" y1="54" x2="50" y2="88" stroke="#27496d" stroke-width="2"/>
+  <!-- Sash, kept inside the robe -->
+  <path d="M36,68 Q50,75 64,68" fill="none" stroke="#c0392b" stroke-width="4" stroke-linecap="round"/>
+  <!-- Wide sleeves meeting in the middle (hands clasped inside) -->
+  <path d="M33,60 Q40,72 50,72 Q60,72 67,60" fill="none" stroke="#34699c" stroke-width="9" stroke-linecap="round"/>
+  <!-- Clasped-hands bump where sleeves meet -->
+  <ellipse cx="50" cy="72" rx="7" ry="5" fill="#3d77ad" stroke="#27496d" stroke-width="2"/>
+  <!-- Head, connected to shoulders -->
+  <circle cx="50" cy="38" r="12" fill="#f5c5a3" stroke="#333" stroke-width="2.5"/>
+  <!-- Scholar's cap -->
+  <path d="M38,30 Q50,20 62,30 L60,25 Q50,18 40,25 Z" fill="#2c3e50" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="40" y="29" width="20" height="4" rx="1.5" fill="#2c3e50" stroke="#333" stroke-width="1.5"/>
+  <!-- Calm face -->
+  <circle cx="45" cy="39" r="1.6" fill="#333"/>
+  <circle cx="55" cy="39" r="1.6" fill="#333"/>
+  <path d="M45,44 Q50,47 55,44" fill="none" stroke="#333" stroke-width="1.6" stroke-linecap="round"/>
+  <!-- Long beard -->
+  <path d="M44,48 Q50,60 56,48" fill="#cbb089" stroke="#a8916a" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,11.590) scale(0.8841)">
+  <g transform="translate(-16.784 -32.110) scale(1.3357)">
+<!-- Handle -->
+  <rect x="44" y="50" width="12" height="38" rx="4" fill="#999" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Handle grip lines -->
+  <line x1="44" y1="60" x2="56" y2="60" stroke="#666" stroke-width="1.5"/>
+  <line x1="44" y1="67" x2="56" y2="67" stroke="#666" stroke-width="1.5"/>
+  <line x1="44" y1="74" x2="56" y2="74" stroke="#666" stroke-width="1.5"/>
+  <!-- Blade head -->
+  <rect x="28" y="35" width="44" height="18" rx="4" fill="#c0d0e0" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Blade strip -->
+  <rect x="28" y="42" width="44" height="5" fill="#aabbc8" stroke="#555" stroke-width="1"/>
+  <!-- Blade edge -->
+  <rect x="28" y="47" width="44" height="3" fill="#d0e8f0" stroke="#999" stroke-width="1"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2366" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2366)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

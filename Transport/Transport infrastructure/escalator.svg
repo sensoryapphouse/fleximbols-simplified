@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Escalator body: two rails going bottom-left to top-right -->
+  <!-- Outer rail (grey belt) -->
+  <path d="M 30 420 Q 30 408 40 408 L 140 408 Q 150 408 150 420 L 150 470 Q 150 482 140 482 L 40 482 Q 30 482 30 470 Z" fill="#C9CFD6" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Top platform -->
+  <path d="M 362 70 Q 362 58 372 58 L 472 58 Q 482 58 482 70 L 482 122 Q 482 134 472 134 L 372 134 Q 362 134 362 122 Z" fill="#C9CFD6" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Escalator belt / ramp -->
+  <path d="M 120 418 Q 120 408 130 400 L 400 90 Q 412 78 424 90 L 442 108 Q 454 120 442 132 L 172 442 Q 162 452 154 444 L 120 418 Z" fill="#B7D8F0" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Steps on escalator -->
+  <g stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round">
+    <path d="M 148 416 Q 148 412 152 412 L 188 412 Q 192 412 192 416 L 192 450 Q 192 454 188 454 L 152 454 Q 148 454 148 450 Z" fill="#FFFFFF"/>
+    <path d="M 192 368 Q 192 364 196 364 L 232 364 Q 236 364 236 368 L 236 402 Q 236 406 232 406 L 196 406 Q 192 406 192 402 Z" fill="#FFFFFF"/>
+    <path d="M 236 320 Q 236 316 240 316 L 276 316 Q 280 316 280 320 L 280 354 Q 280 358 276 358 L 240 358 Q 236 358 236 354 Z" fill="#FFFFFF"/>
+    <path d="M 280 272 Q 280 268 284 268 L 320 268 Q 324 268 324 272 L 324 306 Q 324 310 320 310 L 284 310 Q 280 310 280 306 Z" fill="#FFFFFF"/>
+    <path d="M 324 224 Q 324 220 328 220 L 364 220 Q 368 220 368 224 L 368 258 Q 368 262 364 262 L 328 262 Q 324 262 324 258 Z" fill="#FFFFFF"/>
+    <path d="M 368 176 Q 368 172 372 172 L 408 172 Q 412 172 412 176 L 412 210 Q 412 214 408 214 L 372 214 Q 368 214 368 210 Z" fill="#FFFFFF"/>
+  </g>
+  <!-- Handrail lines -->
+  <path d="M 138 388 Q 264 258 418 104" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M 138 388 Q 264 258 418 104" fill="none" stroke="#C9CFD6" stroke-width="8" stroke-linecap="round"/>
+  <!-- Directional arrow angled up-right (45 degrees, pointing top-right) -->
+  <g transform="translate(380 60) rotate(-45)">
+    <polygon points="0,-42 12,-14 6,-14 6,28 -6,28 -6,-14 -12,-14" fill="#4CAF78" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  </g>
+</svg>

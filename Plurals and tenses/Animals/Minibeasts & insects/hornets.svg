@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Hornet - large wasp, bold yellow-black -->
+  <!-- Wings - large and papery -->
+  <ellipse cx="36" cy="40" rx="20" ry="11" fill="#c8e0f8" stroke="#406090" stroke-width="1.5" opacity="0.85"/>
+  <ellipse cx="64" cy="40" rx="20" ry="11" fill="#c8e0f8" stroke="#406090" stroke-width="1.5" opacity="0.85"/>
+  <ellipse cx="38" cy="50" rx="15" ry="7" fill="#c8e0f8" stroke="#406090" stroke-width="1" opacity="0.7"/>
+  <ellipse cx="62" cy="50" rx="15" ry="7" fill="#c8e0f8" stroke="#406090" stroke-width="1" opacity="0.7"/>
+  <!-- Narrow waist (petiole) -->
+  <rect x="46" y="54" width="8" height="6" rx="3" fill="#8a2010" stroke="#5a1008" stroke-width="1.5"/>
+  <!-- Abdomen - large, bold pattern -->
+  <ellipse cx="50" cy="70" rx="18" ry="14" fill="#e8b818" stroke="#806010" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Bold black and reddish-brown stripes (hornet colours) -->
+  <path d="M33 64 Q50 60 67 64" fill="none" stroke="#2a1408" stroke-width="6"/>
+  <path d="M32 73 Q50 69 68 73" fill="none" stroke="#2a1408" stroke-width="6"/>
+  <path d="M35 80 Q50 84 65 80 Q58 82 50 82 Q42 82 35 80Z" fill="#2a1408" stroke="#2a1408" stroke-width="1"/>
+  <!-- Sharp stinger -->
+  <path d="M50 84 Q52 90 50 93 Q48 90 50 84Z" fill="#2a1408" stroke="#1a0808" stroke-width="1"/>
+  <!-- Thorax - robust -->
+  <ellipse cx="50" cy="52" rx="12" ry="10" fill="#2a1408" stroke="#1a0808" stroke-width="2"/>
+  <!-- Head - large -->
+  <circle cx="50" cy="40" r="10" fill="#e8b818" stroke="#806010" stroke-width="2"/>
+  <!-- Head pattern -->
+  <path d="M40 36 Q50 32 60 36" fill="none" stroke="#2a1408" stroke-width="4"/>
+  <!-- Large compound eyes -->
+  <ellipse cx="42" cy="40" rx="5" ry="6" fill="#2a1408" stroke="#1a0808" stroke-width="1.5"/>
+  <ellipse cx="58" cy="40" rx="5" ry="6" fill="#2a1408" stroke="#1a0808" stroke-width="1.5"/>
+  <!-- Antennae -->
+  <path d="M46 31 Q42 22 40 16" fill="none" stroke="#2a1408" stroke-width="2" stroke-linecap="round"/>
+  <path d="M54 31 Q58 22 60 16" fill="none" stroke="#2a1408" stroke-width="2" stroke-linecap="round"/>
+  <!-- Mandibles -->
+  <path d="M44 46 L38 50 M56 46 L62 50" stroke="#8a4010" stroke-width="2" stroke-linecap="round"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl246" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl246)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

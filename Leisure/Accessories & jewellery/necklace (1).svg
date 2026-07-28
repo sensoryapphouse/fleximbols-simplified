@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Chain arc -->
+  <path d="M20 30 Q50 70 80 30" stroke="#C0A000" stroke-width="3" fill="none" stroke-linecap="round" stroke-dasharray="4,3"/>
+  <!-- Clasp top left -->
+  <circle cx="20" cy="30" r="4" fill="#C8A000" stroke="#7A6000" stroke-width="2"/>
+  <!-- Clasp top right -->
+  <circle cx="80" cy="30" r="4" fill="#C8A000" stroke="#7A6000" stroke-width="2"/>
+  <!-- Pendant -->
+  <polygon points="50,68 56,78 50,84 44,78" fill="#9B59B6" stroke="#6C3483" stroke-width="2.5"/>
+  <!-- Pendant facet -->
+  <polygon points="50,68 56,78 50,74 44,78" fill="#BB8FD4" stroke="none"/>
+  <!-- Pendant connector -->
+  <line x1="50" y1="62" x2="50" y2="68" stroke="#C0A000" stroke-width="2.5"/>
+  <!-- Chain beads suggestion -->
+  <circle cx="35" cy="55" r="3" fill="#C8A000" stroke="#7A6000" stroke-width="1.5"/>
+  <circle cx="65" cy="55" r="3" fill="#C8A000" stroke="#7A6000" stroke-width="1.5"/>
+  <!-- Label -->
+</svg>

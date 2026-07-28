@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Surface being scrubbed -->
+  <rect x="10" y="65" width="80" height="16" rx="3" fill="#e8e8e8" stroke="#888" stroke-width="1.5"/>
+  <!-- Scrub brush -->
+  <rect x="28" y="40" width="44" height="18" rx="4" fill="#4a90d9" stroke="#333" stroke-width="2"/>
+  <!-- Brush bristles -->
+  <line x1="34" y1="58" x2="34" y2="66" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="40" y1="58" x2="40" y2="66" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="46" y1="58" x2="46" y2="66" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="52" y1="58" x2="52" y2="66" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="58" x2="58" y2="66" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="64" y1="58" x2="64" y2="66" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Hand on brush -->
+  <path d="M38,40 Q36,30 40,22 Q44,16 50,16 Q56,16 60,22 Q64,30 62,40" fill="#f5c5a3" stroke="#333" stroke-width="2"/>
+  <!-- Scrubbing motion arrows -->
+  <path d="M18,48 L12,48 M14,44 L10,48 L14,52" stroke="#e05c2a" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M82,48 L88,48 M86,44 L90,48 L86,52" stroke="#e05c2a" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Soap bubbles -->
+  <circle cx="20" cy="62" r="3" fill="none" stroke="#7cb9e8" stroke-width="1.5"/>
+  <circle cx="78" cy="60" r="2.5" fill="none" stroke="#7cb9e8" stroke-width="1.5"/>
+  <circle cx="14" cy="58" r="2" fill="none" stroke="#7cb9e8" stroke-width="1.5"/>
+</svg>

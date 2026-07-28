@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Stone bowl -->
+  <ellipse cx="50" cy="78" rx="40" ry="8" fill="#888" stroke="#555" stroke-width="2"/>
+  <path d="M10 78 L14 42 Q50 30 86 42 L90 78 Z" fill="#777" stroke="#555" stroke-width="2.5"/>
+  <!-- Rice base -->
+  <ellipse cx="50" cy="42" rx="34" ry="12" fill="#f5f0e8" stroke="#ccc" stroke-width="1.5"/>
+  <!-- Toppings arranged in sections -->
+  <!-- Spinach (green) -->
+  <path d="M50 42 L50 30 Q38 30 32 38 Q36 44 50 42 Z" fill="#6ab04c"/>
+  <!-- Carrots (orange) -->
+  <path d="M50 42 L68 30 Q74 38 68 46 Q60 48 50 42 Z" fill="#f39c12"/>
+  <!-- Bean sprouts (white/yellow) -->
+  <path d="M50 42 L50 54 Q38 54 32 48 Q34 40 50 42 Z" fill="#f5f0e8" stroke="#ddd" stroke-width="0.5"/>
+  <!-- Ground beef (brown) -->
+  <path d="M50 42 L68 54 Q62 60 50 54 Q42 54 40 50 Q42 44 50 42 Z" fill="#8B4513"/>
+  <!-- Egg yolk in center -->
+  <circle cx="50" cy="42" r="7" fill="#f5f0e8" stroke="#ddd" stroke-width="1"/>
+  <circle cx="50" cy="42" r="4" fill="#f39c12" stroke="#e67e22" stroke-width="1"/>
+  <!-- Gochujang (red paste) dot -->
+  <circle cx="50" cy="42" r="2" fill="#c0392b"/>
+</svg>

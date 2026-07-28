@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Leaf shape -->
+  <path d="M50 20 Q75 25 72 50 Q70 70 50 78 Q30 70 28 50 Q25 25 50 20Z" fill="#a0d870" stroke="#3a7020" stroke-width="2.5"/>
+  <!-- Leaf vein -->
+  <line x1="50" y1="22" x2="50" y2="75" stroke="#3a7020" stroke-width="2" stroke-linecap="round"/>
+  <line x1="50" y1="40" x2="62" y2="52" stroke="#3a7020" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="52" x2="62" y2="62" stroke="#3a7020" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="40" x2="38" y2="52" stroke="#3a7020" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="52" x2="38" y2="62" stroke="#3a7020" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Circular arrow (compostable) -->
+  <path d="M50 10 Q78 10 82 35" fill="none" stroke="#3a7020" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="82,30 86,38 78,37" fill="#3a7020"/>
+  <path d="M50 88 Q22 88 18 63" fill="none" stroke="#3a7020" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="18,68 14,60 22,61" fill="#3a7020"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ground -->
+  <rect x="5" y="74" width="90" height="8" rx="2" fill="#a5d6a7" stroke="#388e3c" stroke-width="1.5"/>
+  <!-- Pivot stand -->
+  <polygon points="50,74 43,58 57,58" fill="#78909c" stroke="#546e7a" stroke-width="2"/>
+  <rect x="44" y="55" width="12" height="5" rx="2" fill="#546e7a"/>
+  <!-- Plank (tilted) -->
+  <rect x="10" y="42" width="80" height="8" rx="3" transform="rotate(-8 50 46)" fill="#ef9a9a" stroke="#c62828" stroke-width="2.5"/>
+  <!-- Left handle -->
+  <line x1="18" y1="47" x2="18" y2="36" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Right handle -->
+  <line x1="82" y1="51" x2="82" y2="40" stroke="#c62828" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Left person (up) -->
+  <circle cx="18" cy="31" r="7" fill="#ffcc80" stroke="#e65100" stroke-width="2"/>
+  <path d="M12,42 Q12,37 18,37 Q24,37 24,42" fill="#42a5f5" stroke="#1565c0" stroke-width="1.5"/>
+  <!-- Right person (down) -->
+  <circle cx="82" cy="36" r="7" fill="#ffcc80" stroke="#e65100" stroke-width="2"/>
+  <path d="M76,47 Q76,42 82,42 Q88,42 88,47" fill="#66bb6a" stroke="#388e3c" stroke-width="1.5"/>
+</svg>

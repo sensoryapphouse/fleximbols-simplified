@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-17.635 -17.635) scale(1.3540)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="100" height="100" preserveAspectRatio="xMidYMid meet">
+<circle cx="145" cy="120" r="98" fill="#BFD7E5" stroke="#303030" stroke-width="4"></circle>
+<path d="M145 218 Q65 200 60 130 Q65 200 145 205 Q225 200 230 130 Q225 200 145 218 Z" fill="#8FAFCC" opacity="0.5"></path>
+<g transform="translate(145.000 120.000) scale(0.160000 -0.160000) translate(-278.000 -350.000)"><path d="M517 578V700H39V568H371Q271 447 209.5 302.0Q148 157 136 0H288Q289 70 304.5 151.0Q320 232 348.5 311.0Q377 390 419.5 460.0Q462 530 517 578Z" fill="#303030"/></g>
+</svg>
+</g>
+  </svg>

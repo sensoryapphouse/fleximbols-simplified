@@ -1,0 +1,23 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Cow body -->
+  <ellipse cx="55" cy="60" rx="28" ry="18" fill="#f0f0f0" stroke="#222" stroke-width="2.5"/>
+  <!-- Head -->
+  <ellipse cx="83" cy="50" rx="13" ry="11" fill="#f0f0f0" stroke="#222" stroke-width="2.5"/>
+  <!-- Snout -->
+  <ellipse cx="92" cy="54" rx="6" ry="5" fill="#f0d0c0" stroke="#222" stroke-width="2"/>
+  <!-- Eye -->
+  <circle cx="83" cy="46" r="2" fill="#222"/>
+  <!-- Ear -->
+  <ellipse cx="78" cy="40" rx="4" ry="6" fill="#f0f0f0" stroke="#222" stroke-width="2"/>
+  <!-- Legs -->
+  <rect x="38" y="75" width="8" height="18" rx="3" fill="#f0f0f0" stroke="#222" stroke-width="2"/>
+  <rect x="50" y="75" width="8" height="18" rx="3" fill="#f0f0f0" stroke="#222" stroke-width="2"/>
+  <rect x="62" y="75" width="8" height="18" rx="3" fill="#f0f0f0" stroke="#222" stroke-width="2"/>
+  <!-- Tail -->
+  <path d="M 27 55 Q 15 50 18 65" stroke="#222" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Patch -->
+  <ellipse cx="48" cy="58" rx="10" ry="8" fill="#c0a880" stroke="#b09060" stroke-width="1"/>
+  <!-- Grass being eaten -->
+  <line x1="95" y1="62" x2="95" y2="52" stroke="#5a9a40" stroke-width="3" stroke-linecap="round"/>
+  <line x1="99" y1="63" x2="97" y2="53" stroke="#5a9a40" stroke-width="3" stroke-linecap="round"/>
+</svg>

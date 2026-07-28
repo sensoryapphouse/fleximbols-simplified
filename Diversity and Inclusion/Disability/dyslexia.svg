@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Open book -->
+  <path d="M 15,30 L 15,72 Q 15,76 19,76 L 50,76 L 50,30 Q 36,26 15,30 Z" fill="#f5f0e8" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 85,30 L 85,72 Q 85,76 81,76 L 50,76 L 50,30 Q 64,26 85,30 Z" fill="#f5f0e8" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Spine -->
+  <line x1="50" y1="28" x2="50" y2="76" stroke="#888" stroke-width="2"/>
+  <!-- Letters on left page - some upside down/reversed -->
+  <text x="24" y="45" font-size="12" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#6699cc" font-weight="bold">b</text>
+  <text x="34" y="45" font-size="12" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#e84444" font-weight="bold" transform="scale(-1,1) translate(-80,0)">d</text>
+  <text x="28" y="60" font-size="12" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#f0a050" font-weight="bold">p</text>
+  <!-- Letters on right page - some rearranging with arrows -->
+  <text x="57" y="45" font-size="10" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#7ab648" font-weight="bold">was</text>
+  <text x="57" y="60" font-size="10" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#a888cc" font-weight="bold">saw</text>
+  <!-- Curved swap arrow between was/saw -->
+  <path d="M 62,48 C 60,52 62,56 64,57" fill="none" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <polyline points="63,55 64,57 66,54" fill="none" stroke="#888" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Coloured overlay strip (coloured overlays help dyslexia) -->
+  <rect x="15" y="36" width="35" height="6" fill="#c8e8f8" opacity="0.5" rx="1"/>
+</svg>

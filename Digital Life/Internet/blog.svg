@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-11.768 -11.837) scale(1.4056)">
+<!-- Page -->
+  <rect x="18" y="12" width="52" height="64" rx="3" ry="3" fill="#fef9e7" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Text lines -->
+  <line x1="26" y1="26" x2="62" y2="26" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <line x1="26" y1="34" x2="62" y2="34" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <line x1="26" y1="42" x2="62" y2="42" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <line x1="26" y1="50" x2="50" y2="50" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <!-- Pen/pencil in corner -->
+  <rect x="55" y="55" width="8" height="22" rx="1" transform="rotate(-45,59,66)" fill="#f0d080" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="55,73 62,66 59,77" fill="#333"/>
+</g>
+  </svg>

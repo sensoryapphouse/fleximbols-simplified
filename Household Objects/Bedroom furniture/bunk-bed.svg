@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Left post -->
+  <rect x="15" y="12" width="7" height="72" rx="2" fill="#c0764a" stroke="#555" stroke-width="2"/>
+  <!-- Right post -->
+  <rect x="78" y="12" width="7" height="72" rx="2" fill="#c0764a" stroke="#555" stroke-width="2"/>
+  <!-- Top bunk platform -->
+  <rect x="15" y="28" width="70" height="6" rx="1" fill="#a0785a" stroke="#555" stroke-width="2"/>
+  <!-- Top mattress -->
+  <rect x="18" y="16" width="64" height="12" rx="2" fill="#7bbfde" stroke="#444" stroke-width="2"/>
+  <!-- Top pillow -->
+  <rect x="23" y="18" width="12" height="8" rx="2" fill="#f5f0e8" stroke="#555" stroke-width="1.5"/>
+  <!-- Bottom bunk platform -->
+  <rect x="15" y="62" width="70" height="6" rx="1" fill="#a0785a" stroke="#555" stroke-width="2"/>
+  <!-- Bottom mattress -->
+  <rect x="18" y="50" width="64" height="12" rx="2" fill="#7bbfde" stroke="#444" stroke-width="2"/>
+  <!-- Bottom pillow -->
+  <rect x="23" y="52" width="12" height="8" rx="2" fill="#f5f0e8" stroke="#555" stroke-width="1.5"/>
+  <!-- Ladder -->
+  <line x1="75" y1="28" x2="75" y2="68" stroke="#555" stroke-width="2"/>
+  <line x1="72" y1="38" x2="78" y2="38" stroke="#555" stroke-width="2"/>
+  <line x1="72" y1="48" x2="78" y2="48" stroke="#555" stroke-width="2"/>
+  <line x1="72" y1="58" x2="78" y2="58" stroke="#555" stroke-width="2"/>
+  <!-- Floor -->
+  <line x1="10" y1="84" x2="90" y2="84" stroke="#555" stroke-width="2.5"/>
+</svg>

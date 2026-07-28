@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(29.949 8.026) scale(0.9125)">
+<!-- either = two circles with forked/diverging arrow -->
+  <circle cx="22" cy="26" r="13" fill="#cce0ff" stroke="#333" stroke-width="2"/>
+  <circle cx="22" cy="66" r="13" fill="#f5a623" stroke="#333" stroke-width="2"/>
+  <!-- fork arrow from right -->
+  <line x1="72" y1="46" x2="50" y2="46" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="46" x2="36" y2="28" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="40,24 32,22 33,32" fill="#333"/>
+  <line x1="50" y1="46" x2="36" y2="64" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="40,68 32,70 33,60" fill="#333"/>
+</g>
+  </svg>

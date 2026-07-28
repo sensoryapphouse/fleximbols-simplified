@@ -1,0 +1,30 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Patent: document with P badge + lightbulb (invention) -->
+  <!-- Document -->
+  <rect x="10" y="6" width="55" height="75" rx="4" fill="#f5f0e8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <polygon points="53,6 65,6 65,18" fill="#ddd8c8" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- PATENT header -->
+  <rect x="15" y="12" width="44" height="10" rx="2" fill="#5b4a8a" stroke="#333" stroke-width="1.5"/>
+  
+  <!-- Lines -->
+  <line x1="15" y1="30" x2="60" y2="30" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="15" y1="38" x2="60" y2="38" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="15" y1="46" x2="60" y2="46" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="15" y1="54" x2="44" y2="54" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Signature -->
+  <line x1="13" y1="72" x2="58" y2="72" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M15,69 Q20,64 25,69 Q30,74 35,69" fill="none" stroke="#2255aa" stroke-width="2" stroke-linecap="round"/>
+  <!-- Lightbulb (invention) -->
+  <path d="M78,18 Q88,18 88,30 Q88,40 82,44 L82,52 L72,52 L72,44 Q66,40 66,30 Q66,18 76,18" fill="#e8c84a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="72" y="52" width="10" height="4" rx="1" fill="#c8c8c8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="73" y="56" width="8" height="4" rx="1" fill="#c8c8c8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="74" y="60" width="6" height="3" rx="1" fill="#c8c8c8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Filament -->
+  <path d="M72,36 Q77,28 82,36" fill="none" stroke="#e89020" stroke-width="2" stroke-linecap="round"/>
+  <!-- Shine rays -->
+  <line x1="77" y1="10" x2="77" y2="14" stroke="#e8c84a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="91" y1="16" x2="88" y2="19" stroke="#e8c84a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="94" y1="28" x2="90" y2="28" stroke="#e8c84a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="64" y1="16" x2="67" y2="19" stroke="#e8c84a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="61" y1="28" x2="65" y2="28" stroke="#e8c84a" stroke-width="2" stroke-linecap="round"/>
+</svg>

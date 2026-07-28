@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,9.090) scale(0.9091)">
+<!-- Canopy -->
+  <path d="M10 50 Q10 18 50 15 Q90 18 90 50 Z" fill="#4A90D9" stroke="#1A5C9A" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Canopy segments -->
+  <path d="M50 15 L50 50" stroke="#1A5C9A" stroke-width="1.5"/>
+  <path d="M30 17 L30 50" stroke="#1A5C9A" stroke-width="1.5"/>
+  <path d="M70 17 L70 50" stroke="#1A5C9A" stroke-width="1.5"/>
+  <!-- Scalloped edge -->
+  <path d="M10 50 Q20 58 30 50 Q40 58 50 50 Q60 58 70 50 Q80 58 90 50" stroke="#1A5C9A" stroke-width="2" fill="none"/>
+  <!-- Handle shaft -->
+  <line x1="50" y1="50" x2="50" y2="82" stroke="#5C3A1E" stroke-width="3" stroke-linecap="round"/>
+  <!-- Curved handle -->
+  <path d="M50 82 Q50 90 43 90 Q36 90 36 84" stroke="#5C3A1E" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Tip -->
+  <circle cx="50" cy="16" r="3" fill="#1A5C9A"/>
+  <!-- Label -->
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl771" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl771)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

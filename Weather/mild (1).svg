@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Calm gentle waves on a plate -->
+  <ellipse cx="50" cy="68" rx="34" ry="11" fill="#f0e8d0" stroke="#8a7050" stroke-width="2.5"/>
+  <ellipse cx="50" cy="63" rx="26" ry="7" fill="#ffd9a0"/>
+  <!-- Gentle undulating waves above (calm, mild) -->
+  <path d="M22 50 Q30 44 38 50 Q46 56 54 50 Q62 44 70 50 Q74 53 78 50" fill="none" stroke="#d4a060" stroke-width="2" stroke-linecap="round"/>
+  <path d="M25 40 Q33 35 41 40 Q49 45 57 40 Q65 35 73 40" fill="none" stroke="#d4a060" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M28 30 Q34 26 40 30 Q46 34 52 30 Q58 26 64 30 Q68 33 72 30" fill="none" stroke="#e8c080" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ground -->
+  <ellipse cx="50" cy="88" rx="36" ry="5" fill="#c8b878" stroke="#a09858" stroke-width="1.5"/>
+  <!-- Short tail: fanned -->
+  <path d="M66,58 Q74,52 76,46" stroke="#8a6838" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M66,62 Q76,58 78,52" stroke="#8a6838" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M66,65 Q76,64 78,60" stroke="#8a6838" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Body: very round plump -->
+  <ellipse cx="48" cy="64" rx="22" ry="18" fill="#c8a060" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Side feather bars: orange-red chestnut -->
+  <path d="M30,60 Q36,56 42,60" stroke="#c04820" stroke-width="2" fill="none"/>
+  <path d="M28,64 Q34,60 40,64" stroke="#c04820" stroke-width="2" fill="none"/>
+  <path d="M28,68 Q34,64 40,68" stroke="#c04820" stroke-width="2" fill="none"/>
+  <!-- Belly: chestnut horseshoe -->
+  <path d="M36,72 Q48,76 60,72" stroke="#8a4020" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Wing mottling -->
+  <path d="M46,60 Q52,56 58,60" stroke="#8a7040" stroke-width="1.2" fill="none"/>
+  <path d="M50,64 Q56,60 62,64" stroke="#8a7040" stroke-width="1.2" fill="none"/>
+  <path d="M50,68 Q56,64 62,68" stroke="#8a7040" stroke-width="1.2" fill="none"/>
+  <!-- Head: round, grey/brown -->
+  <ellipse cx="30" cy="52" rx="13" ry="12" fill="#9a8870" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Orange-red face -->
+  <ellipse cx="26" cy="54" rx="8" ry="7" fill="#d06020" stroke="#444" stroke-width="1.5"/>
+  <!-- Eye: red-ringed -->
+  <circle cx="24" cy="50" r="3.5" fill="#cc2020" stroke="#aa0000" stroke-width="1.5"/>
+  <circle cx="24" cy="50" r="2" fill="#222"/>
+  <circle cx="23" cy="49" r="0.7" fill="white"/>
+  <!-- Bill: short stubby -->
+  <path d="M18,53 Q14,53 13,56 Q15,58 20,57" fill="#c8a020" stroke="#333" stroke-width="1.5"/>
+  <!-- Legs -->
+  <line x1="40" y1="81" x2="34" y2="87" stroke="#888" stroke-width="2"/>
+  <line x1="44" y1="82" x2="42" y2="88" stroke="#888" stroke-width="2"/>
+  <line x1="54" y1="82" x2="52" y2="88" stroke="#888" stroke-width="2"/>
+  <line x1="58" y1="81" x2="64" y2="87" stroke="#888" stroke-width="2"/>
+</svg>

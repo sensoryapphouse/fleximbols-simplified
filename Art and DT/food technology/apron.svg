@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Neck strap -->
+  <path d="M38,15 Q50,10 62,15" fill="none" stroke="#3A6EA8" stroke-width="3" stroke-linecap="round"/>
+  <!-- Bib top -->
+  <rect x="34" y="15" width="32" height="22" rx="3" fill="#5B8CC8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Waist ties -->
+  <line x1="34" y1="37" x2="14" y2="44" stroke="#3A6EA8" stroke-width="3" stroke-linecap="round"/>
+  <line x1="66" y1="37" x2="86" y2="44" stroke="#3A6EA8" stroke-width="3" stroke-linecap="round"/>
+  <!-- Skirt -->
+  <path d="M24,44 L22,80 Q50,84 78,80 L76,44 Z" fill="#5B8CC8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Pocket -->
+  <rect x="40" y="58" width="20" height="14" rx="2" fill="#3A6EA8" stroke="#333" stroke-width="2"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Bowl -->
+  <path d="M15 57 Q15 80 50 80 Q85 80 85 57 Z" fill="#3a7a20" stroke="#1a4a10" stroke-width="2"/>
+  <ellipse cx="50" cy="57" rx="35" ry="11" fill="#4a8a28" stroke="#1a4a10" stroke-width="2"/>
+  <!-- Parsley base (vivid green) -->
+  <ellipse cx="50" cy="53" rx="29" ry="9" fill="#2e6a18" stroke="#1a4a10" stroke-width="1.5"/>
+  <!-- Tomato pieces (red) -->
+  <circle cx="40" cy="50" r="5" fill="#e03028" stroke="#8B1010" stroke-width="1.5"/>
+  <circle cx="58" cy="48" r="4.5" fill="#e03028" stroke="#8B1010" stroke-width="1.5"/>
+  <!-- Bulgur wheat (pale) -->
+  <ellipse cx="50" cy="55" rx="8" ry="4" fill="#d4c080" stroke="#8B8040" stroke-width="1"/>
+  <!-- Lemon squeeze (yellow) -->
+  <path d="M38 56 Q42 52 46 56" fill="none" stroke="#e8d020" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cucumber bits -->
+  <circle cx="44" cy="54" r="2.5" fill="#5aaa30" stroke="#2a6010" stroke-width="1"/>
+  <circle cx="60" cy="55" r="2.5" fill="#5aaa30" stroke="#2a6010" stroke-width="1"/>
+</svg>

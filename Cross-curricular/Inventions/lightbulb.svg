@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Bulb globe -->
+  <circle cx="50" cy="40" r="26" fill="#fff9c4" stroke="#555" stroke-width="2.5"/>
+  <!-- Filament -->
+  <path d="M44 40 Q46 34 50 34 Q54 34 56 40" stroke="#e8a000" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Bulb base -->
+  <rect x="40" y="63" width="20" height="6" rx="1" fill="#ccc" stroke="#555" stroke-width="2"/>
+  <rect x="42" y="69" width="16" height="5" rx="1" fill="#bbb" stroke="#555" stroke-width="2"/>
+  <rect x="44" y="74" width="12" height="4" rx="1" fill="#aaa" stroke="#555" stroke-width="1.5"/>
+  <!-- Rays -->
+  <line x1="50" y1="10" x2="50" y2="5" stroke="#f0c040" stroke-width="2" stroke-linecap="round"/>
+  <line x1="73" y1="17" x2="77" y2="13" stroke="#f0c040" stroke-width="2" stroke-linecap="round"/>
+  <line x1="80" y1="40" x2="86" y2="40" stroke="#f0c040" stroke-width="2" stroke-linecap="round"/>
+  <line x1="27" y1="17" x2="23" y2="13" stroke="#f0c040" stroke-width="2" stroke-linecap="round"/>
+  <line x1="20" y1="40" x2="14" y2="40" stroke="#f0c040" stroke-width="2" stroke-linecap="round"/>
+</svg>

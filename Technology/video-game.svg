@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Controller body -->
+  <path d="M15 38 Q12 55 18 68 Q22 78 32 78 Q40 78 45 68 L55 68 Q60 78 68 78 Q78 78 82 68 Q88 55 85 38 Q82 28 70 28 L30 28 Q18 28 15 38Z"
+    fill="#444" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- D-pad left group -->
+  <rect x="22" y="47" width="22" height="8" rx="2" fill="#666" stroke="#222" stroke-width="1.5"/>
+  <rect x="27" y="42" width="8" height="18" rx="2" fill="#666" stroke="#222" stroke-width="1.5"/>
+  <!-- Action buttons -->
+  <circle cx="68" cy="44" r="5" fill="#e85c5c" stroke="#222" stroke-width="1.5"/>
+  <circle cx="78" cy="50" r="5" fill="#f5c542" stroke="#222" stroke-width="1.5"/>
+  <circle cx="68" cy="56" r="5" fill="#5b8dd9" stroke="#222" stroke-width="1.5"/>
+  <circle cx="58" cy="50" r="5" fill="#5ce87a" stroke="#222" stroke-width="1.5"/>
+  <!-- Centre buttons -->
+  <rect x="42" y="48" width="8" height="6" rx="2" fill="#666" stroke="#222" stroke-width="1.5"/>
+  <rect x="50" y="48" width="8" height="6" rx="2" fill="#666" stroke="#222" stroke-width="1.5"/>
+  <!-- Shoulder grips outline -->
+  <path d="M18 30 Q14 26 22 24 L38 24" fill="none" stroke="#555" stroke-width="2"/>
+  <path d="M82 30 Q86 26 78 24 L62 24" fill="none" stroke="#555" stroke-width="2"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- cap crown structured -->
+  <path d="M18 55 L18 38 Q50 28 82 38 L82 55 Z" fill="#2d2d2d" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- flat brim -->
+  <rect x="12" y="55" width="76" height="9" rx="1" fill="#1a1a1a" stroke="#333" stroke-width="2.5"/>
+  <!-- brim underside accent -->
+  <rect x="12" y="57" width="76" height="2" fill="#c0392b"/>
+  <!-- high front panel structure -->
+  <line x1="35" y1="38" x2="38" y2="55" stroke="#555" stroke-width="1.5"/>
+  <line x1="65" y1="38" x2="62" y2="55" stroke="#555" stroke-width="1.5"/>
+  <!-- snapback closure -->
+  <rect x="38" y="61" width="24" height="6" rx="2" fill="#333" stroke="#555" stroke-width="1"/>
+  <line x1="42" y1="64" x2="58" y2="64" stroke="#555" stroke-width="1.5" stroke-dasharray="2,2"/>
+  <!-- button -->
+  <circle cx="50" cy="30" r="3" fill="#555" stroke="#333" stroke-width="1.5"/>
+</svg>

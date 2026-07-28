@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Trunk -->
+  <rect x="43" y="60" width="14" height="26" fill="#a0724a" stroke="#5a3a1a" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Canopy layers -->
+  <ellipse cx="50" cy="50" rx="30" ry="22" fill="#4a8a2a" stroke="#2a5a0a" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="50" cy="38" rx="24" ry="18" fill="#5a9a3a" stroke="#2a5a0a" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="50" cy="28" rx="17" ry="14" fill="#6aaa4a" stroke="#2a5a0a" stroke-width="2" stroke-linejoin="round"/>
+</svg>

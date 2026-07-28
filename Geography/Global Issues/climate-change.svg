@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- thermometer -->
+<!-- mercury rising -->
+  <rect x="22" y="36" width="10" height="36" rx="5" fill="#e05050" stroke="none"/>
+  <!-- bulb -->
+  <circle cx="27" cy="72" r="9" fill="#e05050" stroke="#b03030" stroke-width="2"/>
+  <!-- tick marks -->
+  <line x1="32" y1="28" x2="38" y2="28" stroke="#555" stroke-width="1.5"/>
+  <line x1="32" y1="38" x2="38" y2="38" stroke="#555" stroke-width="1.5"/>
+  <line x1="32" y1="48" x2="38" y2="48" stroke="#555" stroke-width="1.5"/>
+  <line x1="32" y1="58" x2="38" y2="58" stroke="#555" stroke-width="1.5"/>
+  <!-- rising temperature arrow -->
+  <path d="M45,65 L45,22" stroke="#e05050" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <polygon points="45,22 40,32 50,32" fill="#e05050"/>
+  <!-- graph line going up (temperature trend) -->
+  <polyline points="50,78 60,72 68,65 76,55 84,40" stroke="#e87c1e" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="84,40 78,48 88,46" fill="#e87c1e"/>
+  <!-- earth small -->
+  <circle cx="68" cy="78" r="10" fill="#4a90d9" stroke="#2060a0" stroke-width="2"/>
+  <path d="M62,74 Q66,72 70,74 Q68,78 64,78 Q62,76 62,74Z" fill="#5bba5b" stroke="#2e8b2e" stroke-width="1"/>
+</svg>

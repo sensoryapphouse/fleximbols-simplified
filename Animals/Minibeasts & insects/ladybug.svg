@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ladybug - red spotted beetle -->
+  <!-- Leaf -->
+  <path d="M20 82 Q50 70 80 82 Q65 92 20 82Z" fill="#80b840" stroke="#4a7020" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Elytra (wing covers) - round red dome -->
+  <ellipse cx="50" cy="56" rx="28" ry="24" fill="#d02010" stroke="#800800" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Centre line dividing elytra -->
+  <path d="M50 34 L50 78" stroke="#800800" stroke-width="2"/>
+  <!-- Black spots (classic 7-spot ladybird) -->
+  <circle cx="38" cy="48" r="5" fill="#1a1010" stroke="#0a0808" stroke-width="1"/>
+  <circle cx="62" cy="48" r="5" fill="#1a1010" stroke="#0a0808" stroke-width="1"/>
+  <circle cx="36" cy="62" r="5" fill="#1a1010" stroke="#0a0808" stroke-width="1"/>
+  <circle cx="64" cy="62" r="5" fill="#1a1010" stroke="#0a0808" stroke-width="1"/>
+  <circle cx="37" cy="72" r="4" fill="#1a1010" stroke="#0a0808" stroke-width="1"/>
+  <circle cx="63" cy="72" r="4" fill="#1a1010" stroke="#0a0808" stroke-width="1"/>
+  <circle cx="50" cy="40" r="4" fill="#1a1010" stroke="#0a0808" stroke-width="1"/>
+  <!-- Pronotum (black with white spots) -->
+  <path d="M32 38 Q50 30 68 38 Q62 28 50 26 Q38 28 32 38Z" fill="#1a1010" stroke="#0a0808" stroke-width="2" stroke-linejoin="round"/>
+  <!-- White spots on pronotum -->
+  <circle cx="36" cy="34" r="3" fill="white"/>
+  <circle cx="64" cy="34" r="3" fill="white"/>
+  <!-- Head -->
+  <circle cx="50" cy="28" r="8" fill="#1a1010" stroke="#0a0808" stroke-width="2"/>
+  <!-- Compound eyes -->
+  <circle cx="44" cy="25" r="3" fill="#3a3030" stroke="#0a0808" stroke-width="1"/>
+  <circle cx="56" cy="25" r="3" fill="#3a3030" stroke="#0a0808" stroke-width="1"/>
+  <!-- Antennae -->
+  <path d="M46 21 Q42 14 40 8" fill="none" stroke="#0a0808" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M54 21 Q58 14 60 8" fill="none" stroke="#0a0808" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Legs -->
+  <path d="M30 50 L18 56 M28 60 L16 68 M28 70 L18 78" stroke="#0a0808" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M70 50 L82 56 M72 60 L84 68 M72 70 L82 78" stroke="#0a0808" stroke-width="2" stroke-linecap="round" fill="none"/>
+</svg>

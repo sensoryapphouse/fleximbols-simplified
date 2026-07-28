@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Low boulder wall -->
+  <rect x="10" y="38" width="80" height="44" rx="4" fill="#c8a870" stroke="#222" stroke-width="2.5"/>
+  <!-- Rock texture / holds -->
+  <circle cx="25" cy="52" r="4" fill="#a08050" stroke="#222" stroke-width="1.5"/>
+  <circle cx="42" cy="45" r="4" fill="#a08050" stroke="#222" stroke-width="1.5"/>
+  <circle cx="58" cy="50" r="4" fill="#a08050" stroke="#222" stroke-width="1.5"/>
+  <circle cx="72" cy="44" r="4" fill="#a08050" stroke="#222" stroke-width="1.5"/>
+  <circle cx="35" cy="65" r="3.5" fill="#a08050" stroke="#222" stroke-width="1.5"/>
+  <circle cx="55" cy="68" r="3.5" fill="#a08050" stroke="#222" stroke-width="1.5"/>
+  <!-- Crash pad at bottom -->
+  <rect x="8" y="82" width="84" height="10" rx="3" fill="#e74c3c" stroke="#222" stroke-width="2"/>
+  <!-- Person climbing on wall -->
+  <circle cx="55" cy="28" r="7" fill="#f5c5a3" stroke="#222" stroke-width="2"/>
+  <!-- Body -->
+  <line x1="55" y1="35" x2="55" y2="48" stroke="#5b8dd9" stroke-width="3" stroke-linecap="round"/>
+  <!-- Arm reaching for hold -->
+  <line x1="55" y1="38" x2="70" y2="42" stroke="#5b8dd9" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="55" y1="38" x2="42" y2="43" stroke="#5b8dd9" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="55" y1="48" x2="44" y2="58" stroke="#5b8dd9" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="55" y1="48" x2="62" y2="56" stroke="#5b8dd9" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

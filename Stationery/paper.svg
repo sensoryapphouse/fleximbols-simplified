@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Sheet of paper with folded corner -->
+  <path d="M18,14 L72,14 L82,24 L82,84 L18,84 Z" fill="#F5F5E8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Folded corner -->
+  <path d="M72,14 L72,24 L82,24 Z" fill="#DDD8C8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Lines on paper -->
+  <line x1="28" y1="34" x2="72" y2="34" stroke="#C8C8B8" stroke-width="2"/>
+  <line x1="28" y1="44" x2="72" y2="44" stroke="#C8C8B8" stroke-width="2"/>
+  <line x1="28" y1="54" x2="72" y2="54" stroke="#C8C8B8" stroke-width="2"/>
+  <line x1="28" y1="64" x2="72" y2="64" stroke="#C8C8B8" stroke-width="2"/>
+  <line x1="28" y1="74" x2="60" y2="74" stroke="#C8C8B8" stroke-width="2"/>
+</svg>

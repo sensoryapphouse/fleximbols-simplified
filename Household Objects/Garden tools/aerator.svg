@@ -1,0 +1,28 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Lawn aerator: push handle + roller drum with tines -->
+  <!-- Handle bars -->
+  <line x1="42" y1="45" x2="28" y2="15" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <line x1="58" y1="45" x2="72" y2="15" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <!-- Crossbar grip -->
+  <line x1="28" y1="15" x2="72" y2="15" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <!-- Drum body -->
+  <rect x="18" y="45" width="64" height="25" rx="12" fill="#888" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Axle -->
+  <line x1="10" y1="57" x2="90" y2="57" stroke="#444" stroke-width="2"/>
+  <!-- Tines (hollow plugs) on drum - top row -->
+  <line x1="25" y1="45" x2="25" y2="35" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="35" y1="42" x2="35" y2="32" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="45" y1="40" x2="45" y2="30" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="55" y1="40" x2="55" y2="30" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="65" y1="42" x2="65" y2="32" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="75" y1="45" x2="75" y2="35" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Tines bottom row (going into ground) -->
+  <line x1="25" y1="70" x2="25" y2="80" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="35" y1="70" x2="35" y2="80" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="45" y1="70" x2="45" y2="80" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="55" y1="70" x2="55" y2="80" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="65" y1="70" x2="65" y2="80" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="75" y1="70" x2="75" y2="80" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Ground -->
+  <line x1="5" y1="82" x2="95" y2="82" stroke="#c8a96e" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Quince - pear shaped, golden yellow, with woolly fuzz lines -->
+  <path d="M50 88 C28 88 15 72 15 58 C15 44 22 32 35 24 C38 18 43 14 50 14 C57 14 62 18 65 24 C78 32 85 44 85 58 C85 72 72 88 50 88 Z"
+        fill="#e8c840" stroke="#a08020" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Fuzz texture lines -->
+  <path d="M35 45 Q40 42 45 45" fill="none" stroke="#c0a030" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M55 42 Q60 39 65 42" fill="none" stroke="#c0a030" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M28 60 Q35 57 42 60" fill="none" stroke="#c0a030" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M58 58 Q65 55 72 58" fill="none" stroke="#c0a030" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M35 74 Q42 71 49 74" fill="none" stroke="#c0a030" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Stem -->
+  <line x1="50" y1="14" x2="50" y2="5" stroke="#5a3a1a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Leaf -->
+  <ellipse cx="60" cy="4" rx="10" ry="4" fill="#3a7a2a" stroke="#1a5a1a" stroke-width="2" transform="rotate(20 60 4)"/>
+  <!-- Calyx bump at bottom -->
+  <ellipse cx="50" cy="87" rx="8" ry="4" fill="#c0a030" stroke="#a08020" stroke-width="1.5"/>
+</svg>

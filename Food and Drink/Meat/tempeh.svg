@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- tempeh block -->
+  <rect x="15" y="32" width="70" height="42" rx="4" fill="#c4956a" stroke="#7a5535" stroke-width="2.5"/>
+  <!-- fermented texture lines -->
+  <line x1="15" y1="45" x2="85" y2="45" stroke="#7a5535" stroke-width="1.2"/>
+  <line x1="15" y1="57" x2="85" y2="57" stroke="#7a5535" stroke-width="1.2"/>
+  <line x1="35" y1="32" x2="35" y2="74" stroke="#7a5535" stroke-width="1.2"/>
+  <line x1="55" y1="32" x2="55" y2="74" stroke="#7a5535" stroke-width="1.2"/>
+  <!-- bean spots -->
+  <circle cx="25" cy="39" r="3" fill="#a07040"/>
+  <circle cx="45" cy="51" r="3" fill="#a07040"/>
+  <circle cx="65" cy="39" r="3" fill="#a07040"/>
+  <circle cx="75" cy="63" r="3" fill="#a07040"/>
+  <circle cx="25" cy="65" r="3" fill="#a07040"/>
+</svg>

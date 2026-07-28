@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- plate -->
+  <ellipse cx="50" cy="75" rx="38" ry="9" fill="#f0f0f0" stroke="#333" stroke-width="2"/>
+  <ellipse cx="50" cy="72" rx="34" ry="7" fill="white" stroke="#ddd" stroke-width="1"/>
+  <!-- latke pancake (oval golden-brown) -->
+  <ellipse cx="50" cy="60" rx="26" ry="16" fill="#c8903a" stroke="#333" stroke-width="2.5"/>
+  <!-- crispy texture lines -->
+  <path d="M30 56 Q40 52 50 56 Q60 60 70 56" stroke="#a06020" stroke-width="1.5" fill="none"/>
+  <path d="M28 62 Q38 58 50 62 Q62 66 72 62" stroke="#a06020" stroke-width="1.5" fill="none"/>
+  <!-- shredded potato texture -->
+  <path d="M34 58 L36 54" stroke="#a06020" stroke-width="1" stroke-linecap="round"/>
+  <path d="M40 56 L42 52" stroke="#a06020" stroke-width="1" stroke-linecap="round"/>
+  <path d="M46 55 L48 51" stroke="#a06020" stroke-width="1" stroke-linecap="round"/>
+  <path d="M52 55 L54 51" stroke="#a06020" stroke-width="1" stroke-linecap="round"/>
+  <path d="M58 56 L60 52" stroke="#a06020" stroke-width="1" stroke-linecap="round"/>
+  <path d="M64 58 L66 54" stroke="#a06020" stroke-width="1" stroke-linecap="round"/>
+  <!-- sour cream dollop -->
+  <ellipse cx="50" cy="54" rx="8" ry="5" fill="white" stroke="#ccc" stroke-width="1.5"/>
+  <!-- applesauce dot -->
+  <ellipse cx="68" cy="64" rx="5" ry="4" fill="#e88040" stroke="#c06020" stroke-width="1.5"/>
+</svg>

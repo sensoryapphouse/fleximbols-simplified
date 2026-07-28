@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <svg viewBox="0 0 443 436" preserveAspectRatio="xMidYMid meet">
+  
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="7,7 7,7 5,50 4,80 4,91 5,96 16,97 17,113 17,113 24,130 32,147 43,168 56,190 63,200 71,209 78,218 86,225 94,231 102,235 116,237 112,252 112,252 120,261 138,280 149,291 161,301 173,308 179,311 184,312 197,312 196,331 265,356 265,368 348,367 349,319 339,316 339,287 319,277 307,292 301,284 299,240 178,113 158,113 158,97 158,97 146,89 119,69 103,57 89,44 77,32 72,26 68,20 61,23 59,8 27,4 25,16 21,8 7,7" fill="#ccccce" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="57,71 57,71 67,84 95,119 138,169 163,198 190,228 219,259 250,290 280,320 312,349 342,375 372,398 387,408 401,417 415,425 428,431 436,424 436,424 432,422 422,418 404,408 380,391 365,380 348,367 329,351 309,333 286,311 262,287 235,260 207,229 57,71" fill="#6e745b" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+  </g>
+</svg>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl468" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl468)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

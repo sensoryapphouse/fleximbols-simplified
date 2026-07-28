@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- soil tray -->
+  <rect x="14" y="72" width="72" height="10" rx="3" fill="#7a5030" stroke="#333" stroke-width="2"/>
+  <!-- tall thin grass blades -->
+  <path d="M22 72 Q20 55 24 30" fill="none" stroke="#6ab830" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M30 72 Q32 52 28 25" fill="none" stroke="#6ab830" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M38 72 Q36 50 40 22" fill="none" stroke="#5aa820" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M46 72 Q48 48 44 20" fill="none" stroke="#6ab830" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M54 72 Q52 50 56 22" fill="none" stroke="#5aa820" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M62 72 Q64 52 60 25" fill="none" stroke="#6ab830" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M70 72 Q68 55 72 30" fill="none" stroke="#5aa820" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M78 72 Q80 58 76 34" fill="none" stroke="#6ab830" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- slight bend/curve on blades -->
+  <path d="M25 30 Q28 25 24 22" fill="none" stroke="#6ab830" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M44 20 Q42 15 46 13" fill="none" stroke="#5aa820" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M56 22 Q58 17 55 14" fill="none" stroke="#6ab830" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

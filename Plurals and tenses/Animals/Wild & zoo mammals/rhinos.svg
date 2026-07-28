@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- body - massive -->
+  <ellipse cx="54" cy="63" rx="28" ry="20" fill="#909080" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- rump -->
+  <ellipse cx="74" cy="61" rx="12" ry="17" fill="#909080" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- neck - thick -->
+  <path d="M30 56 Q24 44 26 34 Q36 30 40 42 Q42 54 36 58 Z" fill="#909080" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- head - large with pointed muzzle -->
+  <path d="M10 30 Q24 20 36 26 Q42 34 38 46 Q26 50 12 44 Z" fill="#909080" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- pointed muzzle -->
+  <ellipse cx="10" cy="38" rx="8" ry="7" fill="#808070" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- nostril -->
+  <ellipse cx="7" cy="39" rx="1.5" ry="1" fill="#555"/>
+  <!-- horn on nose -->
+  <path d="M8 32 Q10 18 12 14 Q14 18 14 30 Z" fill="#b0a070" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- small second horn -->
+  <path d="M14 28 Q16 22 18 22 Q18 26 16 28 Z" fill="#b0a070" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- eye - small -->
+  <circle cx="24" cy="30" r="3" fill="#333"/>
+  <circle cx="23" cy="29" r="0.9" fill="white"/>
+  <!-- ear -->
+  <path d="M26 22 Q24 14 28 12 Q32 14 30 22 Z" fill="#909080" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- armour skin fold lines -->
+  <path d="M36 50 Q38 58 38 66" fill="none" stroke="#777" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M46 46 Q48 58 48 66" fill="none" stroke="#777" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- tail -->
+  <path d="M84 58 L90 52 Q92 60 90 66 L84 64" fill="none" stroke="#909080" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- legs - thick -->
+  <rect x="30" y="80" width="10" height="10" rx="3" fill="#909080" stroke="#333" stroke-width="2.5"/>
+  <rect x="44" y="81" width="10" height="9" rx="3" fill="#909080" stroke="#333" stroke-width="2.5"/>
+  <rect x="58" y="80" width="10" height="10" rx="3" fill="#909080" stroke="#333" stroke-width="2.5"/>
+  <rect x="70" y="79" width="10" height="10" rx="3" fill="#909080" stroke="#333" stroke-width="2.5"/>
+  <!-- hooves -->
+  <rect x="30" y="88" width="10" height="4" rx="2" fill="#555"/>
+  <rect x="44" y="88" width="10" height="4" rx="2" fill="#555"/>
+  <rect x="58" y="88" width="10" height="4" rx="2" fill="#555"/>
+  <rect x="70" y="87" width="10" height="4" rx="2" fill="#555"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl427" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl427)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

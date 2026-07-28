@@ -1,0 +1,13 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-23.548 -13.986) scale(1.4724)">
+  <!-- Pill bottle with brain/shield label -->
+  <rect x="30" y="22" width="40" height="52" rx="5" ry="5" fill="#e0d0f0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="27" y="13" width="46" height="14" rx="4" ry="4" fill="#9878c8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- shield on label -->
+  <path d="M50 32 L42 36 L42 46 Q42 52 50 56 Q58 52 58 46 L58 36 Z" fill="#c0a0e8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M46 44 L49 47 L55 40" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- capsule pill at bottom -->
+  <rect x="38" y="64" width="24" height="8" rx="4" ry="4" fill="#c0a0e8" stroke="#333" stroke-width="1.5"/>
+  <line x1="50" y1="64" x2="50" y2="72" stroke="#333" stroke-width="1.5"/>
+</g>
+  </svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-15.972 -22.801) scale(1.3194)">
+<!-- stem -->
+  <line x1="50" y1="82" x2="50" y2="62" stroke="#4a7c3f" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- leaves -->
+  <ellipse cx="38" cy="70" rx="9" ry="5" fill="#6ab04c" stroke="#333" stroke-width="1.5" transform="rotate(-40,38,70)"/>
+  <ellipse cx="62" cy="70" rx="9" ry="5" fill="#6ab04c" stroke="#333" stroke-width="1.5" transform="rotate(40,62,70)"/>
+  <!-- cluster of small flowers -->
+  <circle cx="50" cy="40" r="5" fill="#e05050" stroke="#333" stroke-width="1.8"/>
+  <circle cx="60" cy="45" r="5" fill="#e05050" stroke="#333" stroke-width="1.8"/>
+  <circle cx="40" cy="45" r="5" fill="#e05050" stroke="#333" stroke-width="1.8"/>
+  <circle cx="55" cy="33" r="5" fill="#e07070" stroke="#333" stroke-width="1.8"/>
+  <circle cx="45" cy="33" r="5" fill="#e07070" stroke="#333" stroke-width="1.8"/>
+  <circle cx="63" cy="36" r="5" fill="#e05050" stroke="#333" stroke-width="1.8"/>
+  <circle cx="37" cy="36" r="5" fill="#e05050" stroke="#333" stroke-width="1.8"/>
+  <!-- small petal details -->
+  <circle cx="50" cy="40" r="2" fill="#f5e0e0" stroke="none"/>
+  <circle cx="60" cy="45" r="2" fill="#f5e0e0" stroke="none"/>
+  <circle cx="40" cy="45" r="2" fill="#f5e0e0" stroke="none"/>
+  <circle cx="55" cy="33" r="2" fill="#f5e0e0" stroke="none"/>
+  <circle cx="45" cy="33" r="2" fill="#f5e0e0" stroke="none"/>
+</g>
+  </svg>

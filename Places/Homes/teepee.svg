@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <svg viewBox="0 0 580 480" preserveAspectRatio="xMidYMid meet">
+  
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="271,130 70,384 144,428 237,455 362,449 444,426 508,370 326,131 271,130" fill="#e4be9d" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="303,274 197,347 236,451 303,274" fill="#e7dba9" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="304,270 398,343 362,449 304,270" fill="#e7dba9" stroke="none" stroke-width="0.0" fill-rule="evenodd"/>
+    <polyline points="304,270 398,343 362,449 304,270" fill="none" stroke="#000000" stroke-width="4.0"/>
+    <polygon points="237,455 362,449 305,280 237,455" fill="#836e5b" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="288,19 288,94 298,101 307,94 307,18 288,19" fill="#6c5635" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+    <polyline points="273,162 148,451" fill="none" stroke="#000000" stroke-width="4.0"/>
+    <polyline points="327,158 451,443" fill="none" stroke="#000000" stroke-width="4.0"/>
+    <polygon points="68,402 65,402 65,376 68,376 68,402" fill="none" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="150,450 147,450 147,424 150,424 150,450" fill="none" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="446,448 442,448 442,423 446,423 446,448" fill="none" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="507,387 502,387 502,362 507,362 507,387" fill="none" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+    <polyline points="299,97 299,97" fill="none" stroke="#000000" stroke-width="4.0"/>
+    <polyline points="299,182 303,274" fill="none" stroke="#000000" stroke-width="4.0"/>
+    <polygon points="269,66 273,162 299,182 327,158 332,63 298,101 269,66" fill="#af8977" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+  </g>
+</svg>
+</svg>

@@ -1,0 +1,9 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Tennis ball: fuzzy yellow-green with curved white seam -->
+  <circle cx="50" cy="50" r="42" fill="#cdd930" stroke="#222" stroke-width="2.5"/>
+  <!-- Fuzzy texture (subtle lighter dots) -->
+  <circle cx="50" cy="50" r="42" fill="url(#none)" stroke="none"/>
+  <!-- White curved seam -->
+  <path d="M24,18 C40,28 46,46 38,66 C30,80 22,84 18,80" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M76,18 C60,28 54,46 62,66 C70,80 78,84 82,80" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+</svg>

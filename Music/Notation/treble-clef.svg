@@ -1,0 +1,23 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Staff lines -->
+  <line x1="5" y1="28" x2="95" y2="28" stroke="#333" stroke-width="1.5"/>
+  <line x1="5" y1="38" x2="95" y2="38" stroke="#333" stroke-width="1.5"/>
+  <line x1="5" y1="48" x2="95" y2="48" stroke="#333" stroke-width="1.5"/>
+  <line x1="5" y1="58" x2="95" y2="58" stroke="#333" stroke-width="1.5"/>
+  <line x1="5" y1="68" x2="95" y2="68" stroke="#333" stroke-width="1.5"/>
+  <!-- Treble clef - simplified G clef shape -->
+  <path d="M50,8 C50,8 50,8 50,8
+           C38,14 32,24 34,36
+           C36,46 44,50 50,50
+           C58,50 66,44 66,36
+           C66,26 58,20 50,22
+           C44,24 40,30 42,36
+           C44,42 50,44 54,42
+           L54,88
+           C54,92 50,96 46,94
+           C42,92 40,86 44,82
+           C48,78 54,80 54,84"
+        fill="none" stroke="#222" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Dot at G line -->
+  <circle cx="50" cy="38" r="3" fill="#4a7fd4"/>
+</svg>

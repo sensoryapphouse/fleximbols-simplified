@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Main factory building -->
+  <rect x="8" y="45" width="84" height="40" fill="#BBBBCC" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Sawtooth roof -->
+  <polygon points="8,45 8,30 22,45" fill="#AAAABC" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="22,45 22,30 36,45" fill="#AAAABC" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="36,45 36,30 50,45" fill="#AAAABC" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="50,45 50,30 64,45" fill="#AAAABC" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="64,45 64,30 78,45" fill="#AAAABC" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="78,45 78,30 92,45" fill="#AAAABC" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Chimneys -->
+  <rect x="18" y="18" width="10" height="28" fill="#CC8866" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="38" y="22" width="10" height="24" fill="#CC8866" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="62" y="18" width="10" height="28" fill="#CC8866" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Chimney tops -->
+  <rect x="15" y="15" width="16" height="5" fill="#AA6644" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="35" y="19" width="16" height="5" fill="#AA6644" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="59" y="15" width="16" height="5" fill="#AA6644" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Smoke -->
+  <path d="M23,15 Q20,10 23,6" fill="none" stroke="#999" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M43,19 Q41,14 43,10" fill="none" stroke="#999" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M67,15 Q65,10 67,6" fill="none" stroke="#999" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Factory windows -->
+  <rect x="14" y="55" width="16" height="14" fill="#A8D4F5" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="42" y="55" width="16" height="14" fill="#A8D4F5" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="70" y="55" width="16" height="14" fill="#A8D4F5" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Door -->
+  <rect x="40" y="68" width="20" height="17" fill="#8B7355" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+</svg>

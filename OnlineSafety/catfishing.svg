@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-19.027 -6.632) scale(1.3502)">
+<!-- Phone with fake profile -->
+  <rect x="30" y="12" width="40" height="60" rx="5" fill="#333" stroke="#555" stroke-width="2"/>
+  <rect x="32" y="16" width="36" height="52" rx="3" fill="#fff0f5"/>
+  <!-- Fake attractive profile photo (fish) -->
+  <ellipse cx="50" cy="30" rx="12" ry="8" fill="#87ceeb" stroke="#333" stroke-width="2"/>
+  <polygon points="62,30 70,24 70,36" fill="#87ceeb" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="46" cy="28" r="2" fill="#333"/>
+  <!-- Profile name bar -->
+  <rect x="34" y="42" width="32" height="6" rx="2" fill="#e0e0e0"/>
+  <rect x="34" y="52" width="22" height="5" rx="2" fill="#e0e0e0"/>
+  <!-- Fish hook -->
+  <path d="M 72 18 L 72 45 Q 72 55 62 55 Q 52 55 52 48" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="52" cy="48" r="3" fill="none" stroke="#333" stroke-width="2"/>
+  <!-- Fishing line from top -->
+  <line x1="72" y1="8" x2="72" y2="18" stroke="#333" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,2"/>
+</g>
+  </svg>

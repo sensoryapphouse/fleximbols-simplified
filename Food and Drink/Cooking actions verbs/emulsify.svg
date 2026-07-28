@@ -1,0 +1,21 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Bowl -->
+  <path d="M12 55 Q12 88 50 88 Q88 88 88 55 Z" fill="#e8dcc8" stroke="#333" stroke-width="2.5"/>
+  <ellipse cx="50" cy="55" rx="38" ry="10" fill="#ddd0b8" stroke="#333" stroke-width="2"/>
+  <!-- Liquid with oil droplets (emulsion) -->
+  <ellipse cx="50" cy="53" rx="30" ry="7" fill="#f0e4c0"/>
+  <!-- Oil droplets scattered in liquid -->
+  <circle cx="32" cy="65" r="5" fill="#f5d840" stroke="#c8a020" stroke-width="1.5" opacity="0.9"/>
+  <circle cx="48" cy="70" r="4" fill="#f5d840" stroke="#c8a020" stroke-width="1.5" opacity="0.9"/>
+  <circle cx="62" cy="63" r="6" fill="#f5d840" stroke="#c8a020" stroke-width="1.5" opacity="0.9"/>
+  <circle cx="40" cy="76" r="3" fill="#f5d840" stroke="#c8a020" stroke-width="1.5" opacity="0.9"/>
+  <circle cx="56" cy="77" r="3.5" fill="#f5d840" stroke="#c8a020" stroke-width="1.5" opacity="0.9"/>
+  <circle cx="70" cy="73" r="4" fill="#f5d840" stroke="#c8a020" stroke-width="1.5" opacity="0.9"/>
+  <!-- Whisk -->
+  <line x1="50" y1="12" x2="50" y2="52" stroke="#888" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="50" cy="42" rx="10" ry="14" fill="none" stroke="#888" stroke-width="2"/>
+  <ellipse cx="50" cy="42" rx="5" ry="12" fill="none" stroke="#888" stroke-width="2"/>
+  <!-- Motion lines around whisk -->
+  <path d="M34 35 Q38 42 34 49" fill="none" stroke="#aaa" stroke-width="1.5" stroke-dasharray="2,2"/>
+  <path d="M66 35 Q62 42 66 49" fill="none" stroke="#aaa" stroke-width="1.5" stroke-dasharray="2,2"/>
+</svg>

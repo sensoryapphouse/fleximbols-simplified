@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- long parka body -->
+  <path d="M32 42 L20 38 L15 60 L27 60 L27 88 L73 88 L73 60 L85 60 L80 38 L68 42" fill="#4a6741" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- collar/hood -->
+  <path d="M36 42 Q50 36 64 42" fill="none" stroke="#333" stroke-width="2.5"/>
+  <path d="M37 40 Q50 20 63 40" fill="#3d5636" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- fur hood trim -->
+  <path d="M38 38 Q50 26 62 38" fill="none" stroke="#b8a080" stroke-width="3" stroke-linecap="round"/>
+  <!-- puffer lines -->
+  <line x1="27" y1="55" x2="73" y2="55" stroke="#3d5636" stroke-width="1.5"/>
+  <line x1="27" y1="65" x2="73" y2="65" stroke="#3d5636" stroke-width="1.5"/>
+  <line x1="27" y1="75" x2="73" y2="75" stroke="#3d5636" stroke-width="1.5"/>
+  <!-- zip -->
+  <line x1="50" y1="43" x2="50" y2="87" stroke="#333" stroke-width="1.5"/>
+  <!-- pockets -->
+  <rect x="28" y="68" width="16" height="12" rx="3" fill="#3d5636" stroke="#333" stroke-width="1.5"/>
+  <rect x="56" y="68" width="16" height="12" rx="3" fill="#3d5636" stroke="#333" stroke-width="1.5"/>
+</svg>

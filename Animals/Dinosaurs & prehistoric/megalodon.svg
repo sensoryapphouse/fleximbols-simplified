@@ -1,0 +1,29 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- megalodon - giant shark side view -->
+  <!-- main body torpedo shape -->
+  <path d="M8,50 Q10,30 30,24 Q55,18 78,28 Q92,36 94,50 Q92,64 78,72 Q55,82 30,76 Q10,70 8,50 Z" fill="#7090a8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- belly lighter -->
+  <path d="M14,56 Q20,66 40,72 Q60,76 76,68 Q88,62 90,54 Q88,58 76,64 Q55,70 34,66 Q18,62 14,56 Z" fill="#c0d0dc" stroke="none"/>
+  <!-- tail fin -->
+  <path d="M88,50 Q96,36 96,26 Q90,32 86,42 Q84,48 88,50 Q84,52 86,58 Q90,68 96,74 Q96,64 88,50 Z" fill="#7090a8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- dorsal fin -->
+  <path d="M50,24 Q56,10 62,8 Q60,16 58,24" fill="#5a7888" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- pectoral fin -->
+  <path d="M34,38 Q24,46 20,58 Q28,54 38,46 Q44,40 40,36 Z" fill="#6080a0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- head and massive jaw -->
+  <path d="M8,50 Q8,36 14,30" fill="none" stroke="#5a7888" stroke-width="2" stroke-linecap="round"/>
+  <!-- jaw open slightly -->
+  <path d="M8,50 Q10,58 16,62 Q22,56 24,50" fill="#c0d0dc" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- teeth -->
+  <path d="M10,44 L8,52" stroke="#f0ece0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M14,40 L12,50" stroke="#f0ece0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M18,38 L18,48" stroke="#f0ece0" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- lower teeth -->
+  <path d="M10,56 L8,50" stroke="#f0ece0" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M14,60 L12,52" stroke="#f0ece0" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- eye -->
+  <circle cx="20" cy="42" r="4" fill="#222"/>
+  <!-- gill slits -->
+  <path d="M28,34 Q26,44 28,54" fill="none" stroke="#5a7888" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M34,32 Q32,44 34,56" fill="none" stroke="#5a7888" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

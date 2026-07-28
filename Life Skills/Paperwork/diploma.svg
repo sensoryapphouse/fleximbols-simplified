@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Rolled diploma cylinder -->
+  <rect x="22" y="30" width="56" height="36" rx="18" fill="#fffde7" stroke="#333" stroke-width="2.5"/>
+  <ellipse cx="22" cy="48" rx="8" ry="18" fill="#e0d8b0" stroke="#333" stroke-width="2"/>
+  <ellipse cx="78" cy="48" rx="8" ry="18" fill="#e0d8b0" stroke="#333" stroke-width="2"/>
+  <!-- Ribbon in middle -->
+  <rect x="42" y="40" width="16" height="16" rx="2" fill="#e07b54" stroke="#333" stroke-width="2"/>
+  <!-- Ribbon tails -->
+  <polygon points="42,56 38,64 50,60 62,64 58,56" fill="#e07b54" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

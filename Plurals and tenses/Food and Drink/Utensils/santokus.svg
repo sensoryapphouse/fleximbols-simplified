@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Santoku knife - Japanese wide blade, sheep's foot tip, horizontal -->
+  <!-- Blade (wider, flat spine, curved belly) -->
+  <path d="M24,34 L82,34 Q84,34 84,40 L84,56 Q60,58 24,56 Z" fill="#d5d8dc" stroke="#2c3e50" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Blade highlight -->
+  <path d="M26,36 L80,36 Q81,36 82,40 L82,54 Q60,56 26,54 Z" fill="#ecf0f1" stroke="none"/>
+  <!-- Granton edge (oval dimples for non-stick) -->
+  <ellipse cx="50" cy="46" rx="5" ry="3" fill="#bdc3c7" stroke="#95a5a6" stroke-width="1"/>
+  <ellipse cx="64" cy="46" rx="5" ry="3" fill="#bdc3c7" stroke="#95a5a6" stroke-width="1"/>
+  <ellipse cx="36" cy="46" rx="5" ry="3" fill="#bdc3c7" stroke="#95a5a6" stroke-width="1"/>
+  <!-- Bolster -->
+  <rect x="17" y="33" width="9" height="24" rx="2" fill="#7f8c8d" stroke="#2c3e50" stroke-width="2"/>
+  <!-- Handle -->
+  <rect x="6" y="36" width="14" height="18" rx="4" fill="#5d4037" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="11" cy="42" r="2" fill="#4a235a" stroke="#2c3e50" stroke-width="1"/>
+  <circle cx="11" cy="50" r="2" fill="#4a235a" stroke="#2c3e50" stroke-width="1"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1495" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1495)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

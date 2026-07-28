@@ -1,0 +1,27 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Archipelago: group of islands - top down -->
+  <!-- Sea background -->
+  <rect x="0" y="0" width="100" height="100" fill="#4488cc" stroke="none"/>
+  <!-- Various islands scattered -->
+  <!-- Large island -->
+  <ellipse cx="35" cy="35" rx="22" ry="15" fill="#88aa55" stroke="#222" stroke-width="2.5"/>
+  <!-- Medium island upper right -->
+  <ellipse cx="72" cy="22" rx="14" ry="9" fill="#88aa55" stroke="#222" stroke-width="2"/>
+  <!-- Small island lower left -->
+  <ellipse cx="18" cy="70" rx="10" ry="7" fill="#88aa55" stroke="#222" stroke-width="2"/>
+  <!-- Medium island lower right -->
+  <ellipse cx="68" cy="68" rx="16" ry="11" fill="#88aa55" stroke="#222" stroke-width="2"/>
+  <!-- Tiny island center -->
+  <circle cx="52" cy="50" r="5" fill="#88aa55" stroke="#222" stroke-width="2"/>
+  <!-- Sandy beaches on islands -->
+  <path d="M46,35 Q52,30 56,35" fill="none" stroke="#ddcc88" stroke-width="3" stroke-linecap="round"/>
+  <path d="M78,68 Q74,64 68,66" fill="none" stroke="#ddcc88" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Trees/hills on larger island -->
+  <ellipse cx="30" cy="30" rx="6" ry="4" fill="#669944" stroke="#333" stroke-width="1.5"/>
+  <ellipse cx="42" cy="28" rx="5" ry="3" fill="#669944" stroke="#333" stroke-width="1.5"/>
+  <!-- Water ripples -->
+  <path d="M5,15 Q12,12 18,15" fill="none" stroke="#6699cc" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M80,85 Q87,82 94,85" fill="none" stroke="#6699cc" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M85,45 Q90,42 96,45" fill="none" stroke="#6699cc" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M5,80 Q10,78 16,80" fill="none" stroke="#6699cc" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

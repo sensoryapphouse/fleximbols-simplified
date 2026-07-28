@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-24.810 -26.272) scale(1.4977)">
+<!-- Skin patch outline -->
+  <rect x="20" y="28" width="60" height="46" rx="8" fill="#f5cba7" stroke="#d4a876" stroke-width="2.5"/>
+  <!-- Skin texture dots (pores) -->
+  <circle cx="32" cy="40" r="2" fill="#d4a876"/>
+  <circle cx="42" cy="36" r="2" fill="#d4a876"/>
+  <circle cx="52" cy="40" r="2" fill="#d4a876"/>
+  <circle cx="62" cy="36" r="2" fill="#d4a876"/>
+  <circle cx="72" cy="40" r="2" fill="#d4a876"/>
+  <circle cx="37" cy="50" r="2" fill="#d4a876"/>
+  <circle cx="47" cy="52" r="2" fill="#d4a876"/>
+  <circle cx="57" cy="50" r="2" fill="#d4a876"/>
+  <circle cx="67" cy="52" r="2" fill="#d4a876"/>
+  <circle cx="32" cy="60" r="2" fill="#d4a876"/>
+  <circle cx="42" cy="62" r="2" fill="#d4a876"/>
+  <circle cx="52" cy="60" r="2" fill="#d4a876"/>
+  <circle cx="62" cy="62" r="2" fill="#d4a876"/>
+  <circle cx="72" cy="60" r="2" fill="#d4a876"/>
+  <!-- Layer lines showing skin cross-section -->
+  <line x1="20" y1="55" x2="80" y2="55" stroke="#d4a876" stroke-width="1" stroke-dasharray="4,3"/>
+</g>
+  </svg>

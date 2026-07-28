@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Apple body -->
+  <path d="M50 25 Q25 22 22 50 Q20 78 50 82 Q80 78 78 50 Q75 22 50 25 Z" fill="#d42b2b" stroke="#7a1010" stroke-width="2.5"/>
+  <!-- Apple highlight -->
+  <path d="M35 38 Q38 33 44 36" fill="none" stroke="#f08080" stroke-width="2" stroke-linecap="round"/>
+  <!-- Leaf -->
+  <path d="M50 25 Q48 15 42 12 Q48 18 50 25" fill="#50a020" stroke="#308010" stroke-width="1.5"/>
+  <!-- Stem -->
+  <rect x="49" y="14" width="3" height="12" rx="1" fill="#7a5020" stroke="#5a3010" stroke-width="1"/>
+  <!-- Dip at top -->
+  <path d="M44 26 Q50 22 56 26" fill="none" stroke="#7a1010" stroke-width="2"/>
+</svg>

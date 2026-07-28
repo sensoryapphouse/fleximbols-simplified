@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Bowl with marinade -->
+  <path d="M18 62 Q18 80 50 82 Q82 80 82 62 L78 55 Q50 50 22 55Z" fill="#c87820" stroke="#7a5020" stroke-width="2.5" opacity="0.7"/>
+  <ellipse cx="50" cy="55" rx="30" ry="8" fill="#d08030" stroke="#7a5020" stroke-width="2.5"/>
+  <!-- Food soaking in marinade (chicken piece) -->
+  <ellipse cx="50" cy="60" rx="20" ry="10" fill="#c8a060" stroke="#8a6020" stroke-width="2"/>
+  <!-- Herb specks in marinade -->
+  <circle cx="30" cy="68" r="2" fill="#2d6a2d"/>
+  <circle cx="38" cy="72" r="1.5" fill="#2d6a2d"/>
+  <circle cx="65" cy="70" r="2" fill="#2d6a2d"/>
+  <circle cx="72" cy="65" r="1.5" fill="#2d6a2d"/>
+  <circle cx="42" cy="78" r="2" fill="#2d6a2d"/>
+  <!-- Liquid surface ripple -->
+  <path d="M25 58 Q38 54 50 58 Q62 54 75 58" fill="none" stroke="#e8a040" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Bubbles/liquid soaking effect -->
+  <path d="M35 55 Q35 48 40 48 Q45 48 45 55" fill="none" stroke="#d08030" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M55 55 Q55 46 60 46 Q65 46 65 55" fill="none" stroke="#d08030" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Time indicator (clock shape) -->
+  <circle cx="78" cy="28" r="12" fill="#f0f0e8" stroke="#555" stroke-width="2"/>
+  <line x1="78" y1="28" x2="78" y2="20" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="78" y1="28" x2="84" y2="32" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="78" cy="28" r="2" fill="#333"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,2.660) scale(0.9734)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-21.295 -29.858) scale(1.4259)">
+<!-- stem -->
+  <path d="M50 82 Q50 60 50 30" stroke="#3d7a28" stroke-width="2.5" fill="none"/>
+  <!-- left fronds -->
+  <path d="M50 70 Q40 65 32 68" stroke="#5a9e3a" stroke-width="2" fill="none"/>
+  <path d="M50 62 Q38 55 28 56" stroke="#5a9e3a" stroke-width="2" fill="none"/>
+  <path d="M50 54 Q38 46 30 44" stroke="#5a9e3a" stroke-width="2" fill="none"/>
+  <path d="M50 46 Q40 38 34 34" stroke="#5a9e3a" stroke-width="2" fill="none"/>
+  <!-- right fronds -->
+  <path d="M50 70 Q60 65 68 68" stroke="#5a9e3a" stroke-width="2" fill="none"/>
+  <path d="M50 62 Q62 55 72 56" stroke="#5a9e3a" stroke-width="2" fill="none"/>
+  <path d="M50 54 Q62 46 70 44" stroke="#5a9e3a" stroke-width="2" fill="none"/>
+  <path d="M50 46 Q60 38 66 34" stroke="#5a9e3a" stroke-width="2" fill="none"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl293" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl293)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

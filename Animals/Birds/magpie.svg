@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Body -->
+  <ellipse cx="50" cy="58" rx="20" ry="13" fill="#111" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- White belly -->
+  <ellipse cx="48" cy="60" rx="10" ry="8" fill="white" stroke="#aaa" stroke-width="1"/>
+  <!-- Head -->
+  <circle cx="30" cy="48" r="10" fill="#111" stroke="#000" stroke-width="2"/>
+  <!-- Eye -->
+  <circle cx="26" cy="46" r="2" fill="white"/>
+  <circle cx="26" cy="46" r="1" fill="#111"/>
+  <!-- Beak -->
+  <polygon points="20,49 13,51 20,53" fill="#555" stroke="#222" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- White wing patch -->
+  <ellipse cx="55" cy="55" rx="8" ry="5" fill="white" stroke="#aaa" stroke-width="1"/>
+  <!-- Long tail -->
+  <polygon points="68,62 85,72 70,68" fill="#111" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Blue-green tail sheen -->
+  <line x1="70" y1="64" x2="83" y2="71" stroke="#336699" stroke-width="2" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="47" y1="71" x2="47" y2="82" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <line x1="53" y1="71" x2="53" y2="82" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <line x1="47" y1="82" x2="42" y2="87" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <line x1="47" y1="82" x2="52" y2="87" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <line x1="53" y1="82" x2="48" y2="87" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <line x1="53" y1="82" x2="58" y2="87" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+</svg>

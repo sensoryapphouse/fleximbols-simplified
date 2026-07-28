@@ -1,0 +1,16 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Prescription paper -->
+  <rect x="12" y="8" width="56" height="72" rx="4" fill="#fdfefe" stroke="#333" stroke-width="2.5"/>
+  <!-- Rx symbol -->
+  <text x="18" y="50" font-size="36" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold" fill="#2471a3">Rx</text>
+  <!-- Lines -->
+  <line x1="18" y1="60" x2="60" y2="60" stroke="#aaa" stroke-width="1.5"/>
+  <line x1="18" y1="68" x2="60" y2="68" stroke="#aaa" stroke-width="1.5"/>
+  <line x1="18" y1="76" x2="44" y2="76" stroke="#aaa" stroke-width="1.5"/>
+  <!-- Pill bottle -->
+  <rect x="64" y="48" width="26" height="38" rx="4" fill="#e59866" stroke="#333" stroke-width="2.5"/>
+  <rect x="62" y="42" width="30" height="10" rx="3" fill="#c0392b" stroke="#333" stroke-width="2"/>
+  <!-- Pill label lines -->
+  <line x1="68" y1="62" x2="86" y2="62" stroke="white" stroke-width="1.5"/>
+  <line x1="68" y1="70" x2="86" y2="70" stroke="white" stroke-width="1.5"/>
+</svg>

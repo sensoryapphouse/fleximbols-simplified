@@ -1,0 +1,25 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Scallion: thin long stalks, small white bulb base -->
+  <!-- Three stalks -->
+  <!-- Left stalk -->
+  <line x1="38" y1="85" x2="32" y2="10" stroke="#3a7820" stroke-width="4" stroke-linecap="round"/>
+  <!-- Center stalk -->
+  <line x1="50" y1="85" x2="50" y2="8" stroke="#3a7820" stroke-width="4" stroke-linecap="round"/>
+  <!-- Right stalk -->
+  <line x1="62" y1="85" x2="68" y2="10" stroke="#3a7820" stroke-width="4" stroke-linecap="round"/>
+  <!-- White bulge at base of each stalk -->
+  <ellipse cx="38" cy="82" rx="6" ry="8" fill="#f0f0e8" stroke="#333" stroke-width="2"/>
+  <ellipse cx="50" cy="82" rx="6" ry="8" fill="#f0f0e8" stroke="#333" stroke-width="2"/>
+  <ellipse cx="62" cy="82" rx="6" ry="8" fill="#f0f0e8" stroke="#333" stroke-width="2"/>
+  <!-- Roots -->
+  <line x1="35" y1="90" x2="32" y2="97" stroke="#9a9070" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="39" y1="91" x2="38" y2="98" stroke="#9a9070" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="47" y1="91" x2="45" y2="98" stroke="#9a9070" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="53" y1="91" x2="55" y2="98" stroke="#9a9070" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="59" y1="91" x2="57" y2="98" stroke="#9a9070" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="65" y1="90" x2="68" y2="97" stroke="#9a9070" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Light green lower portion of stalks -->
+  <line x1="38" y1="75" x2="35" y2="60" stroke="#c0d870" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="50" y1="75" x2="50" y2="58" stroke="#c0d870" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="62" y1="75" x2="65" y2="60" stroke="#c0d870" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

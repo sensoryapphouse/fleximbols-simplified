@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- mussel shell outer -->
+  <ellipse cx="50" cy="48" rx="28" ry="36" fill="#4a3a5c" stroke="#2a1a3c" stroke-width="2.5"/>
+  <!-- mussel shell inner highlight -->
+  <ellipse cx="50" cy="46" rx="20" ry="28" fill="#7a5a8c" stroke="none"/>
+  <!-- shell ridges -->
+  <line x1="50" y1="18" x2="50" y2="80" stroke="#2a1a3c" stroke-width="1.5"/>
+  <path d="M 35 25 Q 50 18 65 25" fill="none" stroke="#2a1a3c" stroke-width="1"/>
+  <path d="M 28 38 Q 50 30 72 38" fill="none" stroke="#2a1a3c" stroke-width="1"/>
+  <path d="M 25 52 Q 50 44 75 52" fill="none" stroke="#2a1a3c" stroke-width="1"/>
+  <path d="M 27 65 Q 50 58 73 65" fill="none" stroke="#2a1a3c" stroke-width="1"/>
+</svg>

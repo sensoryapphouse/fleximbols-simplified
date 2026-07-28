@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Belt strap -->
+  <rect x="10" y="40" width="80" height="18" rx="4" fill="#8B4513" stroke="#3D1C08" stroke-width="2.5"/>
+  <!-- Belt buckle frame -->
+  <rect x="38" y="36" width="24" height="26" rx="3" fill="#C8A000" stroke="#7A6000" stroke-width="2.5"/>
+  <!-- Buckle inner -->
+  <rect x="42" y="40" width="16" height="18" rx="2" fill="#FFD700" stroke="#7A6000" stroke-width="1.5"/>
+  <!-- Buckle prong -->
+  <line x1="50" y1="38" x2="50" y2="62" stroke="#3D1C08" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Belt holes -->
+  <circle cx="70" cy="49" r="2" fill="#3D1C08"/>
+  <circle cx="78" cy="49" r="2" fill="#3D1C08"/>
+  <!-- Label -->
+</svg>

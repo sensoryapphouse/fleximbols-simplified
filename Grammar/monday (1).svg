@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<rect x="10" y="12" width="80" height="72" rx="6" fill="#e3f2fd" stroke="#1565c0" stroke-width="2.5"/>
+  <rect x="10" y="12" width="80" height="20" rx="6" fill="#1565c0" stroke="#1565c0" stroke-width="2.5"/>
+  <rect x="10" y="24" width="80" height="8" fill="#1565c0"/>
+  <circle cx="28" cy="12" r="5" fill="white" stroke="#1565c0" stroke-width="2"/>
+  <circle cx="72" cy="12" r="5" fill="white" stroke="#1565c0" stroke-width="2"/>
+  <text x="50" y="27" font-size="9" text-anchor="middle" fill="white" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold">MON</text>
+  <!-- Big number -->
+  <text x="50" y="65" font-size="30" text-anchor="middle" fill="#1565c0" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold">1</text>
+</svg>

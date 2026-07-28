@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <svg viewBox="0 0 580 480" preserveAspectRatio="xMidYMid meet">
+  
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="518,410 65,410 65,39 518,39 518,410" fill="#d9f1f7" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="276,174 257,121 292,111 314,98 384,123 432,127 432,127 435,132 443,144 446,151 449,158 449,164 449,167 448,170 448,170 440,186 431,207 421,234 398,259 398,259 392,283 388,299 386,309 386,309 384,350 378,375 342,375 312,382 289,377 237,335 213,302 242,267 276,239 276,174" fill="#668187" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="97,467 97,467 108,457 134,431 150,413 167,394 183,374 198,354 244,297 244,297 248,285 252,272 254,259 253,215 281,173 286,162 286,162 288,165 291,174 292,180 292,187 291,194 288,201 286,209 320,177 361,137 361,137 364,135 367,134 371,134 373,135 374,137 374,138 374,144 370,153 370,153 373,151 376,151 378,151 380,153 380,156 379,162 374,171 374,171 377,171 380,172 382,174 383,176 383,180 381,185 376,193 376,193 379,193 382,193 384,195 386,198 385,204 382,212 374,223 322,297 290,322 209,475 93,474 97,467" fill="#fdc5a3" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+    <polyline points="370,153 322,198" fill="none" stroke="#000000" stroke-width="4.0"/>
+    <polyline points="374,171 338,207" fill="none" stroke="#000000" stroke-width="4.0"/>
+    <polyline points="376,193 348,222" fill="none" stroke="#000000" stroke-width="4.0"/>
+    <polyline points="124,289 124,289 131,279 140,269 153,258 168,246 177,241 186,236 196,232 206,229 217,227 229,226" fill="none" stroke="#000000" stroke-width="4.0"/>
+    <polyline points="146,205 146,205 155,199 166,193 178,186 194,181 202,179 210,178 218,177 227,178 235,179 244,182" fill="none" stroke="#000000" stroke-width="4.0"/>
+  </g>
+</svg>
+</svg>

@@ -1,0 +1,25 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Person standing -->
+  <circle cx="50" cy="18" r="10" fill="#f5cba7" stroke="#333" stroke-width="2.5"/>
+  <!-- Body -->
+  <rect x="40" y="30" width="20" height="28" rx="4" fill="#a8c8e8" stroke="#333" stroke-width="2.5"/>
+  <!-- Skeleton overlay - spine -->
+  <line x1="50" y1="30" x2="50" y2="58" stroke="#e8d5c4" stroke-width="2.5" stroke-dasharray="4,2"/>
+  <!-- Rib lines -->
+  <path d="M50 35 Q43 37 41 42" fill="none" stroke="#e8d5c4" stroke-width="1.5"/>
+  <path d="M50 35 Q57 37 59 42" fill="none" stroke="#e8d5c4" stroke-width="1.5"/>
+  <path d="M50 42 Q43 44 41 49" fill="none" stroke="#e8d5c4" stroke-width="1.5"/>
+  <path d="M50 42 Q57 44 59 49" fill="none" stroke="#e8d5c4" stroke-width="1.5"/>
+  <!-- Arms -->
+  <line x1="40" y1="34" x2="26" y2="50" stroke="#f5cba7" stroke-width="5" stroke-linecap="round"/>
+  <line x1="60" y1="34" x2="74" y2="50" stroke="#f5cba7" stroke-width="5" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="45" y1="58" x2="40" y2="82" stroke="#f5cba7" stroke-width="5" stroke-linecap="round"/>
+  <line x1="55" y1="58" x2="60" y2="82" stroke="#f5cba7" stroke-width="5" stroke-linecap="round"/>
+  <!-- Therapist hands on shoulder/hip -->
+  <circle cx="28" cy="38" r="6" fill="#f5cba7" stroke="#333" stroke-width="2"/>
+  <circle cx="72" cy="55" r="6" fill="#f5cba7" stroke="#333" stroke-width="2"/>
+  <!-- Rotation arrows -->
+  <path d="M22 42 Q18 50 24 56" fill="none" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="24,56 18,54 22,60" fill="#e74c3c"/>
+</svg>

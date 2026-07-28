@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-42.031 -23.828) scale(1.6000)">
+<!-- Object -->
+  <rect x="36" y="50" width="20" height="16" rx="3" fill="#7db8e0" stroke="#333" stroke-width="2"/>
+  <!-- Return arrow (curved) -->
+  <path d="M72 30 C80 30 82 40 72 48 L40 48" fill="none" stroke="#e07040" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="36,44 40,52 44,44" fill="#e07040"/>
+  <!-- Second part of arrow going up -->
+  <path d="M72 30 L60 30" fill="none" stroke="#e07040" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="62,26 56,30 62,34" fill="#e07040"/>
+  <!-- Starting position dot -->
+  <circle cx="56" cy="30" r="4" fill="#f0c040" stroke="#333" stroke-width="1.5"/>
+</g>
+  </svg>

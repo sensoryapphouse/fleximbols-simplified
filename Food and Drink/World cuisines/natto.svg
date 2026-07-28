@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- natto container (styrofoam) -->
+<rect x="18" y="30" width="64" height="46" rx="4" fill="#ffffee" stroke="#ccccaa" stroke-width="2"/>
+<!-- beans texture -->
+<circle cx="30" cy="42" r="5" fill="#cc9933" stroke="#886622" stroke-width="1.5"/>
+<circle cx="42" cy="38" r="5" fill="#bbaa33" stroke="#886622" stroke-width="1.5"/>
+<circle cx="54" cy="42" r="5" fill="#cc9933" stroke="#886622" stroke-width="1.5"/>
+<circle cx="66" cy="38" r="5" fill="#bbaa33" stroke="#886622" stroke-width="1.5"/>
+<circle cx="36" cy="52" r="5" fill="#bbaa33" stroke="#886622" stroke-width="1.5"/>
+<circle cx="50" cy="56" r="5" fill="#cc9933" stroke="#886622" stroke-width="1.5"/>
+<circle cx="64" cy="52" r="5" fill="#bbaa33" stroke="#886622" stroke-width="1.5"/>
+<!-- fermented stringy texture -->
+<path d="M30,38 Q42,34 54,38" fill="none" stroke="#eeeecc" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M36,48 Q50,44 64,48" fill="none" stroke="#eeeecc" stroke-width="1.5" stroke-linecap="round"/>
+<!-- lid off to side -->
+<ellipse cx="76" cy="22" rx="12" ry="8" fill="#cccccc" stroke="#888888" stroke-width="1.5"/>
+</svg>

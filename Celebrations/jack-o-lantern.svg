@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Pumpkin body -->
+  <ellipse cx="50" cy="60" rx="34" ry="28" fill="#e65100" stroke="#bf360c" stroke-width="2.5"/>
+  <!-- Pumpkin ribs -->
+  <path d="M50,32 Q50,60 50,88" stroke="#bf360c" stroke-width="2.5" fill="none"/>
+  <path d="M25,38 Q33,60 25,82" stroke="#bf360c" stroke-width="2" fill="none"/>
+  <path d="M75,38 Q67,60 75,82" stroke="#bf360c" stroke-width="2" fill="none"/>
+  <!-- Stem -->
+  <rect x="46" y="26" width="8" height="10" rx="3" fill="#2e7d32" stroke="#1b5e20" stroke-width="2"/>
+  <!-- Carved triangle eyes -->
+  <polygon points="34,50 40,43 46,50" fill="#1a1a1a"/>
+  <polygon points="54,50 60,43 66,50" fill="#1a1a1a"/>
+  <!-- Carved nose -->
+  <polygon points="50,58 46,64 54,64" fill="#1a1a1a"/>
+  <!-- Carved smile with teeth -->
+  <path d="M28,70 L36,65 L40,70 L44,65 L50,70 L56,65 L60,70 L64,65 L72,70 Q60,82 50,82 Q40,82 28,70 Z" fill="#1a1a1a"/>
+  <rect x="36" y="65" width="6" height="8" fill="#e65100"/>
+  <rect x="48" y="65" width="6" height="8" fill="#e65100"/>
+  <rect x="60" y="65" width="6" height="8" fill="#e65100"/>
+  <!-- Inner glow -->
+  <ellipse cx="50" cy="70" rx="14" ry="8" fill="#f9a825" opacity="0.3"/>
+  <!-- Label -->
+</svg>

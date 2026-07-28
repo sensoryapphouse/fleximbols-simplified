@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Triangle with highlighted side -->
+  <polygon points="50,18 85,78 15,78" fill="#d0e8ff" stroke="#aaa" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Highlighted bottom side -->
+  <line x1="15" y1="78" x2="85" y2="78" stroke="#c0392b" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-24.297 -47.891) scale(1.6000)">
+<!-- chicken leg/drumstick -->
+  <!-- bone handle -->
+  <rect x="60" y="55" width="10" height="28" rx="5" fill="#F5F5F5" stroke="#BDBDBD" stroke-width="2"/>
+  <circle cx="65" cy="82" r="6" fill="#F5F5F5" stroke="#BDBDBD" stroke-width="2"/>
+  <circle cx="65" cy="55" r="4" fill="#F5F5F5" stroke="#BDBDBD" stroke-width="2"/>
+  <!-- meat portion -->
+  <path d="M65 52 C65 52 38 42 28 48 C18 54 22 72 36 76 C50 80 65 70 65 56Z" fill="#D4856A" stroke="#8D4E2E" stroke-width="2.5"/>
+  <!-- golden skin highlight -->
+  <path d="M65 52 C65 52 44 44 34 48 C28 51 26 58 30 65" fill="#C67C5A" stroke="none" stroke-width="1" opacity="0.5"/>
+  <!-- cooked sheen -->
+  <ellipse cx="42" cy="56" rx="12" ry="8" fill="#E8A080" opacity="0.4"/>
+</g>
+  </svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Document -->
+  <rect x="20" y="10" width="60" height="72" rx="4" fill="#fffbe6" stroke="#333" stroke-width="2.5"/>
+  <!-- Document lines -->
+  <line x1="30" y1="28" x2="70" y2="28" stroke="#999" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="30" y1="36" x2="70" y2="36" stroke="#999" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="30" y1="44" x2="70" y2="44" stroke="#999" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="30" y1="52" x2="55" y2="52" stroke="#999" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- PRENUP label -->
+  
+  <!-- Interlocking wedding rings (clearer, larger) -->
+  <circle cx="36" cy="61" r="10" fill="none" stroke="#d4af5a" stroke-width="4"/>
+  <circle cx="52" cy="61" r="10" fill="none" stroke="#c8993f" stroke-width="4"/>
+  <!-- weave: redraw left ring's right-side arc on top so rings interlock -->
+  <path d="M 44.6 56 A 10 10 0 0 1 44.6 66" fill="none" stroke="#d4af5a" stroke-width="4"/>
+  <!-- Arrow leading right from the rings -->
+  <line x1="64" y1="61" x2="78" y2="61" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="84,61 76,56 76,66" fill="#333"/>
+  <!-- Signature line -->
+  <line x1="28" y1="77" x2="72" y2="77" stroke="#333" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-29.922 -40.312) scale(1.6000)">
+<!-- Glass with clear water -->
+  <rect x="30" y="35" width="40" height="45" rx="4" ry="4" fill="#d6f0ff" stroke="#2a6496" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="34" y="55" width="32" height="22" rx="2" ry="2" fill="#a8d8f0" stroke="none"/>
+  <line x1="34" y1="55" x2="66" y2="55" stroke="#2a6496" stroke-width="2" stroke-linecap="round"/>
+  <!-- Rim -->
+  <rect x="27" y="33" width="46" height="6" rx="3" ry="3" fill="#b8ddf5" stroke="#2a6496" stroke-width="2.5"/>
+  <!-- Clear sparkles -->
+  <line x1="45" y1="45" x2="45" y2="49" stroke="#7ec8e3" stroke-width="2" stroke-linecap="round"/>
+  <line x1="43" y1="47" x2="47" y2="47" stroke="#7ec8e3" stroke-width="2" stroke-linecap="round"/>
+</g>
+  </svg>

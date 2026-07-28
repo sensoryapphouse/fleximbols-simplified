@@ -1,0 +1,21 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sun -->
+  <circle cx="12" cy="50" r="8" fill="#f0c040" stroke="#222" stroke-width="2"/>
+  <!-- Arrow 1 -->
+  <line x1="21" y1="50" x2="30" y2="50" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="30,46 38,50 30,54" fill="#333"/>
+  <!-- Plant (leaf) -->
+  <ellipse cx="46" cy="44" rx="7" ry="10" fill="#5a9a40" stroke="#222" stroke-width="2" transform="rotate(-20,46,44)"/>
+  <line x1="46" y1="54" x2="46" y2="62" stroke="#222" stroke-width="2"/>
+  <!-- Arrow 2 -->
+  <line x1="53" y1="50" x2="60" y2="50" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="60,46 68,50 60,54" fill="#333"/>
+  <!-- Rabbit (simple) -->
+  <ellipse cx="75" cy="52" rx="7" ry="5" fill="#d4b896" stroke="#222" stroke-width="2"/>
+  <ellipse cx="75" cy="44" rx="4" ry="4" fill="#d4b896" stroke="#222" stroke-width="2"/>
+  <ellipse cx="73" cy="40" rx="2" ry="5" fill="#d4b896" stroke="#222" stroke-width="2"/>
+  <ellipse cx="78" cy="40" rx="2" ry="5" fill="#d4b896" stroke="#222" stroke-width="2"/>
+  <!-- Arrow 3 -->
+  <line x1="83" y1="50" x2="88" y2="50" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="88,46 96,50 88,54" fill="#333"/>
+</svg>

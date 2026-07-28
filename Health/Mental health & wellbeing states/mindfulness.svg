@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-22.106 -22.177) scale(1.4421)">
+<!-- lotus flower -->
+<ellipse cx="50" cy="70" rx="8" ry="5" fill="#f8dde8" stroke="#cc6688" stroke-width="1.5"/>
+<path d="M50,70 Q44,58 46,50 Q48,44 50,45 Q52,44 54,50 Q56,58 50,70 Z" fill="#f8c8d8" stroke="#cc6688" stroke-width="1.5"/>
+<path d="M50,68 Q38,60 34,52 Q32,44 38,44 Q44,44 48,54 Z" fill="#f8d8e4" stroke="#cc6688" stroke-width="1.5"/>
+<path d="M50,68 Q62,60 66,52 Q68,44 62,44 Q56,44 52,54 Z" fill="#f8d8e4" stroke="#cc6688" stroke-width="1.5"/>
+<path d="M50,67 Q30,62 26,55 Q24,48 30,48 Q38,48 46,60 Z" fill="#fce8f0" stroke="#cc6688" stroke-width="1"/>
+<path d="M50,67 Q70,62 74,55 Q76,48 70,48 Q62,48 54,60 Z" fill="#fce8f0" stroke="#cc6688" stroke-width="1"/>
+<!-- calm lines at top -->
+<path d="M35,28 Q42,24 50,26 Q58,24 65,28" fill="none" stroke="#6699cc" stroke-width="2" stroke-linecap="round"/>
+<path d="M38,34 Q44,31 50,33 Q56,31 62,34" fill="none" stroke="#6699cc" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+  </svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Cap crown -->
+  <path d="M15 60 Q14 36 50 30 Q86 36 85 60 Z" fill="#3a6aaa" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Sweatband/rim -->
+  <path d="M15 60 Q50 68 85 60 L85 64 Q50 72 15 64 Z" fill="#2a5a8a" stroke="#333" stroke-width="2"/>
+  <!-- Peak/brim -->
+  <path d="M15 62 Q14 68 8 72 Q10 76 18 74 L85 64 L85 60 Z" fill="#2a5a8a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Button on top -->
+  <circle cx="50" cy="31" r="4" fill="#2a5a8a" stroke="#333" stroke-width="1.5"/>
+  <!-- Vent hole -->
+  <ellipse cx="68" cy="48" rx="5" ry="7" fill="#3060a0" stroke="#2a5090" stroke-width="1"/>
+</svg>

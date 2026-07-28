@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ground -->
+  <ellipse cx="50" cy="88" rx="38" ry="5" fill="#c8b878" stroke="#a09858" stroke-width="1.5"/>
+  <!-- Very long tail: swept back -->
+  <path d="M68,55 Q80,50 90,40" stroke="#c8a030" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M68,57 Q82,54 92,46" stroke="#b89028" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M68,59 Q80,58 88,52" stroke="#a08020" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Body: rich brown/copper -->
+  <ellipse cx="52" cy="64" rx="24" ry="14" fill="#c87830" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Iridescent scale pattern on body -->
+  <path d="M34,60 Q40,56 46,60" stroke="#a05818" stroke-width="1.2" fill="none"/>
+  <path d="M40,64 Q46,60 52,64" stroke="#a05818" stroke-width="1.2" fill="none"/>
+  <path d="M46,68 Q52,64 58,68" stroke="#a05818" stroke-width="1.2" fill="none"/>
+  <path d="M52,62 Q58,58 64,62" stroke="#a05818" stroke-width="1.2" fill="none"/>
+  <path d="M34,65 Q40,61 46,65" stroke="#a05818" stroke-width="1"/>
+  <!-- Wing: darker -->
+  <path d="M36,58 Q28,62 28,72 Q36,70 44,68" fill="#8a5020" stroke="#444" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Neck: white collar ring -->
+  <ellipse cx="34" cy="56" rx="9" ry="7" fill="#f0f0e8" stroke="#ccc" stroke-width="1.5"/>
+  <!-- Head: dark green iridescent -->
+  <ellipse cx="30" cy="48" rx="11" ry="10" fill="#1a6a30" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Red wattle -->
+  <ellipse cx="24" cy="52" rx="5" ry="4" fill="#cc2020" stroke="#aa0000" stroke-width="1.5"/>
+  <!-- Ear tufts -->
+  <line x1="28" y1="38" x2="24" y2="30" stroke="#1a6a30" stroke-width="3" stroke-linecap="round"/>
+  <line x1="32" y1="38" x2="32" y2="29" stroke="#1a6a30" stroke-width="3" stroke-linecap="round"/>
+  <!-- Eye: golden -->
+  <circle cx="26" cy="46" r="3" fill="#e8c020" stroke="#333" stroke-width="1.5"/>
+  <circle cx="26" cy="46" r="1.8" fill="#222"/>
+  <circle cx="25" cy="45" r="0.6" fill="white"/>
+  <!-- Bill -->
+  <path d="M20,48 Q16,48 14,51 Q16,53 22,52" fill="#c8a820" stroke="#333" stroke-width="1.5"/>
+  <!-- Feet -->
+  <line x1="42" y1="77" x2="36" y2="84" stroke="#888" stroke-width="2"/>
+  <line x1="46" y1="78" x2="44" y2="85" stroke="#888" stroke-width="2"/>
+  <line x1="56" y1="78" x2="54" y2="85" stroke="#888" stroke-width="2"/>
+  <line x1="62" y1="77" x2="68" y2="84" stroke="#888" stroke-width="2"/>
+</svg>

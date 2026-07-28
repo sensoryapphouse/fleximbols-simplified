@@ -1,0 +1,14 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Suribachi: ridged Japanese mortar, wider flare -->
+  <path d="M15 38 Q15 20 50 20 Q85 20 85 38 L78 75 Q72 85 50 87 Q28 85 22 75 Z" fill="#c8a87a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- ridges inside -->
+  <path d="M28 42 L72 42" fill="none" stroke="#8b6040" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M26 50 L74 50" fill="none" stroke="#8b6040" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M25 58 L75 58" fill="none" stroke="#8b6040" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M26 66 L74 66" fill="none" stroke="#8b6040" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M29 74 L71 74" fill="none" stroke="#8b6040" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- rim ellipse -->
+  <ellipse cx="50" cy="38" rx="35" ry="9" fill="#d4b48a" stroke="#333" stroke-width="2.5"/>
+  <!-- handle/spout nub -->
+  <rect x="82" y="48" width="12" height="6" rx="3" fill="#c8a87a" stroke="#333" stroke-width="2"/>
+</svg>

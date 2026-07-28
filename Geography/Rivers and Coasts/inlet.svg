@@ -1,0 +1,21 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Inlet: narrow arm of sea extending into land - top down -->
+  <!-- Land background -->
+  <rect x="0" y="0" width="100" height="100" fill="#88aa55" stroke="none"/>
+  <!-- Sea/open water at left -->
+  <rect x="0" y="0" width="25" height="100" fill="#4488cc" stroke="none"/>
+  <!-- Inlet channel cutting into land -->
+  <path d="M25,35 Q50,38 70,40 Q80,41 82,50 Q80,59 70,60 Q50,62 25,65 Z" fill="#4488cc" stroke="#336699" stroke-width="2"/>
+  <!-- Water ripples in inlet -->
+  <path d="M30,50 Q55,47 75,50" fill="none" stroke="#6699cc" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Rocky/vegetation shores -->
+  <path d="M25,35 Q35,30 50,32 Q65,34 70,40" fill="none" stroke="#669944" stroke-width="3" stroke-linecap="round"/>
+  <path d="M25,65 Q35,70 50,68 Q65,66 70,60" fill="none" stroke="#669944" stroke-width="3" stroke-linecap="round"/>
+  <!-- Headland at mouth -->
+  <ellipse cx="25" cy="27" rx="10" ry="6" fill="#779944" stroke="#333" stroke-width="1.5"/>
+  <ellipse cx="25" cy="73" rx="10" ry="6" fill="#779944" stroke="#333" stroke-width="1.5"/>
+  <!-- Open sea ripples -->
+  <path d="M5,30 Q12,28 18,30" fill="none" stroke="#6699cc" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M5,50 Q12,48 18,50" fill="none" stroke="#6699cc" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M5,70 Q12,68 18,70" fill="none" stroke="#6699cc" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

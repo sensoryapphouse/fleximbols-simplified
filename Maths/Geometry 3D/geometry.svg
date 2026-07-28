@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Triangle -->
+  <polygon points="50,12 82,72 18,72" fill="#d4e8f5" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Right angle mark at bottom-left -->
+  <path d="M22 68 L22 60 L30 60" fill="none" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+  <!-- Angle arc at top -->
+  <path d="M44 24 Q50 30 56 24" fill="none" stroke="#e05555" stroke-width="2" stroke-linecap="round"/>
+  <!-- Angle arc at bottom-right -->
+  <path d="M76 66 Q70 60 68 68" fill="none" stroke="#6a9fd8" stroke-width="2" stroke-linecap="round"/>
+  <!-- Side labels -->
+  <text x="30" y="46" font-size="9" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#333" font-style="italic">a</text>
+  <text x="68" y="46" font-size="9" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#333" font-style="italic">b</text>
+  <text x="50" y="70" font-size="9" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#333" font-style="italic">c</text>
+  <!-- Compass -->
+  <line x1="74" y1="14" x2="88" y2="30" stroke="#888" stroke-width="2" stroke-linecap="round"/>
+  <line x1="88" y1="14" x2="74" y2="30" stroke="#888" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="81" cy="14" r="3" fill="#888" stroke="#555" stroke-width="1"/>
+  <!-- a²+b²=c² -->
+  <text x="50" y="84" font-size="7.5" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#555">a²+b²=c²</text>
+</svg>

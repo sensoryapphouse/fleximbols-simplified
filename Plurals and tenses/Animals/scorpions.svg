@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,6.630) scale(0.9337)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Scorpion - curved stinging tail -->
+  <!-- Metasoma (tail segments) curving up and over -->
+  <path d="M62 68 Q72 60 76 50 Q80 38 74 28 Q70 20 68 18" fill="none" stroke="#8a6020" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tail segment nodes -->
+  <circle cx="64" cy="66" r="5" fill="#9a7030" stroke="#6a4010" stroke-width="1.5"/>
+  <circle cx="70" cy="56" r="5" fill="#9a7030" stroke="#6a4010" stroke-width="1.5"/>
+  <circle cx="74" cy="44" r="4.5" fill="#9a7030" stroke="#6a4010" stroke-width="1.5"/>
+  <circle cx="72" cy="33" r="4" fill="#9a7030" stroke="#6a4010" stroke-width="1.5"/>
+  <!-- Vesicle (stinger bulb) -->
+  <ellipse cx="68" cy="21" rx="5" ry="4" fill="#c87820" stroke="#6a4010" stroke-width="1.5"/>
+  <!-- Stinger -->
+  <path d="M68 17 Q65 10 63 6" fill="none" stroke="#6a4010" stroke-width="2" stroke-linecap="round"/>
+  <!-- Prosoma (body/cephalothorax) -->
+  <ellipse cx="40" cy="62" rx="22" ry="14" fill="#9a7030" stroke="#6a4010" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Pedipalps (CLAWS) - large pincers -->
+  <!-- Left claw -->
+  <path d="M22 58 Q12 52 8 48 Q6 44 10 42 Q16 40 18 46 Q22 52 22 58" fill="#8a6020" stroke="#6a4010" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Left pincer closing -->
+  <path d="M22 58 Q12 62 8 60 Q6 56 10 54 Q16 56 22 58" fill="#9a7030" stroke="#6a4010" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Right claw -->
+  <path d="M22 66 Q12 72 8 76 Q6 80 10 82 Q16 82 18 76 Q22 70 22 66" fill="#8a6020" stroke="#6a4010" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M22 66 Q12 64 8 66 Q6 70 10 72 Q16 70 22 66" fill="#9a7030" stroke="#6a4010" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Eight walking legs -->
+  <path d="M34 52 Q28 44 24 38 M38 50 Q32 40 30 34 M44 50 Q42 40 44 34 M50 50 Q52 40 54 34" stroke="#7a5818" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M34 72 Q28 80 24 86 M38 74 Q32 84 30 88 M44 74 Q42 82 44 88 M50 74 Q52 82 54 88" stroke="#7a5818" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Eyes on carapace -->
+  <circle cx="36" cy="58" r="2.5" fill="#1a1010" stroke="#6a4010" stroke-width="1"/>
+  <circle cx="44" cy="56" r="2" fill="#1a1010" stroke="#6a4010" stroke-width="1"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl517" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl517)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

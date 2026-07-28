@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- figure en pointe -->
+  <!-- head -->
+  <circle cx="50" cy="18" r="7" fill="#ffe0b2" stroke="#ad1457" stroke-width="2"/>
+  <!-- bun -->
+  <circle cx="50" cy="11" r="4" fill="#c0a080" stroke="#ad1457" stroke-width="1.5"/>
+  <!-- tutu body -->
+  <ellipse cx="50" cy="38" rx="10" ry="13" fill="#f8bbd0" stroke="#ad1457" stroke-width="2"/>
+  <!-- tutu skirt -->
+  <ellipse cx="50" cy="50" rx="18" ry="6" fill="#f8bbd0" stroke="#ad1457" stroke-width="2"/>
+  <!-- standing leg on pointe -->
+  <line x1="50" y1="51" x2="50" y2="76" stroke="#ad1457" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- pointe shoe -->
+  <ellipse cx="53" cy="77" rx="6" ry="3" fill="#f8bbd0" stroke="#ad1457" stroke-width="2"/>
+  <!-- raised leg -->
+  <line x1="50" y1="51" x2="68" y2="62" stroke="#ad1457" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="72" cy="63" rx="4" ry="3" fill="#f8bbd0" stroke="#ad1457" stroke-width="2"/>
+  <!-- arms in arabesque -->
+  <line x1="42" y1="33" x2="24" y2="26" stroke="#ad1457" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="33" x2="74" y2="26" stroke="#ad1457" stroke-width="2" stroke-linecap="round"/>
+</svg>

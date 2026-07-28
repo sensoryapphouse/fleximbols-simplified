@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Person figure covering ears -->
+  <!-- Head -->
+  <circle cx="50" cy="28" r="10" fill="#f5c890" stroke="#8a6040" stroke-width="2.5"/>
+  <!-- Body -->
+  <rect x="42" y="38" width="16" height="22" rx="4" fill="#5080c0" stroke="#304060" stroke-width="2"/>
+  <!-- Left arm covering ear -->
+  <path d="M42 42 Q28 38 24 30" fill="none" stroke="#5080c0" stroke-width="4" stroke-linecap="round"/>
+  <!-- Left hand on ear -->
+  <circle cx="22" cy="28" r="5" fill="#f5c890" stroke="#8a6040" stroke-width="2"/>
+  <!-- Right arm covering ear -->
+  <path d="M58 42 Q72 38 76 30" fill="none" stroke="#5080c0" stroke-width="4" stroke-linecap="round"/>
+  <!-- Right hand on ear -->
+  <circle cx="78" cy="28" r="5" fill="#f5c890" stroke="#8a6040" stroke-width="2"/>
+  <!-- Sound waves making it deafening -->
+  <path d="M15 50 Q10 42 10 34 Q10 26 15 18" fill="none" stroke="#e04020" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M85 50 Q90 42 90 34 Q90 26 85 18" fill="none" stroke="#e04020" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Pain stars -->
+  <path d="M36 14 L37 10 L38 14 L42 14 L39 17 L40 21 L37 18 L34 21 L35 17 L32 14 Z" fill="#ffdd00" stroke="#cc8800" stroke-width="1"/>
+  <path d="M58 14 L59 10 L60 14 L64 14 L61 17 L62 21 L59 18 L56 21 L57 17 L54 14 Z" fill="#ffdd00" stroke="#cc8800" stroke-width="1"/>
+</svg>

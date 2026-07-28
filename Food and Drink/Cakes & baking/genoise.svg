@@ -1,0 +1,16 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-18.602 -33.020) scale(1.3734)">
+<!-- plate -->
+  <ellipse cx="50" cy="78" rx="33" ry="5" fill="#ddd" stroke="#333" stroke-width="2"/>
+  <!-- cake body - round genoise, single tall layer -->
+  <rect x="22" y="48" width="56" height="28" rx="4" fill="#f0d080" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- top rounded dome -->
+  <ellipse cx="50" cy="48" rx="28" ry="7" fill="#f5e090" stroke="#333" stroke-width="2.5"/>
+  <!-- powdered sugar on top -->
+  <ellipse cx="50" cy="41" rx="22" ry="4" fill="white" stroke="#aaa" stroke-width="1" stroke-dasharray="3,2"/>
+  <!-- jam layer visible in middle -->
+  <rect x="22" y="59" width="56" height="5" fill="#cc3333" stroke="none"/>
+  <line x1="22" y1="59" x2="78" y2="59" stroke="#333" stroke-width="1.5"/>
+  <line x1="22" y1="64" x2="78" y2="64" stroke="#333" stroke-width="1.5"/>
+</g>
+  </svg>

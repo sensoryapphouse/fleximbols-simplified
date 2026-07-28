@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Sea anemone tentacles -->
+  <path d="M20,85 Q18,70 22,60" stroke="#c060a0" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M30,85 Q32,68 28,58" stroke="#c060a0" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M40,85 Q38,70 42,58" stroke="#c060a0" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M50,85 Q52,70 48,60" stroke="#c060a0" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M60,85 Q58,70 62,60" stroke="#c060a0" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M70,85 Q72,70 68,60" stroke="#c060a0" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M80,85 Q78,70 82,60" stroke="#c060a0" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Anemone base -->
+  <ellipse cx="50" cy="86" rx="40" ry="6" fill="#d870b0" stroke="#aa4090" stroke-width="2"/>
+  <!-- Clownfish body: oval orange -->
+  <ellipse cx="50" cy="42" rx="22" ry="16" fill="#e87020" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- White stripes: 3 bars -->
+  <path d="M36,28 Q34,42 36,56" stroke="white" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M36,28 Q34,42 36,56" stroke="#333" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M50,27 Q50,42 50,57" stroke="white" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <path d="M50,27 Q50,42 50,57" stroke="#333" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M64,30 Q66,42 64,54" stroke="white" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M64,30 Q66,42 64,54" stroke="#333" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Eye -->
+  <circle cx="30" cy="38" r="4" fill="white" stroke="#333" stroke-width="1.5"/>
+  <circle cx="30" cy="38" r="2.5" fill="#222"/>
+  <circle cx="29" cy="37" r="0.8" fill="white"/>
+  <!-- Dorsal fin: black-tipped orange -->
+  <path d="M36,26 Q38,16 42,12 Q46,16 50,27" fill="#e87020" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M50,27 Q54,16 58,12 Q62,16 64,30" fill="#e87020" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Tail: rounded fan -->
+  <path d="M70,36 L82,28 L82,56 L70,48 Z" fill="#e87020" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Pectoral fins -->
+  <path d="M34,50 L22,58 L28,48" fill="#e87020" stroke="#333" stroke-width="1.5"/>
+</svg>

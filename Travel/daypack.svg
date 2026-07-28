@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-29.922 -30.469) scale(1.6000)">
+<!-- Small daypack -->
+  <rect x="28" y="28" width="44" height="50" rx="8" fill="#e87730" stroke="#333" stroke-width="2.5"/>
+  <!-- Top handle -->
+  <rect x="40" y="22" width="20" height="8" rx="4" fill="#e87730" stroke="#333" stroke-width="2"/>
+  <!-- Shoulder straps (subtle) -->
+  <path d="M32,76 Q24,68 28,52 Q30,40 34,32" fill="none" stroke="#c85020" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M68,76 Q76,68 72,52 Q70,40 66,32" fill="none" stroke="#c85020" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Main pocket zipper -->
+  <line x1="34" y1="44" x2="66" y2="44" stroke="#333" stroke-width="2" stroke-dasharray="3,2"/>
+  <!-- Front pocket -->
+  <rect x="34" y="50" width="32" height="22" rx="4" fill="#c85020" stroke="#333" stroke-width="2"/>
+  <line x1="36" y1="56" x2="64" y2="56" stroke="#333" stroke-width="1.5" stroke-dasharray="3,2"/>
+</g>
+  </svg>

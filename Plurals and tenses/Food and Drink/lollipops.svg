@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,4.190) scale(0.9581)">
+<!-- stick -->
+  <line x1="50" y1="55" x2="50" y2="88" stroke="#e0c890" stroke-width="4" stroke-linecap="round"/>
+  <!-- lollipop circle -->
+  <circle cx="50" cy="38" r="26" fill="#e84060"/>
+  <!-- swirl pattern -->
+  <path d="M 50 20 Q 70 20 72 38 Q 72 56 50 56 Q 28 56 26 38" fill="none" stroke="#f8b0c0" stroke-width="4"/>
+  <path d="M 50 26 Q 64 26 66 38 Q 66 50 50 50" fill="none" stroke="white" stroke-width="3" opacity="0.4"/>
+  <!-- outline -->
+  <circle cx="50" cy="38" r="26" fill="none" stroke="#c02040" stroke-width="2.5"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1653" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1653)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

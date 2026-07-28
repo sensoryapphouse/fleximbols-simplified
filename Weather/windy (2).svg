@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Strong curved wind lines -->
+  <path d="M5,25 Q25,12 50,22 Q72,32 92,20" fill="none" stroke="#7799bb" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M5,40 Q25,28 52,38 Q75,48 92,36" fill="none" stroke="#7799bb" stroke-width="3" stroke-linecap="round"/>
+  <path d="M5,55 Q28,43 54,53 Q76,63 92,52" fill="none" stroke="#7799bb" stroke-width="3" stroke-linecap="round"/>
+  <path d="M5,70 Q30,58 55,68 Q76,78 92,68" fill="none" stroke="#7799bb" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Arrow heads -->
+  <polyline points="86,14 92,20 86,26" fill="none" stroke="#7799bb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="86,30 92,36 86,42" fill="none" stroke="#7799bb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="86,46 92,52 86,58" fill="none" stroke="#7799bb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="86,62 92,68 86,74" fill="none" stroke="#7799bb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

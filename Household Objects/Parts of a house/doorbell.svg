@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-24.693 -21.700) scale(1.4953)">
+<!-- Doorbell unit body (vertical rectangle) -->
+  <rect x="32" y="18" width="36" height="60" rx="10" fill="#d8c8b0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Button (big round) -->
+  <circle cx="50" cy="67" r="10" fill="#e0e0e0" stroke="#333" stroke-width="2.5"/>
+  <circle cx="50" cy="67" r="6" fill="#f0f0f0" stroke="#aaa" stroke-width="1.5"/>
+  <!-- Camera lens at top -->
+  <circle cx="50" cy="32" r="8" fill="#444" stroke="#333" stroke-width="2"/>
+  <circle cx="50" cy="32" r="5" fill="#333" stroke="#555" stroke-width="1.5"/>
+  <circle cx="50" cy="32" r="2" fill="#888"/>
+  <!-- Motion LED strip -->
+  <rect x="35" y="44" width="30" height="6" rx="3" fill="#f90" stroke="#333" stroke-width="1.5"/>
+  <!-- Bell sound waves -->
+  <path d="M70 30 Q76 36 70 42" stroke="#888" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M74 27 Q82 36 74 45" stroke="#888" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Label -->
+</g>
+  </svg>

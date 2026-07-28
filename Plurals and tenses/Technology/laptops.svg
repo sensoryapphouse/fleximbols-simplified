@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,14.080) scale(0.8592)">
+<!-- Screen lid (open) -->
+  <rect x="18" y="14" width="64" height="44" rx="4" fill="#333" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="22" y="18" width="56" height="36" rx="2" fill="#A8C8E8" stroke="none"/>
+  <!-- Screen content -->
+  <rect x="28" y="24" width="36" height="5" rx="1" fill="#5B8CC8"/>
+  <rect x="28" y="33" x2="66" y2="33" width="44" height="3" rx="1" fill="#D4C5A9"/>
+  <rect x="28" y="40" width="44" height="3" rx="1" fill="#D4C5A9"/>
+  <!-- Webcam dot -->
+  <circle cx="50" cy="19" r="2" fill="#555"/>
+  <!-- Base/keyboard -->
+  <path d="M10,58 L90,58 L86,72 L14,72 Z" fill="#C8C8B8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Hinge -->
+  <rect x="18" y="56" width="64" height="4" rx="2" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <!-- Keys hint -->
+  <line x1="22" y1="63" x2="78" y2="63" stroke="#888" stroke-width="1.5"/>
+  <line x1="22" y1="68" x2="78" y2="68" stroke="#888" stroke-width="1.5"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3102" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3102)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

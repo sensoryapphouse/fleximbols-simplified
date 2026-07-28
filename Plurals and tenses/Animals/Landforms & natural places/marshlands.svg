@@ -1,0 +1,37 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,28.240) scale(0.7176)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Marshland: waterlogged grassy area -->
+  <!-- Water patches background -->
+  <rect x="0" y="0" width="100" height="100" fill="#88aa66" stroke="none"/>
+  <!-- Water channels/pools -->
+  <ellipse cx="25" cy="30" rx="18" ry="10" fill="#4488cc" stroke="#336699" stroke-width="1.5"/>
+  <ellipse cx="70" cy="55" rx="15" ry="9" fill="#4488cc" stroke="#336699" stroke-width="1.5"/>
+  <ellipse cx="35" cy="72" rx="12" ry="7" fill="#4488cc" stroke="#336699" stroke-width="1.5"/>
+  <ellipse cx="80" cy="20" rx="10" ry="6" fill="#4488cc" stroke="#336699" stroke-width="1.5"/>
+  <!-- Marsh grass tufts -->
+  <!-- Tuft 1 -->
+  <line x1="50" y1="40" x2="47" y2="25" stroke="#669944" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="40" x2="50" y2="23" stroke="#669944" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="40" x2="53" y2="25" stroke="#669944" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Tuft 2 -->
+  <line x1="15" y1="60" x2="12" y2="45" stroke="#669944" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="15" y1="60" x2="15" y2="43" stroke="#669944" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="15" y1="60" x2="18" y2="45" stroke="#669944" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Tuft 3 -->
+  <line x1="85" y1="75" x2="82" y2="60" stroke="#669944" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="85" y1="75" x2="85" y2="58" stroke="#669944" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="85" y1="75" x2="88" y2="60" stroke="#669944" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Tuft 4 -->
+  <line x1="58" y1="85" x2="55" y2="70" stroke="#669944" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="58" y1="85" x2="58" y2="68" stroke="#669944" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="58" y1="85" x2="61" y2="70" stroke="#669944" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Tuft 5 -->
+  <line x1="90" y1="42" x2="88" y2="30" stroke="#669944" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="90" y1="42" x2="92" y2="30" stroke="#669944" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Cattail/reed -->
+  <line x1="44" y1="65" x2="44" y2="45" stroke="#8b6914" stroke-width="2" stroke-linecap="round"/>
+  <rect x="41" y="45" width="6" height="12" rx="3" fill="#8b6914" stroke="#222" stroke-width="1.5"/>
+  <!-- Duck -->
+  <ellipse cx="72" cy="52" rx="7" ry="4" fill="#446633" stroke="#222" stroke-width="1.5"/>
+  <circle cx="78" cy="50" r="3.5" fill="#446633" stroke="#222" stroke-width="1.5"/>
+  <polygon points="81,49 86,50 81,51" fill="#ffcc44" stroke="#333" stroke-width="1"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl208" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl208)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Board body - two lobes connected -->
+  <path d="M12 50 Q12 40 24 40 L38 40 Q46 40 50 50 Q54 40 62 40 L76 40 Q88 40 88 50 Q88 60 76 60 L62 60 Q54 60 50 50 Q46 60 38 60 L24 60 Q12 60 12 50Z"
+    fill="#444" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- LED ring left wheel -->
+  <circle cx="24" cy="50" r="14" fill="none" stroke="#5ce87a" stroke-width="3" opacity="0.8"/>
+  <!-- Left wheel -->
+  <circle cx="24" cy="50" r="10" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="24" cy="50" r="5" fill="#888"/>
+  <!-- LED ring right wheel -->
+  <circle cx="76" cy="50" r="14" fill="none" stroke="#5ce87a" stroke-width="3" opacity="0.8"/>
+  <!-- Right wheel -->
+  <circle cx="76" cy="50" r="10" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="76" cy="50" r="5" fill="#888"/>
+  <!-- Foot platform markings -->
+  <rect x="16" y="46" width="16" height="8" rx="2" fill="#555" opacity="0.6"/>
+  <rect x="68" y="46" width="16" height="8" rx="2" fill="#555" opacity="0.6"/>
+  <!-- Centre pivot line -->
+  <line x1="44" y1="47" x2="56" y2="47" stroke="#5ce87a" stroke-width="1.5" opacity="0.7"/>
+  <line x1="44" y1="53" x2="56" y2="53" stroke="#5ce87a" stroke-width="1.5" opacity="0.7"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3276" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3276)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

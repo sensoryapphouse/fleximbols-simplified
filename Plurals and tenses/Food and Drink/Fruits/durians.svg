@@ -1,0 +1,25 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Durian - large oval with prominent sharp spikes all over -->
+  <!-- Base oval body -->
+  <ellipse cx="50" cy="58" rx="32" ry="28" fill="#c8b040" stroke="#333" stroke-width="2"/>
+  <!-- Spike pattern covering the body - triangular spikes -->
+  <!-- Top spikes -->
+  <polygon points="50,10 46,28 54,28" fill="#b09030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="65,15 61,32 69,31" fill="#b09030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="35,15 31,32 39,31" fill="#b09030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Upper side spikes -->
+  <polygon points="78,30 68,40 73,46" fill="#b09030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="22,30 32,40 27,46" fill="#b09030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Mid spikes -->
+  <polygon points="88,52 73,55 78,63" fill="#b09030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="12,52 27,55 22,63" fill="#b09030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Lower side spikes -->
+  <polygon points="82,70 68,68 72,76" fill="#b09030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="18,70 32,68 28,76" fill="#b09030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Bottom spikes -->
+  <polygon points="50,95 46,78 54,78" fill="#b09030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="64,90 61,75 68,73" fill="#b09030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="36,90 39,75 32,73" fill="#b09030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Stem -->
+  <rect x="46" y="6" width="8" height="8" rx="2" fill="#8a6020" stroke="#333" stroke-width="2"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1215" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1215)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

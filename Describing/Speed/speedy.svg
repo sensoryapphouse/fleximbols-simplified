@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Running figure -->
+  <!-- Head -->
+  <circle cx="68" cy="25" r="8" fill="#f5c890" stroke="#8a6040" stroke-width="2"/>
+  <!-- Body leaning forward -->
+  <path d="M68 33 L60 55" stroke="#5080c0" stroke-width="5" stroke-linecap="round"/>
+  <!-- Front leg -->
+  <path d="M62 50 L58 65 L52 75" stroke="#306090" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Back leg -->
+  <path d="M62 50 L68 62 L76 68" stroke="#306090" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Front arm -->
+  <path d="M66 40 L58 50" stroke="#5080c0" stroke-width="3" stroke-linecap="round"/>
+  <!-- Back arm -->
+  <path d="M65 40 L78 45" stroke="#5080c0" stroke-width="3" stroke-linecap="round"/>
+  <!-- Motion blur lines -->
+  <line x1="14" y1="35" x2="48" y2="35" stroke="#cc4400" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="10" y1="42" x2="44" y2="42" stroke="#cc4400" stroke-width="2" stroke-linecap="round"/>
+  <line x1="16" y1="49" x2="46" y2="49" stroke="#cc4400" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="12" y1="56" x2="42" y2="56" stroke="#cc4400" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

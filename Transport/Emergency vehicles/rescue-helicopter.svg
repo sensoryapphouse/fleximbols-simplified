@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- main rotor -->
+  <line x1="10" y1="22" x2="90" y2="22" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="50" cy="22" r="3" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <!-- rotor mast -->
+  <line x1="50" y1="22" x2="50" y2="30" stroke="#555" stroke-width="2"/>
+  <!-- fuselage -->
+  <path d="M15 30 Q15 28 50 28 Q80 28 85 32 L85 55 Q85 60 75 60 L25 60 Q15 60 15 55 Z" fill="#c83030" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- cockpit window -->
+  <path d="M15 40 Q15 30 28 30 L28 50 Q22 50 15 45 Z" fill="#c0d8f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- red cross -->
+
+<!-- skids -->
+  <line x1="20" y1="60" x2="20" y2="68" stroke="#888" stroke-width="2"/>
+  <line x1="75" y1="60" x2="75" y2="68" stroke="#888" stroke-width="2"/>
+  <line x1="12" y1="68" x2="45" y2="68" stroke="#888" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="55" y1="68" x2="88" y2="68" stroke="#888" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- tail boom -->
+  <line x1="85" y1="45" x2="95" y2="38" stroke="#c83030" stroke-width="4" stroke-linecap="round"/>
+  <!-- tail rotor -->
+  <line x1="92" y1="32" x2="98" y2="44" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+</svg>

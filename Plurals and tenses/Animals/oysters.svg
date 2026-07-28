@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- oyster shell - half open showing meat inside -->
+  <!-- bottom shell half -->
+  <path d="M15 52 C15 40 85 40 85 52 C85 68 68 80 50 80 C32 80 15 68 15 52Z" fill="#9E9E9E" stroke="#616161" stroke-width="2.5"/>
+  <!-- shell ridges/texture -->
+  <path d="M20 55 C35 50 65 50 80 55" stroke="#757575" stroke-width="1.5" fill="none"/>
+  <path d="M18 62 C33 57 67 57 82 62" stroke="#757575" stroke-width="1.5" fill="none"/>
+  <path d="M22 70 C36 66 64 66 78 70" stroke="#757575" stroke-width="1.5" fill="none"/>
+  <!-- oyster meat inside -->
+  <ellipse cx="50" cy="58" rx="24" ry="14" fill="#F5F5F5" stroke="#BDBDBD" stroke-width="1.5"/>
+  <!-- oyster meat texture - grey/cream -->
+  <ellipse cx="50" cy="58" rx="18" ry="10" fill="#ECEFF1" stroke="none"/>
+  <ellipse cx="46" cy="56" rx="10" ry="6" fill="#CFD8DC" opacity="0.6"/>
+  <!-- top shell half (lifted) -->
+  <path d="M50 30 C30 30 15 38 15 50 C15 42 30 36 50 36 C70 36 85 42 85 50 C85 38 70 30 50 30Z" fill="#BDBDBD" stroke="#757575" stroke-width="2"/>
+  <!-- shell hinge -->
+  <ellipse cx="50" cy="36" rx="6" ry="4" fill="#757575" stroke="#616161" stroke-width="1.5"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl503" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl503)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

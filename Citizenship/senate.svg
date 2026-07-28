@@ -1,0 +1,23 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Building outline -->
+  <rect x="8" y="38" width="84" height="55" rx="2" fill="#e8edf2" stroke="#222" stroke-width="2.5"/>
+  <!-- Roof/pediment -->
+  <polygon points="5,38 50,18 95,38" fill="#b8c4cf" stroke="#222" stroke-width="2.5"/>
+  <!-- Podium/dais at front -->
+  <rect x="30" y="68" width="40" height="12" rx="2" fill="#8e9fad" stroke="#222" stroke-width="2"/>
+  <rect x="38" y="62" width="24" height="8" rx="1" fill="#a0b0bc" stroke="#222" stroke-width="2"/>
+  <!-- Semicircle seats rows -->
+  <path d="M20,92 Q50,60 80,92" fill="none" stroke="#555" stroke-width="2"/>
+  <path d="M14,92 Q50,53 86,92" fill="none" stroke="#555" stroke-width="2"/>
+  <!-- Seat dots row 1 -->
+  <circle cx="28" cy="86" r="3" fill="#7f8c8d" stroke="#222" stroke-width="1.5"/>
+  <circle cx="38" cy="80" r="3" fill="#7f8c8d" stroke="#222" stroke-width="1.5"/>
+  <circle cx="50" cy="77" r="3" fill="#7f8c8d" stroke="#222" stroke-width="1.5"/>
+  <circle cx="62" cy="80" r="3" fill="#7f8c8d" stroke="#222" stroke-width="1.5"/>
+  <circle cx="72" cy="86" r="3" fill="#7f8c8d" stroke="#222" stroke-width="1.5"/>
+  <!-- Seat dots row 2 -->
+  <circle cx="22" cy="90" r="3" fill="#95a5a6" stroke="#222" stroke-width="1.5"/>
+  <circle cx="34" cy="88" r="3" fill="#95a5a6" stroke="#222" stroke-width="1.5"/>
+  <circle cx="66" cy="88" r="3" fill="#95a5a6" stroke="#222" stroke-width="1.5"/>
+  <circle cx="78" cy="90" r="3" fill="#95a5a6" stroke="#222" stroke-width="1.5"/>
+</svg>

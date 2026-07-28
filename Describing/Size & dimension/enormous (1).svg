@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<rect x="8" y="8" width="60" height="78" rx="4" fill="#f0b8b8" stroke="#aa2222" stroke-width="2.5"/>
+  <!-- tiny stick figure -->
+  <circle cx="83" cy="72" r="3.5" fill="#f5c842" stroke="#8B6914" stroke-width="1.5"/>
+  <line x1="83" y1="75.5" x2="83" y2="86" stroke="#8B6914" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="78" y1="79" x2="88" y2="79" stroke="#8B6914" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="83" y1="86" x2="79" y2="92" stroke="#8B6914" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="83" y1="86" x2="87" y2="92" stroke="#8B6914" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

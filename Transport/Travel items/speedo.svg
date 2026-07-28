@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-29.922 -34.453) scale(1.6000)">
+<!-- swim briefs -->
+  <path d="M25 40 Q28 32 50 30 Q72 32 75 40 L72 65 Q65 75 50 76 Q35 75 28 65 Z" fill="#c0392b" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- high-cut leg openings -->
+  <path d="M28 58 Q32 70 36 72" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M72 58 Q68 70 64 72" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- waistband -->
+  <rect x="24" y="38" width="52" height="8" rx="2" fill="#a93226" stroke="#333" stroke-width="1.5"/>
+  <!-- logo/brand mark on side -->
+  <rect x="30" y="50" width="12" height="8" rx="1" fill="#a93226" stroke="#fff" stroke-width="1"/>
+</g>
+  </svg>

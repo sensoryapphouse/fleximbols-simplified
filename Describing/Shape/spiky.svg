@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-14.407 -14.407) scale(1.2881)">
+<!-- Central circle -->
+  <circle cx="50" cy="50" r="16" fill="#c8d8e8" stroke="#333" stroke-width="2.5"/>
+  <!-- Sharp spikes radiating outward (longer and sharper than prickly) -->
+  <polygon points="50,34 47,26 53,26" fill="#555" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="62,38 68,30 66,37" fill="#555" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="66,50 78,47 72,52" fill="#555" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="62,62 68,70 66,63" fill="#555" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="50,66 47,74 53,74" fill="#555" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="38,62 32,70 34,63" fill="#555" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="34,50 22,47 28,52" fill="#555" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="38,38 32,30 34,37" fill="#555" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+</g>
+  </svg>

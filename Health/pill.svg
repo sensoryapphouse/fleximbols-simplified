@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Main round tablet -->
+  <circle cx="50" cy="48" r="26" fill="#f0d080" stroke="#9a7a10" stroke-width="2.5"/>
+  <!-- Score line (dividing line) -->
+  <line x1="50" y1="23" x2="50" y2="73" stroke="#9a7a10" stroke-width="2" stroke-linecap="round"/>
+  <!-- Embossed cross -->
+  <line x1="36" y1="48" x2="64" y2="48" stroke="#9a7a10" stroke-width="2" stroke-linecap="round"/>
+  <!-- Sheen highlight -->
+  <ellipse cx="42" cy="37" rx="7" ry="4" fill="white" opacity="0.4" transform="rotate(-30 42 37)"/>
+  <!-- Small pills around for context -->
+  <circle cx="22" cy="72" r="7" fill="#d4e8a0" stroke="#4a7a10" stroke-width="1.5"/>
+  <circle cx="78" cy="72" r="7" fill="#d4e8a0" stroke="#4a7a10" stroke-width="1.5"/>
+</svg>

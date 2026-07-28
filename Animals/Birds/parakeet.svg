@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-6.682 -9.840) scale(1.1348)">
+<!-- Branch -->
+  <rect x="18" y="76" width="64" height="7" rx="3" fill="#8a6040" stroke="#5a3818" stroke-width="2"/>
+  <!-- Long tail feathers -->
+  <path d="M52,72 Q50,82 48,92" stroke="#2a7838" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M56,71 Q58,82 60,90" stroke="#3a9848" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M48,72 Q44,82 42,90" stroke="#1a6828" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- Body: sleek small parrot -->
+  <ellipse cx="50" cy="60" rx="15" ry="14" fill="#3a9848" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Wing detail: slightly darker -->
+  <ellipse cx="62" cy="62" rx="8" ry="13" fill="#2a8038" stroke="#333" stroke-width="1.5" transform="rotate(8,62,62)"/>
+  <ellipse cx="38" cy="62" rx="8" ry="13" fill="#2a8038" stroke="#333" stroke-width="1.5" transform="rotate(-8,38,62)"/>
+  <!-- Chest: yellow-green -->
+  <ellipse cx="50" cy="62" rx="9" ry="10" fill="#a8c840" stroke="none"/>
+  <!-- Head: small round -->
+  <ellipse cx="50" cy="42" rx="13" ry="12" fill="#3a9848" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Yellow forehead -->
+  <ellipse cx="50" cy="37" rx="10" ry="7" fill="#d8c030" stroke="none"/>
+  <!-- Eye with white ring -->
+  <circle cx="44" cy="40" r="3.5" fill="white" stroke="#aaa" stroke-width="1"/>
+  <circle cx="44" cy="40" r="2" fill="#222"/>
+  <circle cx="43" cy="39" r="0.7" fill="white"/>
+  <circle cx="56" cy="40" r="3.5" fill="white" stroke="#aaa" stroke-width="1"/>
+  <circle cx="56" cy="40" r="2" fill="#222"/>
+  <circle cx="55" cy="39" r="0.7" fill="white"/>
+  <!-- Cheek spots: blue -->
+  <circle cx="43" cy="46" r="2.5" fill="#4060c8"/>
+  <circle cx="57" cy="46" r="2.5" fill="#4060c8"/>
+  <!-- Throat stripes -->
+  <line x1="46" y1="46" x2="46" y2="52" stroke="#1a6828" stroke-width="1.2"/>
+  <line x1="50" y1="45" x2="50" y2="52" stroke="#1a6828" stroke-width="1.2"/>
+  <line x1="54" y1="46" x2="54" y2="52" stroke="#1a6828" stroke-width="1.2"/>
+  <!-- Bill: small hooked -->
+  <path d="M46,44 Q50,43 54,46 Q52,50 50,50 Q48,50 46,47 Z" fill="#d8a820" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Feet -->
+  <line x1="43" y1="78" x2="39" y2="82" stroke="#666" stroke-width="1.5"/>
+  <line x1="47" y1="78" x2="47" y2="83" stroke="#666" stroke-width="1.5"/>
+  <line x1="53" y1="78" x2="53" y2="83" stroke="#666" stroke-width="1.5"/>
+  <line x1="57" y1="78" x2="61" y2="82" stroke="#666" stroke-width="1.5"/>
+</g>
+  </svg>

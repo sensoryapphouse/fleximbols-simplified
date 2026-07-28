@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-6.548 -1.633) scale(1.1310)">
+<!-- thin wings -->
+  <ellipse cx="36" cy="38" rx="18" ry="7" fill="#d8eeff" stroke="#7090b0" stroke-width="1.5" opacity="0.8"/>
+  <ellipse cx="64" cy="38" rx="18" ry="7" fill="#d8eeff" stroke="#7090b0" stroke-width="1.5" opacity="0.8"/>
+  <!-- body very slender -->
+  <ellipse cx="50" cy="55" rx="6" ry="20" fill="#6a6a50" stroke="#2a2a10" stroke-width="2"/>
+  <!-- dark bands -->
+  <rect x="45" y="50" width="10" height="2.5" rx="1" fill="#2a2a10" opacity="0.7"/>
+  <rect x="45" y="56" width="10" height="2.5" rx="1" fill="#2a2a10" opacity="0.7"/>
+  <rect x="45" y="62" width="10" height="2.5" rx="1" fill="#2a2a10" opacity="0.7"/>
+  <!-- thorax hump -->
+  <ellipse cx="50" cy="42" rx="8" ry="6" fill="#5a5a40" stroke="#2a2a10" stroke-width="2"/>
+  <!-- head small -->
+  <circle cx="50" cy="33" r="5" fill="#6a6a50" stroke="#2a2a10" stroke-width="2"/>
+  <!-- proboscis long thin -->
+  <line x1="50" y1="38" x2="50" y2="25" stroke="#2a2a10" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="25" x2="45" y2="16" stroke="#2a2a10" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- feathery antennae -->
+  <line x1="47" y1="29" x2="40" y2="22" stroke="#2a2a10" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="40" y1="22" x2="36" y2="18" stroke="#2a2a10" stroke-width="1" stroke-linecap="round"/>
+  <line x1="53" y1="29" x2="60" y2="22" stroke="#2a2a10" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="60" y1="22" x2="64" y2="18" stroke="#2a2a10" stroke-width="1" stroke-linecap="round"/>
+  <!-- 6 long thin legs -->
+  <line x1="44" y1="44" x2="26" y2="55" stroke="#2a2a10" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="44" y1="47" x2="24" y2="52" stroke="#2a2a10" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="44" y1="50" x2="26" y2="62" stroke="#2a2a10" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="56" y1="44" x2="74" y2="55" stroke="#2a2a10" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="56" y1="47" x2="76" y2="52" stroke="#2a2a10" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="56" y1="50" x2="74" y2="62" stroke="#2a2a10" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- label -->
+</g>
+  </svg>

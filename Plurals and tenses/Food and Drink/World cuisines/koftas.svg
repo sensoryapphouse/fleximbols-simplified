@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,14.880) scale(0.8512)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-4.913 -2.125) scale(1.0983)">
+<!-- kofta on skewers (elongated meatballs) -->
+<!-- skewer 1 -->
+<line x1="20" y1="80" x2="55" y2="15" stroke="#c8a870" stroke-width="2.5" stroke-linecap="round"/>
+<!-- kofta on skewer 1 -->
+<ellipse cx="30" cy="66" rx="9" ry="6" fill="#884422" stroke="#663311" stroke-width="2" transform="rotate(-60,30,66)"/>
+<ellipse cx="42" cy="46" rx="9" ry="6" fill="#774411" stroke="#663311" stroke-width="2" transform="rotate(-60,42,46)"/>
+<!-- skewer 2 -->
+<line x1="45" y1="80" x2="80" y2="15" stroke="#c8a870" stroke-width="2.5" stroke-linecap="round"/>
+<!-- kofta on skewer 2 -->
+<ellipse cx="55" cy="66" rx="9" ry="6" fill="#884422" stroke="#663311" stroke-width="2" transform="rotate(-60,55,66)"/>
+<ellipse cx="67" cy="46" rx="9" ry="6" fill="#774411" stroke="#663311" stroke-width="2" transform="rotate(-60,67,46)"/>
+<!-- herbs/spice dots -->
+<circle cx="28" cy="64" r="1.5" fill="#66cc44"/>
+<circle cx="53" cy="64" r="1.5" fill="#66cc44"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1598" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1598)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

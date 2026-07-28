@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Stars -->
+  <circle cx="10" cy="15" r="1" fill="white"/>
+  <circle cx="30" cy="8" r="0.8" fill="white"/>
+  <circle cx="55" cy="20" r="1" fill="white"/>
+  <circle cx="80" cy="12" r="0.8" fill="white"/>
+  <circle cx="90" cy="35" r="1" fill="white"/>
+  <circle cx="15" cy="50" r="0.8" fill="white"/>
+  <!-- Comet tail (pointing away from head) -->
+  <path d="M72,28 Q50,40 20,70" fill="none" stroke="#a0c8f0" stroke-width="8" stroke-linecap="round" opacity="0.5"/>
+  <path d="M72,28 Q52,38 25,65" fill="none" stroke="#c8e0ff" stroke-width="5" stroke-linecap="round" opacity="0.6"/>
+  <path d="M72,28 Q55,36 30,58" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  <!-- Second dust tail -->
+  <path d="M72,28 Q55,45 30,75" fill="none" stroke="#e0d0a0" stroke-width="4" stroke-linecap="round" opacity="0.4"/>
+  <!-- Comet head/nucleus -->
+  <circle cx="75" cy="25" r="10" fill="#d0e8ff" stroke="#8ab8e8" stroke-width="2"/>
+  <circle cx="75" cy="25" r="6" fill="white" stroke="none"/>
+  <circle cx="72" cy="22" r="3" fill="#f0f8ff" stroke="none"/>
+</svg>

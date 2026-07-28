@@ -1,0 +1,16 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- sky -->
+  <rect x="5" y="5" width="90" height="42" rx="4" fill="#87ceeb" stroke="#4a9acd" stroke-width="1.5"/>
+  <!-- sea body -->
+  <rect x="5" y="45" width="90" height="40" rx="4" fill="#2060a0" stroke="#104080" stroke-width="2"/>
+  <!-- horizon wave -->
+  <path d="M5 46 Q15 42 25 46 Q35 50 45 46 Q55 42 65 46 Q75 50 85 46 Q90 44 95 46" fill="#4090d0" stroke="#2060a0" stroke-width="1.5"/>
+  <!-- mid wave -->
+  <path d="M5 58 Q15 54 25 58 Q35 62 45 58 Q55 54 65 58 Q75 62 85 58 Q90 56 95 58" fill="none" stroke="#4090d0" stroke-width="2"/>
+  <!-- near wave -->
+  <path d="M5 70 Q15 66 25 70 Q35 74 45 70 Q55 66 65 70 Q75 74 85 70 Q90 68 95 70" fill="none" stroke="#60b0f0" stroke-width="2.5"/>
+  <!-- boat silhouette -->
+  <path d="M35 46 L38 36 L45 36 L48 46 Z" fill="#c8a060" stroke="#8b6914" stroke-width="1.5"/>
+  <line x1="42" y1="36" x2="42" y2="28" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M42 28 L52 34 L42 38 Z" fill="#e03020" stroke="#8b6914" stroke-width="1"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Decentralized finance web/network -->
+  <!-- Central hub -->
+  <circle cx="50" cy="46" r="10" fill="#7c4dff" stroke="#512da8" stroke-width="2.5"/>
+  
+  <!-- Outer nodes -->
+  <circle cx="22" cy="28" r="8" fill="#42a5f5" stroke="#1565c0" stroke-width="2"/>
+  <circle cx="78" cy="28" r="8" fill="#66bb6a" stroke="#2e7d32" stroke-width="2"/>
+  <circle cx="14" cy="58" r="8" fill="#ef5350" stroke="#b71c1c" stroke-width="2"/>
+  <circle cx="86" cy="58" r="8" fill="#ffca28" stroke="#f57f17" stroke-width="2"/>
+  <circle cx="35" cy="74" r="8" fill="#26c6da" stroke="#00838f" stroke-width="2"/>
+  <circle cx="65" cy="74" r="8" fill="#ff8a65" stroke="#bf360c" stroke-width="2"/>
+  <!-- Connection lines from center to nodes -->
+  <line x1="50" y1="46" x2="22" y2="28" stroke="#9e9e9e" stroke-width="1.5"/>
+  <line x1="50" y1="46" x2="78" y2="28" stroke="#9e9e9e" stroke-width="1.5"/>
+  <line x1="50" y1="46" x2="14" y2="58" stroke="#9e9e9e" stroke-width="1.5"/>
+  <line x1="50" y1="46" x2="86" y2="58" stroke="#9e9e9e" stroke-width="1.5"/>
+  <line x1="50" y1="46" x2="35" y2="74" stroke="#9e9e9e" stroke-width="1.5"/>
+  <line x1="50" y1="46" x2="65" y2="74" stroke="#9e9e9e" stroke-width="1.5"/>
+  <!-- Node labels -->
+  
+  
+  
+  
+  
+  
+</svg>

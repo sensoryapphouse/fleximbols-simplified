@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Bottle / glass with bubbles -->
+  <path d="M35 30 L32 80 L68 80 L65 30 Z" fill="#e0f0ff" stroke="#333" stroke-width="2.5"/>
+  <rect x="38" y="18" width="24" height="14" rx="4" fill="#eef8ff" stroke="#333" stroke-width="2.5"/>
+  <line x1="35" y1="30" x2="65" y2="30" stroke="#333" stroke-width="2"/>
+  <!-- Fizzy liquid fill -->
+  <path d="M32 80 L33 45 Q50 38 67 45 L68 80 Z" fill="#99ccff" opacity="0.75"/>
+  <!-- Lots of bubbles -->
+  <circle cx="40" cy="70" r="3" fill="white" opacity="0.7" stroke="#aaddff" stroke-width="1"/>
+  <circle cx="50" cy="60" r="4" fill="white" opacity="0.6" stroke="#aaddff" stroke-width="1"/>
+  <circle cx="60" cy="72" r="2.5" fill="white" opacity="0.7" stroke="#aaddff" stroke-width="1"/>
+  <circle cx="44" cy="52" r="3" fill="white" opacity="0.6" stroke="#aaddff" stroke-width="1"/>
+  <circle cx="56" cy="58" r="2" fill="white" opacity="0.7" stroke="#aaddff" stroke-width="1"/>
+  <circle cx="48" cy="68" r="2" fill="white" opacity="0.5" stroke="#aaddff" stroke-width="1"/>
+  <circle cx="62" cy="62" r="3" fill="white" opacity="0.6" stroke="#aaddff" stroke-width="1"/>
+  <!-- Bubbles above glass -->
+  <circle cx="42" cy="12" r="2" fill="#aaddff" stroke="#7799cc" stroke-width="1"/>
+  <circle cx="50" cy="7" r="3" fill="#aaddff" stroke="#7799cc" stroke-width="1"/>
+  <circle cx="58" cy="11" r="2" fill="#aaddff" stroke="#7799cc" stroke-width="1"/>
+</svg>

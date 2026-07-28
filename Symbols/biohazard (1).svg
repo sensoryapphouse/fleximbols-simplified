@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-8.552 -4.034) scale(1.1710)">
+<circle cx="50" cy="46" r="30" fill="none" stroke="#f39c12" stroke-width="3"/>
+  <circle cx="50" cy="46" r="8" fill="#f39c12" stroke="#d68910" stroke-width="2"/>
+  <path d="M50,38 Q62,28 72,38 Q82,48 72,56 Q62,38 50,38 Z" fill="#f39c12" stroke="#d68910" stroke-width="1.5"/>
+  <path d="M50,38 Q38,28 28,38 Q18,48 28,56 Q38,38 50,38 Z" fill="#f39c12" stroke="#d68910" stroke-width="1.5"/>
+  <path d="M44,54 Q36,68 44,74 Q52,80 58,74 Q64,68 56,54 Q52,58 50,54 Q48,58 44,54 Z" fill="#f39c12" stroke="#d68910" stroke-width="1.5"/>
+</g>
+  </svg>

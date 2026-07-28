@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- body -->
+  <ellipse cx="50" cy="60" rx="30" ry="20" fill="white" stroke="#555" stroke-width="2"/>
+  <!-- black spots -->
+  <ellipse cx="38" cy="55" rx="10" ry="8" fill="#1a1a1a"/>
+  <ellipse cx="62" cy="62" rx="8" ry="7" fill="#1a1a1a"/>
+  <ellipse cx="48" cy="68" rx="6" ry="5" fill="#1a1a1a"/>
+  <!-- udder -->
+  <ellipse cx="50" cy="78" rx="12" ry="6" fill="#f0c0c0" stroke="#888" stroke-width="1.5"/>
+  <!-- legs -->
+<rect x="40" y="76" width="7" height="12" rx="2" fill="#1a1a1a" stroke="#555" stroke-width="1.5"/>
+
+<!-- hooves -->
+  <rect x="28" y="86" width="7" height="4" rx="1" fill="#555"/>
+  <rect x="40" y="86" width="7" height="4" rx="1" fill="#555"/>
+  <rect x="53" y="86" width="7" height="4" rx="1" fill="#555"/>
+  <rect x="65" y="86" width="7" height="4" rx="1" fill="#555"/>
+  <!-- neck and head -->
+<ellipse cx="18" cy="38" rx="13" ry="11" fill="white" stroke="#555" stroke-width="2"/>
+  <!-- black patch on head -->
+  <ellipse cx="16" cy="36" rx="6" ry="5" fill="#1a1a1a"/>
+  <!-- ears -->
+  <ellipse cx="7" cy="34" rx="5" ry="4" fill="white" stroke="#555" stroke-width="1.5"/>
+  <ellipse cx="30" cy="33" rx="5" ry="4" fill="white" stroke="#555" stroke-width="1.5"/>
+  <!-- horns -->
+  <path d="M9,30 Q6,22 10,18" fill="none" stroke="#c8a800" stroke-width="3" stroke-linecap="round"/>
+  <path d="M27,29 Q30,21 26,17" fill="none" stroke="#c8a800" stroke-width="3" stroke-linecap="round"/>
+  <!-- eyes -->
+  <circle cx="13" cy="36" r="3" fill="#1a1a1a"/>
+  <circle cx="13.7" cy="35.3" r="0.8" fill="white"/>
+  <!-- nose -->
+  <ellipse cx="8" cy="43" rx="6" ry="4" fill="#f0c0c0" stroke="#888" stroke-width="1"/>
+  <circle cx="6" cy="43" r="1.5" fill="#888"/>
+  <circle cx="10" cy="43" r="1.5" fill="#888"/>
+  <!-- tail -->
+  <path d="M80,55 Q90,50 88,42" fill="none" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="88" cy="40" rx="3" ry="4" fill="#8a7060"/>
+</svg>

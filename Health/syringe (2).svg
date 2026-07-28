@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Syringe body (diagonal) -->
+  <rect x="22" y="42" width="56" height="16" rx="6" fill="#d0eaf5" stroke="#555" stroke-width="2.5" stroke-linejoin="round" transform="rotate(-30 50 50)"/>
+  <!-- Plunger end -->
+  <rect x="66" y="26" width="8" height="18" rx="2" fill="#888" stroke="#555" stroke-width="2" transform="rotate(-30 70 35)"/>
+  <!-- Plunger handle -->
+  <rect x="68" y="16" width="12" height="4" rx="2" fill="#555" transform="rotate(-30 74 18)"/>
+  <!-- Fluid in barrel -->
+  <rect x="30" y="44" width="28" height="12" rx="4" fill="#a8d8f0" stroke="none" transform="rotate(-30 44 50)"/>
+  <!-- Needle -->
+  <line x1="22" y1="65" x2="10" y2="76" stroke="#aaa" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Needle tip cap -->
+  <circle cx="10" cy="76" r="2.5" fill="#ccc" stroke="#888" stroke-width="1.5"/>
+  <!-- Graduation marks on barrel -->
+  <line x1="40" y1="37" x2="38" y2="44" stroke="#555" stroke-width="1.5" transform="rotate(-30 39 40)"/>
+  <line x1="47" y1="34" x2="45" y2="41" stroke="#555" stroke-width="1.5" transform="rotate(-30 46 37)"/>
+</svg>

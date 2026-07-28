@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Clock face -->
+  <circle cx="50" cy="46" r="32" fill="#f5f5f5" stroke="#555" stroke-width="2.5"/>
+  <circle cx="50" cy="46" r="2.5" fill="#333"/>
+  <!-- Hour hand (pointing ~3) -->
+  <line x1="50" y1="46" x2="68" y2="46" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <!-- Minute hand (pointing ~12 = one minute) -->
+  <line x1="50" y1="46" x2="53" y2="15" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <!-- Tick marks -->
+  <line x1="50" y1="15" x2="50" y2="18" stroke="#555" stroke-width="2"/>
+  <line x1="82" y1="46" x2="79" y2="46" stroke="#555" stroke-width="2"/>
+  <line x1="50" y1="77" x2="50" y2="74" stroke="#555" stroke-width="2"/>
+  <line x1="18" y1="46" x2="21" y2="46" stroke="#555" stroke-width="2"/>
+  <!-- "1m" label -->
+  <text x="50" y="88" font-size="9" text-anchor="middle" fill="#1565c0" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold">1m</text>
+</svg>

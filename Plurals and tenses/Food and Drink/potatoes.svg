@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,15.670) scale(0.8433)">
+  <g transform="translate(-18.997 -21.290) scale(1.3813)">
+<!-- Potato irregular oval -->
+  <path d="M50 20 Q22 18 18 48 Q14 76 38 82 Q50 86 62 82 Q86 76 82 48 Q78 18 50 20 Z" fill="#c8a060" stroke="#7a5828" stroke-width="2.5"/>
+  <!-- Eyes (indentations) -->
+  <circle cx="36" cy="42" r="4" fill="#a07840" stroke="#7a5828" stroke-width="1.5"/>
+  <circle cx="34" cy="42" r="1.5" fill="#7a5828"/>
+  <circle cx="62" cy="38" r="4" fill="#a07840" stroke="#7a5828" stroke-width="1.5"/>
+  <circle cx="60" cy="38" r="1.5" fill="#7a5828"/>
+  <circle cx="50" cy="66" r="4" fill="#a07840" stroke="#7a5828" stroke-width="1.5"/>
+  <circle cx="48" cy="66" r="1.5" fill="#7a5828"/>
+  <!-- Texture -->
+  <path d="M30 58 Q38 54 42 58" fill="none" stroke="#a07840" stroke-width="1" stroke-linecap="round" opacity="0.6"/>
+  <path d="M58 62 Q66 58 70 62" fill="none" stroke="#a07840" stroke-width="1" stroke-linecap="round" opacity="0.6"/>
+  <!-- Highlight -->
+  <ellipse cx="36" cy="30" rx="8" ry="6" fill="#d8b880" opacity="0.5"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1667" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1667)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

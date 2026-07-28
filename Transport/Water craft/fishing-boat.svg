@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<path d="M8 58 Q8 50 20 50 L75 50 L82 58 L80 70 L10 70 Z" fill="#d0b880" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- cabin -->
+  <rect x="15" y="38" width="32" height="14" rx="2" fill="#c8d8e8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="18" y="40" width="10" height="8" rx="1" fill="#d8ecf8" stroke="#555" stroke-width="1.5"/>
+  <!-- mast -->
+  <line x1="55" y1="50" x2="55" y2="22" stroke="#888" stroke-width="2"/>
+  <!-- fishing rod/line -->
+  <line x1="55" y1="22" x2="80" y2="32" stroke="#888" stroke-width="1.5"/>
+  <line x1="80" y1="32" x2="80" y2="48" stroke="#555" stroke-width="1" stroke-dasharray="3,2"/>
+  <!-- flag -->
+  <polygon points="55,22 55,30 68,26" fill="#c83030" stroke="none"/>
+  <!-- water -->
+  <path d="M5 73 Q25 69 50 73 Q72 77 95 73" fill="none" stroke="#5090c0" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,33 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,7.580) scale(0.9242)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Rambutan - red spiky sphere with soft hair-like spines -->
+  <!-- Main red body -->
+  <circle cx="50" cy="57" r="32" fill="#c82020" stroke="#333" stroke-width="2.5"/>
+  <!-- Hair-like spines (rambutan is covered in soft flexible spines) -->
+  <!-- Spines radiating outward - green-tipped red -->
+  <line x1="50" y1="25" x2="50" y2="10" stroke="#c82020" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="50" cy="9" r="3" fill="#4a8020" stroke="#2a5010" stroke-width="1"/>
+  <line x1="65" y1="28" x2="74" y2="15" stroke="#c82020" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="74" cy="14" r="3" fill="#4a8020" stroke="#2a5010" stroke-width="1"/>
+  <line x1="35" y1="28" x2="26" y2="15" stroke="#c82020" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="26" cy="14" r="3" fill="#4a8020" stroke="#2a5010" stroke-width="1"/>
+  <line x1="80" y1="45" x2="93" y2="38" stroke="#c82020" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="94" cy="37" r="3" fill="#4a8020" stroke="#2a5010" stroke-width="1"/>
+  <line x1="20" y1="45" x2="7" y2="38" stroke="#c82020" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="6" cy="37" r="3" fill="#4a8020" stroke="#2a5010" stroke-width="1"/>
+  <line x1="83" y1="62" x2="97" y2="62" stroke="#c82020" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="98" cy="62" r="3" fill="#4a8020" stroke="#2a5010" stroke-width="1"/>
+  <line x1="17" y1="62" x2="3" y2="62" stroke="#c82020" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="2" cy="62" r="3" fill="#4a8020" stroke="#2a5010" stroke-width="1"/>
+  <line x1="80" y1="75" x2="92" y2="84" stroke="#c82020" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="93" cy="85" r="3" fill="#4a8020" stroke="#2a5010" stroke-width="1"/>
+  <line x1="20" y1="75" x2="8" y2="84" stroke="#c82020" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="7" cy="85" r="3" fill="#4a8020" stroke="#2a5010" stroke-width="1"/>
+  <line x1="65" y1="84" x2="72" y2="96" stroke="#c82020" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="72" cy="97" r="3" fill="#4a8020" stroke="#2a5010" stroke-width="1"/>
+  <line x1="35" y1="84" x2="28" y2="96" stroke="#c82020" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="28" cy="97" r="3" fill="#4a8020" stroke="#2a5010" stroke-width="1"/>
+  <!-- Highlight on body -->
+  <ellipse cx="38" cy="45" rx="10" ry="14" fill="white" opacity="0.2" transform="rotate(-20 38 45)"/>
+  <!-- Stem -->
+  <path d="M50 25 Q51 18 53 14" fill="none" stroke="#5a3010" stroke-width="2" stroke-linecap="round"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1259" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1259)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

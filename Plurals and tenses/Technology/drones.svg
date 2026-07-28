@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,15.090) scale(0.8491)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Centre body -->
+  <rect x="36" y="40" width="28" height="20" rx="5" fill="#444" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Camera underneath -->
+  <circle cx="50" cy="60" r="5" fill="#222" stroke="#444" stroke-width="1.5"/>
+  <circle cx="50" cy="60" r="2.5" fill="#5b8dd9"/>
+  <!-- Arms (diagonal) -->
+  <line x1="36" y1="40" x2="18" y2="24" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <line x1="64" y1="40" x2="82" y2="24" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <line x1="36" y1="60" x2="18" y2="76" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <line x1="64" y1="60" x2="82" y2="76" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <!-- Motor hubs -->
+  <circle cx="18" cy="24" r="6" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="82" cy="24" r="6" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="18" cy="76" r="6" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="82" cy="76" r="6" fill="#333" stroke="#222" stroke-width="2"/>
+  <!-- Propeller blades (rotors) -->
+  <ellipse cx="18" cy="24" rx="12" ry="3" fill="#aaa" stroke="#222" stroke-width="1.5" opacity="0.7" transform="rotate(-30,18,24)"/>
+  <ellipse cx="82" cy="24" rx="12" ry="3" fill="#aaa" stroke="#222" stroke-width="1.5" opacity="0.7" transform="rotate(30,82,24)"/>
+  <ellipse cx="18" cy="76" rx="12" ry="3" fill="#aaa" stroke="#222" stroke-width="1.5" opacity="0.7" transform="rotate(30,18,76)"/>
+  <ellipse cx="82" cy="76" rx="12" ry="3" fill="#aaa" stroke="#222" stroke-width="1.5" opacity="0.7" transform="rotate(-30,82,76)"/>
+  <!-- LED light on body -->
+  <circle cx="50" cy="45" r="3" fill="#e85c5c" stroke="#222" stroke-width="1"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3068" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3068)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

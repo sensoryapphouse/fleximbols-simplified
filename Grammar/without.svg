@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.946 -17.744) scale(1.4259)">
+<!-- Single figure -->
+  <circle cx="34" cy="36" r="9" fill="#e8eef8" stroke="#333" stroke-width="2.5"/>
+  <rect x="26" y="46" width="16" height="22" rx="4" fill="#e8eef8" stroke="#333" stroke-width="2.5"/>
+  <!-- Ghost/absent second figure with X -->
+  <circle cx="66" cy="36" r="9" fill="#f0f0f0" stroke="#aaa" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <rect x="58" y="46" width="16" height="22" rx="4" fill="#f0f0f0" stroke="#aaa" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <!-- X over absent figure -->
+  <line x1="58" y1="30" x2="74" y2="66" stroke="#cc2200" stroke-width="2" stroke-linecap="round"/>
+  <line x1="74" y1="30" x2="58" y2="66" stroke="#cc2200" stroke-width="2" stroke-linecap="round"/>
+</g>
+  </svg>

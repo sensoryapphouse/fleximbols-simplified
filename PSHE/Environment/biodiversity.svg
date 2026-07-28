@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ground/habitat -->
+  <rect x="5" y="75" width="90" height="8" fill="#a0c870" stroke="#6a8a30" stroke-width="1.5"/>
+  <!-- Tree -->
+  <rect x="45" y="50" width="6" height="25" fill="#7a5c2e" stroke="#4a3010" stroke-width="2"/>
+  <ellipse cx="48" cy="42" rx="16" ry="18" fill="#508030" stroke="#306010" stroke-width="2"/>
+  <!-- Bird (top left) -->
+  <path d="M12,25 Q18,20 24,25 Q18,28 12,25" fill="#5b8fce" stroke="#2a5a9a" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="10" cy="24" r="4" fill="#5b8fce" stroke="#2a5a9a" stroke-width="1.5"/>
+  <circle cx="9" cy="23" r="1" fill="#333"/>
+  <!-- Fish (right side) -->
+  <ellipse cx="80" cy="52" rx="10" ry="6" fill="#f0c040" stroke="#9a8010" stroke-width="2"/>
+  <polygon points="90,52 96,46 96,58" fill="#f0c040" stroke="#9a8010" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="76" cy="50" r="1.5" fill="#333"/>
+  <!-- Butterfly (center top) -->
+  <ellipse cx="75" cy="22" rx="8" ry="5" fill="#c870c8" stroke="#884a88" stroke-width="1.5" transform="rotate(-20 75 22)"/>
+  <ellipse cx="75" cy="22" rx="6" ry="4" fill="#e8a0e8" stroke="#884a88" stroke-width="1.5" transform="rotate(20 75 22)"/>
+  <line x1="75" y1="22" x2="75" y2="32" stroke="#884a88" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Bee (lower left) -->
+  <ellipse cx="20" cy="60" rx="7" ry="5" fill="#f0e040" stroke="#9a8010" stroke-width="1.5"/>
+  <line x1="16" y1="58" x2="14" y2="54" stroke="#8abcd8" stroke-width="1.5" stroke-linecap="round" opacity="0.8"/>
+  <line x1="20" y1="55" x2="20" y2="51" stroke="#8abcd8" stroke-width="1.5" stroke-linecap="round" opacity="0.8"/>
+  <!-- Stripes on bee -->
+  <line x1="18" y1="57" x2="22" y2="57" stroke="#333" stroke-width="1.5"/>
+  <line x1="17" y1="61" x2="23" y2="61" stroke="#333" stroke-width="1.5"/>
+</svg>

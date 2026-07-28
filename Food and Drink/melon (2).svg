@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Melon slice (cantaloupe/honeydew) -->
+  <!-- Outer skin -->
+  <path d="M50 82 L10 35 Q50 8 90 35 Z" fill="#f0a830" stroke="#c07820" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Inner flesh (orange) -->
+  <path d="M50 77 L16 38 Q50 16 84 38 Z" fill="#f5c050" stroke="#d09030" stroke-width="1.5"/>
+  <!-- Seed cavity center -->
+  <ellipse cx="50" cy="55" rx="10" ry="12" fill="#f8d870" stroke="#c09020" stroke-width="1.5"/>
+  <!-- Seeds -->
+  <ellipse cx="50" cy="51" rx="2.5" ry="3.5" fill="#c8a020"/>
+  <ellipse cx="44" cy="57" rx="2.5" ry="3.5" fill="#c8a020" transform="rotate(-20 44 57)"/>
+  <ellipse cx="56" cy="57" rx="2.5" ry="3.5" fill="#c8a020" transform="rotate(20 56 57)"/>
+  <!-- Rind line -->
+  <path d="M12 36 Q50 11 88 36" fill="none" stroke="#c8e0a0" stroke-width="3.5"/>
+</svg>

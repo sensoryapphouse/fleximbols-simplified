@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-14.627 -14.564) scale(1.2938)">
+<!-- Triangular spanakopita (phyllo pastry) -->
+  <polygon points="50,15 82,72 18,72" fill="#d4c060" stroke="#8B8030" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Phyllo layers visible on edge -->
+  <line x1="22" y1="65" x2="78" y2="65" stroke="#c0a840" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="26" y1="58" x2="74" y2="58" stroke="#c0a840" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="30" y1="51" x2="70" y2="51" stroke="#c0a840" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Spinach green peeking through -->
+  <path d="M38 60 Q50 52 62 60" fill="none" stroke="#2a6a18" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Feta specks (white) -->
+  <circle cx="44" cy="55" r="2.5" fill="#f0ece0" stroke="#c0b090" stroke-width="1"/>
+  <circle cx="56" cy="57" r="2.5" fill="#f0ece0" stroke="#c0b090" stroke-width="1"/>
+  <!-- Sesame seeds on top -->
+  <ellipse cx="48" cy="28" rx="2" ry="1" fill="#c8a840" stroke="none"/>
+  <ellipse cx="52" cy="32" rx="2" ry="1" fill="#c8a840" stroke="none"/>
+</g>
+  </svg>

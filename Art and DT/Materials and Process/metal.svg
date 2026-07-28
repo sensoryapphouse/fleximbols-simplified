@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- metal bar (ingot shape) -->
+  <path d="M16,40 L22,28 L78,28 L84,40 L84,68 L16,68Z" fill="#888" stroke="#555" stroke-width="2.5"/>
+  <!-- top face -->
+  <path d="M22,28 L78,28 L84,40 L16,40Z" fill="#aaa" stroke="#555" stroke-width="2"/>
+  <!-- side face -->
+  <path d="M84,40 L84,68 L80,72 L80,44Z" fill="#666" stroke="#555" stroke-width="2"/>
+  <!-- shine/highlight -->
+  <line x1="24" y1="44" x2="24" y2="64" stroke="#bbb" stroke-width="2"/>
+  <line x1="34" y1="42" x2="34" y2="66" stroke="#bbb" stroke-width="1.5"/>
+  <!-- METAL stamp -->
+  
+  <!-- metallic sheen lines on top -->
+  <line x1="30" y1="30" x2="40" y2="38" stroke="white" stroke-width="2" opacity="0.5"/>
+  <line x1="50" y1="29" x2="60" y2="37" stroke="white" stroke-width="1.5" opacity="0.4"/>
+</svg>

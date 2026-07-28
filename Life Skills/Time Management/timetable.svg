@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Timetable grid -->
+<!-- Header row -->
+  <rect x="10" y="12" width="80" height="13" rx="3" fill="#9b7bc9" stroke="#333" stroke-width="2"/>
+  <text x="37" y="21" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="5.5" fill="white" text-anchor="middle" font-weight="bold">MON</text>
+  <text x="53" y="21" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="5.5" fill="white" text-anchor="middle" font-weight="bold">TUE</text>
+  <text x="69" y="21" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="5.5" fill="white" text-anchor="middle" font-weight="bold">WED</text>
+  <text x="85" y="21" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="5.5" fill="white" text-anchor="middle" font-weight="bold">THU</text>
+  <!-- Row lines -->
+  <line x1="10" y1="37" x2="90" y2="37" stroke="#aaa" stroke-width="1"/>
+  <line x1="10" y1="51" x2="90" y2="51" stroke="#aaa" stroke-width="1"/>
+  <line x1="10" y1="65" x2="90" y2="65" stroke="#aaa" stroke-width="1"/>
+  <!-- Column lines -->
+  <line x1="27" y1="12" x2="27" y2="80" stroke="#aaa" stroke-width="1"/>
+  <line x1="45" y1="12" x2="45" y2="80" stroke="#aaa" stroke-width="1"/>
+  <line x1="63" y1="12" x2="63" y2="80" stroke="#aaa" stroke-width="1"/>
+  <!-- Time labels -->
+  <text x="18" y="30" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="5.5" fill="#555">9am</text>
+  <text x="18" y="44" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="5.5" fill="#555">10am</text>
+  <text x="18" y="58" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="5.5" fill="#555">11am</text>
+  <text x="18" y="72" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="5.5" fill="#555">12pm</text>
+  <!-- Colour blocks -->
+  <rect x="28" y="26" width="16" height="11" rx="1" fill="#8ec6e6"/>
+  <rect x="46" y="40" width="16" height="11" rx="1" fill="#f5c842"/>
+  <rect x="64" y="26" width="16" height="11" rx="1" fill="#4a9e6b"/>
+  <rect x="28" y="54" width="16" height="11" rx="1" fill="#e07b54"/>
+  <rect x="64" y="54" width="16" height="11" rx="1" fill="#9b7bc9"/>
+</svg>

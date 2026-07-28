@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Circular loop arrows -->
+  <path d="M50 22 A28 28 0 1 1 22 50" fill="none" stroke="#2196f3" stroke-width="3" stroke-linecap="round"/>
+  <polyline points="16,44 22,50 28,44" fill="none" stroke="#2196f3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Version labels around loop -->
+  <circle cx="50" cy="22" r="8" fill="#fff9c4" stroke="#f9a825" stroke-width="2"/>
+  <text x="50" y="26" font-size="7" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#333">v1</text>
+  <circle cx="78" cy="50" r="8" fill="#bbdefb" stroke="#2196f3" stroke-width="2"/>
+  <text x="78" y="54" font-size="7" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#333">v2</text>
+  <circle cx="50" cy="78" r="8" fill="#c8e6c9" stroke="#4caf50" stroke-width="2"/>
+  <text x="50" y="82" font-size="7" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#333">v3</text>
+  <!-- Star in center - improved -->
+  <polygon points="50,42 52,48 58,48 53,52 55,58 50,54 45,58 47,52 42,48 48,48" fill="#ffe082" stroke="#f9a825" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

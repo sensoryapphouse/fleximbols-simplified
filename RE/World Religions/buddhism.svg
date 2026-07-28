@@ -1,0 +1,11 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Buddhism: Dharma wheel (dharmachakra) -->
+  <circle cx="50" cy="50" r="42" fill="#f5c040" stroke="#333" stroke-width="2.5"/>
+  <circle cx="50" cy="50" r="32" fill="#f5f0e0" stroke="#333" stroke-width="2"/>
+  <circle cx="50" cy="50" r="8" fill="#f5c040" stroke="#333" stroke-width="2"/>
+  <!-- 8 spokes -->
+  <line x1="50" y1="18" x2="50" y2="82" stroke="#333" stroke-width="2.5"/>
+  <line x1="18" y1="50" x2="82" y2="50" stroke="#333" stroke-width="2.5"/>
+  <line x1="27" y1="27" x2="73" y2="73" stroke="#333" stroke-width="2.5"/>
+  <line x1="73" y1="27" x2="27" y2="73" stroke="#333" stroke-width="2.5"/>
+</svg>

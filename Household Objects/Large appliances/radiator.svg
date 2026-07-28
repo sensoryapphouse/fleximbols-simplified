@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- radiator body - ribbed panel -->
+  <!-- top header pipe -->
+  <rect x="10" y="22" width="80" height="6" rx="3" fill="#B0B0B0" stroke="#666" stroke-width="2"/>
+  <!-- bottom header pipe -->
+  <rect x="10" y="70" width="80" height="6" rx="3" fill="#B0B0B0" stroke="#666" stroke-width="2"/>
+  <!-- ribs -->
+  <rect x="13" y="28" width="10" height="42" rx="2" fill="#C8C8C8" stroke="#888" stroke-width="1.5"/>
+  <rect x="26" y="28" width="10" height="42" rx="2" fill="#C8C8C8" stroke="#888" stroke-width="1.5"/>
+  <rect x="39" y="28" width="10" height="42" rx="2" fill="#C8C8C8" stroke="#888" stroke-width="1.5"/>
+  <rect x="52" y="28" width="10" height="42" rx="2" fill="#C8C8C8" stroke="#888" stroke-width="1.5"/>
+  <rect x="65" y="28" width="10" height="42" rx="2" fill="#C8C8C8" stroke="#888" stroke-width="1.5"/>
+  <rect x="78" y="28" width="10" height="42" rx="2" fill="#C8C8C8" stroke="#888" stroke-width="1.5"/>
+  <!-- valve -->
+  <rect x="8" y="23" width="5" height="4" rx="1" fill="#888" stroke="#555" stroke-width="1"/>
+  <rect x="3" y="24" width="6" height="3" rx="1" fill="#aaa" stroke="#666" stroke-width="1"/>
+  <!-- heat waves -->
+  <path d="M25,18 Q28,12 25,8" fill="none" stroke="#FF8C00" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+  <path d="M50,16 Q53,10 50,6" fill="none" stroke="#FF8C00" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+  <path d="M75,18 Q78,12 75,8" fill="none" stroke="#FF8C00" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+  <!-- feet -->
+  <rect x="16" y="76" width="10" height="5" rx="2" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <rect x="74" y="76" width="10" height="5" rx="2" fill="#888" stroke="#555" stroke-width="1.5"/>
+</svg>

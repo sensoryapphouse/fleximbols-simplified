@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-29.922 -31.484) scale(1.6000)">
+<!-- enough = container exactly filled to line -->
+  <rect x="25" y="25" width="50" height="52" rx="4" fill="none" stroke="#333" stroke-width="2"/>
+  <!-- fill line at exactly top -->
+  <rect x="26" y="26" width="48" height="50" rx="3" fill="#74c476"/>
+  <!-- checkmark overlay -->
+  <polyline points="35,50 46,62 66,38" stroke="white" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+  </svg>

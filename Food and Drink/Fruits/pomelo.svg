@@ -1,0 +1,15 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Pomelo - large pale yellow-green round citrus with flattened top -->
+  <ellipse cx="50" cy="55" rx="38" ry="36" fill="#d4e06a" stroke="#7a8a2a" stroke-width="2.5"/>
+  <!-- Thick peel suggestion at top -->
+  <ellipse cx="50" cy="22" rx="20" ry="8" fill="#c4d05a" stroke="#7a8a2a" stroke-width="2"/>
+  <!-- Rind texture lines -->
+  <path d="M30 40 Q50 35 70 40" fill="none" stroke="#7a8a2a" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M20 55 Q50 48 80 55" fill="none" stroke="#7a8a2a" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M22 68 Q50 62 78 68" fill="none" stroke="#7a8a2a" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Stem bump -->
+  <ellipse cx="50" cy="20" rx="6" ry="4" fill="#a0b040" stroke="#7a8a2a" stroke-width="2"/>
+  <!-- Leaf -->
+  <ellipse cx="62" cy="14" rx="12" ry="5" fill="#3a7a2a" stroke="#1a5a1a" stroke-width="2" transform="rotate(25 62 14)"/>
+  <line x1="50" y1="20" x2="62" y2="14" stroke="#5a3a1a" stroke-width="2" stroke-linecap="round"/>
+</svg>

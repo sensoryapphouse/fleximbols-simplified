@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-20.210 -20.004) scale(1.4056)">
+<!-- Lid dome shape -->
+  <path d="M18 56 Q18 40 50 36 Q82 40 82 56 Z" fill="#c8c8c8" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Lid rim ellipse -->
+  <ellipse cx="50" cy="56" rx="32" ry="10" fill="#b8b8b8" stroke="#555" stroke-width="2.5"/>
+  <!-- Knob -->
+  <ellipse cx="50" cy="36" rx="8" ry="5" fill="#888" stroke="#555" stroke-width="2.5"/>
+  <!-- Steam hole dots -->
+  <circle cx="43" cy="48" r="2" fill="#888"/>
+  <circle cx="50" cy="46" r="2" fill="#888"/>
+  <circle cx="57" cy="48" r="2" fill="#888"/>
+  <!-- Steam -->
+  <path d="M44 32 Q42 26 44 20" stroke="#aaa" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M50 30 Q48 24 50 18" stroke="#aaa" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M56 32 Q54 26 56 20" stroke="#aaa" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+</g>
+  </svg>

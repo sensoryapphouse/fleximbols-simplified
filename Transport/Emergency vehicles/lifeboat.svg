@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Water -->
+  <path d="M5,74 Q25,70 45,74 Q65,78 85,74 Q90,72 95,74" fill="none" stroke="#6ab0d8" stroke-width="2"/>
+  <!-- Hull - orange rescue boat -->
+  <path d="M15,62 L85,62 Q83,72 70,74 L30,74 Q17,72 15,62 Z" fill="#f08020" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Cabin/cover -->
+  <path d="M25,62 L75,62 Q73,54 60,52 L40,52 Q27,54 25,62 Z" fill="#f8a040" stroke="#333" stroke-width="2"/>
+  <!-- Cabin windows -->
+  <rect x="36" y="55" width="8" height="5" rx="1" fill="#b8d8f0" stroke="#333" stroke-width="1.5"/>
+  <rect x="56" y="55" width="8" height="5" rx="1" fill="#b8d8f0" stroke="#333" stroke-width="1.5"/>
+  <!-- Orange stripe on hull -->
+  <path d="M15,62 L85,62 L85,65 L15,65 Z" fill="#e06010" stroke="none"/>
+  <!-- Life ring symbol -->
+  <circle cx="50" cy="58" r="5" fill="none" stroke="#e00000" stroke-width="2"/>
+  <!-- Propeller hint -->
+  <line x1="82" y1="68" x2="82" y2="74" stroke="#333" stroke-width="2.5"/>
+</svg>

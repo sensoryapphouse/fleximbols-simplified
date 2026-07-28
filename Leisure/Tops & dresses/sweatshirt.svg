@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Sweatshirt body -->
+  <path d="M18,36 L18,82 L82,82 L82,36 L70,22 L58,26 Q54,30 50,30 Q46,30 42,26 L30,22 Z" fill="#7799cc" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Round neckline -->
+  <path d="M42,26 Q46,34 50,34 Q54,34 58,26" fill="none" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <!-- Sleeve ends (left/right arms implied by shape) -->
+  <!-- Ribbed cuffs hint at bottom-sides -->
+  <rect x="14" y="80" width="8" height="5" rx="2" fill="#6688bb" stroke="#333" stroke-width="2"/>
+  <rect x="78" y="80" width="8" height="5" rx="2" fill="#6688bb" stroke="#333" stroke-width="2"/>
+  <!-- Ribbed hem -->
+  <rect x="18" y="78" width="64" height="6" rx="2" fill="#6688bb" stroke="#333" stroke-width="1.5"/>
+</svg>

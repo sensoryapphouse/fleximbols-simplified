@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Target -->
+  <circle cx="72" cy="42" r="18" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+  <circle cx="72" cy="42" r="13" fill="#e07070" stroke="#333" stroke-width="1.5"/>
+  <circle cx="72" cy="42" r="8" fill="#e03030" stroke="#333" stroke-width="1.5"/>
+  <circle cx="72" cy="42" r="3" fill="#c00000" stroke="#333" stroke-width="1"/>
+  <!-- Bow -->
+  <path d="M20,20 Q10,42 20,65" fill="none" stroke="#8B5E3C" stroke-width="3" stroke-linecap="round"/>
+  <line x1="20" y1="20" x2="20" y2="65" stroke="#8B5E3C" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <!-- Arrow -->
+  <line x1="22" y1="42" x2="66" y2="42" stroke="#8B5E3C" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="66,42 60,39 60,45" fill="#8B5E3C" stroke="#333" stroke-width="1"/>
+  <polygon points="22,42 26,38 28,42 26,46" fill="#e07070" stroke="#555" stroke-width="0.8"/>
+  <!-- Label -->
+</svg>

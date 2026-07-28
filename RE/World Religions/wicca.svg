@@ -1,0 +1,9 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Wicca: Pentagram in circle -->
+  <circle cx="50" cy="50" r="44" fill="#2a1a4a" stroke="#333" stroke-width="2.5"/>
+  <circle cx="50" cy="50" r="40" fill="none" stroke="#9a7aba" stroke-width="2"/>
+  <!-- 5-pointed star (pentagram) -->
+  <polygon points="50,10 61,42 95,42 68,62 79,95 50,75 21,95 32,62 5,42 39,42" fill="none" stroke="#c8a96e" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Moon crescent on top -->
+  <path d="M35,15 A20,20 0 0,1 65,15 A15,15 0 0,0 35,15Z" fill="#e8d060" stroke="#333" stroke-width="1.5"/>
+</svg>

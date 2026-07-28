@@ -1,0 +1,23 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- CCPA: California bear + shield + padlock -->
+  <!-- California state silhouette (simplified shield) -->
+  <path d="M20,15 L80,15 L85,50 L75,65 L70,75 Q60,90 50,92 Q40,90 30,75 L25,65 L15,50 Z" fill="#e8d8c0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Bear (simplified) -->
+  <ellipse cx="50" cy="52" rx="18" ry="14" fill="#8b6914" stroke="#333" stroke-width="2"/>
+  <circle cx="38" cy="42" r="8" fill="#8b6914" stroke="#333" stroke-width="2"/>
+  <circle cx="62" cy="42" r="8" fill="#8b6914" stroke="#333" stroke-width="2"/>
+  <circle cx="38" cy="38" r="4" fill="#a07020" stroke="#333" stroke-width="1.5"/>
+  <circle cx="62" cy="38" r="4" fill="#a07020" stroke="#333" stroke-width="1.5"/>
+  <!-- Eyes -->
+  <circle cx="37" cy="38" r="2" fill="#333"/>
+  <circle cx="62" cy="38" r="2" fill="#333"/>
+  <!-- Nose -->
+  <ellipse cx="50" cy="46" rx="4" ry="2.5" fill="#555" stroke="#333" stroke-width="1"/>
+  <!-- CCPA text -->
+  <rect x="24" y="15" width="52" height="14" rx="3" fill="#1a3a7a" stroke="#333" stroke-width="1.5"/>
+  
+  <!-- Padlock at bottom of shield -->
+  <rect x="36" y="76" width="28" height="12" rx="3" fill="#e8c84a" stroke="#333" stroke-width="2"/>
+  <path d="M41,76 L41,71 Q41,66 50,66 Q59,66 59,71 L59,76" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="50" cy="82" r="3" fill="#c8a020" stroke="#333" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Single tooth shape: crown + roots -->
+  <!-- Crown -->
+  <path d="M30 20 Q30 12 50 12 Q70 12 70 20 L70 55 Q70 60 65 60 L35 60 Q30 60 30 55 Z" fill="white" stroke="#333" stroke-width="2.5"/>
+  <!-- Crown highlight -->
+  <ellipse cx="42" cy="30" rx="5" ry="8" fill="#e8e8e8" fill-opacity="0.6"/>
+  <!-- Root 1 (left) -->
+  <path d="M35 60 Q33 72 36 80 Q38 85 40 80 L42 60" fill="white" stroke="#333" stroke-width="2"/>
+  <!-- Root 2 (middle) -->
+  <path d="M44 60 L46 82 Q48 88 50 88 Q52 88 54 82 L56 60" fill="white" stroke="#333" stroke-width="2"/>
+  <!-- Root 3 (right) -->
+  <path d="M58 60 L60 80 Q62 85 64 80 Q67 72 65 60" fill="white" stroke="#333" stroke-width="2"/>
+  <!-- Gum line -->
+  <rect x="28" y="57" width="44" height="6" rx="2" fill="#ffb3b3" stroke="#333" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Gauge background arc -->
+  <path d="M15 70 A35 35 0 0 1 85 70" stroke="#e0e0e0" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <!-- Gauge colored segments -->
+  <!-- Red zone (left) -->
+  <path d="M15 70 A35 35 0 0 1 29 38" stroke="#cc5544" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <!-- Yellow zone (middle) -->
+  <path d="M29 38 A35 35 0 0 1 71 38" stroke="#d4a820" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <!-- Green zone (right) -->
+  <path d="M71 38 A35 35 0 0 1 85 70" stroke="#338866" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <!-- Center point -->
+  <circle cx="50" cy="70" r="4" fill="#333"/>
+  <!-- Needle pointing to green zone (~75%) -->
+  <line x1="50" y1="70" x2="74" y2="42" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <!-- Labels -->
+  <text x="12" y="82" font-size="6" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#cc5544">0</text>
+  <text x="88" y="82" font-size="6" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#338866">100</text>
+  <!-- KPI value -->
+  <text x="50" y="62" font-size="12" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold" text-anchor="middle" fill="#333">78</text>
+</svg>

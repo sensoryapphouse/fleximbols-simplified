@@ -1,0 +1,35 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sky -->
+  <rect x="0" y="0" width="100" height="25" fill="#87ceeb"/>
+  <!-- Top plateau with vegetation -->
+  <rect x="0" y="20" width="100" height="15" fill="#4a9e40"/>
+  <!-- River top -->
+  <rect x="0" y="20" width="100" height="8" fill="#4fc3f7"/>
+  <!-- Falls - very wide straight drop (Victoria is widest) -->
+  <rect x="0" y="28" width="100" height="40" fill="#6ab0d0" stroke="none"/>
+  <!-- Fall striations -->
+  <line x1="5" y1="28" x2="3" y2="68" stroke="#fff" stroke-width="2.5" stroke-dasharray="5,2"/>
+  <line x1="15" y1="28" x2="13" y2="68" stroke="#fff" stroke-width="2" stroke-dasharray="5,2"/>
+  <line x1="25" y1="28" x2="23" y2="68" stroke="#fff" stroke-width="2" stroke-dasharray="5,2"/>
+  <line x1="35" y1="28" x2="33" y2="68" stroke="#fff" stroke-width="2" stroke-dasharray="5,2"/>
+  <line x1="45" y1="28" x2="43" y2="68" stroke="#fff" stroke-width="2" stroke-dasharray="5,2"/>
+  <line x1="55" y1="28" x2="53" y2="68" stroke="#fff" stroke-width="2" stroke-dasharray="5,2"/>
+  <line x1="65" y1="28" x2="63" y2="68" stroke="#fff" stroke-width="2" stroke-dasharray="5,2"/>
+  <line x1="75" y1="28" x2="73" y2="68" stroke="#fff" stroke-width="2" stroke-dasharray="5,2"/>
+  <line x1="85" y1="28" x2="83" y2="68" stroke="#fff" stroke-width="2" stroke-dasharray="5,2"/>
+  <line x1="95" y1="28" x2="93" y2="68" stroke="#fff" stroke-width="2" stroke-dasharray="5,2"/>
+  <!-- Mist cloud at base -->
+  <path d="M0,62 Q25,58 50,62 Q75,66 100,60 L100,72 Q75,76 50,72 Q25,68 0,72 Z" fill="#fff" opacity="0.8"/>
+  <!-- Gorge below -->
+  <path d="M0,68 L10,75 L90,75 L100,68 L100,100 L0,100 Z" fill="#8b6914"/>
+  <!-- Lower Zambezi river -->
+  <path d="M15,80 Q50,76 85,80 L82,95 L18,95 Z" fill="#4fc3f7"/>
+  <!-- Rainbow in mist -->
+  <path d="M10,65 Q50,55 90,65" fill="none" stroke="#e74c3c" stroke-width="2" opacity="0.6"/>
+  <path d="M14,68 Q50,58 86,68" fill="none" stroke="#f0c040" stroke-width="2" opacity="0.6"/>
+  <path d="M18,71 Q50,61 82,71" fill="none" stroke="#4a9e4a" stroke-width="2" opacity="0.6"/>
+  <!-- African bush on top -->
+  <circle cx="10" cy="22" r="6" fill="#3a7a30"/>
+  <circle cx="90" cy="22" r="6" fill="#3a7a30"/>
+  <circle cx="50" cy="21" r="5" fill="#3a7a30"/>
+</svg>

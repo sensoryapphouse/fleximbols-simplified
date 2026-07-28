@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,23.080) scale(0.7692)">
+<rect x="8" y="10" width="84" height="80" fill="#AD7640" stroke="#000" stroke-width="2.5"/>
+<line x1="8" y1="26" x2="92" y2="26" stroke="#000" stroke-width="2"/>
+<line x1="8" y1="42" x2="92" y2="42" stroke="#000" stroke-width="2"/>
+<line x1="8" y1="58" x2="92" y2="58" stroke="#000" stroke-width="2"/>
+<line x1="8" y1="74" x2="92" y2="74" stroke="#000" stroke-width="2"/>
+<line x1="30" y1="10" x2="30" y2="26" stroke="#000" stroke-width="2"/>
+<line x1="60" y1="10" x2="60" y2="26" stroke="#000" stroke-width="2"/>
+<line x1="20" y1="26" x2="20" y2="42" stroke="#000" stroke-width="2"/>
+<line x1="50" y1="26" x2="50" y2="42" stroke="#000" stroke-width="2"/>
+<line x1="78" y1="26" x2="78" y2="42" stroke="#000" stroke-width="2"/>
+<line x1="36" y1="42" x2="36" y2="58" stroke="#000" stroke-width="2"/>
+<line x1="66" y1="42" x2="66" y2="58" stroke="#000" stroke-width="2"/>
+<line x1="22" y1="58" x2="22" y2="74" stroke="#000" stroke-width="2"/>
+<line x1="52" y1="58" x2="52" y2="74" stroke="#000" stroke-width="2"/>
+<line x1="78" y1="58" x2="78" y2="74" stroke="#000" stroke-width="2"/>
+<line x1="32" y1="74" x2="32" y2="90" stroke="#000" stroke-width="2"/>
+<line x1="62" y1="74" x2="62" y2="90" stroke="#000" stroke-width="2"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2124" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2124)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

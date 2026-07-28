@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Sky -->
+  <rect x="0" y="0" width="100" height="55" fill="#ddeeff"/>
+  <!-- Shore/ground -->
+  <rect x="0" y="72" width="100" height="16" fill="#c8a96e" stroke="#333" stroke-width="2"/>
+  <!-- Ocean base -->
+  <rect x="0" y="60" width="100" height="14" fill="#2277cc"/>
+  <!-- Tall curling wave -->
+  <path d="M5,62 C10,30 30,20 50,28 C65,34 70,20 80,15 C88,10 92,18 90,28 C88,38 78,40 68,42 C55,45 45,52 40,62 Z" fill="#3399dd" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Wave curl highlight -->
+  <path d="M80,15 C88,10 92,18 90,28 C88,36 80,40 72,42" fill="none" stroke="#aaddff" stroke-width="2" stroke-linecap="round"/>
+  <!-- Foam at base -->
+  <path d="M5,62 Q15,58 25,62 Q35,66 45,62" fill="none" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</svg>

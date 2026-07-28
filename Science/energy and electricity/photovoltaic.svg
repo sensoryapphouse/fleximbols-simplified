@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- solar panel -->
+  <rect x="16" y="30" width="56" height="38" rx="3" fill="#2255aa" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- panel grid cells 3x4 -->
+  <line x1="30" y1="32" x2="30" y2="66" stroke="#1a4488" stroke-width="1.2"/>
+  <line x1="44" y1="32" x2="44" y2="66" stroke="#1a4488" stroke-width="1.2"/>
+  <line x1="58" y1="32" x2="58" y2="66" stroke="#1a4488" stroke-width="1.2"/>
+  <line x1="18" y1="42" x2="70" y2="42" stroke="#1a4488" stroke-width="1.2"/>
+  <line x1="18" y1="54" x2="70" y2="54" stroke="#1a4488" stroke-width="1.2"/>
+  <!-- cell highlight (light glint) -->
+  <rect x="18" y="32" width="10" height="8" rx="1" fill="#3366cc" opacity="0.5"/>
+  <!-- sun with rays top right -->
+  <circle cx="85" cy="22" r="8" fill="#f5d020" stroke="#333" stroke-width="1.5"/>
+  <!-- sun rays -->
+  <line x1="85" y1="10" x2="85" y2="6" stroke="#f5d020" stroke-width="2" stroke-linecap="round"/>
+  <line x1="94" y1="13" x2="97" y2="10" stroke="#f5d020" stroke-width="2" stroke-linecap="round"/>
+  <line x1="97" y1="22" x2="101" y2="22" stroke="#f5d020" stroke-width="2" stroke-linecap="round"/>
+  <line x1="94" y1="31" x2="97" y2="34" stroke="#f5d020" stroke-width="2" stroke-linecap="round"/>
+  <line x1="76" y1="13" x2="73" y2="10" stroke="#f5d020" stroke-width="2" stroke-linecap="round"/>
+  <!-- lightning bolt = electricity arrow -->
+  <path d="M78 50 L74 62 L80 62 L76 75" fill="none" stroke="#f5d020" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

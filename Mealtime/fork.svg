@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Handle -->
+  <rect x="44" y="56" width="12" height="30" rx="5" fill="#c8a46e" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Shank -->
+  <rect x="47" y="38" width="6" height="20" fill="#c8a46e" stroke="#555" stroke-width="2"/>
+  <!-- Neck curve / base of tines -->
+  <rect x="40" y="32" width="20" height="8" rx="2" fill="#d0b080" stroke="#555" stroke-width="2"/>
+  <!-- Four tines -->
+  <rect x="40" y="12" width="4" height="22" rx="2" fill="#c8a46e" stroke="#555" stroke-width="1.5"/>
+  <rect x="46" y="12" width="4" height="22" rx="2" fill="#c8a46e" stroke="#555" stroke-width="1.5"/>
+  <rect x="52" y="12" width="4" height="22" rx="2" fill="#c8a46e" stroke="#555" stroke-width="1.5"/>
+  <rect x="56" y="12" width="4" height="22" rx="2" fill="#c8a46e" stroke="#555" stroke-width="1.5"/>
+</svg>

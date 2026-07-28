@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- branch -->
+  <path d="M10 72 Q50 68 90 72" fill="none" stroke="#8B6030" stroke-width="4" stroke-linecap="round"/>
+  <!-- tail -->
+  <path d="M56 70 Q62 74 66 70 Q62 82 60 84 Q58 82 58 80 Q56 82 54 80 Q54 82 56 70 Z" fill="#5a4820" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- body - round plump -->
+  <ellipse cx="48" cy="58" rx="14" ry="13" fill="#5a4820" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- red/orange breast - prominent -->
+  <path d="M36 50 Q38 44 46 44 Q54 44 58 50 Q60 58 56 66 Q50 70 44 66 Q38 60 36 50 Z" fill="#e85020" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- wing -->
+  <path d="M34 52 Q26 56 26 68 Q32 70 36 62 Q38 58 44 56 Z" fill="#4a3810" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- wing feather detail -->
+  <path d="M28 58 Q32 62 36 64" fill="none" stroke="#7a6840" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- head - dark -->
+  <circle cx="40" cy="46" r="11" fill="#2a2010" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- orange/red extended onto chin -->
+  <path d="M32 48 Q36 44 42 44 Q42 50 40 52 Q36 52 32 48 Z" fill="#e85020" stroke="none"/>
+  <!-- bill - short -->
+  <path d="M28 48 Q36 44 40 46 Q38 50 34 52 Z" fill="#d0b020" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- eye - white ring -->
+  <circle cx="36" cy="42" r="4" fill="#333"/>
+  <circle cx="36" cy="42" r="3" fill="#333"/>
+  <circle cx="35.5" cy="41.5" r="1" fill="white"/>
+  <!-- white eye ring hint -->
+  <path d="M32 40 Q36 38 40 40" fill="none" stroke="#888" stroke-width="1" stroke-linecap="round"/>
+  <!-- feet -->
+  <line x1="44" y1="70" x2="40" y2="76" stroke="#c8a020" stroke-width="2" stroke-linecap="round"/>
+  <line x1="40" y1="76" x2="36" y2="78" stroke="#c8a020" stroke-width="2" stroke-linecap="round"/>
+  <line x1="40" y1="76" x2="40" y2="80" stroke="#c8a020" stroke-width="2" stroke-linecap="round"/>
+  <line x1="40" y1="76" x2="44" y2="78" stroke="#c8a020" stroke-width="2" stroke-linecap="round"/>
+  <line x1="54" y1="70" x2="56" y2="76" stroke="#c8a020" stroke-width="2" stroke-linecap="round"/>
+  <line x1="56" y1="76" x2="52" y2="78" stroke="#c8a020" stroke-width="2" stroke-linecap="round"/>
+  <line x1="56" y1="76" x2="56" y2="80" stroke="#c8a020" stroke-width="2" stroke-linecap="round"/>
+  <line x1="56" y1="76" x2="60" y2="78" stroke="#c8a020" stroke-width="2" stroke-linecap="round"/>
+</svg>

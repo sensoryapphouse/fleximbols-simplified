@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Scrapbook base pages -->
+  <rect x="10" y="12" width="78" height="72" rx="4" fill="#f5f0e0" stroke="#333" stroke-width="2.5"/>
+  <!-- Background paper with color -->
+  <rect x="12" y="14" width="74" height="68" rx="3" fill="#ffe8d0" stroke="none"/>
+  <!-- Photo 1 (top-left, tilted) -->
+  <g transform="rotate(-5 30 30)">
+<rect x="16" y="18" width="24" height="18" rx="1" fill="#d0e8ff"/>
+    <!-- Photo content: mountain -->
+    <path d="M18 34 L24 24 L30 34 Z" fill="#888"/>
+    <circle cx="34" cy="22" r="3" fill="#f5c842" opacity="0.7"/>
+  </g>
+  <!-- Photo 2 (right, tilted) -->
+  <g transform="rotate(6 65 35)">
+<rect x="56" y="18" width="22" height="16" rx="1" fill="#d8f0d8"/>
+    <!-- Photo content: flower -->
+    <circle cx="67" cy="26" r="5" fill="#e74c3c" opacity="0.7"/>
+  </g>
+  <!-- Decorative stickers/washi tape -->
+  <rect x="12" y="40" width="36" height="5" rx="2" fill="#3498db" opacity="0.5"/>
+  <rect x="52" y="38" width="32" height="5" rx="2" fill="#e74c3c" opacity="0.4"/>
+  <!-- Heart sticker -->
+  <path d="M20 52 Q20 48 24 48 Q28 48 28 52 Q28 56 24 60 Q20 56 20 52 Z" fill="#e74c3c" stroke="#c0392b" stroke-width="1"/>
+  <!-- Star sticker -->
+  <polygon points="60,48 62,54 68,54 63,58 65,64 60,60 55,64 57,58 52,54 58,54" fill="#f5c842" stroke="#d4a017" stroke-width="1" transform="scale(0.5) translate(60,55)"/>
+  <!-- Text block at bottom -->
+<text x="49" y="71" font-size="5" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#888" font-style="italic">My Memories</text>
+  <!-- Corner brads/fasteners -->
+  <circle cx="16" cy="18" r="2" fill="#888" stroke="#555" stroke-width="1"/>
+  <circle cx="84" cy="18" r="2" fill="#888" stroke="#555" stroke-width="1"/>
+  <circle cx="16" cy="80" r="2" fill="#888" stroke="#555" stroke-width="1"/>
+  <circle cx="84" cy="80" r="2" fill="#888" stroke="#555" stroke-width="1"/>
+</svg>

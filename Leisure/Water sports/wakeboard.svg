@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Boat simplified at top right -->
+  <path d="M65,30 L85,30 L90,38 L65,38 Z" fill="#f39c12" stroke="#222" stroke-width="2"/>
+  <!-- Tow rope -->
+  <line x1="65" y1="34" x2="46" y2="70" stroke="#888" stroke-width="1.5"/>
+  <!-- Wake spray -->
+  <path d="M5,78 Q20,72 35,78 Q50,84 65,78 Q80,72 95,78" fill="none" stroke="#aed6f1" stroke-width="2"/>
+  <!-- Water -->
+  <path d="M5,80 Q25,76 50,80 Q75,76 95,80 L95,90 L5,90 Z" fill="#aed6f1" stroke="none"/>
+  <!-- Wakeboard -->
+  <rect x="28" y="78" width="44" height="7" rx="4" fill="#5b8dd9" stroke="#222" stroke-width="2"/>
+  <!-- Rider -->
+  <circle cx="50" cy="56" r="6" fill="#f5c5a3" stroke="#222" stroke-width="2"/>
+  <line x1="50" y1="62" x2="50" y2="78" stroke="#5b8dd9" stroke-width="3" stroke-linecap="round"/>
+  <!-- Bent knees -->
+  <line x1="50" y1="72" x2="40" y2="76" stroke="#5b8dd9" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="72" x2="60" y2="76" stroke="#5b8dd9" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Arms up holding rope -->
+  <line x1="50" y1="66" x2="42" y2="60" stroke="#5b8dd9" stroke-width="2" stroke-linecap="round"/>
+  <line x1="50" y1="66" x2="54" y2="58" stroke="#5b8dd9" stroke-width="2" stroke-linecap="round"/>
+  <!-- Handle at end of rope -->
+  <line x1="44" y1="62" x2="58" y2="62" stroke="#888" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

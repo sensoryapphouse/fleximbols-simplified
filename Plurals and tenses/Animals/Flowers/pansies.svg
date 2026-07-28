@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,13.270) scale(0.8673)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-26.116 -42.262) scale(1.5238)">
+<line x1="50" y1="76" x2="50" y2="90" stroke="#4aaa4a" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="43" cy="84" rx="8" ry="3" fill="#4aaa4a" stroke="#2d7a2d" stroke-width="1.5" transform="rotate(-20 43 84)"/>
+  <!-- 2 upper petals (purple) -->
+  <ellipse cx="40" cy="52" rx="10" ry="14" fill="#7744cc" stroke="#441188" stroke-width="2" transform="rotate(-20 40 62)"/>
+  <ellipse cx="60" cy="52" rx="10" ry="14" fill="#7744cc" stroke="#441188" stroke-width="2" transform="rotate(20 60 62)"/>
+  <!-- 2 side petals (purple/yellow) -->
+  <ellipse cx="34" cy="62" rx="13" ry="8" fill="#9966dd" stroke="#441188" stroke-width="2" transform="rotate(-10 34 62)"/>
+  <ellipse cx="66" cy="62" rx="13" ry="8" fill="#9966dd" stroke="#441188" stroke-width="2" transform="rotate(10 66 62)"/>
+  <!-- lower petal (large, with face markings) -->
+  <ellipse cx="50" cy="70" rx="13" ry="10" fill="#ffee66" stroke="#aa8800" stroke-width="2"/>
+  <!-- face lines / whiskers -->
+  <path d="M44 68 Q50 64 56 68" fill="none" stroke="#663300" stroke-width="1.5"/>
+  <line x1="46" y1="70" x2="42" y2="73" stroke="#663300" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="54" y1="70" x2="58" y2="73" stroke="#663300" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="48" y1="71" x2="45" y2="75" stroke="#663300" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="52" y1="71" x2="55" y2="75" stroke="#663300" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- centre -->
+  <circle cx="50" cy="64" r="4" fill="#ffdd00" stroke="#cc9900" stroke-width="1.5"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl171" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl171)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

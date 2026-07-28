@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- body -->
+  <ellipse cx="50" cy="65" rx="22" ry="18" fill="#d4b896" stroke="#555" stroke-width="2"/>
+  <!-- head -->
+  <circle cx="50" cy="40" r="18" fill="#d4b896" stroke="#555" stroke-width="2"/>
+  <!-- left ear -->
+  <polygon points="33,28 28,12 42,22" fill="#d4b896" stroke="#555" stroke-width="2"/>
+  <polygon points="35,26 31,16 40,23" fill="#e8a0a0"/>
+  <!-- right ear -->
+  <polygon points="67,28 72,12 58,22" fill="#d4b896" stroke="#555" stroke-width="2"/>
+  <polygon points="65,26 69,16 60,23" fill="#e8a0a0"/>
+  <!-- eyes -->
+  <ellipse cx="43" cy="39" rx="4" ry="3" fill="white" stroke="#555" stroke-width="1.5"/>
+  <ellipse cx="57" cy="39" rx="4" ry="3" fill="white" stroke="#555" stroke-width="1.5"/>
+  <ellipse cx="43" cy="39" rx="2" ry="2.5" fill="#2a7a2a"/>
+  <ellipse cx="57" cy="39" rx="2" ry="2.5" fill="#2a7a2a"/>
+  <circle cx="43" cy="38" r="0.8" fill="black"/>
+  <circle cx="57" cy="38" r="0.8" fill="black"/>
+  <!-- nose -->
+  <polygon points="50,44 48,47 52,47" fill="#e88"/>
+  <!-- mouth -->
+  <path d="M48,47 Q50,50 52,47" fill="none" stroke="#555" stroke-width="1.5"/>
+  <!-- whiskers left -->
+  <line x1="49" y1="46" x2="28" y2="43" stroke="#777" stroke-width="1"/>
+  <line x1="49" y1="47" x2="28" y2="47" stroke="#777" stroke-width="1"/>
+  <line x1="49" y1="48" x2="28" y2="51" stroke="#777" stroke-width="1"/>
+  <!-- whiskers right -->
+  <line x1="51" y1="46" x2="72" y2="43" stroke="#777" stroke-width="1"/>
+  <line x1="51" y1="47" x2="72" y2="47" stroke="#777" stroke-width="1"/>
+  <line x1="51" y1="48" x2="72" y2="51" stroke="#777" stroke-width="1"/>
+  <!-- tail -->
+  <path d="M72,72 Q88,60 80,50" fill="none" stroke="#d4b896" stroke-width="4" stroke-linecap="round"/>
+  <path d="M72,72 Q88,60 80,50" fill="none" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <!-- paws -->
+  <ellipse cx="38" cy="80" rx="7" ry="4" fill="#d4b896" stroke="#555" stroke-width="1.5"/>
+  <ellipse cx="62" cy="80" rx="7" ry="4" fill="#d4b896" stroke="#555" stroke-width="1.5"/>
+</svg>

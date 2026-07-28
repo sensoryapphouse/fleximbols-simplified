@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Water -->
+  <path d="M0,68 Q12,64 24,68 Q36,72 48,68 Q60,64 72,68 Q84,72 100,68 L100,88 L0,88 Z" fill="#9bd4f5" stroke="none"/>
+  <!-- Waves -->
+  <path d="M0,68 Q12,64 24,68 Q36,72 48,68 Q60,64 72,68 Q84,72 100,68" fill="none" stroke="#5b8dd9" stroke-width="2"/>
+  <!-- Ship hull -->
+  <path d="M10,68 L14,78 Q50,84 86,78 L90,68 Z" fill="#e8c44a" stroke="#333" stroke-width="2.5"/>
+  <!-- Ship body/superstructure -->
+<!-- Ship upper deck -->
+  <rect x="28" y="34" width="44" height="12" rx="2" fill="#dde8f5" stroke="#333" stroke-width="2"/>
+  <!-- Funnels/smokestacks -->
+  <rect x="38" y="22" width="8" height="14" rx="2" fill="#d44" stroke="#333" stroke-width="2"/>
+  <rect x="54" y="22" width="8" height="14" rx="2" fill="#d44" stroke="#333" stroke-width="2"/>
+  <!-- Smoke -->
+  <path d="M42,22 Q40,16 44,12" fill="none" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M58,22 Q56,16 60,12" fill="none" stroke="#aaa" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Windows on main deck -->
+  <circle cx="30" cy="54" r="3" fill="#9bd4f5" stroke="#333" stroke-width="1.5"/>
+  <circle cx="40" cy="54" r="3" fill="#9bd4f5" stroke="#333" stroke-width="1.5"/>
+  <circle cx="50" cy="54" r="3" fill="#9bd4f5" stroke="#333" stroke-width="1.5"/>
+  <circle cx="60" cy="54" r="3" fill="#9bd4f5" stroke="#333" stroke-width="1.5"/>
+  <circle cx="70" cy="54" r="3" fill="#9bd4f5" stroke="#333" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- ground mince - pile of crumbled meat -->
+  <!-- base mound shape -->
+  <ellipse cx="50" cy="62" rx="35" ry="20" fill="#B71C1C" stroke="#7F0000" stroke-width="2.5"/>
+  <!-- irregular mince pieces texture -->
+  <ellipse cx="32" cy="56" rx="8" ry="5" fill="#C62828" stroke="#7F0000" stroke-width="1.5" transform="rotate(20 32 56)"/>
+  <ellipse cx="50" cy="50" rx="9" ry="5" fill="#D32F2F" stroke="#7F0000" stroke-width="1.5" transform="rotate(-15 50 50)"/>
+  <ellipse cx="68" cy="54" rx="8" ry="5" fill="#C62828" stroke="#7F0000" stroke-width="1.5" transform="rotate(10 68 54)"/>
+  <ellipse cx="40" cy="64" rx="8" ry="5" fill="#B71C1C" stroke="#7F0000" stroke-width="1.5" transform="rotate(-20 40 64)"/>
+  <ellipse cx="60" cy="66" rx="8" ry="5" fill="#C62828" stroke="#7F0000" stroke-width="1.5" transform="rotate(25 60 66)"/>
+  <ellipse cx="50" cy="70" rx="8" ry="4" fill="#B71C1C" stroke="#7F0000" stroke-width="1.5"/>
+  <ellipse cx="35" cy="70" rx="6" ry="4" fill="#D32F2F" stroke="#7F0000" stroke-width="1.5" transform="rotate(15 35 70)"/>
+  <ellipse cx="66" cy="68" rx="6" ry="4" fill="#C62828" stroke="#7F0000" stroke-width="1.5" transform="rotate(-10 66 68)"/>
+</svg>

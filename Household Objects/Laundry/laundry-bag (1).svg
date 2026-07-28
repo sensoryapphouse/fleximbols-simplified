@@ -1,0 +1,21 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Laundry bag - drawstring fabric bag -->
+  <!-- Bag body - rounded bottom -->
+  <path d="M20,42 L16,80 Q16,92 50,92 Q84,92 84,80 L80,42 Z" fill="#B0C0E0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Fabric texture lines -->
+  <line x1="30" y1="48" x2="25" y2="88" stroke="#90A0C0" stroke-width="1.5" opacity="0.7"/>
+  <line x1="50" y1="46" x2="50" y2="90" stroke="#90A0C0" stroke-width="1.5" opacity="0.7"/>
+  <line x1="70" y1="48" x2="75" y2="88" stroke="#90A0C0" stroke-width="1.5" opacity="0.7"/>
+  <line x1="18" y1="60" x2="82" y2="60" stroke="#90A0C0" stroke-width="1.5" opacity="0.6"/>
+  <line x1="17" y1="74" x2="83" y2="74" stroke="#90A0C0" stroke-width="1.5" opacity="0.6"/>
+  <!-- Drawstring channel -->
+  <path d="M20,42 Q50,36 80,42" fill="none" stroke="#333" stroke-width="2"/>
+  <path d="M20,46 Q50,40 80,46" fill="none" stroke="#333" stroke-width="2"/>
+  <!-- Drawstrings -->
+  <path d="M35,42 Q28,28 22,18" fill="none" stroke="#8B6040" stroke-width="3" stroke-linecap="round"/>
+  <path d="M65,42 Q72,28 78,18" fill="none" stroke="#8B6040" stroke-width="3" stroke-linecap="round"/>
+  <!-- Drawstring tie knot -->
+  <circle cx="50" cy="16" r="5" fill="none" stroke="#8B6040" stroke-width="2.5"/>
+  <line x1="22" y1="18" x2="45" y2="16" stroke="#8B6040" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="78" y1="18" x2="55" y2="16" stroke="#8B6040" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

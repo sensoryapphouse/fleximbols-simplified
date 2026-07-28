@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-7.242 -10.228) scale(1.1538)">
+<!-- heart -->
+<path d="M30,45 Q30,32 50,38 Q70,32 70,45 Q70,60 50,72 Q30,60 30,45 Z" fill="#ff8899" stroke="#cc3344" stroke-width="2.5"/>
+<!-- pacemaker device (implanted) -->
+<rect x="38" y="38" width="24" height="18" rx="4" fill="#aaaacc" stroke="#445588" stroke-width="2"/>
+<!-- pacemaker details -->
+<circle cx="50" cy="47" r="4" fill="#3366aa" stroke="#224488" stroke-width="1.5"/>
+<!-- leads -->
+<path d="M50,56 Q50,62 50,68" fill="none" stroke="#445588" stroke-width="2" stroke-linecap="round"/>
+<path d="M38,47 Q30,50 30,55" fill="none" stroke="#445588" stroke-width="2" stroke-linecap="round"/>
+<!-- heartbeat wave external -->
+<polyline points="10,82 20,82 24,70 28,90 32,82 40,82" fill="none" stroke="#cc3344" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+  </svg>

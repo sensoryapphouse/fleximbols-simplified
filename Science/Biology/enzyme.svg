@@ -1,0 +1,24 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Enzyme: protein with active site pocket -->
+  <!-- Main enzyme body - irregular blob -->
+  <path d="M20,35 Q10,20 25,12 Q40,5 55,10 Q70,5 80,18 Q90,30 85,50 Q90,65 75,75 Q65,85 50,82 Q35,88 22,78 Q8,68 12,52 Q8,40 20,35 Z"
+        fill="#a8d8ea" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Active site groove -->
+  <path d="M38,45 Q45,38 52,45 Q58,52 52,58 Q45,62 38,56 Q32,50 38,45 Z"
+        fill="#fff9e6" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Substrate molecule in active site -->
+  <ellipse cx="45" cy="51" rx="7" ry="5" fill="#e74c3c" stroke="#333" stroke-width="2" transform="rotate(-15,45,51)"/>
+  <!-- Catalytic residue marks -->
+  <circle cx="38" cy="45" r="3" fill="#f39c12" stroke="#333" stroke-width="1.5"/>
+  <circle cx="52" cy="45" r="3" fill="#27ae60" stroke="#333" stroke-width="1.5"/>
+  <!-- Arrow showing catalysis -->
+  <defs>
+    <marker id="arr2" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <polygon points="0,0 6,3 0,6" fill="#333"/>
+    </marker>
+  </defs>
+  <path d="M60,70 Q72,78 80,72" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arr2)" stroke-linecap="round"/>
+  <!-- Product dots -->
+  <circle cx="85" cy="68" r="4" fill="#e74c3c" stroke="#333" stroke-width="1.5"/>
+  <circle cx="85" cy="78" r="3" fill="#e74c3c" stroke="#333" stroke-width="1.5"/>
+</svg>

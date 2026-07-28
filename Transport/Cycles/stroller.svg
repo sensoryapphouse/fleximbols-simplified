@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Handle -->
+  <path d="M25 20 L25 45" fill="none" stroke="#37474f" stroke-width="3" stroke-linecap="round"/>
+  <path d="M25 20 Q50 15 75 20" fill="none" stroke="#37474f" stroke-width="3" stroke-linecap="round"/>
+  <path d="M75 20 L75 35" fill="none" stroke="#37474f" stroke-width="3" stroke-linecap="round"/>
+  <!-- Frame arms -->
+  <path d="M25 45 Q30 70 40 75" fill="none" stroke="#37474f" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M75 35 Q78 55 70 75" fill="none" stroke="#37474f" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Seat body -->
+  <rect x="32" y="35" width="42" height="30" rx="6" fill="#42a5f5" stroke="#1565c0" stroke-width="2"/>
+  <!-- Hood -->
+  <path d="M32 35 Q53 20 74 35" fill="#1e88e5" stroke="#1565c0" stroke-width="2"/>
+  <!-- Baby -->
+  <circle cx="53" cy="48" r="7" fill="#f5cba7" stroke="#5d4037" stroke-width="1.5"/>
+  <!-- Wheels -->
+  <circle cx="40" cy="78" r="7" fill="#78909c" stroke="#37474f" stroke-width="2"/>
+  <circle cx="70" cy="78" r="7" fill="#78909c" stroke="#37474f" stroke-width="2"/>
+</svg>

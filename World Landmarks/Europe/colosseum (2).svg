@@ -1,0 +1,38 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sky -->
+  <rect x="0" y="0" width="100" height="50" fill="#87ceeb"/>
+  <!-- Ground -->
+  <rect x="0" y="80" width="100" height="20" fill="#c8a850"/>
+  <!-- Colosseum - oval arched facade -->
+  <!-- Outer oval shape -->
+  <path d="M5,80 Q5,45 50,38 Q95,45 95,80 Z" fill="#d4b870" stroke="#8b6914" stroke-width="2"/>
+  <!-- Inner cutaway showing arena -->
+  <path d="M18,80 Q18,52 50,46 Q82,52 82,80 Z" fill="#c4a040" stroke="#8b6914" stroke-width="1.5"/>
+  <!-- Three tiers of arches -->
+  <!-- Bottom tier arches -->
+  <path d="M10,80 L10,68 Q14,62 18,68 L18,80" fill="#b89030" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M20,80 L20,68 Q24,62 28,68 L28,80" fill="#b89030" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M30,80 L30,68 Q34,63 38,68 L38,80" fill="#b89030" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M42,80 L42,67 Q46,62 50,67 L50,80" fill="#b89030" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M52,80 L52,67 Q56,62 60,67 L60,80" fill="#b89030" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M62,80 L62,68 Q66,63 70,68 L70,80" fill="#b89030" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M72,80 L72,68 Q76,62 80,68 L80,80" fill="#b89030" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M82,80 L82,68 Q86,62 90,68 L90,80" fill="#b89030" stroke="#8b6914" stroke-width="1.5"/>
+  <!-- Second tier -->
+  <path d="M12,66 L12,56 Q16,51 20,56 L20,66" fill="#c4a040" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M22,66 L22,56 Q26,51 30,56 L30,66" fill="#c4a040" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M32,65 L32,55 Q36,50 40,55 L40,65" fill="#c4a040" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M44,64 L44,54 Q48,49 52,54 L52,64" fill="#c4a040" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M54,64 L54,54 Q58,49 62,54 L62,64" fill="#c4a040" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M64,65 L64,55 Q68,50 72,55 L72,65" fill="#c4a040" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M74,66 L74,56 Q78,51 82,56 L82,66" fill="#c4a040" stroke="#8b6914" stroke-width="1.5"/>
+  <!-- Third tier (top, smaller) -->
+  <path d="M16,54 L16,46 Q20,42 24,46 L24,54" fill="#d4b060" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M28,52 L28,44 Q32,40 36,44 L36,52" fill="#d4b060" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M40,50 L40,42 Q44,38 48,42 L48,50" fill="#d4b060" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M54,50 L54,42 Q58,38 62,42 L62,50" fill="#d4b060" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M66,52 L66,44 Q70,40 74,44 L74,52" fill="#d4b060" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M78,54 L78,46 Q82,42 86,46 L86,54" fill="#d4b060" stroke="#8b6914" stroke-width="1.5"/>
+  <!-- Ruined section (iconic broken top right) -->
+  <path d="M84,42 L90,40 L93,44 L88,48 L92,52 L86,54" fill="#d4b060" stroke="#8b6914" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- drum - cylindrical, viewed at angle -->
+  <!-- drum body -->
+  <rect x="20" y="38" width="60" height="35" rx="2" fill="#bcaaa4" stroke="#795548" stroke-width="2.5"/>
+  <!-- vertical stripes (decorative) -->
+  <line x1="30" y1="38" x2="30" y2="73" stroke="#9e9e9e" stroke-width="1" stroke-dasharray="4,2"/>
+  <line x1="50" y1="38" x2="50" y2="73" stroke="#9e9e9e" stroke-width="1" stroke-dasharray="4,2"/>
+  <line x1="70" y1="38" x2="70" y2="73" stroke="#9e9e9e" stroke-width="1" stroke-dasharray="4,2"/>
+  <!-- drum head (top ellipse) -->
+  <ellipse cx="50" cy="38" rx="30" ry="9" fill="#ffe0b2" stroke="#795548" stroke-width="2.5"/>
+  <!-- drum bottom ellipse -->
+  <ellipse cx="50" cy="73" rx="30" ry="9" fill="#d7ccc8" stroke="#795548" stroke-width="2"/>
+  <!-- tension rods -->
+  <line x1="26" y1="38" x2="24" y2="73" stroke="#9e9e9e" stroke-width="2"/>
+  <line x1="74" y1="38" x2="76" y2="73" stroke="#9e9e9e" stroke-width="2"/>
+  <line x1="38" y1="47" x2="36" y2="78" stroke="#9e9e9e" stroke-width="1.5"/>
+  <line x1="62" y1="47" x2="64" y2="78" stroke="#9e9e9e" stroke-width="1.5"/>
+  <!-- drumsticks (crossed above) -->
+  <line x1="35" y1="10" x2="55" y2="35" stroke="#a1887f" stroke-width="3" stroke-linecap="round"/>
+  <line x1="65" y1="10" x2="45" y2="35" stroke="#a1887f" stroke-width="3" stroke-linecap="round"/>
+  <!-- stick tips -->
+  <circle cx="55" cy="35" r="3.5" fill="#5d4037" stroke="#3e2723" stroke-width="1.5"/>
+  <circle cx="45" cy="35" r="3.5" fill="#5d4037" stroke="#3e2723" stroke-width="1.5"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2450" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2450)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

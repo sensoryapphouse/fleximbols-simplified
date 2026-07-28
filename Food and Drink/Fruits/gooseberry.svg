@@ -1,0 +1,23 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gooseberry - oval, striped, translucent green -->
+  <!-- Three gooseberries with characteristic veining -->
+  <ellipse cx="50" cy="62" rx="18" ry="20" fill="#c8e060" stroke="#333" stroke-width="2.5"/>
+  <!-- Veining stripes -->
+  <line x1="50" y1="42" x2="50" y2="82" stroke="#90b020" stroke-width="1.5"/>
+  <line x1="38" y1="48" x2="62" y2="76" stroke="#90b020" stroke-width="1"/>
+  <line x1="62" y1="48" x2="38" y2="76" stroke="#90b020" stroke-width="1"/>
+  <!-- Flower remnant at bottom (gooseberry has persistent calyx) -->
+  <path d="M44 80 Q50 87 56 80 Q52 85 50 84 Q48 85 44 80 Z" fill="#8a9820" stroke="#333" stroke-width="1.5"/>
+  <!-- Small gooseberry left -->
+  <ellipse cx="25" cy="50" rx="14" ry="16" fill="#b8d850" stroke="#333" stroke-width="2"/>
+  <line x1="25" y1="34" x2="25" y2="66" stroke="#80a010" stroke-width="1.2"/>
+  <line x1="15" y1="40" x2="35" y2="60" stroke="#80a010" stroke-width="1"/>
+  <path d="M20 65 Q25 71 30 65 Q27 69 25 68 Q23 69 20 65 Z" fill="#7a9020" stroke="#333" stroke-width="1"/>
+  <!-- Small gooseberry right -->
+  <ellipse cx="75" cy="50" rx="14" ry="16" fill="#b8d850" stroke="#333" stroke-width="2"/>
+  <line x1="75" y1="34" x2="75" y2="66" stroke="#80a010" stroke-width="1.2"/>
+  <!-- Stem at top -->
+  <path d="M50 42 Q50 33 52 28" fill="none" stroke="#5a3010" stroke-width="2" stroke-linecap="round"/>
+  <!-- Leaf -->
+  <path d="M51 32 Q61 25 64 33 Q55 37 51 32 Z" fill="#4a9020" stroke="#2a6010" stroke-width="1.5"/>
+</svg>

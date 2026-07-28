@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Gravestone -->
+  <rect x="30" y="40" width="40" height="35" rx="0" fill="#c0c8d0" stroke="#334" stroke-width="2"/>
+  <path d="M30,40 Q30,22 50,22 Q70,22 70,40" fill="#c0c8d0" stroke="#334" stroke-width="2"/>
+  <!-- Cross on gravestone -->
+  <line x1="50" y1="28" x2="50" y2="52" stroke="#334" stroke-width="3" stroke-linecap="round"/>
+  <line x1="40" y1="38" x2="60" y2="38" stroke="#334" stroke-width="3" stroke-linecap="round"/>
+  <!-- Ground line -->
+  <rect x="15" y="74" width="70" height="8" rx="2" fill="#8a7060" stroke="#334" stroke-width="2"/>
+  <!-- Wilting flower (left) -->
+  <line x1="18" y1="74" x2="18" y2="45" stroke="#5a8f5a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M18,45 Q14,38 10,40 Q14,44 18,45" fill="#c06060" stroke="#a04040" stroke-width="1.5"/>
+  <path d="M18,45 Q18,37 22,38 Q20,43 18,45" fill="#c06060" stroke="#a04040" stroke-width="1.5"/>
+  <!-- drooping flower head -->
+  <path d="M18,45 Q22,52 20,58" fill="none" stroke="#5a8f5a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="20" cy="60" r="4" fill="#c08090" opacity="0.8"/>
+</svg>

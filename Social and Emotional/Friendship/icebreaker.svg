@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ice/frozen water in chunks -->
+  <rect x="5" y="72" width="20" height="10" rx="2" fill="#d4eaf7" stroke="#8ab4c8" stroke-width="1.5"/>
+  <rect x="28" y="74" width="16" height="8" rx="2" fill="#d4eaf7" stroke="#8ab4c8" stroke-width="1.5"/>
+  <rect x="60" y="72" width="22" height="9" rx="2" fill="#d4eaf7" stroke="#8ab4c8" stroke-width="1.5"/>
+  <rect x="83" y="74" width="12" height="8" rx="2" fill="#d4eaf7" stroke="#8ab4c8" stroke-width="1.5"/>
+  <!-- Water gaps between ice -->
+  <path d="M25 76 Q38 73 44 76" fill="none" stroke="#2176ae" stroke-width="2"/>
+  <path d="M45 76 Q52 73 60 76" fill="none" stroke="#2176ae" stroke-width="2"/>
+  <!-- Hull - reinforced with very strong bow (rounded/angled for icebreaking) -->
+  <path d="M18 70 Q50 79 82 70 L78 62 L30 62 Q22 62 18 70 Z" fill="#c0392b" stroke="#7b0000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Reinforced bow shape -->
+  <path d="M18 70 Q14 65 20 60 L30 62 Z" fill="#a93226" stroke="#7b0000" stroke-width="2"/>
+  <!-- Deck -->
+  <rect x="22" y="56" width="56" height="7" rx="2" fill="#e0e0e0" stroke="#aaa" stroke-width="2"/>
+  <!-- Superstructure - tall for ice visibility -->
+  <rect x="38" y="36" width="36" height="21" rx="3" fill="#f0f0f0" stroke="#888" stroke-width="2"/>
+  <rect x="42" y="40" width="8" height="7" rx="1" fill="#aed6f1" stroke="#555" stroke-width="1"/>
+  <rect x="56" y="40" width="8" height="7" rx="1" fill="#aed6f1" stroke="#555" stroke-width="1"/>
+  <!-- Mast -->
+  <line x1="56" y1="36" x2="56" y2="20" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="49" y1="24" x2="63" y2="24" stroke="#555" stroke-width="2"/>
+  <!-- Label -->
+</svg>

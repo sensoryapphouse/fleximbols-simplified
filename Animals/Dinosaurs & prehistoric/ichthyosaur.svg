@@ -1,0 +1,25 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ichthyosaur - dolphin-like, fish tail -->
+  <!-- tail fin (crescent moon shaped) -->
+  <path d="M84,50 Q96,38 96,28 Q88,34 84,44 Q84,50 84,56 Q88,66 96,72 Q96,62 84,50 Z" fill="#7090a0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- main body streamlined -->
+  <path d="M10,50 Q12,32 28,26 Q50,18 70,26 Q82,34 84,50 Q82,66 70,74 Q50,82 28,74 Q12,68 10,50 Z" fill="#7090a0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- belly -->
+  <path d="M16,58 Q28,70 50,72 Q70,70 80,60 Q70,66 50,68 Q30,66 16,58 Z" fill="#c0d0dc" stroke="none"/>
+  <!-- dorsal fin -->
+  <path d="M44,22 Q50,8 54,6 Q52,14 52,22" fill="#5a7888" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- pectoral flipper -->
+  <path d="M26,40 Q14,46 10,58 Q20,52 30,46 Q36,40 32,36 Z" fill="#6080a0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- rear flipper hint -->
+  <path d="M68,64 Q74,74 72,80 Q66,74 64,66" fill="#6080a0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- long pointed snout -->
+  <path d="M10,50 Q4,46 2,42 Q4,50 2,58 Q4,54 10,50" fill="#7090a0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- teeth row -->
+  <path d="M4,46 Q8,42 14,40" fill="none" stroke="#f0ece0" stroke-width="2" stroke-linecap="round"/>
+  <path d="M4,54 Q8,58 14,60" fill="none" stroke="#f0ece0" stroke-width="2" stroke-linecap="round"/>
+  <!-- large eye -->
+  <circle cx="20" cy="44" r="6" fill="#222"/>
+  <circle cx="21" cy="43" r="2" fill="#555"/>
+  <!-- sclerotic ring hint -->
+  <circle cx="20" cy="44" r="6" fill="none" stroke="#5a7888" stroke-width="1.5"/>
+</svg>

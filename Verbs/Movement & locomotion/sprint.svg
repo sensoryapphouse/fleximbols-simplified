@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Calendar outer -->
+<!-- Header -->
+  <rect x="10" y="14" width="80" height="14" rx="4" fill="#5577aa"/>
+  <rect x="10" y="22" width="80" height="6" fill="#5577aa"/>
+  
+  <!-- Calendar pins -->
+  <rect x="24" y="8" width="5" height="10" rx="2" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <rect x="71" y="8" width="5" height="10" rx="2" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <!-- Sprint block highlight - days 1-10 highlighted -->
+  <rect x="12" y="30" width="46" height="46" rx="2" fill="#dde8ff" stroke="#5577aa" stroke-width="2" stroke-dasharray="4,2"/>
+  <!-- Sprint label inside -->
+  
+  
+  <!-- Running person icon -->
+  <circle cx="35" cy="60" r="5" fill="#5577aa" stroke="#333" stroke-width="1.5"/>
+  <!-- Calendar grid (right side) -->
+  <line x1="60" y1="30" x2="88" y2="30" stroke="#ddd" stroke-width="1"/>
+  <line x1="60" y1="40" x2="88" y2="40" stroke="#ddd" stroke-width="1"/>
+  <line x1="60" y1="50" x2="88" y2="50" stroke="#ddd" stroke-width="1"/>
+  <line x1="60" y1="60" x2="88" y2="60" stroke="#ddd" stroke-width="1"/>
+  <line x1="60" y1="70" x2="88" y2="70" stroke="#ddd" stroke-width="1"/>
+  <!-- Velocity arrow -->
+  <path d="M62 72 Q72 60 82 50" stroke="#338866" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <polygon points="82,50 78,55 84,56" fill="#338866"/>
+</svg>

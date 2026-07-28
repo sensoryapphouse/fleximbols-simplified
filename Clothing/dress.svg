@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Bodice -->
+  <path d="M34 14 Q50 10 66 14 L68 42 L32 42 Z" fill="#d06080" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Straps -->
+  <rect x="36" y="10" width="8" height="14" rx="3" fill="#d06080" stroke="#333" stroke-width="2"/>
+  <rect x="56" y="10" width="8" height="14" rx="3" fill="#d06080" stroke="#333" stroke-width="2"/>
+  <!-- Skirt flare -->
+  <path d="M32 42 L16 85 L84 85 L68 42 Z" fill="#e080a0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Waist seam -->
+  <line x1="32" y1="42" x2="68" y2="42" stroke="#333" stroke-width="2"/>
+  <!-- Skirt seam detail -->
+  <line x1="50" y1="42" x2="50" y2="85" stroke="#c06070" stroke-width="1.5" stroke-dasharray="4,3"/>
+</svg>

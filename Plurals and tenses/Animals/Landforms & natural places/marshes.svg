@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,28.240) scale(0.7176)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Sky -->
+  <rect x="0" y="0" width="100" height="52" fill="#cce8f4"/>
+  <!-- Wetland water -->
+  <rect x="0" y="52" width="100" height="38" fill="#7aaac8"/>
+  <!-- Shallow water ripples -->
+  <path d="M5 62 Q20 58 35 62 Q50 66 65 62 Q80 58 95 62" fill="none" stroke="#5a8aaa" stroke-width="1.5"/>
+  <path d="M5 72 Q20 68 35 72 Q50 76 65 72 Q80 68 95 72" fill="none" stroke="#5a8aaa" stroke-width="1.5"/>
+  <!-- Tall reeds -->
+  <line x1="20" y1="88" x2="18" y2="35" stroke="#7a6030" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="18" cy="33" rx="3.5" ry="7" fill="#9a7a30" stroke="#6a4a10" stroke-width="1.5"/>
+  <line x1="30" y1="88" x2="28" y2="30" stroke="#7a6030" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="28" cy="28" rx="3.5" ry="7" fill="#9a7a30" stroke="#6a4a10" stroke-width="1.5"/>
+  <line x1="40" y1="88" x2="42" y2="36" stroke="#7a6030" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="42" cy="34" rx="3.5" ry="7" fill="#9a7a30" stroke="#6a4a10" stroke-width="1.5"/>
+  <!-- Grass tufts left -->
+  <path d="M5 70 Q8 60 10 70" fill="#6aaa3a" stroke="#3a7a1a" stroke-width="1.5"/>
+  <path d="M12 72 Q15 60 18 72" fill="#6aaa3a" stroke="#3a7a1a" stroke-width="1.5"/>
+  <!-- Reeds right -->
+  <line x1="72" y1="88" x2="70" y2="33" stroke="#7a6030" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="70" cy="31" rx="3.5" ry="7" fill="#9a7a30" stroke="#6a4a10" stroke-width="1.5"/>
+  <line x1="84" y1="88" x2="86" y2="38" stroke="#7a6030" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="86" cy="36" rx="3.5" ry="7" fill="#9a7a30" stroke="#6a4a10" stroke-width="1.5"/>
+  <!-- Label -->
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl207" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl207)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

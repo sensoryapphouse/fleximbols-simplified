@@ -1,0 +1,13 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- ground -->
+  <rect x="10" y="65" width="80" height="15" rx="3" fill="#8b6914" stroke="#5a3d0a" stroke-width="2"/>
+  <!-- moss bumps -->
+  <ellipse cx="22" cy="60" rx="10" ry="8" fill="#4a8a2a" stroke="#2d5a1b" stroke-width="1.5"/>
+  <ellipse cx="38" cy="57" rx="12" ry="10" fill="#5a9e3a" stroke="#2d5a1b" stroke-width="1.5"/>
+  <ellipse cx="55" cy="59" rx="11" ry="9" fill="#4a8a2a" stroke="#2d5a1b" stroke-width="1.5"/>
+  <ellipse cx="72" cy="61" rx="9" ry="7" fill="#5a9e3a" stroke="#2d5a1b" stroke-width="1.5"/>
+  <!-- texture dots -->
+  <circle cx="30" cy="56" r="1.5" fill="#3d7a28"/>
+  <circle cx="48" cy="54" r="1.5" fill="#3d7a28"/>
+  <circle cx="64" cy="57" r="1.5" fill="#3d7a28"/>
+</svg>

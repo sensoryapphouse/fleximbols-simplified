@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- body -->
+  <ellipse cx="50" cy="55" rx="25" ry="11" fill="#5a9e50" stroke="#2d5a27" stroke-width="2.5"/>
+  <!-- head -->
+  <ellipse cx="25" cy="52" rx="12" ry="8" fill="#5a9e50" stroke="#2d5a27" stroke-width="2.5"/>
+  <!-- eye -->
+  <circle cx="19" cy="48" r="3" fill="#c8e0c0" stroke="#2d5a27" stroke-width="1.5"/>
+  <circle cx="19" cy="48" r="1.5" fill="#1a1a1a"/>
+  <!-- spiny dorsal ridge -->
+  <polyline points="28,46 35,38 43,40 50,34 58,37 65,33 72,36" fill="none" stroke="#2d5a27" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- tail long -->
+  <path d="M75 55 Q85 52 90 60 Q92 68 80 70" fill="none" stroke="#2d5a27" stroke-width="3" stroke-linecap="round"/>
+  <!-- legs -->
+  <line x1="35" y1="62" x2="29" y2="74" stroke="#2d5a27" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="48" y1="65" x2="45" y2="76" stroke="#2d5a27" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="60" y1="63" x2="66" y2="74" stroke="#2d5a27" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- dewlap -->
+  <path d="M24 58 Q22 65 18 67" fill="none" stroke="#2d5a27" stroke-width="2" stroke-linecap="round"/>
+  <!-- label -->
+</svg>

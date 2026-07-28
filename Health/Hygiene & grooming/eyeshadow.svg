@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Eye (large, centre) -->
+  <ellipse cx="42" cy="38" rx="20" ry="13" fill="white" stroke="#333" stroke-width="2.5"/>
+  <!-- Coloured eyeshadow lid -->
+  <path d="M22 38 Q42 22 62 38 Q42 32 22 38Z" fill="#9966cc" stroke="none"/>
+  <!-- Pupil -->
+  <circle cx="42" cy="40" r="6" fill="#2d1a0e"/>
+  <circle cx="42" cy="40" r="4" fill="#111"/>
+  <circle cx="44" cy="38" r="1.5" fill="white"/>
+  <!-- Lash line top -->
+  <path d="M22 38 Q42 24 62 38" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Lashes -->
+  <line x1="27" y1="34" x2="25" y2="29" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="34" y1="29" x2="33" y2="24" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="42" y1="27" x2="42" y2="22" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="29" x2="51" y2="24" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="57" y1="33" x2="59" y2="28" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Eyeshadow palette beside the eye -->
+  <rect x="62" y="50" width="30" height="22" rx="4" fill="#f0e8d8" stroke="#333" stroke-width="2"/>
+  <!-- Palette pans -->
+  <rect x="64" y="52" width="8" height="8" rx="2" fill="#9966cc"/>
+  <rect x="74" y="52" width="8" height="8" rx="2" fill="#cc88aa"/>
+  <rect x="64" y="62" width="8" height="8" rx="2" fill="#ffcc88"/>
+<!-- Applicator brush -->
+  <rect x="14" y="58" width="4" height="22" rx="2" fill="#c8a87a" stroke="#333" stroke-width="1.5"/>
+  <ellipse cx="16" cy="58" rx="6" ry="4" fill="#cc88cc" stroke="#333" stroke-width="1.5"/>
+</svg>

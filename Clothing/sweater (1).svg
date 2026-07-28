@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- sweater body -->
+  <path d="M28 38 L26 75 L74 75 L72 38 L62 28 L56 35 Q50 38 44 35 L38 28 Z" fill="#7fb3d3" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- sleeves -->
+  <path d="M28 38 L10 45 L12 62 L28 54 Z" fill="#7fb3d3" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M72 38 L90 45 L88 62 L72 54 Z" fill="#7fb3d3" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- V-neck or crew -->
+  <ellipse cx="50" cy="34" rx="10" ry="6" fill="#7fb3d3" stroke="#555" stroke-width="2"/>
+  <!-- cable knit pattern -->
+  <path d="M44 46 Q47 50 44 54 Q47 58 44 62" fill="none" stroke="#6aa0c0" stroke-width="1.5"/>
+  <path d="M50 46 Q53 50 50 54 Q53 58 50 62" fill="none" stroke="#6aa0c0" stroke-width="1.5"/>
+  <path d="M56 46 Q59 50 56 54 Q59 58 56 62" fill="none" stroke="#6aa0c0" stroke-width="1.5"/>
+  <!-- ribbed hem -->
+  <line x1="27" y1="70" x2="73" y2="70" stroke="#6aa0c0" stroke-width="2"/>
+  <!-- label -->
+</svg>

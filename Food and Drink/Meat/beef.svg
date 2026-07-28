@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-20.210 -21.582) scale(1.4056)">
+<!-- raw beef cut - rectangular piece with marbling -->
+  <rect x="18" y="28" width="64" height="46" rx="6" fill="#C62828" stroke="#7F0000" stroke-width="2.5"/>
+  <!-- fat marbling lines -->
+  <path d="M28 38 C34 35 40 42 46 38 C52 34 58 40 64 36" stroke="#FFCDD2" stroke-width="2" fill="none"/>
+  <path d="M22 52 C30 48 38 55 46 50 C54 45 62 52 70 48" stroke="#FFCDD2" stroke-width="2" fill="none"/>
+  <path d="M28 64 C36 60 44 66 52 62 C60 58 68 64 74 60" stroke="#FFCDD2" stroke-width="2" fill="none"/>
+  <!-- top fat strip -->
+  <rect x="18" y="28" width="64" height="10" rx="6" fill="#FFCDD2" stroke="#7F0000" stroke-width="2"/>
+</g>
+  </svg>

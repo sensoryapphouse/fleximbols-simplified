@@ -1,0 +1,36 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sky -->
+  <rect x="0" y="0" width="100" height="50" fill="#87ceeb"/>
+  <!-- Mountain ridgeline -->
+  <path d="M0,60 L10,45 L20,55 L30,35 L40,48 L50,30 L60,42 L70,28 L80,40 L90,35 L100,45 L100,100 L0,100 Z" fill="#8a9bb0"/>
+  <!-- Great Wall following mountain ridge -->
+  <!-- Wall base following terrain -->
+  <path d="M0,58 L10,43 L20,53 L30,33 L40,46 L50,28 L60,40 L70,26 L80,38 L90,33 L100,43" fill="none" stroke="#c4922a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wall top with battlements -->
+  <path d="M0,55 L10,40 L20,50 L30,30 L40,43 L50,25 L60,37 L70,23 L80,35 L90,30 L100,40" fill="none" stroke="#e8b860" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Watchtowers at peaks -->
+  <!-- Tower 1 -->
+  <rect x="27" y="24" width="8" height="10" rx="1" fill="#c4922a" stroke="#8b6914" stroke-width="1.5"/>
+  <rect x="25" y="20" width="12" height="5" rx="1" fill="#c4922a" stroke="#8b6914" stroke-width="1.5"/>
+  <line x1="27" y1="20" x2="27" y2="18" stroke="#8b6914" stroke-width="1"/>
+  <line x1="31" y1="20" x2="31" y2="18" stroke="#8b6914" stroke-width="1"/>
+  <line x1="35" y1="20" x2="35" y2="18" stroke="#8b6914" stroke-width="1"/>
+  <!-- Tower 2 -->
+  <rect x="48" y="18" width="8" height="10" rx="1" fill="#c4922a" stroke="#8b6914" stroke-width="1.5"/>
+  <rect x="46" y="14" width="12" height="5" rx="1" fill="#c4922a" stroke="#8b6914" stroke-width="1.5"/>
+  <line x1="48" y1="14" x2="48" y2="12" stroke="#8b6914" stroke-width="1"/>
+  <line x1="52" y1="14" x2="52" y2="12" stroke="#8b6914" stroke-width="1"/>
+  <line x1="56" y1="14" x2="56" y2="12" stroke="#8b6914" stroke-width="1"/>
+  <!-- Tower 3 -->
+  <rect x="68" y="16" width="8" height="10" rx="1" fill="#c4922a" stroke="#8b6914" stroke-width="1.5"/>
+  <rect x="66" y="12" width="12" height="5" rx="1" fill="#c4922a" stroke="#8b6914" stroke-width="1.5"/>
+  <line x1="68" y1="12" x2="68" y2="10" stroke="#8b6914" stroke-width="1"/>
+  <line x1="72" y1="12" x2="72" y2="10" stroke="#8b6914" stroke-width="1"/>
+  <line x1="76" y1="12" x2="76" y2="10" stroke="#8b6914" stroke-width="1"/>
+  <!-- Foreground hills/valley -->
+  <path d="M0,72 Q25,66 50,70 Q75,74 100,68 L100,100 L0,100 Z" fill="#4a7a30"/>
+  <!-- Chinese flag -->
+  <line x1="8" y1="22" x2="8" y2="8" stroke="#e74c3c" stroke-width="1.5"/>
+  <rect x="8" y="8" width="14" height="10" fill="#e74c3c"/>
+  <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="9" y="16" fill="#f0c040" font-size="7">★</text>
+</svg>

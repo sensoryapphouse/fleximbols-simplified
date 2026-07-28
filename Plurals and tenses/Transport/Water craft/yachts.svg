@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Water -->
+  <path d="M5,78 Q25,74 45,78 Q65,82 85,78 Q90,76 95,78" fill="none" stroke="#6ab0d8" stroke-width="2"/>
+  <!-- Sleek hull -->
+  <path d="M15,68 L85,64 Q88,72 82,76 L30,76 Q16,74 15,68 Z" fill="#e8e8e8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Hull stripe -->
+  <path d="M15,68 L85,64 L85,68 L15,72 Z" fill="#c04040" stroke="none"/>
+  <!-- Mast -->
+  <line x1="45" y1="18" x2="45" y2="65" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Main sail -->
+  <polygon points="45,20 45,62 82,62" fill="#f8f8f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Jib -->
+  <polygon points="45,26 45,56 20,60" fill="#d8e8f8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Boom -->
+  <line x1="45" y1="62" x2="80" y2="62" stroke="#555" stroke-width="2"/>
+  <!-- Cabin windows -->
+  <rect x="55" y="66" width="8" height="5" rx="1" fill="#b8d8f0" stroke="#333" stroke-width="1.5"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3570" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3570)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Drinking straw: bendy tube with diagonal stripes -->
+  <!-- Straw outline path (long vertical part, bend near top, short angled top) -->
+  <path d="M44 88 L44 40 Q44 30 52 26 L70 16"
+        fill="none" stroke="#cfcfcf" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M44 88 L44 40 Q44 30 52 26 L70 16"
+        fill="none" stroke="#f4f4ec" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Red diagonal stripes on lower straight section -->
+  <g stroke="#e23b2e" stroke-width="4">
+    <line x1="40" y1="84" x2="48" y2="78"/>
+    <line x1="40" y1="74" x2="48" y2="68"/>
+    <line x1="40" y1="64" x2="48" y2="58"/>
+    <line x1="40" y1="54" x2="48" y2="48"/>
+    <line x1="40" y1="44" x2="48" y2="38"/>
+  </g>
+  <!-- Bendy accordion ridges at the bend -->
+  <g stroke="#bdbdbd" stroke-width="1.6">
+    <path d="M40 38 Q44 36 48 36" fill="none"/>
+    <path d="M41 34 Q45 32 50 33" fill="none"/>
+    <path d="M44 30 Q48 28 53 30" fill="none"/>
+  </g>
+  <!-- Red stripes on the angled top -->
+  <g stroke="#e23b2e" stroke-width="4">
+    <line x1="53" y1="27" x2="60" y2="23"/>
+    <line x1="60" y1="22" x2="67" y2="18"/>
+  </g>
+</svg>

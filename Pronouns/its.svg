@@ -1,0 +1,25 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- "Its" = possession by a non-person (object/animal). Show animal pointing arrow to its bone/toy -->
+  <!-- Cat (it) -->
+  <ellipse cx="28" cy="55" rx="16" ry="13" fill="#c9a96e" stroke="#000" stroke-width="2.4"/>
+  <!-- Cat head -->
+  <circle cx="28" cy="38" r="10" fill="#c9a96e" stroke="#000" stroke-width="2.4"/>
+  <!-- Ears -->
+  <path d="M 20 32 L 18 22 L 26 30 Z" fill="#c9a96e" stroke="#000" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M 36 32 L 38 22 L 30 30 Z" fill="#c9a96e" stroke="#000" stroke-width="2.2" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <circle cx="24" cy="38" r="1.4" fill="#000"/>
+  <circle cx="32" cy="38" r="1.4" fill="#000"/>
+  <!-- Nose -->
+  <path d="M 27 41 L 29 41 L 28 43 Z" fill="#000"/>
+  <!-- Whiskers -->
+  <line x1="18" y1="42" x2="24" y2="42" stroke="#000" stroke-width="1.4"/>
+  <line x1="32" y1="42" x2="38" y2="42" stroke="#000" stroke-width="1.4"/>
+  <!-- Tail -->
+  <path d="M 42 58 Q 52 50 50 40" stroke="#000" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Possession arrow -->
+  <line x1="55" y1="55" x2="70" y2="55" stroke="#e05a2b" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="68,49 78,55 68,61" fill="#e05a2b" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Bone (its bone) -->
+  <path d="M 80 70 Q 76 66 80 64 Q 84 62 86 66 L 95 75 Q 99 77 96 81 Q 93 85 89 81 Z" fill="#f5f0e0" stroke="#000" stroke-width="2.2" stroke-linejoin="round"/>
+</svg>

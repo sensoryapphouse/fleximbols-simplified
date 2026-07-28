@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ground -->
+  <rect x="0" y="78" width="100" height="12" fill="#b8d4a0" stroke="#555" stroke-width="1"/>
+  <!-- Building -->
+  <rect x="12" y="38" width="76" height="40" fill="#e0e8f0" stroke="#444" stroke-width="2"/>
+  <!-- Flat roof with detail -->
+  <rect x="8" y="32" width="84" height="8" fill="#8898b0" stroke="#444" stroke-width="2"/>
+  <!-- "GYM" sign -->
+  <rect x="32" y="34" width="36" height="6" fill="#f0a020" stroke="#444" stroke-width="1"/>
+  
+  <!-- Door -->
+  <rect x="42" y="60" width="16" height="18" fill="#6080a8" stroke="#444" stroke-width="1.5"/>
+  <!-- Windows -->
+  <rect x="16" y="44" width="14" height="10" fill="#a0c8e8" stroke="#444" stroke-width="1.5"/>
+  <rect x="70" y="44" width="14" height="10" fill="#a0c8e8" stroke="#444" stroke-width="1.5"/>
+  <!-- Dumbbell -->
+  <rect x="25" y="57" width="4" height="12" fill="#555" stroke="#333" stroke-width="1" rx="1"/>
+  <rect x="22" y="57" width="4" height="4" fill="#888" stroke="#333" stroke-width="1" rx="1"/>
+  <rect x="22" y="65" width="4" height="4" fill="#888" stroke="#333" stroke-width="1" rx="1"/>
+  <rect x="29" y="57" width="4" height="4" fill="#888" stroke="#333" stroke-width="1" rx="1"/>
+  <rect x="29" y="65" width="4" height="4" fill="#888" stroke="#333" stroke-width="1" rx="1"/>
+  <!-- Second dumbbell -->
+  <rect x="67" y="57" width="4" height="12" fill="#555" stroke="#333" stroke-width="1" rx="1"/>
+  <rect x="64" y="57" width="4" height="4" fill="#888" stroke="#333" stroke-width="1" rx="1"/>
+  <rect x="64" y="65" width="4" height="4" fill="#888" stroke="#333" stroke-width="1" rx="1"/>
+  <rect x="71" y="57" width="4" height="4" fill="#888" stroke="#333" stroke-width="1" rx="1"/>
+  <rect x="71" y="65" width="4" height="4" fill="#888" stroke="#333" stroke-width="1" rx="1"/>
+  <!-- Label -->
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl781" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl781)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

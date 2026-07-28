@@ -1,0 +1,10 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-23.099 -15.454) scale(1.4634)">
+<!-- Water droplet -->
+  <path d="M38 20 Q26 38 26 52 Q26 68 38 72 Q50 76 62 72 Q74 68 74 52 Q74 38 62 20 Q50 8 38 20Z" fill="#aaccee" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Shine highlight -->
+  <ellipse cx="40" cy="42" rx="5" ry="8" fill="white" opacity="0.5" transform="rotate(-20,40,42)"/>
+  <!-- % sign -->
+  <text x="50" y="58" font-size="22" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold" text-anchor="middle" fill="#336699">%</text>
+</g>
+  </svg>

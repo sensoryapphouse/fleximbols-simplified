@@ -1,0 +1,13 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- compact open, slightly wide -->
+  <rect x="10" y="52" width="80" height="36" rx="8" fill="#c88040" stroke="#333" stroke-width="2.5"/>
+  <!-- bronzer powder - warm brown tones with shimmer rings -->
+  <ellipse cx="50" cy="70" rx="32" ry="12" fill="#d89850" stroke="#333" stroke-width="1.5"/>
+  <ellipse cx="50" cy="70" rx="22" ry="8" fill="none" stroke="#c88840" stroke-width="1"/>
+  <ellipse cx="50" cy="70" rx="12" ry="4" fill="none" stroke="#b87830" stroke-width="1"/>
+  <!-- lid propped open -->
+  <rect x="10" y="18" width="80" height="36" rx="8" fill="#b87030" stroke="#333" stroke-width="2.5"/>
+  <rect x="16" y="22" width="68" height="26" rx="4" fill="#d8e8f0" stroke="#333" stroke-width="1.5"/>
+  <!-- hinge -->
+  <rect x="38" y="50" width="24" height="4" rx="2" fill="#888" stroke="#333" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Ground -->
+  <rect x="5" y="72" width="90" height="23" rx="4" fill="#8b6340" stroke="#222" stroke-width="2"/>
+  <!-- Trees -->
+  <polygon points="22,72 32,40 42,72" fill="#5a9a40" stroke="#222" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="29" y="72" width="6" height="12" fill="#8b5020" stroke="#222" stroke-width="2"/>
+  <polygon points="55,72 65,38 75,72" fill="#4a8a30" stroke="#222" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="62" y="72" width="6" height="12" fill="#8b5020" stroke="#222" stroke-width="2"/>
+  <!-- Sun -->
+  <circle cx="82" cy="20" r="10" fill="#f0c040" stroke="#222" stroke-width="2"/>
+  <line x1="82" y1="6" x2="82" y2="2" stroke="#f0c040" stroke-width="2" stroke-linecap="round"/>
+  <line x1="92" y1="10" x2="95" y2="7" stroke="#f0c040" stroke-width="2" stroke-linecap="round"/>
+  <line x1="96" y1="20" x2="100" y2="20" stroke="#f0c040" stroke-width="2" stroke-linecap="round"/>
+  <!-- Bird -->
+  <path d="M 10 28 Q 15 22 20 28 Q 25 22 30 28" stroke="#222" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Small animal in grass -->
+  <ellipse cx="50" cy="78" rx="8" ry="5" fill="#d4b896" stroke="#222" stroke-width="2"/>
+  <circle cx="57" cy="73" r="4" fill="#d4b896" stroke="#222" stroke-width="2"/>
+</svg>

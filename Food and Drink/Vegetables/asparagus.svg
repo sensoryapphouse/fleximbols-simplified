@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- three asparagus spears -->
+  <!-- left spear -->
+  <rect x="32" y="22" width="8" height="55" rx="4" fill="#66BB6A" stroke="#2E7D32" stroke-width="2"/>
+  <path d="M36 22 C32 18 28 12 36 8 C44 12 40 18 36 22Z" fill="#4CAF50" stroke="#2E7D32" stroke-width="1.5"/>
+  <!-- scale marks -->
+  <path d="M32 32 C30 30 30 26 34 27" fill="#4CAF50" stroke="#2E7D32" stroke-width="1"/>
+  <path d="M32 44 C30 42 30 38 34 39" fill="#4CAF50" stroke="#2E7D32" stroke-width="1"/>
+  <!-- middle spear -->
+  <rect x="45" y="16" width="8" height="61" rx="4" fill="#4CAF50" stroke="#2E7D32" stroke-width="2"/>
+  <path d="M49 16 C45 12 41 6 49 2 C57 6 53 12 49 16Z" fill="#388E3C" stroke="#2E7D32" stroke-width="1.5"/>
+  <path d="M45 28 C43 26 43 22 47 23" fill="#388E3C" stroke="#2E7D32" stroke-width="1"/>
+  <path d="M45 40 C43 38 43 34 47 35" fill="#388E3C" stroke="#2E7D32" stroke-width="1"/>
+  <!-- right spear -->
+  <rect x="58" y="24" width="8" height="53" rx="4" fill="#66BB6A" stroke="#2E7D32" stroke-width="2"/>
+  <path d="M62 24 C58 20 54 14 62 10 C70 14 66 20 62 24Z" fill="#4CAF50" stroke="#2E7D32" stroke-width="1.5"/>
+  <path d="M58 34 C56 32 56 28 60 29" fill="#4CAF50" stroke="#2E7D32" stroke-width="1"/>
+  <path d="M58 46 C56 44 56 40 60 41" fill="#4CAF50" stroke="#2E7D32" stroke-width="1"/>
+  <!-- base tie -->
+  <rect x="30" y="72" width="38" height="6" rx="2" fill="#A5D6A7" stroke="#2E7D32" stroke-width="1.5"/>
+</svg>

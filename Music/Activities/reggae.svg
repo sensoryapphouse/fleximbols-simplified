@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Rasta guitar (acoustic) -->
+  <ellipse cx="58" cy="65" rx="18" ry="22" fill="#c19a6b" stroke="#333" stroke-width="2.5"/>
+  <ellipse cx="58" cy="52" rx="13" ry="14" fill="#d4a853" stroke="#333" stroke-width="2"/>
+  <!-- Soundhole -->
+  <circle cx="58" cy="58" r="6" fill="#333"/>
+  <!-- Jamaican colour stripe on body (green, gold, black) -->
+  <clipPath id="reggaeBody">
+    <ellipse cx="58" cy="65" rx="18" ry="22"/>
+  </clipPath>
+  <rect x="40" y="60" width="36" height="5" fill="#009b3a" clip-path="url(#reggaeBody)"/>
+  <rect x="40" y="65" width="36" height="5" fill="#fdb913" clip-path="url(#reggaeBody)"/>
+  <rect x="40" y="70" width="36" height="5" fill="#222" clip-path="url(#reggaeBody)"/>
+  <!-- Guitar neck -->
+  <rect x="51" y="18" width="7" height="36" rx="2" fill="#795548" stroke="#333" stroke-width="2"/>
+  <rect x="49" y="10" width="11" height="10" rx="2" fill="#795548" stroke="#333" stroke-width="2"/>
+  <!-- Strings -->
+  <line x1="53" y1="20" x2="53" y2="52" stroke="#aaa" stroke-width="1"/>
+  <line x1="55" y1="20" x2="55" y2="52" stroke="#aaa" stroke-width="1"/>
+  <line x1="57" y1="20" x2="57" y2="52" stroke="#aaa" stroke-width="1"/>
+  <!-- Rasta colours hat suggestion -->
+  <path d="M20 30 Q28 20 36 30 Q38 38 28 40 Q18 38 20 30 Z" fill="#009b3a" stroke="#333" stroke-width="1.5"/>
+  <rect x="18" y="38" width="22" height="5" rx="1" fill="#fdb913" stroke="#333" stroke-width="1.5"/>
+</svg>

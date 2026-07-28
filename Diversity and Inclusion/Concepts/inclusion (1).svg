@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Large inclusive circle -->
+  <circle cx="50" cy="50" r="36" fill="#eef8ee" stroke="#4a8a4a" stroke-width="2.5"/>
+  <!-- Figures inside the circle -->
+  <!-- Figure 1 -->
+  <circle cx="32" cy="40" r="6" fill="#6699cc" stroke="#444" stroke-width="1.5"/>
+  <rect x="27" y="47" width="10" height="12" rx="3" fill="#6699cc" stroke="#444" stroke-width="1.5"/>
+  <!-- Figure 2 -->
+  <circle cx="50" cy="36" r="7" fill="#f0a050" stroke="#444" stroke-width="1.5"/>
+  <rect x="44" y="44" width="12" height="14" rx="3" fill="#f0a050" stroke="#444" stroke-width="1.5"/>
+  <!-- Figure 3 -->
+  <circle cx="68" cy="40" r="6" fill="#a888cc" stroke="#444" stroke-width="1.5"/>
+  <rect x="63" y="47" width="10" height="12" rx="3" fill="#a888cc" stroke="#444" stroke-width="1.5"/>
+  <!-- Figure 4 (bottom, wheelchair or small) coming in -->
+  <circle cx="38" cy="62" r="5" fill="#e8a8c8" stroke="#444" stroke-width="1.5"/>
+  <rect x="34" y="68" width="8" height="8" rx="3" fill="#e8a8c8" stroke="#444" stroke-width="1.5"/>
+  <!-- Linking hands -->
+  <line x1="37" y1="52" x2="44" y2="49" stroke="#444" stroke-width="2" stroke-linecap="round"/>
+  <line x1="56" y1="49" x2="63" y2="52" stroke="#444" stroke-width="2" stroke-linecap="round"/>
+  <!-- Arrow showing someone being welcomed in from outside -->
+  <circle cx="74" cy="68" r="5" fill="#7ab648" stroke="#444" stroke-width="1.5"/>
+  <!-- Arrow pointing inward -->
+  <line x1="75" y1="62" x2="68" y2="56" stroke="#4a8a4a" stroke-width="2" stroke-linecap="round"/>
+  <polyline points="68,56 68,62 74,58" fill="none" stroke="#4a8a4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- "+" sign showing there's space -->
+  <text x="50" y="76" font-size="14" text-anchor="middle" fill="#4a8a4a" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold">+</text>
+</svg>

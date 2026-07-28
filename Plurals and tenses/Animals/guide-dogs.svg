@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,7.220) scale(0.9278)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.893 -18.630) scale(1.1881)">
+<!-- dog body -->
+<ellipse cx="55" cy="60" rx="25" ry="15" fill="#c8a870" stroke="#886644" stroke-width="2.5"/>
+<!-- dog head -->
+<circle cx="76" cy="52" r="12" fill="#c8a870" stroke="#886644" stroke-width="2"/>
+<!-- ear -->
+<ellipse cx="82" cy="45" rx="5" ry="8" fill="#b89050" stroke="#886644" stroke-width="1.5"/>
+<!-- eye -->
+<circle cx="80" cy="50" r="2" fill="#333"/>
+<!-- nose -->
+<circle cx="85" cy="54" r="2" fill="#333"/>
+<!-- harness -->
+<rect x="34" y="52" width="36" height="8" rx="3" fill="#cc4400" stroke="#882200" stroke-width="2"/>
+<line x1="50" y1="52" x2="50" y2="46" stroke="#cc4400" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="40" y1="52" x2="40" y2="46" stroke="#cc4400" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="60" y1="52" x2="60" y2="46" stroke="#cc4400" stroke-width="1.5" stroke-linecap="round"/>
+<!-- legs -->
+<line x1="40" y1="74" x2="38" y2="84" stroke="#886644" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="50" y1="74" x2="50" y2="84" stroke="#886644" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="62" y1="74" x2="64" y2="84" stroke="#886644" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="70" y1="70" x2="72" y2="82" stroke="#886644" stroke-width="2.5" stroke-linecap="round"/>
+<!-- leash handle to person hand -->
+<line x1="50" y1="44" x2="28" y2="36" stroke="#886644" stroke-width="2" stroke-linecap="round"/>
+<circle cx="25" cy="34" r="4" fill="#f5e8c8" stroke="#664422" stroke-width="1.5"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl477" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl477)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

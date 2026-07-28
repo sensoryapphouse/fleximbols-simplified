@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-24.927 -19.141) scale(1.5000)">
+<!-- plastic bottle -->
+  <!-- cap -->
+  <rect x="38" y="16" width="24" height="10" rx="4" fill="#e05c8a" stroke="#b03060" stroke-width="2"/>
+  <!-- neck -->
+  <rect x="42" y="25" width="16" height="8" rx="2" fill="#7aaad4" stroke="#2060a0" stroke-width="2"/>
+  <!-- body -->
+  <path d="M32,33 Q28,38 28,55 Q28,72 32,76 L68,76 Q72,72 72,55 Q72,38 68,33Z" fill="#7aaad4" stroke="#2060a0" stroke-width="2.5"/>
+  <!-- label on bottle -->
+<!-- bottle highlight -->
+  <line x1="35" y1="35" x2="35" y2="72" stroke="white" stroke-width="3" opacity="0.5"/>
+  <!-- liquid inside -->
+  <path d="M30,62 Q50,58 70,62 L70,74 Q50,70 30,74Z" fill="#4a90d9" stroke="none" opacity="0.6"/>
+  <!-- recycling symbol on label -->
+  <path d="M46,52 A6,6 0 0,1 54,52" fill="none" stroke="#5bba5b" stroke-width="1.5"/>
+  <polygon points="54,52 50,48 50,56" fill="#5bba5b"/>
+  <path d="M54,56 A6,6 0 0,1 46,56" fill="none" stroke="#5bba5b" stroke-width="1.5"/>
+  <polygon points="46,56 50,60 50,52" fill="#5bba5b"/>
+</g>
+  </svg>

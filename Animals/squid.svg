@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Squid: torpedo mantle, tail fin, tentacles -->
+  <!-- Mantle: elongated tapered -->
+  <path d="M50,15 Q68,18 72,40 Q70,55 50,62 Q30,55 28,40 Q32,18 50,15 Z" fill="#a888b0" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Tail fin: two triangular lobes at top -->
+  <path d="M50,15 L40,4 L44,18" fill="#9878a0" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M50,15 L60,4 L56,18" fill="#9878a0" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Chromatophores: dark spots -->
+  <circle cx="44" cy="28" r="2.5" fill="#6a4870"/>
+  <circle cx="56" cy="28" r="2.5" fill="#6a4870"/>
+  <circle cx="50" cy="22" r="2" fill="#6a4870"/>
+  <circle cx="42" cy="38" r="2" fill="#6a4870"/>
+  <circle cx="58" cy="38" r="2" fill="#6a4870"/>
+  <circle cx="50" cy="46" r="2.5" fill="#6a4870"/>
+  <!-- Head: visible just below mantle -->
+  <ellipse cx="50" cy="62" rx="14" ry="10" fill="#a888b0" stroke="#555" stroke-width="2"/>
+  <!-- Eyes: large with W-pupil -->
+  <ellipse cx="42" cy="60" rx="5" ry="4.5" fill="#f0d840" stroke="#555" stroke-width="1.5"/>
+  <path d="M39,59 Q42,62 45,59" stroke="#222" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <ellipse cx="58" cy="60" rx="5" ry="4.5" fill="#f0d840" stroke="#555" stroke-width="1.5"/>
+  <path d="M55,59 Q58,62 61,59" stroke="#222" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- 8 arms: shorter -->
+  <path d="M50,70 Q44,76 40,84" stroke="#9878a0" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M50,70 Q48,78 46,86" stroke="#9878a0" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M50,70 Q52,78 54,86" stroke="#9878a0" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M50,70 Q56,76 60,84" stroke="#9878a0" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M50,70 Q42,74 36,80" stroke="#8878a0" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M50,70 Q58,74 64,80" stroke="#8878a0" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- 2 long tentacles -->
+  <path d="M50,70 Q38,80 34,92" stroke="#7868a0" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <ellipse cx="34" cy="92" rx="3" ry="2" fill="#9878a0" stroke="#555" stroke-width="1"/>
+  <path d="M50,70 Q62,80 66,92" stroke="#7868a0" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <ellipse cx="66" cy="92" rx="3" ry="2" fill="#9878a0" stroke="#555" stroke-width="1"/>
+  <!-- Siphon -->
+  <path d="M48,65 Q44,70 44,76" stroke="#7858a0" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>

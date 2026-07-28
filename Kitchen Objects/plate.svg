@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Plate outer rim -->
+  <circle cx="50" cy="52" r="38" fill="#f0ece4" stroke="#555" stroke-width="2.5"/>
+  <!-- Plate inner well -->
+  <circle cx="50" cy="52" r="28" fill="#e8e4dc" stroke="#aaa" stroke-width="1.5"/>
+  <!-- Plate inner center -->
+  <circle cx="50" cy="52" r="18" fill="#f0ece4" stroke="#ccc" stroke-width="1"/>
+</svg>

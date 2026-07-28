@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<path d="M24,38 L24,28 Q24,20 32,20 L68,20" fill="none" stroke="#1da1f2" stroke-width="3" stroke-linecap="round"/>
+  <polyline points="60,12 68,20 60,28" fill="none" stroke="#1da1f2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M76,62 L76,72 Q76,80 68,80 L32,80" fill="none" stroke="#1da1f2" stroke-width="3" stroke-linecap="round"/>
+  <polyline points="40,88 32,80 40,72" fill="none" stroke="#1da1f2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="50" y1="25" x2="50" y2="75" stroke="#1da1f2" stroke-width="1.5" stroke-dasharray="3,2"/>
+</svg>

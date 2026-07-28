@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-27.973 -33.155) scale(1.5610)">
+<!-- Glass -->
+  <path d="M30 25 L32 80 Q50 84 68 80 L70 25Z" fill="#f8f5f0" stroke="#8b7355" stroke-width="2.5"/>
+  <!-- Creamy white kefir -->
+  <path d="M32 30 L32 80 Q50 84 68 80 L68 30Z" fill="#f0ece4" stroke="none"/>
+  <!-- Creamy texture swirls -->
+  <path d="M35 45 Q50 38 65 45" fill="none" stroke="#e8e0d4" stroke-width="2" stroke-linecap="round"/>
+  <path d="M33 55 Q50 48 67 55" fill="none" stroke="#e0d8cc" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M34 65 Q50 58 66 65" fill="none" stroke="#e8e0d4" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Tiny bubbles (probiotic/fizzy) -->
+  <circle cx="40" cy="40" r="2" fill="none" stroke="#d0c8bc" stroke-width="1"/>
+  <circle cx="58" cy="38" r="1.5" fill="none" stroke="#d0c8bc" stroke-width="1"/>
+  <circle cx="50" cy="50" r="2" fill="none" stroke="#d0c8bc" stroke-width="1"/>
+  <!-- Thick top foam -->
+  <ellipse cx="50" cy="30" rx="18" ry="4" fill="#f8f6f2" stroke="#e0d8cc" stroke-width="1"/>
+</g>
+  </svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Body - torpedo shape -->
+  <ellipse cx="50" cy="58" rx="40" ry="16" fill="#7090a0" stroke="#2a4050" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- White belly -->
+  <ellipse cx="50" cy="64" rx="30" ry="8" fill="#e8eef0" stroke="none"/>
+  <!-- Pointed head/snout -->
+  <path d="M10 58 Q5 54 8 50" stroke="#2a4050" stroke-width="2" fill="none"/>
+  <!-- Jaw with teeth -->
+  <path d="M10 58 Q16 64 26 64 Q16 62 10 58" fill="#e8eef0" stroke="#2a4050" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Teeth -->
+  <polygon points="12,60 14,64 16,60" fill="white" stroke="#2a4050" stroke-width="1"/>
+  <polygon points="16,61 18,65 20,61" fill="white" stroke="#2a4050" stroke-width="1"/>
+  <polygon points="20,62 22,65 24,62" fill="white" stroke="#2a4050" stroke-width="1"/>
+  <!-- Eye - small black -->
+  <circle cx="16" cy="54" r="3" fill="#111111"/>
+  <!-- Dorsal fin - iconic tall -->
+  <path d="M46 42 Q50 26 56 42" fill="#5a7888" stroke="#2a4050" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Pectoral fins -->
+  <path d="M36 58 Q30 72 22 76 Q32 68 36 58" fill="#607888" stroke="#2a4050" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M36 60 Q30 50 22 46 Q32 54 36 60" fill="#607888" stroke="#2a4050" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Tail fin - crescent -->
+  <path d="M88 58 Q96 46 94 54 M88 58 Q96 70 94 62 M88 58 L82 58" fill="#5a7888" stroke="#2a4050" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Label -->
+</svg>

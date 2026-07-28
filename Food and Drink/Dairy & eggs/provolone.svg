@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- String/rope at top -->
+  <line x1="50" y1="10" x2="50" y2="22" stroke="#8b6914" stroke-width="3" stroke-linecap="round"/>
+  <!-- Knot -->
+  <circle cx="50" cy="24" r="4" fill="#8b6914" stroke="#6b4a0a" stroke-width="1.5"/>
+  <!-- Pear-shaped hanging cheese body -->
+  <path d="M50 28 Q30 30 26 50 Q24 65 34 72 Q42 78 50 78 Q58 78 66 72 Q76 65 74 50 Q70 30 50 28Z" fill="#e8c87a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Surface sheen lines -->
+  <path d="M36 40 Q50 36 64 40" fill="none" stroke="#d4a850" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M32 52 Q50 46 68 52" fill="none" stroke="#d4a850" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M34 63 Q50 57 66 63" fill="none" stroke="#d4a850" stroke-width="1" stroke-linecap="round"/>
+</svg>

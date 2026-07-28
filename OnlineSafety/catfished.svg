@@ -1,0 +1,25 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Fish body (catfish) -->
+  <ellipse cx="32" cy="65" rx="18" ry="10" fill="#c8e6fa" stroke="#333" stroke-width="2.5"/>
+  <polygon points="14,65 5,57 5,73" fill="#c8e6fa" stroke="#333" stroke-width="2"/>
+  <circle cx="42" cy="62" r="2.5" fill="#fff" stroke="#333" stroke-width="1.5"/>
+  <circle cx="42" cy="62" r="1" fill="#333"/>
+  <line x1="49" y1="63" x2="57" y2="61" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="49" y1="66" x2="57" y2="68" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Person shocked (right side) -->
+  <circle cx="75" cy="25" r="11" fill="#f5c5a0" stroke="#333" stroke-width="2.5"/>
+  <!-- Shock eyes wide -->
+  <circle cx="71" cy="24" r="2.5" fill="#fff" stroke="#333" stroke-width="1.5"/>
+  <circle cx="79" cy="24" r="2.5" fill="#fff" stroke="#333" stroke-width="1.5"/>
+  <circle cx="71" cy="24" r="1" fill="#333"/>
+  <circle cx="79" cy="24" r="1" fill="#333"/>
+  <!-- Open mouth shock -->
+  <ellipse cx="75" cy="30" rx="3" ry="2" fill="#c05050" stroke="#333" stroke-width="1.5"/>
+  <!-- Body -->
+  <path d="M64,55 Q64,38 75,38 Q86,38 86,55 Z" fill="#fadcc8" stroke="#333" stroke-width="2"/>
+  <!-- Hook connecting person to fish -->
+  <path d="M50,58 Q55,48 64,48" fill="none" stroke="#888" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Exclamation marks -->
+  <line x1="50" y1="10" x2="50" y2="22" stroke="#e05050" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="50" cy="26" r="2" fill="#e05050"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Teva: sport sandal with distinctive cross-strap webbing pattern -->
+  <!-- Thick EVA midsole -->
+  <path d="M8 60 Q12 53 24 51 Q45 47 72 51 Q84 54 90 61 L90 70 Q84 77 72 78 Q45 82 24 78 Q12 74 8 68 Z" fill="#888" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Footbed -->
+  <path d="M8 60 Q12 53 24 51 Q45 47 72 51 Q84 54 90 61 Q84 64 72 65 Q45 68 24 65 Q12 63 8 60 Z" fill="#b0a090" stroke="#333" stroke-width="2"/>
+  <!-- Toe loop -->
+  <path d="M40 54 Q45 47 50 45 Q55 47 60 54" fill="none" stroke="#2980b9" stroke-width="5" stroke-linecap="round"/>
+  <!-- Cross strap (distinctive Teva X pattern) -->
+  <path d="M15 57 Q35 50 55 57 Q70 50 85 57" fill="none" stroke="#2980b9" stroke-width="5" stroke-linecap="round"/>
+  <!-- Arch strap going over top -->
+  <path d="M20 60 Q28 53 36 54" fill="none" stroke="#2980b9" stroke-width="4" stroke-linecap="round"/>
+  <path d="M60 54 Q68 53 76 60" fill="none" stroke="#2980b9" stroke-width="4" stroke-linecap="round"/>
+  <!-- Heel strap -->
+  <path d="M84 61 Q92 56 92 50" fill="none" stroke="#2980b9" stroke-width="4" stroke-linecap="round"/>
+  <!-- Velcro adjustment tab -->
+  <rect x="74" y="50" width="10" height="7" rx="1" fill="#e8e8e8" stroke="#333" stroke-width="1.5"/>
+  <!-- Sole tread ridges -->
+  <line x1="20" y1="71" x2="78" y2="70" stroke="#666" stroke-width="2" stroke-linecap="round"/>
+  <line x1="20" y1="75" x2="78" y2="74" stroke="#666" stroke-width="2" stroke-linecap="round"/>
+</svg>

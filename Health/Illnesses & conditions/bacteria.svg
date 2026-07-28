@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-5.122 -4.308) scale(1.1111)">
+<!-- Main bacteria body (oval) -->
+  <ellipse cx="50" cy="48" rx="20" ry="12" fill="#a8d8a8" stroke="#2d6a2d" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Flagella (wavy lines) -->
+  <path d="M70,45 Q80,40 78,35 Q76,30 82,27" fill="none" stroke="#2d6a2d" stroke-width="2" stroke-linecap="round"/>
+  <path d="M70,51 Q80,55 78,62 Q76,68 82,70" fill="none" stroke="#2d6a2d" stroke-width="2" stroke-linecap="round"/>
+  <path d="M30,45 Q20,38 22,32 Q24,26 18,23" fill="none" stroke="#2d6a2d" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cell wall detail dots -->
+  <circle cx="42" cy="46" r="2" fill="#2d6a2d" opacity="0.5"/>
+  <circle cx="50" cy="44" r="2" fill="#2d6a2d" opacity="0.5"/>
+  <circle cx="58" cy="46" r="2" fill="#2d6a2d" opacity="0.5"/>
+  <!-- Small bacteria -->
+  <ellipse cx="25" cy="70" rx="8" ry="5" fill="#a8d8a8" stroke="#2d6a2d" stroke-width="1.5"/>
+  <path d="M33,68 Q38,65 37,62" fill="none" stroke="#2d6a2d" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+  </svg>

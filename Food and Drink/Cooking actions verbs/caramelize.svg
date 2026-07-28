@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Saucepan/skillet -->
+  <path d="M16 52 L20 86 L80 86 L84 52 Z" fill="#c8a870" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="12" y="46" width="76" height="8" rx="3" fill="#b09050" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Handle -->
+  <rect x="88" y="48" width="10" height="6" rx="3" fill="#8b4513" stroke="#333" stroke-width="2"/>
+  <!-- Sugar crystals (white) at top of pan being added -->
+<!-- Sugar granules (dots) -->
+  <circle cx="36" cy="32" r="1.5" fill="#f0f0f0"/>
+  <circle cx="42" cy="31" r="1.5" fill="#f0f0f0"/>
+  <circle cx="48" cy="32" r="1.5" fill="#f0f0f0"/>
+  <circle cx="54" cy="31" r="1.5" fill="#f0f0f0"/>
+  <circle cx="60" cy="32" r="1.5" fill="#f0f0f0"/>
+  <!-- Arrow down (sugar going into pan) -->
+  <line x1="50" y1="36" x2="50" y2="46" stroke="#333" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,2"/>
+  <!-- Caramelized sugar layers in pan (gradient from white to amber to dark brown) -->
+  <!-- Bottom dark brown layer -->
+  <path d="M20 75 L20 84 L80 84 L80 75 Z" fill="#5c2d00"/>
+  <!-- Middle amber layer -->
+  <path d="M20 65 L20 75 L80 75 L80 65 Z" fill="#c8840a"/>
+  <!-- Top golden layer -->
+  <path d="M20 56 L20 65 L80 65 L80 56 Q60 58 50 58 Q38 58 20 56 Z" fill="#f5c840"/>
+  <!-- Bubbling caramel -->
+  <circle cx="32" cy="68" r="4" fill="none" stroke="#e8940a" stroke-width="2"/>
+  <circle cx="50" cy="65" r="5" fill="none" stroke="#e8940a" stroke-width="2"/>
+  <circle cx="68" cy="68" r="4" fill="none" stroke="#e8940a" stroke-width="2"/>
+  <!-- Steam with sweet caramel smell indication -->
+  <path d="M32 46 Q30 38 32 30" fill="none" stroke="#c8a060" stroke-width="2" stroke-linecap="round"/>
+  <path d="M50 46 Q48 38 50 30" fill="none" stroke="#c8a060" stroke-width="2" stroke-linecap="round"/>
+  <path d="M68 46 Q66 38 68 30" fill="none" stroke="#c8a060" stroke-width="2" stroke-linecap="round"/>
+</svg>

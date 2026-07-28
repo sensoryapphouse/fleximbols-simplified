@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Hourglass outer shape -->
+  <path d="M26,14 L74,14 L74,18 L56,48 L74,78 L74,82 L26,82 L26,78 L44,48 L26,18 Z" fill="#fdebd0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Sand top (empty - time running) -->
+  <polygon points="30,18 70,18 56,44 44,44" fill="#f0c080" stroke="none"/>
+  <!-- Sand bottom pile -->
+  <polygon points="44,52 56,52 68,78 32,78" fill="#f0c080" stroke="none"/>
+  <!-- Middle divider lines -->
+  <line x1="26" y1="14" x2="74" y2="14" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="26" y1="82" x2="74" y2="82" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

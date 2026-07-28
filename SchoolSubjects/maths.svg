@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="8" y="10" width="84" height="80" rx="6" fill="#fffacd" stroke="#222" stroke-width="2.5"/>
+  <text x="25" y="42" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#d01424">+</text>
+  <text x="55" y="42" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1860c0">-</text>
+  <text x="80" y="42" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1a8a3a">x</text>
+  <text x="25" y="80" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#e08010">÷</text>
+  <text x="55" y="80" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#7c3fac">=</text>
+  <text x="80" y="80" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#c01080">%</text>
+</svg>

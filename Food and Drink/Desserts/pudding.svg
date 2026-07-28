@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-12.439 -26.782) scale(1.2500)">
+<!-- bowl -->
+  <path d="M 18 52 Q 18 80 50 80 Q 82 80 82 52 Z" fill="#e8d4b0" stroke="#888" stroke-width="2.5"/>
+  <ellipse cx="50" cy="52" rx="32" ry="9" fill="#dcc89a" stroke="#888" stroke-width="2"/>
+  <!-- pudding smooth surface -->
+  <ellipse cx="50" cy="52" rx="27" ry="7" fill="#d4a84a"/>
+  <!-- caramel drizzle on top -->
+  <path d="M 36 48 Q 44 42 56 46 Q 64 50 70 46" fill="none" stroke="#c08820" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- steam -->
+  <path d="M 42 40 Q 40 32 42 25" fill="none" stroke="#bbb" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 58 40 Q 56 32 58 25" fill="none" stroke="#bbb" stroke-width="2" stroke-linecap="round"/>
+</g>
+  </svg>

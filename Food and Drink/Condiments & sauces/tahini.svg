@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(4.761 -8.815) scale(0.9057)">
+<!-- small bowl of tahini (sesame paste) -->
+<ellipse cx="50" cy="65" rx="32" ry="12" fill="#f0f0f0" stroke="#cccccc" stroke-width="2"/>
+<ellipse cx="50" cy="63" rx="30" ry="10" fill="#eeddbb" stroke="#cc9966" stroke-width="2"/>
+<!-- tahini surface (pale creamy) -->
+<ellipse cx="50" cy="61" rx="26" ry="8" fill="#e8cc99" stroke="none"/>
+<!-- drizzle swirl -->
+<path d="M44,60 Q50,55 56,60 Q52,65 44,60 Z" fill="#ddbb77" stroke="#bb9944" stroke-width="1"/>
+<!-- sesame seeds scattered -->
+<circle cx="36" cy="58" r="2" fill="#ccbb88"/>
+<circle cx="42" cy="55" r="2" fill="#ccbb88"/>
+<circle cx="50" cy="56" r="2" fill="#ccbb88"/>
+<circle cx="58" cy="55" r="2" fill="#ccbb88"/>
+<circle cx="64" cy="58" r="2" fill="#ccbb88"/>
+<!-- drizzle bottle above -->
+<rect x="44" y="18" width="12" height="32" rx="5" fill="#eecc88" stroke="#cc9944" stroke-width="2"/>
+<rect x="47" y="14" width="6" height="8" rx="3" fill="#cc9944" stroke="#886622" stroke-width="1.5"/>
+<!-- drizzle line -->
+<path d="M50" fill="none"/>
+<line x1="50" y1="50" x2="50" y2="56" stroke="#ddbb77" stroke-width="2" stroke-linecap="round"/>
+</g>
+  </svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Handle at top -->
+  <path d="M38 16 Q38 8 50 8 Q62 8 62 16" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <!-- Suitcase body -->
+  <rect x="12" y="16" width="76" height="60" rx="6" fill="#c8a060" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Middle divider / zip line -->
+  <line x1="12" y1="46" x2="88" y2="46" stroke="#333" stroke-width="2"/>
+  <!-- Zip pull -->
+  <circle cx="14" cy="46" r="3" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <!-- Corner reinforcements -->
+  <rect x="12" y="16" width="10" height="10" rx="3" fill="#a87840" stroke="#333" stroke-width="1.5"/>
+  <rect x="78" y="16" width="10" height="10" rx="3" fill="#a87840" stroke="#333" stroke-width="1.5"/>
+  <rect x="12" y="66" width="10" height="10" rx="3" fill="#a87840" stroke="#333" stroke-width="1.5"/>
+  <rect x="78" y="66" width="10" height="10" rx="3" fill="#a87840" stroke="#333" stroke-width="1.5"/>
+  <!-- Wheels -->
+  <circle cx="26" cy="80" r="5" fill="#333" stroke="#333" stroke-width="1.5"/>
+  <circle cx="74" cy="80" r="5" fill="#333" stroke="#333" stroke-width="1.5"/>
+  <!-- Telescopic handle -->
+  <line x1="36" y1="16" x2="36" y2="6" stroke="#888" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="64" y1="16" x2="64" y2="6" stroke="#888" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Map outline -->
+  <rect x="8" y="18" width="84" height="55" rx="5" fill="#d0e8a0" stroke="#333" stroke-width="2.5"/>
+  <!-- Map features -->
+  <path d="M 8 38 Q 30 33 50 40 Q 70 46 92 38" fill="none" stroke="#87ceeb" stroke-width="3" stroke-linecap="round"/>
+  <!-- Heart pin 1 (left) -->
+  <path d="M 20 44 Q 20 38 26 41 Q 32 38 32 44 Q 32 50 26 54 Q 20 50 20 44 Z" fill="#e74c3c" stroke="#333" stroke-width="1.5"/>
+  <line x1="26" y1="54" x2="26" y2="60" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Heart pin 2 (right) -->
+  <path d="M 62 38 Q 62 32 68 35 Q 74 32 74 38 Q 74 44 68 48 Q 62 44 62 38 Z" fill="#e74c3c" stroke="#333" stroke-width="1.5"/>
+  <line x1="68" y1="48" x2="68" y2="54" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Dotted line connecting hearts -->
+  <line x1="26" y1="48" x2="62" y2="42" stroke="#e74c3c" stroke-width="2" stroke-dasharray="4,3" stroke-linecap="round"/>
+  <!-- LDR text label in box -->
+  <rect x="35" y="62" width="30" height="14" rx="3" fill="#333"/>
+  
+</svg>

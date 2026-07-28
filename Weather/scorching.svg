@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-6.213 1.637) scale(1.1243)">
+<!-- Intense sun -->
+  <circle cx="50" cy="35" r="16" fill="#ffd166" stroke="#e63946" stroke-width="2.5"/>
+  <!-- Many bold rays -->
+  <line x1="50" y1="12" x2="50" y2="18" stroke="#e63946" stroke-width="3" stroke-linecap="round"/>
+  <line x1="50" y1="52" x2="50" y2="58" stroke="#e63946" stroke-width="3" stroke-linecap="round"/>
+  <line x1="27" y1="35" x2="33" y2="35" stroke="#e63946" stroke-width="3" stroke-linecap="round"/>
+  <line x1="67" y1="35" x2="73" y2="35" stroke="#e63946" stroke-width="3" stroke-linecap="round"/>
+  <line x1="33" y1="19" x2="37" y2="23" stroke="#e63946" stroke-width="3" stroke-linecap="round"/>
+  <line x1="63" y1="47" x2="67" y2="51" stroke="#e63946" stroke-width="3" stroke-linecap="round"/>
+  <line x1="67" y1="19" x2="63" y2="23" stroke="#e63946" stroke-width="3" stroke-linecap="round"/>
+  <line x1="37" y1="47" x2="33" y2="51" stroke="#e63946" stroke-width="3" stroke-linecap="round"/>
+  <!-- Heat shimmer waves -->
+  <path d="M18 65 Q26 60 34 65 Q42 70 50 65 Q58 60 66 65 Q74 70 82 65" fill="none" stroke="#f4a261" stroke-width="2" stroke-linecap="round"/>
+  <path d="M18 72 Q26 67 34 72 Q42 77 50 72 Q58 67 66 72 Q74 77 82 72" fill="none" stroke="#f4a261" stroke-width="2" stroke-linecap="round"/>
+</g>
+  </svg>

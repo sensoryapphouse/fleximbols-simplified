@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Main speech bubble -->
+  <path d="M10 20 Q10 12 18 12 L82 12 Q90 12 90 20 L90 56 Q90 64 82 64 L36 64 L22 78 L26 64 L18 64 Q10 64 10 56 Z"
+        fill="#d0e8f8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Dots inside bubble (typing indicator) -->
+  <circle cx="34" cy="38" r="5" fill="#5a8ab0" stroke="#333" stroke-width="1.5"/>
+  <circle cx="50" cy="38" r="5" fill="#5a8ab0" stroke="#333" stroke-width="1.5"/>
+  <circle cx="66" cy="38" r="5" fill="#5a8ab0" stroke="#333" stroke-width="1.5"/>
+  <!-- Label -->
+</svg>

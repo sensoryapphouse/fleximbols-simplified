@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Microphone body -->
+  <rect x="38" y="15" width="24" height="36" rx="12" ry="12" fill="#d5e8d4" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Microphone stand/neck -->
+  <line x1="50" y1="51" x2="50" y2="68" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Base -->
+  <line x1="36" y1="68" x2="64" y2="68" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Mic arc arms -->
+  <path d="M30,40 Q30,62 50,62 Q70,62 70,40" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Sound waves right -->
+  <path d="M74,30 Q80,43 74,56" fill="none" stroke="#8e44ad" stroke-width="2" stroke-linecap="round"/>
+  <path d="M80,24 Q89,43 80,62" fill="none" stroke="#8e44ad" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Sound waves left -->
+  <path d="M26,30 Q20,43 26,56" fill="none" stroke="#8e44ad" stroke-width="2" stroke-linecap="round"/>
+  <path d="M20,24 Q11,43 20,62" fill="none" stroke="#8e44ad" stroke-width="1.8" stroke-linecap="round"/>
+</svg>

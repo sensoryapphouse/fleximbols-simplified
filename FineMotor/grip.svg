@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Bar / handle being gripped -->
+  <rect x="42" y="12" width="14" height="76" rx="7" fill="#BDC3C7" stroke="#333" stroke-width="2.5"/>
+  <!-- Knurling on bar -->
+  <line x1="44" y1="25" x2="54" y2="25" stroke="#999" stroke-width="1"/>
+  <line x1="44" y1="32" x2="54" y2="32" stroke="#999" stroke-width="1"/>
+  <line x1="44" y1="39" x2="54" y2="39" stroke="#999" stroke-width="1"/>
+  <line x1="44" y1="46" x2="54" y2="46" stroke="#999" stroke-width="1"/>
+  <line x1="44" y1="53" x2="54" y2="53" stroke="#999" stroke-width="1"/>
+  <line x1="44" y1="60" x2="54" y2="60" stroke="#999" stroke-width="1"/>
+  <!-- Hand gripping the bar (curled fingers) -->
+  <path d="M20 38 Q20 30 30 30 L42 30 L42 68 L30 68 Q20 68 20 60 Z" fill="#FDDCB5" stroke="#333" stroke-width="2.5"/>
+  <!-- Finger segments -->
+  <line x1="20" y1="40" x2="42" y2="40" stroke="#C9A882" stroke-width="1.5"/>
+  <line x1="20" y1="48" x2="42" y2="48" stroke="#C9A882" stroke-width="1.5"/>
+  <line x1="20" y1="56" x2="42" y2="56" stroke="#C9A882" stroke-width="1.5"/>
+  <!-- Thumb wrapping other side -->
+  <path d="M56 38 Q56 30 64 30 L74 30 L74 68 L64 68 Q56 68 56 60 Z" fill="#FDDCB5" stroke="#333" stroke-width="2.5"/>
+  <!-- Squeeze tension marks -->
+  <line x1="10" y1="35" x2="18" y2="42" stroke="#C0392B" stroke-width="2" stroke-linecap="round"/>
+  <line x1="10" y1="63" x2="18" y2="56" stroke="#C0392B" stroke-width="2" stroke-linecap="round"/>
+</svg>

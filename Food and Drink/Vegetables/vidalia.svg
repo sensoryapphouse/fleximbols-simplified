@@ -1,0 +1,22 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Vidalia: very flat sweet onion, pale straw-yellow, Georgia brand -->
+  <!-- Roots -->
+  <line x1="40" y1="84" x2="36" y2="91" stroke="#7a6050" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="47" y1="86" x2="46" y2="93" stroke="#7a6050" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="53" y1="86" x2="54" y2="93" stroke="#7a6050" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="60" y1="84" x2="64" y2="91" stroke="#7a6050" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Very flat/wide oblate bulb -->
+  <ellipse cx="50" cy="70" rx="36" ry="20" fill="#e8d880" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Very pale skin, almost white-yellow -->
+  <ellipse cx="50" cy="66" rx="30" ry="14" fill="#f8f090" stroke="none"/>
+  <!-- Layer lines -->
+  <path d="M20 66 Q16 70 20 76" fill="none" stroke="#c8b860" stroke-width="2" stroke-linecap="round"/>
+  <path d="M28 56 Q20 70 28 82" fill="none" stroke="#c8b860" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M72 56 Q80 70 72 82" fill="none" stroke="#c8b860" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M80 66 Q84 70 80 76" fill="none" stroke="#c8b860" stroke-width="2" stroke-linecap="round"/>
+  <!-- Short flat neck -->
+  <path d="M43 54 Q50 48 57 54" fill="#c8b860" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Short green tops -->
+  <path d="M46 51 Q44 40 43 28" fill="none" stroke="#3a7820" stroke-width="3" stroke-linecap="round"/>
+  <path d="M54 51 Q56 40 57 28" fill="none" stroke="#3a7820" stroke-width="3" stroke-linecap="round"/>
+</svg>

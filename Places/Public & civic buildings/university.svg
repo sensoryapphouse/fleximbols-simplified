@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Main building -->
+  <rect x="20" y="38" width="60" height="39" rx="2" fill="#e8e0d0" stroke="#333" stroke-width="2.5"/>
+  <!-- Central tower -->
+  <rect x="40" y="18" width="20" height="22" rx="2" fill="#d0c8b8" stroke="#333" stroke-width="2.5"/>
+  <!-- Tower top -->
+  <polygon points="40,18 50,8 60,18" fill="#c8a050" stroke="#333" stroke-width="2"/>
+  <!-- Clock in tower -->
+  <circle cx="50" cy="30" r="6" fill="white" stroke="#333" stroke-width="1.5"/>
+  <line x1="50" y1="30" x2="50" y2="25" stroke="#333" stroke-width="1"/>
+  <line x1="50" y1="30" x2="54" y2="30" stroke="#333" stroke-width="1"/>
+  <!-- Columns on main building -->
+  <rect x="24" y="38" width="5" height="39" rx="1" fill="#f0ead8" stroke="#333" stroke-width="1.5"/>
+  <rect x="36" y="38" width="5" height="39" rx="1" fill="#f0ead8" stroke="#333" stroke-width="1.5"/>
+  <rect x="59" y="38" width="5" height="39" rx="1" fill="#f0ead8" stroke="#333" stroke-width="1.5"/>
+  <rect x="71" y="38" width="5" height="39" rx="1" fill="#f0ead8" stroke="#333" stroke-width="1.5"/>
+  <!-- Door -->
+  <rect x="43" y="58" width="14" height="19" rx="2" fill="#c09055" stroke="#333" stroke-width="2"/>
+  <!-- Grad cap -->
+  <rect x="72" y="10" width="16" height="4" rx="1" fill="#333"/>
+  <polygon points="72,12 80,6 88,12" fill="#333"/>
+  <line x1="86" y1="12" x2="89" y2="17" stroke="#f0c020" stroke-width="1.5"/>
+</svg>

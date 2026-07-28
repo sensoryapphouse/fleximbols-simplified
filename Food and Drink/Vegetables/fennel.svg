@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(5.142 -8.714) scale(0.8980)">
+<!-- fennel bulb base (white-green) -->
+  <path d="M32 80 Q28 65 34 55 Q40 50 50 50 Q60 50 66 55 Q72 65 68 80 Z" fill="#fffbe8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- bulb ridges -->
+  <line x1="50" y1="50" x2="50" y2="80" stroke="#ccc" stroke-width="1.5"/>
+  <path d="M40 52 Q38 65 36 78" stroke="#ccc" stroke-width="1"/>
+  <path d="M60 52 Q62 65 64 78" stroke="#ccc" stroke-width="1"/>
+  <!-- stalks -->
+  <line x1="44" y1="50" x2="38" y2="30" stroke="#6a9838" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="50" x2="50" y2="28" stroke="#6a9838" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="56" y1="50" x2="62" y2="30" stroke="#6a9838" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- feathery fronds -->
+  <path d="M38 30 Q30 24 28 18" stroke="#4a8828" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M38 30 Q36 22 32 18" stroke="#4a8828" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M38 30 Q34 24 34 18" stroke="#4a8828" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M50 28 Q46 20 44 14" stroke="#4a8828" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M50 28 Q50 20 48 14" stroke="#4a8828" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M50 28 Q54 20 52 14" stroke="#4a8828" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M62 30 Q66 22 68 18" stroke="#4a8828" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M62 30 Q64 22 66 18" stroke="#4a8828" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M62 30 Q70 24 72 18" stroke="#4a8828" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+</g>
+  </svg>

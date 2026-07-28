@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-29.922 -45.078) scale(1.6000)">
+<!-- rice mound -->
+<ellipse cx="50" cy="65" rx="28" ry="12" fill="white" stroke="#cccccc" stroke-width="2"/>
+<path d="M22,65 Q22,55 50,52 Q78,55 78,65 Z" fill="white" stroke="#cccccc" stroke-width="2"/>
+<!-- wasabi smear -->
+<ellipse cx="50" cy="54" rx="8" ry="3" fill="#88cc44" stroke="#448822" stroke-width="1"/>
+<!-- fish slice (salmon orange) -->
+<ellipse cx="50" cy="52" rx="26" ry="10" fill="#ff8855" stroke="#cc5533" stroke-width="2"/>
+<!-- fish texture lines -->
+<line x1="36" y1="48" x2="44" y2="56" stroke="#cc5533" stroke-width="1" opacity="0.5"/>
+<line x1="46" y1="46" x2="54" y2="56" stroke="#cc5533" stroke-width="1" opacity="0.5"/>
+<line x1="56" y1="48" x2="62" y2="56" stroke="#cc5533" stroke-width="1" opacity="0.5"/>
+</g>
+  </svg>

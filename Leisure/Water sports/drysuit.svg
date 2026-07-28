@@ -1,0 +1,21 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Torso - drysuit is bulkier -->
+  <path d="M 28,20 Q 28,8 50,8 Q 72,8 72,20 L 76,55 Q 78,72 74,88 Q 68,96 50,96 Q 32,96 26,88 Q 22,72 24,55 Z" fill="#2C3E50" stroke="#333" stroke-width="2.5"/>
+  <!-- Chest/yoke drysuit detail -->
+  <path d="M 32,20 Q 32,12 50,12 Q 68,12 68,20 L 70,38 Q 62,46 50,48 Q 38,46 30,38 Z" fill="#3D5166" stroke="#333" stroke-width="1.5"/>
+  <!-- Left arm bulkier -->
+  <path d="M 28,22 Q 16,20 10,36 Q 6,52 10,64 Q 14,70 20,68 L 26,54 Q 20,44 24,34 Z" fill="#2C3E50" stroke="#333" stroke-width="2.5"/>
+  <!-- Right arm -->
+  <path d="M 72,22 Q 84,20 90,36 Q 94,52 90,64 Q 86,70 80,68 L 74,54 Q 80,44 76,34 Z" fill="#2C3E50" stroke="#333" stroke-width="2.5"/>
+  <!-- Wrist seals -->
+  <rect x="6" y="64" width="18" height="6" rx="2" fill="#888" stroke="#333" stroke-width="2"/>
+  <rect x="76" y="64" width="18" height="6" rx="2" fill="#888" stroke="#333" stroke-width="2"/>
+  <!-- Neck seal -->
+  <ellipse cx="50" cy="12" rx="14" ry="6" fill="#888" stroke="#333" stroke-width="2"/>
+  <!-- Chest inflation valve -->
+  <circle cx="40" cy="30" r="5" fill="#E74C3C" stroke="#333" stroke-width="2"/>
+  <!-- Diagonal front zip -->
+  <path d="M 36,14 Q 44,30 42,48" fill="none" stroke="#888" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Dry zip pull -->
+  <rect x="38" y="13" width="6" height="4" rx="1" fill="#AAA" stroke="#333" stroke-width="1.5"/>
+</svg>

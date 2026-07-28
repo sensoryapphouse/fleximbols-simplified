@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Liver shape - large wedge/irregular lobe -->
+  <path d="M18 38 C18 28 28 20 45 20 C62 20 82 24 85 38 C88 52 80 68 65 74 C50 80 30 76 22 66 C14 56 18 48 18 38 Z" fill="#922b21" stroke="#641e16" stroke-width="2.5"/>
+  <!-- Right lobe smaller hint -->
+  <path d="M65 74 C72 70 80 60 82 52" fill="none" stroke="#641e16" stroke-width="2" stroke-linecap="round"/>
+  <!-- Gallbladder -->
+  <ellipse cx="55" cy="72" rx="8" ry="5" fill="#a9cce3" stroke="#2471a3" stroke-width="1.5"/>
+</svg>

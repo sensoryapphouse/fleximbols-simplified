@@ -1,0 +1,20 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Laundry basket - plastic weave basket -->
+  <!-- Basket body -->
+  <path d="M15,40 L20,88 L80,88 L85,40 Z" fill="#E8D4A0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Rim -->
+  <rect x="12" y="34" width="76" height="10" rx="4" fill="#D4B880" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Handles on rim -->
+  <path d="M22,34 Q22,22 32,22 Q42,22 42,34" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <path d="M58,34 Q58,22 68,22 Q78,22 78,34" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <!-- Weave/slot pattern -->
+  <line x1="30" y1="44" x2="25" y2="85" stroke="#B8A060" stroke-width="1.5"/>
+  <line x1="45" y1="44" x2="42" y2="85" stroke="#B8A060" stroke-width="1.5"/>
+  <line x1="55" y1="44" x2="58" y2="85" stroke="#B8A060" stroke-width="1.5"/>
+  <line x1="70" y1="44" x2="75" y2="85" stroke="#B8A060" stroke-width="1.5"/>
+  <line x1="17" y1="55" x2="83" y2="55" stroke="#B8A060" stroke-width="1.5"/>
+  <line x1="18" y1="68" x2="82" y2="68" stroke="#B8A060" stroke-width="1.5"/>
+  <line x1="19" y1="79" x2="81" y2="79" stroke="#B8A060" stroke-width="1.5"/>
+  <!-- Clothes/laundry visible at top -->
+  <path d="M20,40 Q35,32 50,36 Q65,32 80,40" fill="#5B8DD9" stroke="#333" stroke-width="1.5"/>
+</svg>

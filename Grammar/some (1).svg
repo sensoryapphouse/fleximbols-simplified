@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Partial filled circle (representing "some" of a whole) -->
+  <circle cx="50" cy="50" r="36" fill="white" stroke="black" stroke-width="2.5"/>
+  <!-- About 40% filled arc segment -->
+  <path d="M50 50 L50 14 A36 36 0 0 1 82 68 Z" fill="#5599dd" stroke="black" stroke-width="2"/>
+  <!-- Three dots representing "a few" -->
+  <circle cx="28" cy="78" r="5" fill="#5599dd" stroke="black" stroke-width="1.5"/>
+  <circle cx="44" cy="82" r="5" fill="#5599dd" stroke="black" stroke-width="1.5"/>
+  <circle cx="60" cy="82" r="5" fill="#5599dd" stroke="black" stroke-width="1.5"/>
+</svg>

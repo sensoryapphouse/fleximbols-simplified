@@ -1,0 +1,18 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Arch posts -->
+<rect x="18" y="38" width="7" height="40" fill="#c8a87a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="75" y="38" width="7" height="40" fill="#c8a87a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<!-- Arch top -->
+<path d="M18,38 Q50,8 82,38" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+<!-- Overhead lattice/slats -->
+<line x1="18" y1="32" x2="82" y2="32" stroke="#c8a87a" stroke-width="4" stroke-linecap="round"/>
+<line x1="25" y1="20" x2="25" y2="35" stroke="#c8a87a" stroke-width="2" stroke-linecap="round"/>
+<line x1="37" y1="13" x2="37" y2="33" stroke="#c8a87a" stroke-width="2" stroke-linecap="round"/>
+<line x1="50" y1="10" x2="50" y2="32" stroke="#c8a87a" stroke-width="2" stroke-linecap="round"/>
+<line x1="63" y1="13" x2="63" y2="33" stroke="#c8a87a" stroke-width="2" stroke-linecap="round"/>
+<line x1="75" y1="20" x2="75" y2="35" stroke="#c8a87a" stroke-width="2" stroke-linecap="round"/>
+<!-- Vines/leaves -->
+<ellipse cx="22" cy="50" rx="5" ry="4" fill="#44aa44" stroke="#2a7a2a" stroke-width="1"/>
+<ellipse cx="78" cy="50" rx="5" ry="4" fill="#44aa44" stroke="#2a7a2a" stroke-width="1"/>
+<ellipse cx="50" cy="15" rx="6" ry="4" fill="#44aa44" stroke="#2a7a2a" stroke-width="1"/>
+</svg>

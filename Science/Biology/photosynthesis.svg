@@ -1,0 +1,17 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<circle cx="78" cy="18" r="10" fill="#f5e840" stroke="#e6b800" stroke-width="2"/>
+  <line x1="78" y1="4" x2="78" y2="8" stroke="#e6b800" stroke-width="2" stroke-linecap="round"/>
+  <line x1="68" y1="8" x2="70" y2="11" stroke="#e6b800" stroke-width="2" stroke-linecap="round"/>
+  <line x1="88" y1="8" x2="86" y2="11" stroke="#e6b800" stroke-width="2" stroke-linecap="round"/>
+  <line x1="92" y1="18" x2="88" y2="18" stroke="#e6b800" stroke-width="2" stroke-linecap="round"/>
+  <line x1="64" y1="18" x2="68" y2="18" stroke="#e6b800" stroke-width="2" stroke-linecap="round"/>
+  <path d="M10 75 Q10 30 50 15 Q90 30 50 75 Q40 60 30 75Z" fill="#5a9a40" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <line x1="50" y1="15" x2="30" y2="75" stroke="#3a7a20" stroke-width="2" stroke-linecap="round"/>
+  <line x1="40" y1="38" x2="28" y2="46" stroke="#3a7a20" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="44" y1="52" x2="30" y2="60" stroke="#3a7a20" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="44" y1="30" x2="56" y2="36" stroke="#3a7a20" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="8" y1="30" x2="18" y2="36" stroke="#c0392b" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="18,36 12,38 14,32" fill="#c0392b"/>
+  <line x1="62" y1="45" x2="72" y2="38" stroke="#2980b9" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="72,38 70,44 66,40" fill="#2980b9"/>
+</svg>

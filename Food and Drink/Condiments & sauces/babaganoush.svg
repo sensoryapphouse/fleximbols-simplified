@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- aubergine/eggplant -->
+<path d="M44,18 Q36,12 30,18 Q22,28 26,40 Q30,52 44,54 Q58,52 62,40 Q66,28 58,18 Q52,12 44,18 Z" fill="#553366" stroke="#331144" stroke-width="2.5"/>
+<!-- eggplant highlight -->
+<path d="M36,22 Q42,18 48,22" fill="none" stroke="#774488" stroke-width="2" stroke-linecap="round"/>
+<!-- stem -->
+<path d="M44,15 Q42,8 48,6 Q52,8 50,14" fill="none" stroke="#338822" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="46" cy="14" rx="4" ry="3" fill="#44aa22" stroke="#228811" stroke-width="1.5"/>
+<!-- dip bowl -->
+<ellipse cx="70" cy="68" rx="22" ry="8" fill="#f0f0f0" stroke="#cccccc" stroke-width="2"/>
+<ellipse cx="70" cy="66" rx="20" ry="7" fill="#ccbb88" stroke="#aa9966" stroke-width="1.5"/>
+<!-- olive oil dot -->
+<circle cx="70" cy="64" r="4" fill="#cc5500" opacity="0.7"/>
+</svg>

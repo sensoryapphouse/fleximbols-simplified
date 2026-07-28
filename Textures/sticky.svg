@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Surface -->
+  <rect x="15" y="60" width="70" height="8" rx="2" fill="#d4a060" stroke="#7a5020" stroke-width="2"/>
+  <!-- Sticky object (star/splat stuck to surface) -->
+  <ellipse cx="50" cy="48" rx="18" ry="14" fill="#f5d080" stroke="#c09030" stroke-width="2.5"/>
+  <!-- Sticky threads connecting to surface -->
+  <line x1="38" y1="60" x2="38" y2="68" stroke="#c09030" stroke-width="2" stroke-linecap="round"/>
+  <line x1="50" y1="62" x2="50" y2="68" stroke="#c09030" stroke-width="2" stroke-linecap="round"/>
+  <line x1="62" y1="60" x2="62" y2="68" stroke="#c09030" stroke-width="2" stroke-linecap="round"/>
+  <!-- Shine on object -->
+  <ellipse cx="44" cy="43" rx="4" ry="3" fill="white" opacity="0.5"/>
+  <!-- Flies/dots showing stickiness -->
+  <circle cx="30" cy="38" r="2" fill="#333"/>
+  <circle cx="70" cy="42" r="2" fill="#333"/>
+</svg>

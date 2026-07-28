@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Building base -->
+  <rect x="8" y="38" width="84" height="45" fill="#E8DDD0" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Steps -->
+  <rect x="12" y="78" width="76" height="5" fill="#D0C4B0" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="16" y="82" width="68" height="4" fill="#C4B8A4" stroke="#555" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Pediment (triangle top) -->
+  <polygon points="5,38 50,12 95,38" fill="#DDD0BC" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Columns -->
+  <rect x="18" y="38" width="8" height="40" fill="#EDE0CC" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="36" y="38" width="8" height="40" fill="#EDE0CC" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="56" y="38" width="8" height="40" fill="#EDE0CC" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="74" y="38" width="8" height="40" fill="#EDE0CC" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Column caps -->
+  <rect x="16" y="36" width="12" height="4" fill="#D4C8B0" stroke="#555" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="34" y="36" width="12" height="4" fill="#D4C8B0" stroke="#555" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="54" y="36" width="12" height="4" fill="#D4C8B0" stroke="#555" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="72" y="36" width="12" height="4" fill="#D4C8B0" stroke="#555" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Door -->
+  <rect x="40" y="60" width="20" height="23" fill="#C8A87A" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="57" cy="72" r="2" fill="#888"/>
+  <!-- $ symbol in pediment -->
+  <text x="50" y="32" font-size="12" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#888" font-weight="bold">$</text>
+</svg>

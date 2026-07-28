@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- body -->
+  <ellipse cx="50" cy="62" rx="22" ry="18" fill="#c8441a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- tail feathers -->
+  <path d="M72 55 Q85 40 80 30 Q78 45 75 50" fill="#c8441a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M72 58 Q88 50 86 38 Q81 52 76 55" fill="#8B2500" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M72 62 Q88 60 88 48 Q82 58 77 60" fill="#c8441a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- neck -->
+  <ellipse cx="38" cy="50" rx="10" ry="14" fill="#c8441a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- head -->
+  <circle cx="32" cy="38" r="11" fill="#c8441a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- comb -->
+  <path d="M28 28 Q30 20 32 26 Q34 18 36 24 Q38 16 40 23" fill="#e03030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- wattle -->
+  <path d="M26 38 Q22 44 25 48 Q28 44 28 38" fill="#e03030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- beak -->
+  <path d="M21 38 L28 36 L27 41 Z" fill="#f0b040" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- eye -->
+  <circle cx="28" cy="35" r="2" fill="#333"/>
+  <circle cx="27.5" cy="34.5" r="0.6" fill="white"/>
+  <!-- legs -->
+  <line x1="42" y1="79" x2="38" y2="90" stroke="#f0b040" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="38" y1="90" x2="34" y2="93" stroke="#f0b040" stroke-width="2" stroke-linecap="round"/>
+  <line x1="38" y1="90" x2="40" y2="94" stroke="#f0b040" stroke-width="2" stroke-linecap="round"/>
+  <line x1="52" y1="80" x2="50" y2="91" stroke="#f0b040" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="91" x2="46" y2="94" stroke="#f0b040" stroke-width="2" stroke-linecap="round"/>
+  <line x1="50" y1="91" x2="52" y2="95" stroke="#f0b040" stroke-width="2" stroke-linecap="round"/>
+  <!-- wing detail -->
+  <path d="M44 55 Q58 52 68 58" fill="none" stroke="#8B2500" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

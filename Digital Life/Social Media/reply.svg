@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Person -->
+  <circle cx="24" cy="30" r="9" fill="#f5c89a" stroke="#333" stroke-width="2"/>
+  <line x1="24" y1="39" x2="24" y2="65" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="24" y1="49" x2="14" y2="58" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="24" y1="49" x2="34" y2="55" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="24" y1="65" x2="17" y2="78" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="24" y1="65" x2="31" y2="78" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Original message bubble (small, faded) -->
+  <path d="M36 50 L75 50 L75 62 L58 62 L58 68 L53 62 L36 62 Z" fill="#f0f0f0" stroke="#bbb" stroke-width="1.5" rx="3"/>
+  <line x1="42" y1="57" x2="69" y2="57" stroke="#bbb" stroke-width="1.5"/>
+  <!-- Reply arrow curving back -->
+  <path d="M74 62 Q80 70 74 76 Q66 82 56 76" fill="none" stroke="#4a90d9" stroke-width="2"/>
+  <polygon points="56,76 62,72 60,80" fill="#4a90d9"/>
+  <!-- Reply bubble -->
+  <path d="M36 14 L82 14 L82 38 L62 38 L55 46 L58 38 L36 38 Z" fill="#fffbe6" stroke="#333" stroke-width="2" rx="4"/>
+  <line x1="44" y1="22" x2="74" y2="22" stroke="#888" stroke-width="1.5"/>
+  <line x1="44" y1="30" x2="74" y2="30" stroke="#888" stroke-width="1.5"/>
+  <!-- Ground -->
+  <line x1="5" y1="84" x2="95" y2="84" stroke="#888" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-23.281 -33.125) scale(1.6000)">
+<!-- Crumbly wedge shape -->
+  <path d="M18 74 L18 36 L68 36 L68 74 Z" fill="#f0ead8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Orange-ish rind on top -->
+  <rect x="18" y="30" width="50" height="8" rx="2" fill="#d4874a" stroke="#333" stroke-width="2.5"/>
+  <!-- Right side rind -->
+  <rect x="68" y="36" width="6" height="38" rx="1" fill="#d4874a" stroke="#333" stroke-width="2"/>
+  <!-- Blue streaks - gorgonzola style -->
+  <path d="M24 44 Q32 48 28 58" fill="none" stroke="#5a6a9a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M36 40 Q42 52 40 68" fill="none" stroke="#4a5a8a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M50 42 Q55 50 53 65" fill="none" stroke="#5a6a9a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M60 44 Q57 55 62 66" fill="none" stroke="#4a5a8a" stroke-width="2" stroke-linecap="round"/>
+  <!-- Crumble marks -->
+  <path d="M25 62 Q28 60 30 63" fill="none" stroke="#c8bc9a" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M44 55 Q48 53 50 56" fill="none" stroke="#c8bc9a" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+  </svg>

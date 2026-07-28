@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Base/mount -->
+  <rect x="44" y="72" width="12" height="14" rx="2" fill="#888" stroke="#444" stroke-width="2"/>
+  <rect x="36" y="83" width="28" height="5" rx="2" fill="#666" stroke="#444" stroke-width="2"/>
+  <!-- Support arm -->
+  <line x1="50" y1="72" x2="50" y2="55" stroke="#666" stroke-width="2.5"/>
+  <!-- Parabolic dish - pointing up/angled -->
+  <path d="M18,50 Q50,8 82,50" fill="#d0d8e8" stroke="#444" stroke-width="2.5"/>
+  <path d="M22,50 Q50,14 78,50" fill="#b8c8dc" stroke="none"/>
+  <!-- Dish rim -->
+  <line x1="18" y1="50" x2="82" y2="50" stroke="#444" stroke-width="2"/>
+  <!-- Feed horn/receiver at focus -->
+  <line x1="50" y1="50" x2="50" y2="30" stroke="#555" stroke-width="2"/>
+  <circle cx="50" cy="28" r="4" fill="#e84020" stroke="#a02010" stroke-width="1.5"/>
+  <!-- Signal waves emanating -->
+  <path d="M42,15 Q50,10 58,15" fill="none" stroke="#3a6bc4" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M36,9 Q50,3 64,9" fill="none" stroke="#3a6bc4" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

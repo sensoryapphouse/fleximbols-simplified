@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Body -->
+  <ellipse cx="50" cy="70" rx="22" ry="14" fill="#c8a040" stroke="#7a5800" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Two humps -->
+  <ellipse cx="38" cy="55" rx="11" ry="12" fill="#c8a040" stroke="#7a5800" stroke-width="2.5"/>
+  <ellipse cx="58" cy="55" rx="11" ry="12" fill="#c8a040" stroke="#7a5800" stroke-width="2.5"/>
+  <!-- Fill between humps -->
+  <rect x="42" y="54" width="16" height="14" fill="#c8a040" stroke="none"/>
+  <!-- Long neck -->
+  <path d="M34 56 Q30 44 32 30" fill="none" stroke="#c8a040" stroke-width="9" stroke-linecap="round"/>
+  <!-- Head - small -->
+  <ellipse cx="32" cy="27" rx="9" ry="7" fill="#c8a040" stroke="#7a5800" stroke-width="2.5"/>
+  <!-- Ears -->
+  <ellipse cx="25" cy="22" rx="3" ry="5" fill="#c8a040" stroke="#7a5800" stroke-width="1.5" transform="rotate(-10 25 22)"/>
+  <ellipse cx="39" cy="22" rx="3" ry="5" fill="#c8a040" stroke="#7a5800" stroke-width="1.5" transform="rotate(10 39 22)"/>
+  <!-- Long muzzle/lip -->
+  <ellipse cx="32" cy="32" rx="5" ry="4" fill="#d4b060" stroke="#7a5800" stroke-width="1.5"/>
+  <!-- Eye -->
+  <circle cx="28" cy="25" r="2" fill="#111111"/>
+  <circle cx="28.7" cy="24.3" r="0.7" fill="white"/>
+  <!-- Nose -->
+  <ellipse cx="32" cy="34" rx="2" ry="1.5" fill="#333333"/>
+  <!-- Long legs -->
+  <line x1="36" y1="82" x2="34" y2="93" stroke="#7a5800" stroke-width="4" stroke-linecap="round"/>
+  <line x1="44" y1="83" x2="42" y2="93" stroke="#7a5800" stroke-width="4" stroke-linecap="round"/>
+  <line x1="56" y1="83" x2="54" y2="93" stroke="#7a5800" stroke-width="4" stroke-linecap="round"/>
+  <line x1="64" y1="82" x2="62" y2="93" stroke="#7a5800" stroke-width="4" stroke-linecap="round"/>
+  <!-- Tail -->
+  <path d="M72 68 Q78 72 76 80" fill="none" stroke="#7a5800" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Label -->
+</svg>

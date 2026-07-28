@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- CH4 molecule: central carbon, 4 hydrogen atoms -->
+  <!-- Central C atom -->
+  <circle cx="50" cy="48" r="10" fill="#e8d0a0" stroke="#806020" stroke-width="2.5"/>
+  <text x="50" y="53" font-size="10" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#604010" font-weight="bold">C</text>
+  <!-- Bond lines -->
+  <line x1="50" y1="38" x2="50" y2="25" stroke="#606060" stroke-width="2.5"/>
+  <line x1="40" y1="48" x2="25" y2="44" stroke="#606060" stroke-width="2.5"/>
+  <line x1="60" y1="48" x2="75" y2="44" stroke="#606060" stroke-width="2.5"/>
+  <line x1="50" y1="58" x2="38" y2="70" stroke="#606060" stroke-width="2.5"/>
+  <line x1="50" y1="58" x2="62" y2="70" stroke="#606060" stroke-width="2.5"/>
+  <!-- H atoms (4 - tetrahedral representation in 2D) -->
+  <circle cx="50" cy="18" r="7" fill="#c0d8f0" stroke="#3060a0" stroke-width="2"/>
+  <text x="50" y="23" font-size="9" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#204080" font-weight="bold">H</text>
+  <circle cx="18" cy="40" r="7" fill="#c0d8f0" stroke="#3060a0" stroke-width="2"/>
+  <text x="18" y="45" font-size="9" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#204080" font-weight="bold">H</text>
+  <circle cx="82" cy="40" r="7" fill="#c0d8f0" stroke="#3060a0" stroke-width="2"/>
+  <text x="82" y="45" font-size="9" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#204080" font-weight="bold">H</text>
+  <circle cx="38" cy="74" r="7" fill="#c0d8f0" stroke="#3060a0" stroke-width="2"/>
+  <text x="38" y="79" font-size="9" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#204080" font-weight="bold">H</text>
+</svg>

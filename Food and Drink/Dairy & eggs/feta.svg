@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Feta block on small plate/board -->
+  <ellipse cx="50" cy="76" rx="34" ry="8" fill="#e8e0d0" stroke="#a09080" stroke-width="1.5"/>
+  <!-- Feta cheese block (white rectangular) -->
+  <!-- Front face -->
+  <path d="M22 45 L22 68 L78 68 L78 45 Z" fill="#f5f2ea" stroke="#c0b090" stroke-width="2"/>
+  <!-- Top face -->
+  <path d="M22 45 L30 35 L86 35 L78 45 Z" fill="#f8f5ee" stroke="#c0b090" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Right face -->
+  <path d="M78 45 L86 35 L86 62 L78 68 Z" fill="#ede8de" stroke="#c0b090" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Crumbly texture dots -->
+  <circle cx="35" cy="55" r="2" fill="#e0d8cc" stroke="none"/>
+  <circle cx="50" cy="52" r="2.5" fill="#e0d8cc" stroke="none"/>
+  <circle cx="65" cy="56" r="2" fill="#e0d8cc" stroke="none"/>
+  <circle cx="42" cy="62" r="2" fill="#e0d8cc" stroke="none"/>
+  <circle cx="58" cy="61" r="2" fill="#e0d8cc" stroke="none"/>
+  <!-- Olive oil pool -->
+  <ellipse cx="50" cy="64" rx="15" ry="3" fill="#d4820a" stroke="none" opacity="0.5"/>
+</svg>

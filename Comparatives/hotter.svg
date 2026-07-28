@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,17.940) scale(0.8206)">
+<!-- Sun -->
+  <circle cx="78" cy="20" r="10" fill="#ffdd33" stroke="#cc8800" stroke-width="2"/>
+  <line x1="78" y1="6" x2="78" y2="2" stroke="#cc8800" stroke-width="2"/>
+  <line x1="78" y1="38" x2="78" y2="34" stroke="#cc8800" stroke-width="2"/>
+  <line x1="64" y1="20" x2="60" y2="20" stroke="#cc8800" stroke-width="2"/>
+  <line x1="96" y1="20" x2="92" y2="20" stroke="#cc8800" stroke-width="2"/>
+  <line x1="68" y1="10" x2="65" y2="7" stroke="#cc8800" stroke-width="2"/>
+  <line x1="88" y1="30" x2="91" y2="33" stroke="#cc8800" stroke-width="2"/>
+  <!-- Face - flushed red -->
+  <circle cx="44" cy="48" r="26" fill="#ffccaa" stroke="#333" stroke-width="2.5"/>
+  <!-- Rosy cheeks -->
+  <circle cx="33" cy="52" r="8" fill="#ff8888" opacity="0.5"/>
+  <circle cx="55" cy="52" r="8" fill="#ff8888" opacity="0.5"/>
+  <!-- Uncomfortable hot eyes -->
+  <path d="M33 43 Q38 40 43 43" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <path d="M45 43 Q50 40 55 43" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Panting mouth -->
+  <path d="M33 57 Q44 64 55 57" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Sweat drops -->
+  <path d="M60 30 Q62 25 64 30 Q62 34 60 30" fill="#aaddff" stroke="#6699cc" stroke-width="1"/>
+  <path d="M22 30 Q24 25 26 30 Q24 34 22 30" fill="#aaddff" stroke="#6699cc" stroke-width="1"/>
+  <path d="M28 68 Q30 63 32 68 Q30 72 28 68" fill="#aaddff" stroke="#6699cc" stroke-width="1"/>
+</g><g transform="translate(0,0) scale(0.195312) translate(360 8) scale(0.2812)"><polygon points="120,347 264,202 232,170 361,151 342,280 310,248 165,392" fill="#3fae5a" stroke="#1a1a1a" stroke-width="26" stroke-linejoin="round"/></g></svg>

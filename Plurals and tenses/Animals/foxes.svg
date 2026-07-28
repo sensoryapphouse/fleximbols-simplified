@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Body -->
+  <ellipse cx="50" cy="64" rx="20" ry="15" fill="#c85a10" stroke="#5a2a00" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- White belly -->
+  <ellipse cx="50" cy="67" rx="12" ry="10" fill="#f0ece0" stroke="none"/>
+  <!-- Neck -->
+  <rect x="43" y="49" width="14" height="12" rx="4" fill="#c85a10" stroke="#5a2a00" stroke-width="2"/>
+  <!-- Head -->
+  <ellipse cx="50" cy="40" rx="13" ry="11" fill="#c85a10" stroke="#5a2a00" stroke-width="2.5"/>
+  <!-- Pointed ears -->
+  <polygon points="38,33 33,16 45,28" fill="#c85a10" stroke="#5a2a00" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="62,33 67,16 55,28" fill="#c85a10" stroke="#5a2a00" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="39,31 35,20 44,27" fill="#d4a0a0" stroke="none"/>
+  <polygon points="61,31 65,20 56,27" fill="#d4a0a0" stroke="none"/>
+  <!-- White face markings -->
+  <ellipse cx="50" cy="44" rx="7" ry="6" fill="#f0ece0" stroke="#5a2a00" stroke-width="1"/>
+  <!-- Eyes -->
+  <circle cx="44" cy="38" r="2.5" fill="#c8a800" stroke="#333333" stroke-width="1"/>
+  <ellipse cx="44" cy="38" rx="1" ry="2" fill="#111111"/>
+  <circle cx="56" cy="38" r="2.5" fill="#c8a800" stroke="#333333" stroke-width="1"/>
+  <ellipse cx="56" cy="38" rx="1" ry="2" fill="#111111"/>
+  <!-- Nose - pointy -->
+  <polygon points="50,42 47,47 53,47" fill="#333333"/>
+  <!-- Mouth -->
+  <path d="M46 47 Q50 50 54 47" fill="none" stroke="#333333" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Legs -->
+  <rect x="35" y="74" width="6" height="12" rx="3" fill="#c85a10" stroke="#5a2a00" stroke-width="2"/>
+  <rect x="45" y="74" width="6" height="12" rx="3" fill="#c85a10" stroke="#5a2a00" stroke-width="2"/>
+  <rect x="55" y="74" width="6" height="12" rx="3" fill="#c85a10" stroke="#5a2a00" stroke-width="2"/>
+  <rect x="65" y="74" width="6" height="12" rx="3" fill="#c85a10" stroke="#5a2a00" stroke-width="2"/>
+  <!-- Bushy tail with white tip -->
+  <path d="M70 60 Q90 52 88 40" fill="none" stroke="#c85a10" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="88" cy="40" r="5" fill="#f0ece0" stroke="#5a2a00" stroke-width="1.5"/>
+  <!-- Label -->
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl471" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl471)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

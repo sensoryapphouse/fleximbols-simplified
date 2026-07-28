@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-1.952 -7.705) scale(1.1552)">
+<!-- Draughts / checkers board (4x4) -->
+  <rect x="18" y="28" width="54" height="44" fill="#f0d9b5" stroke="#333" stroke-width="2"/>
+  <!-- Dark squares -->
+  <rect x="31.5" y="28" width="13.5" height="11" fill="#b58863"/>
+  <rect x="58.5" y="28" width="13.5" height="11" fill="#b58863"/>
+  <rect x="18" y="39" width="13.5" height="11" fill="#b58863"/>
+  <rect x="45" y="39" width="13.5" height="11" fill="#b58863"/>
+  <rect x="31.5" y="50" width="13.5" height="11" fill="#b58863"/>
+  <rect x="58.5" y="50" width="13.5" height="11" fill="#b58863"/>
+  <rect x="18" y="61" width="13.5" height="11" fill="#b58863"/>
+  <rect x="45" y="61" width="13.5" height="11" fill="#b58863"/>
+  <!-- Grid -->
+  <line x1="31.5" y1="28" x2="31.5" y2="72" stroke="#333" stroke-width="1"/>
+  <line x1="45" y1="28" x2="45" y2="72" stroke="#333" stroke-width="1"/>
+  <line x1="58.5" y1="28" x2="58.5" y2="72" stroke="#333" stroke-width="1"/>
+  <line x1="18" y1="39" x2="72" y2="39" stroke="#333" stroke-width="1"/>
+  <line x1="18" y1="50" x2="72" y2="50" stroke="#333" stroke-width="1"/>
+  <line x1="18" y1="61" x2="72" y2="61" stroke="#333" stroke-width="1"/>
+  <rect x="18" y="28" width="54" height="44" fill="none" stroke="#333" stroke-width="2"/>
+  <!-- Red draughts pieces -->
+  <circle cx="38.25" cy="33.5" r="5" fill="#e74c3c" stroke="#333" stroke-width="1.5"/>
+  <circle cx="65.25" cy="33.5" r="5" fill="#e74c3c" stroke="#333" stroke-width="1.5"/>
+  <!-- Black draughts pieces -->
+  <circle cx="24.75" cy="66" r="5" fill="#333" stroke="#555" stroke-width="1.5"/>
+  <circle cx="51.75" cy="66" r="5" fill="#333" stroke="#555" stroke-width="1.5"/>
+  <!-- Label -->
+  
+</g>
+  </svg>

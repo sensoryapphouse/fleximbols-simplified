@@ -1,0 +1,17 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shaivism: Shiva lingam with trident (trishula) -->
+  <!-- Lingam -->
+  <ellipse cx="50" cy="72" rx="18" ry="22" fill="#888" stroke="#333" stroke-width="2.5"/>
+  <ellipse cx="50" cy="65" rx="12" ry="8" fill="#aaa" stroke="#333" stroke-width="2"/>
+  <!-- Base (yoni) -->
+  <ellipse cx="50" cy="88" rx="28" ry="8" fill="#c8a96e" stroke="#333" stroke-width="2"/>
+  <!-- Trishula (trident) on top -->
+  <line x1="50" y1="45" x2="50" y2="12" stroke="#c8a96e" stroke-width="3" stroke-linecap="round"/>
+  <line x1="50" y1="16" x2="42" y2="8" stroke="#c8a96e" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="16" x2="58" y2="8" stroke="#c8a96e" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="12" x2="50" y2="5" stroke="#c8a96e" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Horizontal bar on trident -->
+  <line x1="40" y1="22" x2="60" y2="22" stroke="#c8a96e" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Third eye dot -->
+  <circle cx="50" cy="58" r="3" fill="#e05050" stroke="#333" stroke-width="1"/>
+</svg>

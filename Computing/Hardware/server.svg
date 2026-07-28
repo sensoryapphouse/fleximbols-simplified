@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.210 -17.464) scale(1.4056)">
+<!-- Server rack units (stacked) -->
+  <rect x="18" y="20" width="64" height="16" rx="3" fill="#cdd8e8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="18" y="40" width="64" height="16" rx="3" fill="#cdd8e8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="18" y="60" width="64" height="16" rx="3" fill="#cdd8e8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- LED dots on each unit -->
+  <circle cx="72" cy="28" r="2.5" fill="#5c5" stroke="#333" stroke-width="1"/>
+  <circle cx="66" cy="28" r="2.5" fill="#f90" stroke="#333" stroke-width="1"/>
+  <circle cx="72" cy="48" r="2.5" fill="#5c5" stroke="#333" stroke-width="1"/>
+  <circle cx="66" cy="48" r="2.5" fill="#5c5" stroke="#333" stroke-width="1"/>
+  <circle cx="72" cy="68" r="2.5" fill="#5c5" stroke="#333" stroke-width="1"/>
+  <circle cx="66" cy="68" r="2.5" fill="#f55" stroke="#333" stroke-width="1"/>
+  <!-- Drive slots -->
+  <rect x="24" y="24" width="30" height="8" rx="2" fill="#aabbcc" stroke="#555" stroke-width="1"/>
+  <rect x="24" y="44" width="30" height="8" rx="2" fill="#aabbcc" stroke="#555" stroke-width="1"/>
+  <rect x="24" y="64" width="30" height="8" rx="2" fill="#aabbcc" stroke="#555" stroke-width="1"/>
+  <!-- Label -->
+</g>
+  </svg>

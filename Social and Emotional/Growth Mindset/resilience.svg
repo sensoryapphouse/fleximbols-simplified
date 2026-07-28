@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ground -->
+  <line x1="10" y1="80" x2="90" y2="80" stroke="#888" stroke-width="2"/>
+  <!-- Storm clouds -->
+  <circle cx="30" cy="22" r="8" fill="#aaa" stroke="#666" stroke-width="1.5"/>
+  <circle cx="42" cy="18" r="10" fill="#aaa" stroke="#666" stroke-width="1.5"/>
+  <circle cx="54" cy="20" r="8" fill="#aaa" stroke="#666" stroke-width="1.5"/>
+  <rect x="22" y="22" width="40" height="10" fill="#aaa"/>
+  <!-- Wind lines -->
+  <line x1="18" y1="36" x2="58" y2="36" stroke="#888" stroke-width="2" stroke-linecap="round"/>
+  <line x1="20" y1="42" x2="55" y2="42" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Bent tree trunk -->
+  <path d="M 50,80 C 52,70 48,60 42,50 C 38,42 36,36 40,30" stroke="#8B6914" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Branches bent by wind (left, following wind) -->
+  <path d="M 40,30 C 34,26 26,24 20,26" stroke="#8B6914" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 41,38 C 35,34 30,34 24,38" stroke="#8B6914" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Green leaves/foliage still on bent tree -->
+  <circle cx="18" cy="25" r="6" fill="#7ab648" stroke="#4a8a20" stroke-width="1.5"/>
+  <circle cx="23" cy="37" r="5" fill="#7ab648" stroke="#4a8a20" stroke-width="1.5"/>
+  <circle cx="40" cy="27" r="6" fill="#7ab648" stroke="#4a8a20" stroke-width="1.5"/>
+  <!-- Roots holding firm -->
+  <path d="M 50,80 C 46,84 40,86 36,84" stroke="#8B6914" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 50,80 C 54,84 60,86 64,84" stroke="#8B6914" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 50,80 C 50,86 50,88 50,90" stroke="#8B6914" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Snow plow: large truck with angled plow blade at front -->
+  <!-- Truck body/cab -->
+  <rect x="38" y="36" width="52" height="30" rx="4" fill="#f0c040" stroke="#222" stroke-width="2.5"/>
+  <!-- Cab roof -->
+  <rect x="46" y="26" width="36" height="12" rx="3" fill="#d4a800" stroke="#222" stroke-width="2"/>
+  <!-- Cab windows -->
+  <rect x="50" y="30" width="14" height="10" rx="2" fill="#aaddff" stroke="#222" stroke-width="1.5"/>
+  <!-- Headlights -->
+  <rect x="82" y="44" width="8" height="6" rx="2" fill="#fffff0" stroke="#222" stroke-width="1.5"/>
+  <!-- Truck bed/body back -->
+  <!-- Wheels -->
+  <circle cx="52" cy="72" r="13" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="52" cy="72" r="7" fill="#777" stroke="#222" stroke-width="1.5"/>
+  <circle cx="80" cy="72" r="13" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="80" cy="72" r="7" fill="#777" stroke="#222" stroke-width="1.5"/>
+  <!-- Undercarriage -->
+  <line x1="38" y1="66" x2="96" y2="66" stroke="#333" stroke-width="2"/>
+  <!-- Plow blade (angled, mounted at front) -->
+  <polygon points="8,42 38,48 38,68 8,78" fill="#888" stroke="#222" stroke-width="2.5"/>
+  <!-- Plow blade highlight -->
+  <line x1="10" y1="44" x2="36" y2="50" stroke="#aaa" stroke-width="1.5"/>
+  <!-- Plow mount arm -->
+  <line x1="38" y1="56" x2="48" y2="56" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <!-- Salt/sand chute at rear (optional) -->
+  <polygon points="92,50 96,50 96,66 88,66" fill="#c8a55a" stroke="#222" stroke-width="1.5"/>
+  <!-- Snow spray lines -->
+  <line x1="6" y1="44" x2="2" y2="36" stroke="#aaddff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="7" y1="50" x2="2" y2="44" stroke="#aaddff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="7" y1="56" x2="2" y2="52" stroke="#aaddff" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ground -->
+  <rect x="5" y="72" width="90" height="10" fill="#c8a878" stroke="#9a7040" stroke-width="1.5"/>
+  <!-- Left tree (burning) -->
+  <rect x="18" y="50" width="6" height="22" fill="#7a5c2e" stroke="#4a3010" stroke-width="2"/>
+  <ellipse cx="21" cy="48" rx="12" ry="16" fill="#508030" stroke="#306010" stroke-width="2"/>
+  <!-- Right tree (burning) -->
+  <rect x="52" y="55" width="6" height="17" fill="#7a5c2e" stroke="#4a3010" stroke-width="2"/>
+  <ellipse cx="55" cy="53" rx="12" ry="16" fill="#508030" stroke="#306010" stroke-width="2"/>
+  <!-- Third tree (partially) -->
+  <rect x="73" y="58" width="5" height="14" fill="#7a5c2e" stroke="#4a3010" stroke-width="1.5"/>
+  <ellipse cx="75" cy="56" rx="10" ry="13" fill="#508030" stroke="#306010" stroke-width="2"/>
+  <!-- Large fire/flames -->
+  <path d="M15,72 Q18,55 22,62 Q26,50 30,60 Q34,45 38,58 Q42,48 46,60 Q50,52 54,65 Q58,55 62,68 Q66,58 70,72" fill="#e8a020" stroke="#c06010" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Orange/red inner flames -->
+  <path d="M20,72 Q22,60 25,65 Q28,55 31,63 Q34,52 37,62 Q41,55 44,65 Q48,57 51,67 Q54,60 57,70" fill="#e04040" stroke="none" opacity="0.85"/>
+  <!-- Smoke -->
+  <ellipse cx="30" cy="22" rx="8" ry="6" fill="#888" stroke="#555" stroke-width="1" opacity="0.8"/>
+  <ellipse cx="45" cy="16" rx="7" ry="5" fill="#777" stroke="#444" stroke-width="1" opacity="0.8"/>
+  <ellipse cx="60" cy="20" rx="6" ry="5" fill="#888" stroke="#555" stroke-width="1" opacity="0.8"/>
+</svg>

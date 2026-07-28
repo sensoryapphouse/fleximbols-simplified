@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- EV badge shield -->
+  <path d="M50,10 L80,22 L80,58 Q80,74 50,85 Q20,74 20,58 L20,22Z" fill="#5bba5b" stroke="#2e8b2e" stroke-width="2.5"/>
+  <path d="M50,18 L74,28 L74,56 Q74,70 50,80 Q26,70 26,56 L26,28Z" fill="none" stroke="#3a9a3a" stroke-width="2"/>
+  <!-- EV text -->
+  <text x="50" y="55" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="28" text-anchor="middle" fill="white" font-weight="bold">EV</text>
+  <!-- lightning bolt small -->
+  <polygon points="54,30 48,44 52,44 46,58 62,40 58,40" fill="#f5c518" stroke="#c8940a" stroke-width="1.5"/>
+</svg>

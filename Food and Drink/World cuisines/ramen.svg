@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- bowl -->
+<path d="M12,46 Q12,74 50,80 Q88,74 88,46 Z" fill="#e8c870" stroke="#886633" stroke-width="2.5"/>
+<ellipse cx="50" cy="46" rx="38" ry="12" fill="#f0d880" stroke="#886633" stroke-width="2"/>
+<!-- broth surface -->
+<ellipse cx="50" cy="46" rx="35" ry="10" fill="#cc8833" stroke="none"/>
+<!-- noodles -->
+<path d="M20,46 Q30,40 40,46 Q50,52 60,46 Q70,40 80,46" fill="none" stroke="#eecc88" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M22,50 Q34,44 44,50 Q54,56 64,50 Q74,44 78,50" fill="none" stroke="#eecc88" stroke-width="2" stroke-linecap="round"/>
+<!-- chashu pork -->
+<ellipse cx="38" cy="40" rx="8" ry="5" fill="#cc5533" stroke="#882211" stroke-width="1.5"/>
+<!-- soft-boiled egg half -->
+<circle cx="62" cy="40" r="8" fill="#ffffcc" stroke="#ccaa00" stroke-width="1.5"/>
+<circle cx="62" cy="40" r="4" fill="#ffaa00"/>
+<!-- nori strip -->
+<rect x="48" y="35" width="4" height="14" rx="1" fill="#223322" stroke="#112211" stroke-width="1"/>
+</svg>

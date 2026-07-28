@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- pizza slice -->
+  <path d="M 50 15 L 12 82 L 88 82 Z" fill="#e8c060" stroke="#a07020" stroke-width="2.5"/>
+  <!-- crust -->
+  <path d="M 12 82 Q 50 90 88 82" fill="#d4a040" stroke="#a07020" stroke-width="2"/>
+  <!-- tomato sauce base -->
+  <path d="M 50 22 L 18 78 L 82 78 Z" fill="#c84040"/>
+  <!-- cheese -->
+  <path d="M 50 28 L 22 74 L 78 74 Z" fill="#f5d860" opacity="0.8"/>
+  <!-- toppings -->
+  <circle cx="42" cy="55" r="5" fill="#c83030"/>
+  <circle cx="58" cy="52" r="5" fill="#c83030"/>
+  <circle cx="50" cy="68" r="5" fill="#c83030"/>
+  <circle cx="50" cy="40" r="4" fill="#c83030"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1665" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1665)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

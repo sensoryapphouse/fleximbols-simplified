@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Deck -->
+  <rect x="12" y="48" width="76" height="12" rx="6" fill="#c8a070" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Grip tape texture -->
+  <rect x="16" y="49" width="68" height="10" rx="4" fill="#333" opacity="0.3"/>
+  <!-- Deck graphic -->
+  <path d="M35 52 Q50 48 65 52" fill="none" stroke="#e85c5c" stroke-width="1.5" opacity="0.8"/>
+  <!-- Trucks (axle bars) -->
+  <rect x="20" y="59" width="20" height="4" rx="2" fill="#888" stroke="#222" stroke-width="1.5"/>
+  <rect x="60" y="59" width="20" height="4" rx="2" fill="#888" stroke="#222" stroke-width="1.5"/>
+  <!-- Wheels -->
+  <circle cx="24" cy="66" r="7" fill="#f5c542" stroke="#222" stroke-width="2"/>
+  <circle cx="24" cy="66" r="3" fill="#888"/>
+  <circle cx="36" cy="66" r="7" fill="#f5c542" stroke="#222" stroke-width="2"/>
+  <circle cx="36" cy="66" r="3" fill="#888"/>
+  <circle cx="64" cy="66" r="7" fill="#f5c542" stroke="#222" stroke-width="2"/>
+  <circle cx="64" cy="66" r="3" fill="#888"/>
+  <circle cx="76" cy="66" r="7" fill="#f5c542" stroke="#222" stroke-width="2"/>
+  <circle cx="76" cy="66" r="3" fill="#888"/>
+  <!-- Kick tail up -->
+  <path d="M82 48 Q90 44 90 50" fill="none" stroke="#c8a070" stroke-width="3" stroke-linecap="round"/>
+</svg>

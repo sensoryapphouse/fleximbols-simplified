@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Colourful powder bursts -->
+  <!-- Pink burst top-left -->
+  <ellipse cx="22" cy="25" rx="14" ry="10" fill="#f48fb1" stroke="#c2185b" stroke-width="2" transform="rotate(-20 22 25)"/>
+  <!-- Yellow burst top-right -->
+  <ellipse cx="78" cy="22" rx="14" ry="10" fill="#fff176" stroke="#f9a825" stroke-width="2" transform="rotate(15 78 22)"/>
+  <!-- Blue burst left -->
+  <ellipse cx="16" cy="56" rx="12" ry="9" fill="#90caf9" stroke="#1565c0" stroke-width="2" transform="rotate(10 16 56)"/>
+  <!-- Green burst right -->
+  <ellipse cx="84" cy="52" rx="12" ry="9" fill="#a5d6a7" stroke="#2e7d32" stroke-width="2" transform="rotate(-10 84 52)"/>
+  <!-- Orange burst bottom-left -->
+  <ellipse cx="28" cy="72" rx="13" ry="9" fill="#ffcc80" stroke="#e65100" stroke-width="2" transform="rotate(25 28 72)"/>
+  <!-- Purple burst bottom-right -->
+  <ellipse cx="72" cy="68" rx="13" ry="9" fill="#ce93d8" stroke="#6a0080" stroke-width="2" transform="rotate(-25 72 68)"/>
+  <!-- Central red burst -->
+  <ellipse cx="50" cy="48" rx="16" ry="12" fill="#ef9a9a" stroke="#b71c1c" stroke-width="2"/>
+  <!-- Spray dots - various colours -->
+  <circle cx="40" cy="18" r="3" fill="#f9a825"/>
+  <circle cx="55" cy="14" r="3" fill="#9c27b0"/>
+  <circle cx="65" cy="32" r="3" fill="#e53935"/>
+  <circle cx="32" cy="40" r="3" fill="#1565c0"/>
+  <circle cx="68" cy="44" r="3" fill="#2e7d32"/>
+  <circle cx="45" cy="66" r="3" fill="#f9a825"/>
+  <circle cx="60" cy="72" r="3" fill="#9c27b0"/>
+  <!-- Label -->
+</svg>

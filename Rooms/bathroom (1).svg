@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Bath -->
+  <path d="M8,62 L8,78 Q8,84 16,84 L84,84 Q92,84 92,78 L92,62 Z" fill="#e8f0f8" stroke="#6688aa" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Bath inner -->
+  <path d="M14,64 L14,78 Q14,80 18,80 L82,80 Q86,80 86,78 L86,64 Z" fill="white" stroke="#6688aa" stroke-width="1.5"/>
+  <!-- Water in bath -->
+  <rect x="14" y="70" width="72" height="10" fill="#aaccee" opacity="0.7"/>
+  <!-- Taps -->
+  <rect x="22" y="60" width="6" height="6" fill="#aaa" stroke="#666" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="72" y="60" width="6" height="6" fill="#aaa" stroke="#666" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Bath feet -->
+  <ellipse cx="20" cy="85" rx="4" ry="2" fill="#aaa" stroke="#666" stroke-width="1"/>
+  <ellipse cx="80" cy="85" rx="4" ry="2" fill="#aaa" stroke="#666" stroke-width="1"/>
+  <!-- Toilet -->
+  <rect x="60" y="28" width="28" height="22" rx="3" fill="#e8e8e8" stroke="#888" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Toilet seat -->
+  <ellipse cx="74" cy="50" rx="14" ry="10" fill="white" stroke="#888" stroke-width="2"/>
+  <ellipse cx="74" cy="50" rx="10" ry="7" fill="#f0f0f0" stroke="#888" stroke-width="1.5"/>
+  <!-- Flush handle -->
+  <rect x="82" y="28" width="4" height="6" fill="#aaa" stroke="#666" stroke-width="1"/>
+  <!-- Sink -->
+  <ellipse cx="24" cy="40" rx="16" ry="10" fill="#e8e8e8" stroke="#888" stroke-width="2"/>
+  <ellipse cx="24" cy="40" rx="12" ry="7" fill="white" stroke="#888" stroke-width="1.5"/>
+  <!-- Sink drain -->
+  <circle cx="24" cy="42" r="2" fill="#888" stroke="#666" stroke-width="1"/>
+  <!-- Sink tap -->
+  <rect x="22" y="30" width="4" height="5" fill="#aaa" stroke="#666" stroke-width="1" stroke-linejoin="round"/>
+  <!-- Mirror above sink -->
+  <rect x="12" y="8" width="24" height="18" rx="2" fill="#cce0ee" stroke="#888" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Mirror reflection lines -->
+  <line x1="16" y1="12" x2="32" y2="12" stroke="#aabbcc" stroke-width="1" opacity="0.5"/>
+  <line x1="16" y1="16" x2="32" y2="16" stroke="#aabbcc" stroke-width="1" opacity="0.5"/>
+</svg>

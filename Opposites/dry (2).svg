@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- cracked dry ground -->
+  <path d="M6 78 L94 78 L94 94 L6 94 Z" fill="#C68E47" stroke="#000" stroke-width="2.4"/>
+  <path d="M20 78 L24 94" stroke="#000" stroke-width="1.8" fill="none"/>
+  <path d="M44 78 L40 88 L48 94" stroke="#000" stroke-width="1.8" fill="none"/>
+  <path d="M70 78 L74 86 L68 94" stroke="#000" stroke-width="1.8" fill="none"/>
+  <!-- sun -->
+  <circle cx="74" cy="28" r="14" fill="#FFC107" stroke="#000" stroke-width="2.4"/>
+  <line x1="74" y1="6" x2="74" y2="12" stroke="#000" stroke-width="2.4" stroke-linecap="round"/>
+  <line x1="74" y1="44" x2="74" y2="50" stroke="#000" stroke-width="2.4" stroke-linecap="round"/>
+  <line x1="52" y1="28" x2="58" y2="28" stroke="#000" stroke-width="2.4" stroke-linecap="round"/>
+  <line x1="90" y1="28" x2="96" y2="28" stroke="#000" stroke-width="2.4" stroke-linecap="round"/>
+  <line x1="58" y1="12" x2="62" y2="16" stroke="#000" stroke-width="2.4" stroke-linecap="round"/>
+  <line x1="86" y1="40" x2="90" y2="44" stroke="#000" stroke-width="2.4" stroke-linecap="round"/>
+  <line x1="58" y1="44" x2="62" y2="40" stroke="#000" stroke-width="2.4" stroke-linecap="round"/>
+  <line x1="86" y1="16" x2="90" y2="12" stroke="#000" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- dead plant / cactus -->
+  <path d="M22 78 L22 50 Q22 44 28 44 Q34 44 34 50 L34 60" fill="none" stroke="#6B4226" stroke-width="3"/>
+  <path d="M28 44 L28 30 Q28 26 32 26" fill="none" stroke="#6B4226" stroke-width="3"/>
+  <!-- drought drop with cross (no water) -->
+  <path d="M50 50 Q42 60 42 66 Q42 72 50 72 Q58 72 58 66 Q58 60 50 50 Z" fill="#A8D8F0" stroke="#000" stroke-width="2.2"/>
+  <line x1="40" y1="48" x2="60" y2="74" stroke="#D32F2F" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

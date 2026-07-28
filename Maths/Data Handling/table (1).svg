@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Table top -->
+  <rect x="5" y="30" width="90" height="10" rx="3" fill="#C8A87A" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Table top surface (slightly lighter) -->
+  <rect x="5" y="28" width="90" height="6" rx="3" fill="#DDBB88" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Wood grain on top -->
+  <line x1="15" y1="29" x2="15" y2="33" stroke="#C8A87A" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="30" y1="29" x2="30" y2="33" stroke="#C8A87A" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="45" y1="29" x2="45" y2="33" stroke="#C8A87A" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="60" y1="29" x2="60" y2="33" stroke="#C8A87A" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="75" y1="29" x2="75" y2="33" stroke="#C8A87A" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="90" y1="29" x2="90" y2="33" stroke="#C8A87A" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Four legs -->
+  <rect x="14" y="38" width="8" height="44" rx="2" fill="#B89868" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="78" y="38" width="8" height="44" rx="2" fill="#B89868" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Perspective back legs (slightly thinner) -->
+  <rect x="20" y="38" width="6" height="40" rx="2" fill="#AA8858" stroke="#555" stroke-width="2" stroke-linejoin="round" opacity="0.6"/>
+  <rect x="74" y="38" width="6" height="40" rx="2" fill="#AA8858" stroke="#555" stroke-width="2" stroke-linejoin="round" opacity="0.6"/>
+  <!-- Cross stretcher (optional apron) -->
+  <rect x="20" y="45" width="60" height="5" fill="#B89868" stroke="#555" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Floor shadow suggestion -->
+  <ellipse cx="50" cy="83" rx="38" ry="4" fill="#DDD" stroke="none" opacity="0.4"/>
+</svg>

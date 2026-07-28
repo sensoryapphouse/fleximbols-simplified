@@ -1,0 +1,31 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Synth body -->
+  <rect x="4" y="30" width="92" height="62" rx="5" fill="#2a2a4a" stroke="#222" stroke-width="2.5"/>
+  <!-- Keyboard area -->
+  <rect x="6" y="62" width="88" height="28" rx="3" fill="#eee" stroke="#333" stroke-width="1.5"/>
+  <!-- White keys -->
+
+<!-- Black keys -->
+  <rect x="14" y="64" width="7" height="16" rx="1" fill="#222" stroke="#111" stroke-width="1"/>
+  <rect x="26" y="64" width="7" height="16" rx="1" fill="#222" stroke="#111" stroke-width="1"/>
+  <rect x="50" y="64" width="7" height="16" rx="1" fill="#222" stroke="#111" stroke-width="1"/>
+  <rect x="62" y="64" width="7" height="16" rx="1" fill="#222" stroke="#111" stroke-width="1"/>
+  <rect x="74" y="64" width="7" height="16" rx="1" fill="#222" stroke="#111" stroke-width="1"/>
+  <!-- Control knobs row -->
+  <circle cx="18" cy="46" r="6" fill="#555" stroke="#aaa" stroke-width="1.5"/>
+  <line x1="18" y1="40" x2="18" y2="44" stroke="#eee" stroke-width="2"/>
+  <circle cx="34" cy="46" r="6" fill="#555" stroke="#aaa" stroke-width="1.5"/>
+  <line x1="30" y1="44" x2="33" y2="41" stroke="#eee" stroke-width="2"/>
+  <circle cx="50" cy="46" r="6" fill="#555" stroke="#aaa" stroke-width="1.5"/>
+  <line x1="50" y1="40" x2="50" y2="44" stroke="#eee" stroke-width="2"/>
+  <circle cx="66" cy="46" r="6" fill="#555" stroke="#aaa" stroke-width="1.5"/>
+  <line x1="70" y1="44" x2="67" y2="41" stroke="#eee" stroke-width="2"/>
+  <!-- Sliders/pitch bend area -->
+  <rect x="76" y="36" width="8" height="22" rx="3" fill="#333" stroke="#666" stroke-width="1.5"/>
+  <rect x="75" y="44" width="10" height="6" rx="2" fill="#c8a060" stroke="#888" stroke-width="1"/>
+  <rect x="86" y="36" width="8" height="22" rx="3" fill="#333" stroke="#666" stroke-width="1.5"/>
+  <rect x="85" y="48" width="10" height="6" rx="2" fill="#c8a060" stroke="#888" stroke-width="1"/>
+  <!-- LCD/display -->
+  <rect x="8" y="33" width="52" height="10" rx="2" fill="#2d5a1e" stroke="#555" stroke-width="1"/>
+  <text x="34" y="41" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="7" fill="#5dff20" text-anchor="middle">SYNTH 001</text>
+</svg>

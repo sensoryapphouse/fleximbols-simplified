@@ -1,0 +1,16 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- AirTag circular body -->
+  <circle cx="50" cy="52" r="40" fill="#f0f0f0" stroke="#333" stroke-width="2.5"/>
+  <!-- Inner circle detail -->
+  <circle cx="50" cy="52" r="32" fill="#e8e8e8" stroke="#999" stroke-width="1.5"/>
+  <!-- Apple-like logo area in center -->
+  <circle cx="50" cy="52" r="10" fill="#d0d0d0" stroke="#888" stroke-width="1.5"/>
+  <!-- Hole at top for attachment -->
+  <circle cx="50" cy="10" r="7" fill="none" stroke="#333" stroke-width="2.5"/>
+  <circle cx="50" cy="10" r="3.5" fill="#ccc" stroke="#333" stroke-width="2"/>
+  <!-- Signal pulse rings -->
+  <circle cx="50" cy="52" r="42" fill="none" stroke="#2266cc" stroke-width="1.5" stroke-dasharray="5,4" opacity="0.6"/>
+  <circle cx="50" cy="52" r="48" fill="none" stroke="#2266cc" stroke-width="1" stroke-dasharray="5,5" opacity="0.35"/>
+  <!-- Sheen line -->
+  <path d="M24 36 Q34 28 46 30" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+</svg>

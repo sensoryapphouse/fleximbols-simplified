@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,17.940) scale(0.8206)">
+<!-- Bookcase frame -->
+  <rect x="14" y="10" width="72" height="74" rx="2" fill="#e8d4b0" stroke="#555" stroke-width="2.5"/>
+  <!-- Left inner wall -->
+  <rect x="14" y="10" width="5" height="74" fill="#c0a070" stroke="none"/>
+  <!-- Right inner wall -->
+  <rect x="81" y="10" width="5" height="74" fill="#c0a070" stroke="none"/>
+  <!-- Shelf 1 -->
+  <rect x="14" y="32" width="72" height="4" fill="#b8956a" stroke="#555" stroke-width="1.5"/>
+  <!-- Shelf 2 -->
+  <rect x="14" y="54" width="72" height="4" fill="#b8956a" stroke="#555" stroke-width="1.5"/>
+  <!-- Books top row -->
+  <rect x="20" y="13" width="6" height="19" rx="1" fill="#e87070" stroke="#444" stroke-width="1.5"/>
+  <rect x="27" y="15" width="5" height="17" rx="1" fill="#7bbfde" stroke="#444" stroke-width="1.5"/>
+  <rect x="33" y="14" width="7" height="18" rx="1" fill="#f5d070" stroke="#444" stroke-width="1.5"/>
+  <rect x="41" y="16" width="5" height="16" rx="1" fill="#b0d8a4" stroke="#444" stroke-width="1.5"/>
+  <rect x="47" y="13" width="6" height="19" rx="1" fill="#d4a4c4" stroke="#444" stroke-width="1.5"/>
+  <rect x="54" y="15" width="5" height="17" rx="1" fill="#c0764a" stroke="#444" stroke-width="1.5"/>
+  <!-- Books middle row -->
+  <rect x="20" y="35" width="7" height="19" rx="1" fill="#7bbfde" stroke="#444" stroke-width="1.5"/>
+  <rect x="28" y="36" width="5" height="18" rx="1" fill="#e87070" stroke="#444" stroke-width="1.5"/>
+  <rect x="34" y="35" width="6" height="19" rx="1" fill="#b0d8a4" stroke="#444" stroke-width="1.5"/>
+  <rect x="41" y="37" width="5" height="17" rx="1" fill="#f5d070" stroke="#444" stroke-width="1.5"/>
+  <!-- Books bottom row -->
+  <rect x="20" y="57" width="5" height="22" rx="1" fill="#d4a4c4" stroke="#444" stroke-width="1.5"/>
+  <rect x="26" y="58" width="6" height="21" rx="1" fill="#7bbfde" stroke="#444" stroke-width="1.5"/>
+  <rect x="33" y="57" width="5" height="22" rx="1" fill="#e87070" stroke="#444" stroke-width="1.5"/>
+  <!-- Bottom line -->
+  <line x1="14" y1="84" x2="86" y2="84" stroke="#555" stroke-width="1.5"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2049" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2049)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

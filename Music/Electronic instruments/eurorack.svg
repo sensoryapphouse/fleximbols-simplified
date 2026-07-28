@@ -1,0 +1,40 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Eurorack case (wider/shallow) -->
+  <rect x="3" y="12" width="94" height="78" rx="3" fill="#1a1a1a" stroke="#222" stroke-width="3"/>
+  <!-- Rails top and bottom -->
+  <rect x="3" y="12" width="94" height="8" rx="2" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <rect x="3" y="82" width="94" height="8" rx="2" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <!-- Module slots (5 narrow modules) -->
+  <!-- Module A -->
+  <rect x="7" y="22" width="16" height="58" rx="2" fill="#2a3050" stroke="#4a7fd4" stroke-width="1.5"/>
+  <circle cx="15" cy="35" r="5" fill="#444" stroke="#aaa" stroke-width="1"/>
+  <line x1="15" y1="30" x2="15" y2="34" stroke="#ddd" stroke-width="1.5"/>
+  <circle cx="11" cy="72" r="2.5" fill="#111" stroke="#4a7fd4" stroke-width="1.5"/>
+  <circle cx="19" cy="72" r="2.5" fill="#111" stroke="#e07b39" stroke-width="1.5"/>
+  <!-- Module B -->
+  <rect x="25" y="22" width="16" height="58" rx="2" fill="#302a20" stroke="#c8a060" stroke-width="1.5"/>
+  <circle cx="33" cy="33" r="5" fill="#444" stroke="#aaa" stroke-width="1"/>
+  <circle cx="33" cy="48" r="5" fill="#444" stroke="#aaa" stroke-width="1"/>
+  <circle cx="29" cy="72" r="2.5" fill="#111" stroke="#5aad5a" stroke-width="1.5"/>
+  <circle cx="37" cy="72" r="2.5" fill="#111" stroke="#c04040" stroke-width="1.5"/>
+  <!-- Module C -->
+  <rect x="43" y="22" width="16" height="58" rx="2" fill="#203020" stroke="#5aad5a" stroke-width="1.5"/>
+  <!-- Mini display -->
+  <rect x="46" y="28" width="10" height="6" rx="1" fill="#1a4a1a" stroke="#5aad5a" stroke-width="1"/>
+  <circle cx="51" cy="48" r="6" fill="#444" stroke="#aaa" stroke-width="1"/>
+  <line x1="51" y1="42" x2="55" y2="46" stroke="#ddd" stroke-width="1.5"/>
+  <circle cx="47" cy="72" r="2.5" fill="#111" stroke="#c8a060" stroke-width="1.5"/>
+  <circle cx="55" cy="72" r="2.5" fill="#111" stroke="#4a7fd4" stroke-width="1.5"/>
+  <!-- Module D -->
+  <rect x="61" y="22" width="16" height="58" rx="2" fill="#302020" stroke="#c04040" stroke-width="1.5"/>
+  <circle cx="69" cy="35" r="5" fill="#444" stroke="#aaa" stroke-width="1"/>
+  <circle cx="69" cy="52" r="4" fill="#444" stroke="#aaa" stroke-width="1"/>
+  <circle cx="65" cy="72" r="2.5" fill="#111" stroke="#e07b39" stroke-width="1.5"/>
+  <circle cx="73" cy="72" r="2.5" fill="#111" stroke="#5aad5a" stroke-width="1.5"/>
+  <!-- Module E -->
+  <rect x="79" y="22" width="16" height="58" rx="2" fill="#282828" stroke="#888" stroke-width="1.5"/>
+  <circle cx="87" cy="38" r="6" fill="#444" stroke="#aaa" stroke-width="1"/>
+  <line x1="87" y1="32" x2="91" y2="36" stroke="#ddd" stroke-width="1.5"/>
+  <circle cx="83" cy="72" r="2.5" fill="#111" stroke="#4a7fd4" stroke-width="1.5"/>
+  <circle cx="91" cy="72" r="2.5" fill="#111" stroke="#c04040" stroke-width="1.5"/>
+</svg>

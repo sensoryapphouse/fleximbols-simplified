@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Grid of organized boxes -->
+  <!-- Row 1 -->
+  <rect x="12" y="18" width="22" height="18" rx="2" fill="#4a90d9" stroke="#333" stroke-width="2"/>
+  <rect x="39" y="18" width="22" height="18" rx="2" fill="#e07070" stroke="#333" stroke-width="2"/>
+  <rect x="66" y="18" width="22" height="18" rx="2" fill="#5cb85c" stroke="#333" stroke-width="2"/>
+  <!-- Row 2 -->
+  <rect x="12" y="42" width="22" height="18" rx="2" fill="#c9a84c" stroke="#333" stroke-width="2"/>
+  <rect x="39" y="42" width="22" height="18" rx="2" fill="#4a90d9" stroke="#333" stroke-width="2"/>
+  <rect x="66" y="42" width="22" height="18" rx="2" fill="#e07070" stroke="#333" stroke-width="2"/>
+  <!-- Labels in boxes -->
+  <line x1="16" y1="25" x2="30" y2="25" stroke="white" stroke-width="1.5"/>
+  <line x1="16" y1="29" x2="26" y2="29" stroke="white" stroke-width="1.5"/>
+  <line x1="43" y1="25" x2="57" y2="25" stroke="white" stroke-width="1.5"/>
+  <line x1="43" y1="29" x2="53" y2="29" stroke="white" stroke-width="1.5"/>
+  <line x1="70" y1="25" x2="84" y2="25" stroke="white" stroke-width="1.5"/>
+  <line x1="16" y1="49" x2="30" y2="49" stroke="white" stroke-width="1.5"/>
+  <line x1="43" y1="49" x2="57" y2="49" stroke="white" stroke-width="1.5"/>
+  <line x1="70" y1="49" x2="84" y2="49" stroke="white" stroke-width="1.5"/>
+  <!-- Organizing hand/arrow pointing to order -->
+  <path d="M50,68 L50,78" stroke="#e05c2a" stroke-width="2" fill="none"/>
+  <polygon points="45,76 55,76 50,82" fill="#e05c2a"/>
+</svg>

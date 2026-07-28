@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Pillow - fluffy puffy shape -->
+  <rect x="10" y="22" width="80" height="56" rx="24" fill="#F0EEE8" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Side gather creases -->
+  <line x1="90" y1="40" x2="90" y2="60" stroke="#CCC" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="10" y1="40" x2="10" y2="60" stroke="#CCC" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Centre crease -->
+  <path d="M22,52 Q50,57 78,52" fill="none" stroke="#DDD8D0" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Puff highlights -->
+  <ellipse cx="36" cy="42" rx="11" ry="9" fill="#F8F6F0" stroke="none" opacity="0.7"/>
+  <ellipse cx="64" cy="42" rx="11" ry="9" fill="#F8F6F0" stroke="none" opacity="0.7"/>
+  <!-- Ticking lines -->
+  <line x1="16" y1="32" x2="84" y2="32" stroke="#E8E4DC" stroke-width="1" stroke-linecap="round"/>
+  <line x1="16" y1="68" x2="84" y2="68" stroke="#E8E4DC" stroke-width="1" stroke-linecap="round"/>
+</svg>

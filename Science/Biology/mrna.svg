@@ -1,0 +1,23 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- mRNA: wavy ribbon with base pairs -->
+  <defs>
+    <marker id="arr" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <polygon points="0,0 6,3 0,6" fill="#333"/>
+    </marker>
+  </defs>
+  <!-- Backbone ribbon wavy path -->
+  <path d="M15,20 Q25,10 35,20 Q45,30 55,20 Q65,10 75,20 Q85,30 85,40" 
+        fill="none" stroke="#c0392b" stroke-width="4" stroke-linecap="round"/>
+  <!-- Base rungs -->
+  <line x1="25" y1="15" x2="25" y2="30" stroke="#2980b9" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="45" y1="25" x2="45" y2="15" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="65" y1="15" x2="65" y2="25" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="78" y1="23" x2="78" y2="35" stroke="#8e44ad" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Ribosome oval shape -->
+  <ellipse cx="50" cy="65" rx="30" ry="20" fill="#f0e6c8" stroke="#333" stroke-width="2.5"/>
+  <ellipse cx="50" cy="58" rx="20" ry="13" fill="#d4c5a0" stroke="#333" stroke-width="2"/>
+  <!-- mRNA thread through ribosome -->
+  <line x1="15" y1="65" x2="85" y2="65" stroke="#c0392b" stroke-width="3" stroke-linecap="round"/>
+  <!-- Arrow showing direction -->
+  <line x1="70" y1="65" x2="85" y2="65" stroke="#c0392b" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+</svg>

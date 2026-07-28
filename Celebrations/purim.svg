@@ -1,0 +1,20 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Hamantaschen (three-cornered pastry) -->
+  <polygon points="50,12 82,75 18,75" fill="#d4a96a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Filling (poppy seed) -->
+  <ellipse cx="50" cy="55" rx="16" ry="14" fill="#444" stroke="#333" stroke-width="2"/>
+  <!-- Mask (Purim costume mask) -->
+  <path d="M15 88 Q18 78 28 80 Q35 82 38 88 Q35 94 28 92 Q18 94 15 88 Z" fill="#9b59b6" stroke="#333" stroke-width="2"/>
+  <circle cx="24" cy="86" r="4" fill="#222" stroke="#333" stroke-width="1.5"/>
+  <path d="M62 88 Q65 78 75 80 Q82 82 85 88 Q82 94 75 92 Q65 94 62 88 Z" fill="#e74c3c" stroke="#333" stroke-width="2"/>
+  <circle cx="71" cy="86" r="4" fill="#222" stroke="#333" stroke-width="1.5"/>
+  <!-- Mask ribbon -->
+  <line x1="38" y1="88" x2="62" y2="88" stroke="#f0d080" stroke-width="3" stroke-linecap="round"/>
+  <!-- Gragger (noisemaker) at top right -->
+  <rect x="72" y="8" width="16" height="10" rx="3" fill="#e8a030" stroke="#333" stroke-width="2"/>
+  <line x1="80" y1="18" x2="80" y2="30" stroke="#5a3a1a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Motion lines -->
+  <line x1="68" y1="10" x2="64" y2="6" stroke="#e8a030" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="70" y1="16" x2="65" y2="14" stroke="#e8a030" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="88" y1="10" x2="92" y2="6" stroke="#e8a030" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

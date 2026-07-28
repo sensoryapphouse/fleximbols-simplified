@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,18.550) scale(0.8145)">
+<!-- Three lockers side by side -->
+  <!-- Locker 1 -->
+  <rect x="10" y="15" width="24" height="65" rx="2" fill="#b8c8d8" stroke="#333" stroke-width="2.5"/>
+  <line x1="10" y1="42" x2="34" y2="42" stroke="#333" stroke-width="1.5"/>
+  <rect x="18" y="26" width="8" height="10" rx="1" fill="#88aacc" stroke="#333" stroke-width="1.5"/>
+  <circle cx="22" cy="54" r="3" fill="#c8a020" stroke="#333" stroke-width="1.5"/>
+  <!-- Locker 2 (center, slightly open) -->
+  <rect x="38" y="15" width="24" height="65" rx="2" fill="#b8c8d8" stroke="#333" stroke-width="2.5"/>
+  <line x1="38" y1="42" x2="62" y2="42" stroke="#333" stroke-width="1.5"/>
+  <!-- Door slightly ajar -->
+  <rect x="38" y="15" width="18" height="65" rx="2" fill="#a0b8c8" stroke="#333" stroke-width="2" transform="rotate(-8 38 47)"/>
+  <rect x="44" y="26" width="8" height="10" rx="1" fill="#88aacc" stroke="#333" stroke-width="1.5" transform="rotate(-8 38 47)"/>
+  <!-- Locker 3 -->
+  <rect x="66" y="15" width="24" height="65" rx="2" fill="#b8c8d8" stroke="#333" stroke-width="2.5"/>
+  <line x1="66" y1="42" x2="90" y2="42" stroke="#333" stroke-width="1.5"/>
+  <rect x="74" y="26" width="8" height="10" rx="1" fill="#88aacc" stroke="#333" stroke-width="1.5"/>
+  <circle cx="78" cy="54" r="3" fill="#c8a020" stroke="#333" stroke-width="1.5"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2277" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2277)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-9.056 -6.689) scale(1.1823)">
+<!-- Domino tile -->
+  <rect x="20" y="22" width="60" height="52" rx="5" fill="#f5f5f0" stroke="#333" stroke-width="2.5"/>
+  <!-- Centre dividing line -->
+  <line x1="50" y1="26" x2="50" y2="70" stroke="#333" stroke-width="2"/>
+  <!-- Left half - 3 dots -->
+  <circle cx="31" cy="34" r="4" fill="#333"/>
+  <circle cx="35" cy="48" r="4" fill="#333"/>
+  <circle cx="31" cy="62" r="4" fill="#333"/>
+  <!-- Right half - 4 dots -->
+  <circle cx="60" cy="34" r="4" fill="#333"/>
+  <circle cx="69" cy="34" r="4" fill="#333"/>
+  <circle cx="60" cy="62" r="4" fill="#333"/>
+  <circle cx="69" cy="62" r="4" fill="#333"/>
+  <!-- Label -->
+  
+</g>
+  </svg>

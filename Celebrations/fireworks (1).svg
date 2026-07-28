@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Main burst (centre) -->
+  <circle cx="50" cy="42" r="4" fill="#f9a825"/>
+  <line x1="50" y1="42" x2="50" y2="18" stroke="#f9a825" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="42" x2="74" y2="42" stroke="#e53935" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="42" x2="26" y2="42" stroke="#e53935" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="42" x2="50" y2="66" stroke="#f9a825" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="42" x2="67" y2="25" stroke="#9c27b0" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="42" x2="33" y2="25" stroke="#9c27b0" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="42" x2="67" y2="59" stroke="#1565c0" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="42" x2="33" y2="59" stroke="#1565c0" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Burst ends (sparkle tips) -->
+  <circle cx="50" cy="18" r="2.5" fill="#f9a825"/>
+  <circle cx="74" cy="42" r="2.5" fill="#e53935"/>
+  <circle cx="26" cy="42" r="2.5" fill="#e53935"/>
+  <circle cx="50" cy="66" r="2.5" fill="#f9a825"/>
+  <circle cx="67" cy="25" r="2.5" fill="#9c27b0"/>
+  <circle cx="33" cy="25" r="2.5" fill="#9c27b0"/>
+  <circle cx="67" cy="59" r="2.5" fill="#1565c0"/>
+  <circle cx="33" cy="59" r="2.5" fill="#1565c0"/>
+  <!-- Small burst top-left -->
+  <circle cx="20" cy="22" r="2" fill="#e53935"/>
+  <line x1="20" y1="22" x2="20" y2="10" stroke="#e53935" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="20" y1="22" x2="32" y2="22" stroke="#f9a825" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="20" y1="22" x2="8" y2="22" stroke="#f9a825" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="20" y1="22" x2="20" y2="34" stroke="#e53935" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="20" y1="22" x2="28" y2="14" stroke="#1565c0" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="20" y1="22" x2="12" y2="14" stroke="#1565c0" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="20" y1="22" x2="28" y2="30" stroke="#2e7d32" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="20" y1="22" x2="12" y2="30" stroke="#2e7d32" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Small burst top-right -->
+  <circle cx="80" cy="18" r="2" fill="#9c27b0"/>
+  <line x1="80" y1="18" x2="80" y2="6" stroke="#9c27b0" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="80" y1="18" x2="92" y2="18" stroke="#f9a825" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="80" y1="18" x2="68" y2="18" stroke="#f9a825" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="80" y1="18" x2="80" y2="30" stroke="#e53935" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="80" y1="18" x2="89" y2="9" stroke="#1565c0" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="80" y1="18" x2="71" y2="9" stroke="#1565c0" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Small burst bottom -->
+  <circle cx="68" cy="74" r="2" fill="#2e7d32"/>
+  <line x1="68" y1="74" x2="68" y2="62" stroke="#2e7d32" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="68" y1="74" x2="80" y2="74" stroke="#f9a825" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="68" y1="74" x2="56" y2="74" stroke="#f9a825" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="68" y1="74" x2="68" y2="86" stroke="#e53935" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="68" y1="74" x2="77" y2="65" stroke="#9c27b0" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="68" y1="74" x2="59" y2="65" stroke="#9c27b0" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Trailing sparks (falling lines) -->
+  <line x1="30" y1="72" x2="26" y2="82" stroke="#f9a825" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+  <line x1="38" y1="78" x2="34" y2="88" stroke="#e53935" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+  <!-- Label -->
+</svg>

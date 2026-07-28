@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Irregular lumpy blob shape -->
+  <path d="M18,70 Q14,55 22,48 Q26,38 36,42 Q40,30 52,34 Q58,26 68,34 Q78,32 80,46 Q88,52 84,64 Q82,74 70,74 Q60,80 50,76 Q38,80 28,76 Q18,78 18,70Z" fill="#d4c8a8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Irregular surface bumps -->
+  <path d="M28,44 Q34,36 40,42" fill="none" stroke="#b8a880" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M52,32 Q60,26 66,34" fill="none" stroke="#b8a880" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M22,58 Q18,50 24,48" fill="none" stroke="#b8a880" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

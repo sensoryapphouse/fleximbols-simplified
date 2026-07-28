@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- sky/sea context -->
+  <path d="M5 70 Q20 66 35 70 Q50 74 65 70 Q80 66 95 70" fill="none" stroke="#5599cc" stroke-width="2" stroke-linecap="round"/>
+  <path d="M5 76 Q20 72 35 76 Q50 80 65 76 Q80 72 95 76" fill="none" stroke="#88bbdd" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- wings spread in soaring -->
+  <!-- left wing -->
+  <path d="M50 48 Q36 42 14 44 Q10 50 22 54 Q36 52 50 54 Z" fill="#f0f0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- left wing tip - black -->
+  <path d="M14 44 Q8 42 6 48 Q10 54 22 54" fill="#2a2a2a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M6 48 Q4 44 8 42 Q10 46 12 48" fill="#2a2a2a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- right wing -->
+  <path d="M50 48 Q64 42 86 44 Q90 50 78 54 Q64 52 50 54 Z" fill="#f0f0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- right wing tip - black -->
+  <path d="M86 44 Q92 42 94 48 Q90 54 78 54" fill="#2a2a2a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M94 48 Q96 44 92 42 Q90 46 88 48" fill="#2a2a2a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- body -->
+  <ellipse cx="50" cy="52" rx="10" ry="8" fill="#f0f0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- tail -->
+  <path d="M44 58 Q50 62 56 58 Q54 66 50 68 Q46 66 44 58 Z" fill="#f0f0f0" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- neck and head - white -->
+  <path d="M44 50 Q40 44 42 38 Q48 34 54 38 Q56 44 52 50 Z" fill="#f0f0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="46" cy="34" r="10" fill="#f0f0f0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- yellow hooked bill (herring gull) -->
+  <path d="M36 36 Q42 32 48 34 Q46 40 40 42 Z" fill="#e0c020" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- red spot on lower bill -->
+  <circle cx="38" cy="39" r="2" fill="#e03020" stroke="#333" stroke-width="0.5"/>
+  <!-- eye - pale yellow -->
+  <circle cx="42" cy="30" r="3" fill="#e8d020" stroke="#333" stroke-width="1"/>
+  <circle cx="42" cy="30" r="2" fill="#333"/>
+  <circle cx="41.5" cy="29.5" r="0.7" fill="white"/>
+  <!-- grey back/wing cover -->
+  <path d="M34 50 Q50 46 66 50" fill="none" stroke="#9898a8" stroke-width="2" stroke-linecap="round"/>
+</svg>

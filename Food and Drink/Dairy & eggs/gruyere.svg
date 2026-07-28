@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-15.679 -21.970) scale(1.3853)">
+<!-- Wedge of gruyere - pale yellow -->
+  <path d="M15 75 L15 35 L80 35 L80 75 Z" fill="#f0d878" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Brown rind on top -->
+  <rect x="15" y="29" width="65" height="8" rx="2" fill="#c8a050" stroke="#333" stroke-width="2.5"/>
+  <!-- Small holes characteristic of gruyere -->
+  <ellipse cx="30" cy="52" rx="4" ry="3" fill="#d8c050" stroke="#b8a030" stroke-width="1.5"/>
+  <ellipse cx="47" cy="58" rx="5" ry="3.5" fill="#d8c050" stroke="#b8a030" stroke-width="1.5"/>
+  <ellipse cx="64" cy="48" rx="4" ry="3" fill="#d8c050" stroke="#b8a030" stroke-width="1.5"/>
+  <ellipse cx="38" cy="67" rx="3.5" ry="2.5" fill="#d8c050" stroke="#b8a030" stroke-width="1.5"/>
+  <ellipse cx="58" cy="65" rx="3" ry="2" fill="#d8c050" stroke="#b8a030" stroke-width="1.5"/>
+  <ellipse cx="72" cy="62" rx="3" ry="2" fill="#d8c050" stroke="#b8a030" stroke-width="1.5"/>
+</g>
+  </svg>

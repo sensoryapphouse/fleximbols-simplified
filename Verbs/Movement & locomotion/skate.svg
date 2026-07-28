@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ice -->
+  <rect x="5" y="76" width="90" height="8" rx="2" fill="#eef4ff" stroke="#c8d8e8" stroke-width="1.5"/>
+  <!-- Head -->
+  <circle cx="50" cy="14" r="9" fill="#f5c89a" stroke="#333" stroke-width="2"/>
+  <!-- Body - slight forward lean -->
+  <line x1="50" y1="23" x2="48" y2="54" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <!-- Arms out -->
+  <line x1="49" y1="36" x2="32" y2="40" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="49" y1="36" x2="66" y2="32" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Legs - skating stride -->
+  <line x1="48" y1="54" x2="36" y2="68" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="48" y1="54" x2="60" y2="70" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Skate boots -->
+  <rect x="28" y="68" width="14" height="6" rx="2" fill="#333" stroke="#333" stroke-width="1"/>
+  <rect x="54" y="70" width="14" height="6" rx="2" fill="#333" stroke="#333" stroke-width="1"/>
+  <!-- Blades -->
+  <line x1="26" y1="74" x2="44" y2="76" stroke="#aaa" stroke-width="2"/>
+  <line x1="52" y1="76" x2="70" y2="78" stroke="#aaa" stroke-width="2"/>
+  <!-- Motion lines -->
+  <line x1="14" y1="50" x2="22" y2="50" stroke="#aaa" stroke-width="1.5" stroke-dasharray="2,2"/>
+  <line x1="12" y1="56" x2="20" y2="56" stroke="#aaa" stroke-width="1.5" stroke-dasharray="2,2"/>
+</svg>

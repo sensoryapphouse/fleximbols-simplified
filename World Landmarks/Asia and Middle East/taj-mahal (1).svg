@@ -1,0 +1,46 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sky -->
+  <rect x="0" y="0" width="100" height="60" fill="#87ceeb"/>
+  <!-- Reflecting pool -->
+  <rect x="10" y="74" width="80" height="15" rx="2" fill="#a0c8e8" stroke="#7ab0d0" stroke-width="1.5"/>
+  <!-- Reflection -->
+  <path d="M35,89 Q50,85 65,89 L62,94 Q50,92 38,94 Z" fill="#c8d8e8" opacity="0.6"/>
+  <!-- Cypress trees flanking -->
+  <rect x="6" y="60" width="4" height="18" rx="1" fill="#2e6030"/>
+  <ellipse cx="8" cy="58" rx="5" ry="8" fill="#3a7a30"/>
+  <rect x="90" y="60" width="4" height="18" rx="2" fill="#2e6030"/>
+  <ellipse cx="92" cy="58" rx="5" ry="8" fill="#3a7a30"/>
+  <!-- Platform/plinth -->
+  <rect x="8" y="70" width="84" height="6" rx="1" fill="#e8d8c0" stroke="#c4a880" stroke-width="2"/>
+  <!-- Side minarets (4 corners) -->
+  <rect x="12" y="44" width="6" height="28" rx="2" fill="#f5e8d0" stroke="#c4a880" stroke-width="1.5"/>
+  <path d="M12,44 Q15,38 18,44" fill="#e8c8a0" stroke="#c4a880" stroke-width="1.5"/>
+  <circle cx="15" cy="37" r="2.5" fill="#e8c8a0" stroke="#c4a880" stroke-width="1"/>
+  <line x1="15" y1="34" x2="15" y2="32" stroke="#c4a880" stroke-width="1.5"/>
+  <rect x="82" y="44" width="6" height="28" rx="2" fill="#f5e8d0" stroke="#c4a880" stroke-width="1.5"/>
+  <path d="M82,44 Q85,38 88,44" fill="#e8c8a0" stroke="#c4a880" stroke-width="1.5"/>
+  <circle cx="85" cy="37" r="2.5" fill="#e8c8a0" stroke="#c4a880" stroke-width="1"/>
+  <line x1="85" y1="34" x2="85" y2="32" stroke="#c4a880" stroke-width="1.5"/>
+  <!-- Outer small minarets -->
+  <rect x="22" y="50" width="5" height="22" rx="2" fill="#f5e8d0" stroke="#c4a880" stroke-width="1.5"/>
+  <path d="M22,50 Q24.5,45 27,50" fill="#e8c8a0" stroke="#c4a880" stroke-width="1"/>
+  <circle cx="24.5" cy="44" r="2" fill="#e8c8a0" stroke="#c4a880" stroke-width="1"/>
+  <rect x="73" y="50" width="5" height="22" rx="2" fill="#f5e8d0" stroke="#c4a880" stroke-width="1.5"/>
+  <path d="M73,50 Q75.5,45 78,50" fill="#e8c8a0" stroke="#c4a880" stroke-width="1"/>
+  <circle cx="75.5" cy="44" r="2" fill="#e8c8a0" stroke="#c4a880" stroke-width="1"/>
+  <!-- Main building -->
+  <rect x="28" y="50" width="44" height="22" rx="2" fill="#f5e8d0" stroke="#c4a880" stroke-width="2"/>
+  <!-- Central main iwan arch -->
+  <path d="M38,72 L38,55 Q50,46 62,55 L62,72" fill="#e8d8c0" stroke="#c4a880" stroke-width="2"/>
+  <!-- Side arched niches -->
+  <path d="M28,72 L28,60 Q33,55 38,60 L38,72" fill="#e8c8b0" stroke="#c4a880" stroke-width="1.5"/>
+  <path d="M62,72 L62,60 Q67,55 72,60 L72,72" fill="#e8c8b0" stroke="#c4a880" stroke-width="1.5"/>
+  <!-- Main dome - onion shaped -->
+  <path d="M38,50 Q38,30 50,24 Q62,30 62,50 Z" fill="#f5e8d0" stroke="#c4a880" stroke-width="2"/>
+  <!-- Dome finial -->
+  <line x1="50" y1="24" x2="50" y2="18" stroke="#c4a880" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="50" cy="17" r="2" fill="#c4a880" stroke="#8b6914" stroke-width="1"/>
+  <!-- Small side domes -->
+  <path d="M29,50 Q29,42 35,40 Q41,42 41,50 Z" fill="#f5e8d0" stroke="#c4a880" stroke-width="1.5"/>
+  <path d="M59,50 Q59,42 65,40 Q71,42 71,50 Z" fill="#f5e8d0" stroke="#c4a880" stroke-width="1.5"/>
+</svg>

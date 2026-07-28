@@ -1,0 +1,18 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Handle -->
+  <rect x="58" y="14" width="26" height="50" rx="10" fill="#5080c8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Blade head -->
+  <rect x="10" y="44" width="52" height="18" rx="3" fill="#d0d0d0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Deshedder blade teeth (fine comb) -->
+  <rect x="14" y="60" width="3" height="8" rx="1" fill="#888" stroke="#555" stroke-width="1"/>
+  <rect x="19" y="60" width="3" height="8" rx="1" fill="#888" stroke="#555" stroke-width="1"/>
+  <rect x="24" y="60" width="3" height="8" rx="1" fill="#888" stroke="#555" stroke-width="1"/>
+  <rect x="29" y="60" width="3" height="8" rx="1" fill="#888" stroke="#555" stroke-width="1"/>
+  <rect x="34" y="60" width="3" height="8" rx="1" fill="#888" stroke="#555" stroke-width="1"/>
+  <rect x="39" y="60" width="3" height="8" rx="1" fill="#888" stroke="#555" stroke-width="1"/>
+  <rect x="44" y="60" width="3" height="8" rx="1" fill="#888" stroke="#555" stroke-width="1"/>
+  <rect x="49" y="60" width="3" height="8" rx="1" fill="#888" stroke="#555" stroke-width="1"/>
+  <rect x="54" y="60" width="3" height="8" rx="1" fill="#888" stroke="#555" stroke-width="1"/>
+  <!-- Fur collected -->
+  <path d="M10 44 Q18 36 30 40 Q42 44 50 38" fill="none" stroke="#c8a060" stroke-width="3" stroke-linecap="round"/>
+</svg>

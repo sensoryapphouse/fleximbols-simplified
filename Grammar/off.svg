@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(-59.477 -96.050) scale(1.1894)">
+  <!-- CLOSED BOX -->
+  <rect x="100" y="260" width="312" height="180" fill="#caa379" stroke="#000000" stroke-width="5"/>
+  <rect x="100" y="260" width="312" height="32" fill="#bb9771" stroke="#000000" stroke-width="5"/>
+  <line x1="100" y1="292" x2="412" y2="292" stroke="#000000" stroke-width="5"/>
+
+  <!-- Ball sitting ON the closed lid (ball bottom y=260 touches lid top) -->
+  <circle cx="256" cy="206" r="54" fill="#e74c3c" stroke="#000000" stroke-width="5"/>
+  <circle cx="236" cy="186" r="16" fill="#f7b8b0"/>
+
+  <!-- Arrow indicating direction the ball would move OFF (up and to the right) -->
+  <path d="M 310 200 Q 380 160 440 170" fill="none" stroke="#2eb05a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 310 200 Q 380 160 440 170" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <polygon points="440,170 408,156 422,188" fill="#2eb05a" stroke="#000000" stroke-width="5"/>
+</g>
+  </svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Body - large lizard -->
+  <ellipse cx="50" cy="58" rx="28" ry="12" fill="#7a6a40" stroke="#3a3020" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="22" cy="54" rx="12" ry="9" fill="#7a6a40" stroke="#3a3020" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <path d="M30 52 Q36 50 38 54 Q36 58 30 60Z" fill="#7a6a40" stroke="#3a3020" stroke-width="1.5"/>
+  <!-- Tail - long and tapered -->
+  <path d="M78 56 Q92 52 98 54 Q94 60 78 64Z" fill="#6a5a30" stroke="#3a3020" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Forked tongue -->
+  <path d="M12 54 Q6 52 2 50 M2 50 Q0 48 -1 47 M2 50 Q1 52 0 54" fill="none" stroke="#c03030" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Legs - sturdy -->
+  <path d="M38 68 L34 80 M48 70 L44 80 M60 70 L62 80 M72 68 L75 80" stroke="#6a5a30" stroke-width="3" stroke-linecap="round"/>
+  <!-- Claws -->
+  <path d="M34 80 L31 83 M34 80 L35 83 M34 80 L37 82" stroke="#4a3a20" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M44 80 L41 83 M44 80 L44 83 M44 80 L47 82" stroke="#4a3a20" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Scale texture on back -->
+  <path d="M45 48 Q47 45 49 48 M52 47 Q54 44 56 47 M59 48 Q61 45 63 48 M66 49 Q68 46 70 49" fill="#6a5a30" stroke="#3a3020" stroke-width="1"/>
+  <!-- Eye -->
+  <circle cx="17" cy="52" r="3" fill="#c8a020" stroke="#3a3020" stroke-width="1.5"/>
+  <ellipse cx="17" cy="52" rx="1" ry="2" fill="#1a1010"/>
+  <!-- Nostril -->
+  <circle cx="11" cy="56" r="1" fill="#3a3020"/>
+</svg>

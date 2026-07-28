@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,8.160) scale(0.9184)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- DIP chip body -->
+  <rect x="28" y="18" width="44" height="52" rx="3" fill="#1a1a1a" stroke="#4a4a4a" stroke-width="2.5"/>
+  <!-- Notch at top -->
+  <path d="M44,18 Q50,14 56,18" fill="#1a1a1a" stroke="#4a4a4a" stroke-width="2"/>
+  <!-- Chip label -->
+  <text x="50" y="42" font-size="6.5" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold" text-anchor="middle" fill="#c0c0c0">MCU</text>
+  <text x="50" y="52" font-size="5" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#808080">32-bit</text>
+  <!-- Circle indicator (pin 1) -->
+  <circle cx="32" cy="24" r="2" fill="#808080"/>
+  <!-- Pins left side -->
+  <rect x="16" y="24" width="12" height="4" rx="1" fill="#c0c0a0" stroke="#8a8a60" stroke-width="1"/>
+  <rect x="16" y="32" width="12" height="4" rx="1" fill="#c0c0a0" stroke="#8a8a60" stroke-width="1"/>
+  <rect x="16" y="40" width="12" height="4" rx="1" fill="#c0c0a0" stroke="#8a8a60" stroke-width="1"/>
+  <rect x="16" y="48" width="12" height="4" rx="1" fill="#c0c0a0" stroke="#8a8a60" stroke-width="1"/>
+  <rect x="16" y="56" width="12" height="4" rx="1" fill="#c0c0a0" stroke="#8a8a60" stroke-width="1"/>
+  <rect x="16" y="64" width="12" height="4" rx="1" fill="#c0c0a0" stroke="#8a8a60" stroke-width="1"/>
+  <!-- Pins right side -->
+  <rect x="72" y="24" width="12" height="4" rx="1" fill="#c0c0a0" stroke="#8a8a60" stroke-width="1"/>
+  <rect x="72" y="32" width="12" height="4" rx="1" fill="#c0c0a0" stroke="#8a8a60" stroke-width="1"/>
+  <rect x="72" y="40" width="12" height="4" rx="1" fill="#c0c0a0" stroke="#8a8a60" stroke-width="1"/>
+  <rect x="72" y="48" width="12" height="4" rx="1" fill="#c0c0a0" stroke="#8a8a60" stroke-width="1"/>
+  <rect x="72" y="56" width="12" height="4" rx="1" fill="#c0c0a0" stroke="#8a8a60" stroke-width="1"/>
+  <rect x="72" y="64" width="12" height="4" rx="1" fill="#c0c0a0" stroke="#8a8a60" stroke-width="1"/>
+  <!-- Circuit traces -->
+  <line x1="8" y1="26" x2="16" y2="26" stroke="#e0b030" stroke-width="1.5"/>
+  <line x1="8" y1="34" x2="16" y2="34" stroke="#e0b030" stroke-width="1.5"/>
+  <line x1="84" y1="26" x2="92" y2="26" stroke="#e0b030" stroke-width="1.5"/>
+  <line x1="84" y1="42" x2="92" y2="42" stroke="#e0b030" stroke-width="1.5"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl862" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl862)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Main stem -->
+  <line x1="50" y1="83" x2="50" y2="55" stroke="#5a9e6a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Branching stems -->
+  <line x1="50" y1="58" x2="25" y2="45" stroke="#5a9e6a" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="50" y1="58" x2="75" y2="45" stroke="#5a9e6a" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="50" y1="55" x2="50" y2="40" stroke="#5a9e6a" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="25" y1="45" x2="18" y2="35" stroke="#5a9e6a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="25" y1="45" x2="32" y2="35" stroke="#5a9e6a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="75" y1="45" x2="68" y2="35" stroke="#5a9e6a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="75" y1="45" x2="82" y2="35" stroke="#5a9e6a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="40" x2="43" y2="30" stroke="#5a9e6a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="40" x2="57" y2="30" stroke="#5a9e6a" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Papery clustered flowers - purple clusters -->
+  <!-- Left cluster -->
+  <ellipse cx="18" cy="32" rx="6" ry="5" fill="#9060b0" stroke="#603080" stroke-width="1.2"/>
+  <ellipse cx="18" cy="30" rx="5" ry="4" fill="#b070c8" stroke="#603080" stroke-width="1"/>
+  <ellipse cx="32" cy="32" rx="6" ry="5" fill="#9060b0" stroke="#603080" stroke-width="1.2"/>
+  <ellipse cx="32" cy="30" rx="5" ry="4" fill="#b070c8" stroke="#603080" stroke-width="1"/>
+  <!-- Right cluster -->
+  <ellipse cx="68" cy="32" rx="6" ry="5" fill="#9060b0" stroke="#603080" stroke-width="1.2"/>
+  <ellipse cx="68" cy="30" rx="5" ry="4" fill="#b070c8" stroke="#603080" stroke-width="1"/>
+  <ellipse cx="82" cy="32" rx="6" ry="5" fill="#9060b0" stroke="#603080" stroke-width="1.2"/>
+  <ellipse cx="82" cy="30" rx="5" ry="4" fill="#b070c8" stroke="#603080" stroke-width="1"/>
+  <!-- Center cluster -->
+  <ellipse cx="43" cy="27" rx="6" ry="5" fill="#9060b0" stroke="#603080" stroke-width="1.2"/>
+  <ellipse cx="43" cy="25" rx="5" ry="4" fill="#b070c8" stroke="#603080" stroke-width="1"/>
+  <ellipse cx="57" cy="27" rx="6" ry="5" fill="#9060b0" stroke="#603080" stroke-width="1.2"/>
+  <ellipse cx="57" cy="25" rx="5" ry="4" fill="#b070c8" stroke="#603080" stroke-width="1"/>
+  <!-- Mid flowers -->
+  <ellipse cx="25" cy="42" rx="5" ry="4" fill="#a060c0" stroke="#603080" stroke-width="1"/>
+  <ellipse cx="75" cy="42" rx="5" ry="4" fill="#a060c0" stroke="#603080" stroke-width="1"/>
+  <ellipse cx="50" cy="37" rx="5" ry="4" fill="#a060c0" stroke="#603080" stroke-width="1"/>
+  <!-- White inner calyx details -->
+  <ellipse cx="18" cy="31" rx="3" ry="2.5" fill="#f0e0f0" stroke="none"/>
+  <ellipse cx="32" cy="31" rx="3" ry="2.5" fill="#f0e0f0" stroke="none"/>
+  <ellipse cx="68" cy="31" rx="3" ry="2.5" fill="#f0e0f0" stroke="none"/>
+  <ellipse cx="82" cy="31" rx="3" ry="2.5" fill="#f0e0f0" stroke="none"/>
+</svg>

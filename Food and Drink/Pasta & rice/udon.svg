@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- bowl (Japanese dark) -->
+<path d="M12,46 Q12,74 50,80 Q88,74 88,46 Z" fill="#223322" stroke="#112211" stroke-width="2.5"/>
+<ellipse cx="50" cy="46" rx="38" ry="12" fill="#334433" stroke="#112211" stroke-width="2"/>
+<!-- broth -->
+<ellipse cx="50" cy="46" rx="35" ry="10" fill="#885533" stroke="none"/>
+<!-- thick white udon noodles -->
+<path d="M18,44 Q28,36 38,44 Q48,52 58,44 Q68,36 78,44" fill="none" stroke="white" stroke-width="4" stroke-linecap="round"/>
+<path d="M20,52 Q32,44 42,52" fill="none" stroke="white" stroke-width="4" stroke-linecap="round"/>
+<!-- tempura -->
+<ellipse cx="64" cy="39" rx="10" ry="6" fill="#ddaa55" stroke="#997722" stroke-width="2"/>
+<!-- green onion -->
+<line x1="32" y1="34" x2="30" y2="46" stroke="#66cc44" stroke-width="2" stroke-linecap="round"/>
+<line x1="36" y1="33" x2="34" y2="46" stroke="#66cc44" stroke-width="2" stroke-linecap="round"/>
+</svg>

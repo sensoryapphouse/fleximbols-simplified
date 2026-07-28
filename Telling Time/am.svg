@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Clock face -->
+  <circle cx="50" cy="45" r="30" fill="#f8f8f0" stroke="#333" stroke-width="2.5"/>
+  <!-- Clock hands showing noon/midnight -->
+  <line x1="50" y1="45" x2="50" y2="22" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="45" x2="68" y2="45" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Hour marks -->
+  <line x1="50" y1="17" x2="50" y2="21" stroke="#555" stroke-width="2"/>
+  <line x1="78" y1="45" x2="74" y2="45" stroke="#555" stroke-width="2"/>
+  <line x1="50" y1="73" x2="50" y2="69" stroke="#555" stroke-width="2"/>
+  <line x1="22" y1="45" x2="26" y2="45" stroke="#555" stroke-width="2"/>
+  <!-- AM/PM label: AM = morning, first half lit (left ticked) -->
+  <rect x="12" y="72" width="33" height="12" rx="3" fill="#ffffff" stroke="#333333" stroke-width="1.5"/>
+  <polyline points="21,78 26,82 35,74" fill="none" stroke="#2e9e3f" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="55" y="72" width="33" height="12" rx="3" fill="#cccccc" stroke="#888888" stroke-width="1.5"/>
+
+</svg>

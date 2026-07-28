@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Gentle curved wind lines -->
+  <path d="M10,30 Q30,22 50,30 Q70,38 88,30" fill="none" stroke="#aaccee" stroke-width="3" stroke-linecap="round"/>
+  <path d="M10,44 Q28,36 50,44 Q70,52 85,44" fill="none" stroke="#aaccee" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M10,58 Q32,50 52,58 Q70,66 86,58" fill="none" stroke="#aaccee" stroke-width="2" stroke-linecap="round"/>
+  <!-- Small arrow heads at end of lines -->
+  <polyline points="82,24 88,30 82,36" fill="none" stroke="#aaccee" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="79,38 85,44 79,50" fill="none" stroke="#aaccee" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="80,52 86,58 80,64" fill="none" stroke="#aaccee" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Leaves/dandelion seeds suggesting gentle breeze -->
+  <circle cx="25" cy="36" r="2" fill="#aaddaa"/>
+  <circle cx="45" cy="48" r="2" fill="#aaddaa"/>
+  <circle cx="65" cy="40" r="2" fill="#aaddaa"/>
+</svg>

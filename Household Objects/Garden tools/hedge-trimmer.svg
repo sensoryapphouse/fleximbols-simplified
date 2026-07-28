@@ -1,0 +1,25 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Hedge trimmer: long blade bar + motor body + handles -->
+  <!-- Motor body -->
+  <rect x="55" y="28" width="30" height="20" rx="4" fill="#e05c2a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Rear handle -->
+  <path d="M82,30 Q92,30 92,38 Q92,46 82,46" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <!-- Front handle -->
+  <rect x="42" y="25" width="16" height="8" rx="3" fill="#555" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Blade bar (long flat bar) -->
+  <rect x="5" y="40" width="60" height="8" rx="2" fill="#bbb" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Blade teeth top -->
+  <polygon points="10,40 14,34 18,40" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <polygon points="18,40 22,34 26,40" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <polygon points="26,40 30,34 34,40" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <polygon points="34,40 38,34 42,40" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <polygon points="42,40 46,34 50,40" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <!-- Blade teeth bottom -->
+  <polygon points="10,48 14,54 18,48" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <polygon points="18,48 22,54 26,48" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <polygon points="26,48 30,54 34,48" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <polygon points="34,48 38,54 42,48" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <polygon points="42,48 46,54 50,48" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <!-- Cord -->
+  <path d="M85,38 Q93,20 88,12" fill="none" stroke="#555" stroke-width="2" stroke-linecap="round" stroke-dasharray="3,2"/>
+</svg>

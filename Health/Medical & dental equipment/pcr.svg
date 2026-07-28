@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- PCR test: thermocycler machine with tubes, DNA amplification implied -->
+  <!-- Machine body -->
+  <rect x="10" y="30" width="80" height="52" rx="6" fill="#ddeeff" stroke="#222" stroke-width="2.5"/>
+  <!-- Lid/top -->
+  <rect x="10" y="24" width="80" height="10" rx="4" fill="#aaccee" stroke="#222" stroke-width="2"/>
+  <!-- Display panel -->
+  <rect x="18" y="52" width="36" height="22" rx="3" fill="#222" stroke="#444" stroke-width="1.5"/>
+  <!-- Screen content: graph lines -->
+  <polyline points="22,70 28,60 34,72 40,55 46,70" fill="none" stroke="#4af" stroke-width="2"/>
+  <!-- Tube block (sample wells) -->
+  <rect x="62" y="38" width="22" height="30" rx="3" fill="#eee" stroke="#222" stroke-width="1.5"/>
+  <!-- PCR tubes in block -->
+  <rect x="65" y="41" width="5" height="20" rx="2" fill="#4488cc" stroke="#222" stroke-width="1"/>
+  <rect x="72" y="41" width="5" height="20" rx="2" fill="#4488cc" stroke="#222" stroke-width="1"/>
+  <rect x="79" y="41" width="3" height="20" rx="1.5" fill="#4488cc" stroke="#222" stroke-width="1"/>
+  <!-- Control buttons -->
+  <circle cx="26" cy="44" r="4" fill="#cc2222" stroke="#222" stroke-width="1.5"/>
+  <circle cx="38" cy="44" r="4" fill="#22cc22" stroke="#222" stroke-width="1.5"/>
+  <circle cx="50" cy="44" r="4" fill="#2222cc" stroke="#222" stroke-width="1.5"/>
+  <!-- Label -->
+</svg>

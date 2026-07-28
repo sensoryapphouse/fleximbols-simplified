@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-24.810 -32.854) scale(1.4977)">
+<!-- Old hard bread loaf -->
+  <path d="M20 65 L20 55 Q20 40 35 38 L65 38 Q80 38 80 55 L80 65 Z" fill="#c8a060" stroke="#7a5820" stroke-width="2.5"/>
+  <rect x="20" y="65" width="60" height="8" rx="1" fill="#b89050" stroke="#7a5820" stroke-width="2"/>
+  <!-- Cracks showing stale/hard texture -->
+  <path d="M35 50 L40 55 L35 60" fill="none" stroke="#7a5820" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M55 45 L60 52 L55 57" fill="none" stroke="#7a5820" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M45 55 L50 62" fill="none" stroke="#7a5820" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Stale indicator lines radiating -->
+  <line x1="22" y1="30" x2="26" y2="36" stroke="#b08840" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="25" x2="50" y2="32" stroke="#b08840" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="78" y1="30" x2="74" y2="36" stroke="#b08840" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+  </svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Knife/blade body -->
+  <polygon points="15,38 15,58 80,52 85,45 80,38" fill="#c8c8c8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Serrated saw-tooth edge along bottom -->
+  <path d="M15,58 L21,52 L27,58 L33,52 L39,58 L45,52 L51,57 L57,52 L63,57 L69,52 L75,57 L80,52" fill="none" stroke="#333" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Handle -->
+  <rect x="5" y="36" width="14" height="24" rx="3" fill="#8b6f47" stroke="#333" stroke-width="2.5"/>
+  <!-- Blade shine -->
+  <line x1="25" y1="40" x2="72" y2="41" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+</svg>

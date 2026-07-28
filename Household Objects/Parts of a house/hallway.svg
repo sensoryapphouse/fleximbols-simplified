@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Corridor perspective - vanishing point -->
+  <!-- Floor converging to back -->
+  <polygon points="8,88 92,88 72,52 28,52" fill="#d4c4a0" stroke="#8a6030" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Left wall -->
+  <polygon points="8,88 8,10 28,30 28,52" fill="#e8e0cc" stroke="#8a6030" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Right wall -->
+  <polygon points="92,88 92,10 72,30 72,52" fill="#ddd5bb" stroke="#8a6030" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Ceiling -->
+  <polygon points="8,10 92,10 72,30 28,30" fill="#f0e8d8" stroke="#8a6030" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Back wall with door -->
+  <rect x="28" y="30" width="44" height="22" fill="#e4dccc" stroke="#8a6030" stroke-width="2"/>
+  <!-- Back door -->
+  <rect x="38" y="34" width="24" height="18" fill="#8a6030" stroke="#5a3a1a" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Door handle -->
+  <circle cx="58" cy="44" r="2" fill="#cc9900"/>
+  <!-- Light on ceiling -->
+  <ellipse cx="50" cy="18" rx="6" ry="4" fill="#ffee99" stroke="#cc9900" stroke-width="1.5"/>
+  <line x1="50" y1="10" x2="50" y2="14" stroke="#888" stroke-width="2" stroke-linecap="round"/>
+  <!-- Light rays -->
+  <line x1="50" y1="22" x2="30" y2="52" stroke="#ffee99" stroke-width="1" opacity="0.4"/>
+  <line x1="50" y1="22" x2="50" y2="52" stroke="#ffee99" stroke-width="1" opacity="0.4"/>
+  <line x1="50" y1="22" x2="70" y2="52" stroke="#ffee99" stroke-width="1" opacity="0.4"/>
+  <!-- Coat hook on left wall -->
+  <line x1="12" y1="48" x2="18" y2="45" stroke="#8a6030" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="18" cy="44" r="2" fill="#8a6030" stroke="#5a3a1a" stroke-width="1"/>
+  <!-- Coat hanging -->
+  <path d="M18,44 Q20,55 16,62" fill="none" stroke="#cc8844" stroke-width="4" stroke-linecap="round"/>
+  <!-- Floor tiles/lines -->
+  <line x1="28" y1="62" x2="72" y2="62" stroke="#c0b090" stroke-width="1" stroke-linecap="round"/>
+  <line x1="28" y1="72" x2="72" y2="72" stroke="#c0b090" stroke-width="1" stroke-linecap="round"/>
+  <line x1="8" y1="88" x2="92" y2="88" stroke="#8a6030" stroke-width="1.5"/>
+</svg>

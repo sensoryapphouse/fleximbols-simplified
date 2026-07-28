@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Trailing tentacles -->
+  <path d="M35 58 Q30 68 33 80 Q36 88 32 94" fill="none" stroke="#c080a0" stroke-width="2" stroke-linecap="round"/>
+  <path d="M40 60 Q36 72 38 82 Q40 90 37 95" fill="none" stroke="#c080a0" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M45 62 Q42 74 44 84 Q46 91 43 96" fill="none" stroke="#c080a0" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M50 63 Q50 76 50 86 Q50 92 50 96" fill="none" stroke="#c080a0" stroke-width="2" stroke-linecap="round"/>
+  <path d="M55 62 Q58 74 56 84 Q54 91 57 96" fill="none" stroke="#c080a0" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M60 60 Q64 72 62 82 Q60 90 63 95" fill="none" stroke="#c080a0" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M65 58 Q70 68 67 80 Q64 88 68 94" fill="none" stroke="#c080a0" stroke-width="2" stroke-linecap="round"/>
+  <!-- Bell/umbrella -->
+  <path d="M18 52 Q18 20 50 18 Q82 20 82 52 Q78 62 50 64 Q22 62 18 52 Z" fill="#d0a0c0" stroke="#9060808" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Translucent inner dome highlight -->
+  <ellipse cx="50" cy="38" rx="22" ry="16" fill="#e8c0d8" stroke="none" opacity="0.6"/>
+  <!-- Rim of bell with wave pattern -->
+  <path d="M18 52 Q24 58 30 54 Q36 50 42 56 Q48 62 54 56 Q60 50 66 54 Q72 58 78 54 Q80 52 82 52" fill="none" stroke="#9060a0" stroke-width="2" stroke-linecap="round"/>
+  <!-- Simple face - cute -->
+  <circle cx="43" cy="40" r="3" fill="#7040608" stroke="#9060808" stroke-width="1"/>
+  <circle cx="57" cy="40" r="3" fill="#704060" stroke="#906080" stroke-width="1"/>
+  <circle cx="43" cy="40" r="1.5" fill="#111111"/>
+  <circle cx="57" cy="40" r="1.5" fill="#111111"/>
+  <path d="M45 48 Q50 52 55 48" fill="none" stroke="#9060808" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Label -->
+</svg>

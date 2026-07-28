@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-9.375 -10.883) scale(1.1875)">
+<!-- Upper lip -->
+  <path d="M20 44 Q30 38 40 44 Q50 38 60 44 Q70 38 80 44 Q80 50 70 54 Q60 58 50 56 Q40 58 30 54 Q20 50 20 44Z" fill="#c96a6a" stroke="#333" stroke-width="2.5"/>
+  <!-- Cupid's bow -->
+  <path d="M20 44 Q30 38 40 44 Q50 38 60 44 Q70 38 80 44" fill="none" stroke="#333" stroke-width="2"/>
+  <!-- Mouth inner (slightly open) -->
+  <path d="M30 50 Q50 62 70 50" fill="#8b2222" stroke="#333" stroke-width="1.5"/>
+  <!-- Lower lip -->
+  <path d="M28 51 Q50 64 72 51 Q70 54 65 57 Q55 62 50 62 Q45 62 35 57 Q30 54 28 51Z" fill="#d47a7a" stroke="#333" stroke-width="1.5"/>
+</g>
+  <g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl497" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl497)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

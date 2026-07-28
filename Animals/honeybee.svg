@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Honeybee worker with pollen -->
+  <!-- Wings - two pairs -->
+  <ellipse cx="38" cy="40" rx="16" ry="9" fill="#c8e0f8" stroke="#406090" stroke-width="1.5" opacity="0.85"/>
+  <ellipse cx="62" cy="40" rx="16" ry="9" fill="#c8e0f8" stroke="#406090" stroke-width="1.5" opacity="0.85"/>
+  <ellipse cx="40" cy="48" rx="12" ry="6" fill="#c8e0f8" stroke="#406090" stroke-width="1" opacity="0.7"/>
+  <ellipse cx="60" cy="48" rx="12" ry="6" fill="#c8e0f8" stroke="#406090" stroke-width="1" opacity="0.7"/>
+  <!-- Abdomen - more slender than bumblebee -->
+  <ellipse cx="50" cy="63" rx="16" ry="13" fill="#e8b818" stroke="#806010" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Black stripes -->
+  <path d="M35 58 Q50 55 65 58" fill="none" stroke="#1a1010" stroke-width="5"/>
+  <path d="M34 67 Q50 64 66 67" fill="none" stroke="#1a1010" stroke-width="5"/>
+  <!-- Stinger tip -->
+  <path d="M50 76 Q50 82 50 85" fill="none" stroke="#1a1010" stroke-width="2" stroke-linecap="round"/>
+  <!-- Thorax -->
+  <ellipse cx="50" cy="50" rx="10" ry="9" fill="#8a7020" stroke="#5a4010" stroke-width="2"/>
+  <!-- Head -->
+  <circle cx="50" cy="40" r="8" fill="#1a1010" stroke="#1a1010" stroke-width="1.5"/>
+  <!-- Eyes -->
+  <circle cx="44" cy="37" r="3.5" fill="#c8b818" stroke="#1a1010" stroke-width="1"/>
+  <circle cx="56" cy="37" r="3.5" fill="#c8b818" stroke="#1a1010" stroke-width="1"/>
+  <!-- Antennae with elbowed joint -->
+  <path d="M47 33 Q44 25 44 19" fill="none" stroke="#1a1010" stroke-width="2" stroke-linecap="round"/>
+  <path d="M44 25 Q40 20 38 16" fill="none" stroke="#1a1010" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M53 33 Q56 25 56 19" fill="none" stroke="#1a1010" stroke-width="2" stroke-linecap="round"/>
+  <path d="M56 25 Q60 20 62 16" fill="none" stroke="#1a1010" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Pollen basket on hind legs (corbiculae) -->
+  <path d="M38 70 L30 80" stroke="#5a4010" stroke-width="3" stroke-linecap="round"/>
+  <path d="M62 70 L70 80" stroke="#5a4010" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pollen load -->
+  <ellipse cx="27" cy="82" rx="6" ry="4" fill="#e8c818" stroke="#a08020" stroke-width="1.5"/>
+  <ellipse cx="73" cy="82" rx="6" ry="4" fill="#e8c818" stroke="#a08020" stroke-width="1.5"/>
+  <!-- Middle legs -->
+  <path d="M40 54 L32 64 M60 54 L68 64" stroke="#5a4010" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Plate -->
+  <ellipse cx="50" cy="74" rx="36" ry="9" fill="#e8e0d0" stroke="#a09080" stroke-width="1.5"/>
+  <!-- Injera base -->
+  <ellipse cx="50" cy="66" rx="34" ry="10" fill="#d4b880" stroke="#8B7040" stroke-width="2"/>
+  <!-- Kitfo mound (raw/rare minced meat - red) -->
+  <ellipse cx="50" cy="60" rx="22" ry="12" fill="#c83028" stroke="#7a1010" stroke-width="2"/>
+  <!-- Top of mound -->
+  <ellipse cx="50" cy="56" rx="18" ry="8" fill="#d83a30" stroke="#7a1010" stroke-width="1.5"/>
+  <!-- Spiced butter (niter kibbeh) - yellow drizzle -->
+  <path d="M38 54 Q50 50 62 54" fill="none" stroke="#e8c030" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Ayib (cheese) white dollop -->
+  <ellipse cx="70" cy="62" rx="8" ry="5" fill="#f0ece0" stroke="#c0b090" stroke-width="1.5"/>
+  <!-- Greens -->
+  <ellipse cx="28" cy="62" rx="6" ry="4" fill="#3a7a20" stroke="#1a4a10" stroke-width="1.5"/>
+</svg>

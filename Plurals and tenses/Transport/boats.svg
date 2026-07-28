@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Water -->
+  <path d="M10,72 Q25,68 40,72 Q55,76 70,72 Q85,68 90,72" fill="none" stroke="#6ab0d8" stroke-width="2"/>
+  <path d="M10,78 Q25,74 40,78 Q55,82 70,78 Q85,74 90,78" fill="none" stroke="#6ab0d8" stroke-width="2"/>
+  <!-- Hull -->
+  <path d="M20,55 L80,55 Q82,65 75,70 L25,70 Q18,65 20,55 Z" fill="#c87840" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Rim -->
+  <rect x="18" y="52" width="64" height="6" rx="2" fill="#a05820" stroke="#333" stroke-width="2"/>
+  <!-- Oar left -->
+  <line x1="25" y1="55" x2="12" y2="65" stroke="#8b6040" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="10" cy="66" rx="5" ry="2" fill="#8b6040" stroke="#333" stroke-width="1.5" transform="rotate(-30,10,66)"/>
+  <!-- Oar right -->
+  <line x1="75" y1="55" x2="88" y2="65" stroke="#8b6040" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="90" cy="66" rx="5" ry="2" fill="#8b6040" stroke="#333" stroke-width="1.5" transform="rotate(30,90,66)"/>
+  <!-- Person -->
+  <circle cx="50" cy="44" r="6" fill="#f0c890" stroke="#333" stroke-width="2"/>
+  <rect x="44" y="50" width="12" height="8" rx="2" fill="#5080c0" stroke="#333" stroke-width="2"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3578" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3578)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

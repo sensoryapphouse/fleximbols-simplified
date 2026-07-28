@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,10.000) scale(0.9)">
+<!-- thick slab -->
+  <rect x="10" y="28" width="80" height="40" rx="4" fill="#a8a8a8" stroke="#333" stroke-width="2.5"/>
+  <!-- thickness arrows on side -->
+  <line x1="96" y1="28" x2="96" y2="68" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="92,28 100,28 96,22" fill="#333"/>
+  <polygon points="92,68 100,68 96,74" fill="#333"/>
+</g><g transform="translate(0,0) scale(0.195312) translate(360 8) scale(0.2812)"><polygon points="120,347 264,202 232,170 361,151 342,280 310,248 165,392" fill="#3fae5a" stroke="#1a1a1a" stroke-width="26" stroke-linejoin="round"/></g></svg>

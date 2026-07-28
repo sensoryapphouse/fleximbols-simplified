@@ -1,0 +1,17 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Volt: large V symbol with voltmeter circle -->
+  <rect x="8" y="8" width="84" height="84" rx="8" fill="#e8f8e8" stroke="#27ae60" stroke-width="3"/>
+  <!-- Voltmeter circle -->
+  <circle cx="50" cy="45" r="28" fill="#d5f5e3" stroke="#27ae60" stroke-width="2.5"/>
+  <!-- Large V inside circle -->
+  <text x="50" y="60" font-size="36" fill="#1a6b3a" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold" text-anchor="middle">V</text>
+  <!-- Unit label -->
+<!-- Lightning bolt decoration -->
+  <polyline points="30,15 25,30 33,30 20,50 28,50 15,72"
+            fill="none" stroke="#f39c12" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+  <polyline points="70,15 65,30 73,30 60,50 68,50 55,72"
+            fill="none" stroke="#f39c12" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+  <!-- Connecting wires -->
+  <line x1="8" y1="45" x2="22" y2="45" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="78" y1="45" x2="92" y2="45" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

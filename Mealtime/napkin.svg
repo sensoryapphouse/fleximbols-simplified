@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- folded cloth napkin -->
+  <!-- napkin base fold -->
+  <polygon points="50,8 88,85 50,72 12,85" fill="#c0d8f0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- inner fold lines -->
+  <line x1="50" y1="8" x2="50" y2="72" stroke="#a0b8d8" stroke-width="1.5"/>
+  <line x1="31" y1="46" x2="69" y2="46" stroke="#a0b8d8" stroke-width="1.5"/>
+  <!-- middle fold highlight -->
+  <polygon points="50,8 69,46 50,40 31,46" fill="#d4e8fc" stroke="#a0b8d8" stroke-width="1"/>
+  <!-- napkin ring suggestion at middle -->
+  <ellipse cx="50" cy="55" rx="12" ry="5" fill="#c8a050" stroke="#333" stroke-width="2" transform="rotate(-10,50,55)"/>
+</svg>

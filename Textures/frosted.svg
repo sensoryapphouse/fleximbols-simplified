@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-13.346 -20.901) scale(1.2682)">
+<!-- Frosted glass -->
+  <rect x="28" y="32" width="44" height="48" rx="5" ry="5" fill="#e8f4fb" stroke="#5b9ec9" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Frosted texture lines -->
+  <line x1="33" y1="40" x2="67" y2="40" stroke="#b0d4e8" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="33" y1="48" x2="67" y2="48" stroke="#b0d4e8" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="33" y1="56" x2="67" y2="56" stroke="#b0d4e8" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="33" y1="64" x2="67" y2="64" stroke="#b0d4e8" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Ice crystals -->
+  <line x1="50" y1="20" x2="50" y2="30" stroke="#5b9ec9" stroke-width="2" stroke-linecap="round"/>
+  <line x1="44" y1="23" x2="56" y2="27" stroke="#5b9ec9" stroke-width="2" stroke-linecap="round"/>
+  <line x1="56" y1="23" x2="44" y2="27" stroke="#5b9ec9" stroke-width="2" stroke-linecap="round"/>
+  <line x1="38" y1="25" x2="42" y2="25" stroke="#5b9ec9" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="40" y1="23" x2="40" y2="27" stroke="#5b9ec9" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="58" y1="25" x2="62" y2="25" stroke="#5b9ec9" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="60" y1="23" x2="60" y2="27" stroke="#5b9ec9" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+  </svg>

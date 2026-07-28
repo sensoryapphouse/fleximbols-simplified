@@ -1,0 +1,10 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- curved wind lines -->
+  <path d="M10 30 Q30 20 50 30 Q70 40 85 30 Q90 28 88 25" stroke="#88aacc" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M15 45 Q35 35 55 45 Q72 55 82 45" stroke="#88aacc" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M8 60 Q28 50 48 60 Q68 70 80 60 Q88 55 85 52" stroke="#88aacc" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- arrowheads -->
+  <path d="M82 27 L88 25 L86 31" stroke="#88aacc" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M78 42 L82 45 L78 48" stroke="#88aacc" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M79 54 L85 52 L83 58" stroke="#88aacc" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

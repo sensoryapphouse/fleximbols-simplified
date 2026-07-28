@@ -1,0 +1,24 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Manga book - tall, thin, black/white style -->
+  <rect x="22" y="6" width="56" height="88" rx="3" fill="#f5f5f5" stroke="#333" stroke-width="2.5"/>
+  <rect x="22" y="6" width="9" height="88" rx="2" fill="#212121" stroke="#333" stroke-width="2"/>
+  <!-- Manga cover art: speed lines from center -->
+  <line x1="50" y1="50" x2="28" y2="18" stroke="#999" stroke-width="1"/>
+  <line x1="50" y1="50" x2="75" y2="15" stroke="#999" stroke-width="1"/>
+  <line x1="50" y1="50" x2="78" y2="50" stroke="#999" stroke-width="1"/>
+  <line x1="50" y1="50" x2="75" y2="85" stroke="#999" stroke-width="1"/>
+  <line x1="50" y1="50" x2="28" y2="82" stroke="#999" stroke-width="1"/>
+  <!-- Manga face (large eyes) -->
+  <circle cx="50" cy="42" r="16" fill="#fff" stroke="#333" stroke-width="2"/>
+  <ellipse cx="43" cy="40" rx="5" ry="7" fill="#333"/>
+  <ellipse cx="57" cy="40" rx="5" ry="7" fill="#333"/>
+  <circle cx="44" cy="38" r="2" fill="#fff"/>
+  <circle cx="58" cy="38" r="2" fill="#fff"/>
+  <!-- Mouth -->
+  <path d="M44 50 Q50 55 56 50" fill="none" stroke="#333" stroke-width="1.5"/>
+  <!-- Japanese style barcode-like stripes at bottom -->
+  <rect x="31" y="78" width="46" height="12" rx="1" fill="#212121"/>
+  <line x1="35" y1="78" x2="35" y2="90" stroke="#f5f5f5" stroke-width="2"/>
+  <line x1="41" y1="78" x2="41" y2="90" stroke="#f5f5f5" stroke-width="2"/>
+  <line x1="47" y1="78" x2="47" y2="90" stroke="#f5f5f5" stroke-width="2"/>
+</svg>

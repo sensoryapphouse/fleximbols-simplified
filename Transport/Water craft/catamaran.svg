@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- hull 1 -->
+  <path d="M5 55 Q5 48 15 48 L45 48 L48 65 L8 65 Z" fill="#d0c8b0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- hull 2 -->
+  <path d="M55 55 Q55 48 65 48 L95 48 L92 65 L52 65 Z" fill="#d0c8b0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- crossbeams -->
+  <line x1="15" y1="52" x2="85" y2="52" stroke="#888" stroke-width="2.5"/>
+  <line x1="20" y1="58" x2="80" y2="58" stroke="#888" stroke-width="2"/>
+  <!-- sail mast -->
+  <line x1="50" y1="55" x2="50" y2="15" stroke="#555" stroke-width="2"/>
+  <polygon points="50,17 50,50 78,45" fill="#e8d8b0" stroke="#888" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- water -->
+  <path d="M5 68 Q25 64 45 68 Q65 72 85 68 Q90 66 95 68" fill="none" stroke="#5090c0" stroke-width="2.5"/>
+</svg>

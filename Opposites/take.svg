@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Object (cup/box) on right -->
+  <rect x="62" y="42" width="22" height="26" rx="4" fill="#E67E22" stroke="#333" stroke-width="2.5"/>
+  <rect x="60" y="38" width="26" height="8" rx="3" fill="#F39C12" stroke="#333" stroke-width="2"/>
+  <!-- Arm reaching toward object from left -->
+  <!-- Forearm -->
+  <rect x="14" y="52" width="40" height="12" rx="6" fill="#FDDCB5" stroke="#333" stroke-width="2.5"/>
+  <!-- Hand / fingers opening toward object -->
+  <rect x="52" y="45" width="12" height="8" rx="4" fill="#FDDCB5" stroke="#333" stroke-width="2"/>
+  <rect x="52" y="56" width="12" height="8" rx="4" fill="#FDDCB5" stroke="#333" stroke-width="2"/>
+  <!-- Arrow showing take direction (right to left) -->
+  <line x1="60" y1="40" x2="50" y2="40" stroke="#C0392B" stroke-width="2" stroke-dasharray="3,2"/>
+  <polygon points="48,40 53,36 53,44" fill="#C0392B"/>
+</svg>

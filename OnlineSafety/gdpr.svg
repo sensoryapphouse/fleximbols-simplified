@@ -1,0 +1,24 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- GDPR: EU stars circle + shield + data lock -->
+  <!-- EU flag style circle of stars -->
+  <circle cx="50" cy="45" r="36" fill="#003399" stroke="#333" stroke-width="2.5"/>
+  <!-- 12 EU stars (simplified as dots) -->
+  <circle cx="50" cy="12" r="3" fill="#e8c84a"/>
+  <circle cx="67" cy="17" r="3" fill="#e8c84a"/>
+  <circle cx="78" cy="30" r="3" fill="#e8c84a"/>
+  <circle cx="82" cy="47" r="3" fill="#e8c84a"/>
+  <circle cx="77" cy="63" r="3" fill="#e8c84a"/>
+  <circle cx="64" cy="74" r="3" fill="#e8c84a"/>
+  <circle cx="50" cy="78" r="3" fill="#e8c84a"/>
+  <circle cx="36" cy="74" r="3" fill="#e8c84a"/>
+  <circle cx="23" cy="63" r="3" fill="#e8c84a"/>
+  <circle cx="18" cy="47" r="3" fill="#e8c84a"/>
+  <circle cx="22" cy="30" r="3" fill="#e8c84a"/>
+  <circle cx="33" cy="17" r="3" fill="#e8c84a"/>
+  <!-- GDPR text in center -->
+
+  <!-- Padlock at bottom -->
+  <rect x="34" y="82" width="32" height="14" rx="3" fill="#e8c84a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M40,82 L40,76 Q40,70 50,70 Q60,70 60,76 L60,82" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="50" cy="89" r="3.5" fill="#c8a020" stroke="#333" stroke-width="1.5"/>
+</svg>

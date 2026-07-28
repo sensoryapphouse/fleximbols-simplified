@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Empty bird nest: woven twigs, hollow bowl, no eggs -->
+  <!-- Outer nest bowl shape -->
+  <ellipse cx="256" cy="340" rx="180" ry="70" fill="#8B6239" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+  <!-- Inner hollow bowl -->
+  <ellipse cx="256" cy="330" rx="130" ry="46" fill="#5C3D1E" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+  <!-- Woven twig texture - horizontal arcs -->
+  <path d="M100 335 Q180 290 256 295 Q332 290 412 335" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M115 350 Q190 308 256 312 Q322 308 397 350" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M130 365 Q200 330 256 333 Q312 330 382 365" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <!-- Woven twig texture - diagonal twigs left -->
+  <path d="M82 320 Q130 360 155 390" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M110 305 Q155 348 175 385" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M145 295 Q185 338 200 378" fill="none" stroke="#6B4726" stroke-width="4" stroke-linecap="round"/>
+  <path d="M185 290 Q218 330 228 372" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <!-- Woven twig texture - diagonal twigs right -->
+  <path d="M430 320 Q382 360 357 390" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M402 305 Q357 348 337 385" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M367 295 Q327 338 312 378" fill="none" stroke="#6B4726" stroke-width="4" stroke-linecap="round"/>
+  <path d="M327 290 Q294 330 284 372" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <!-- Protruding twigs at rim -->
+  <path d="M96 318 Q76 295 60 285" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M130 298 Q118 272 110 255" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M175 284 Q175 258 178 242" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M222 278 Q228 252 232 236" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M290 278 Q284 252 280 236" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M337 284 Q337 258 334 242" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M382 298 Q394 272 402 255" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M416 318 Q436 295 452 285" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl466" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl466)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

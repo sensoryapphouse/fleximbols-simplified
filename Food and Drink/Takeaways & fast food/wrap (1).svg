@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Gift/parcel box being wrapped -->
+  <rect x="30" y="38" width="40" height="34" rx="3" fill="#4a90d9" stroke="#333" stroke-width="2"/>
+  <!-- Wrapping paper coming around -->
+  <path d="M18,50 Q22,38 30,38" stroke="#e07070" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M70,38 Q78,38 82,50" stroke="#e07070" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M18,50 Q18,65 30,72" stroke="#e07070" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M82,50 Q82,65 70,72" stroke="#e07070" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Ribbon on top -->
+  <line x1="50" y1="38" x2="50" y2="72" stroke="#f5c842" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="30" y1="55" x2="70" y2="55" stroke="#f5c842" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Bow at top -->
+  <path d="M50,38 Q44,28 40,32 Q42,38 50,38" fill="#f5c842" stroke="#c9a830" stroke-width="1.5"/>
+  <path d="M50,38 Q56,28 60,32 Q58,38 50,38" fill="#f5c842" stroke="#c9a830" stroke-width="1.5"/>
+  <!-- Hands folding paper -->
+  <ellipse cx="20" cy="48" rx="6" ry="5" fill="#f5c5a3" stroke="#333" stroke-width="1.5"/>
+  <ellipse cx="80" cy="48" rx="6" ry="5" fill="#f5c5a3" stroke="#333" stroke-width="1.5"/>
+  <!-- Arrows showing wrapping direction -->
+  <path d="M15,28 Q8,38 15,50" stroke="#e05c2a" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <polygon points="11,49 18,53 17,44" fill="#e05c2a"/>
+</svg>

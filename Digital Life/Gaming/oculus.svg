@@ -1,0 +1,21 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Meta/Oculus infinity logo style headset -->
+  <rect x="8" y="28" width="84" height="46" rx="16" fill="#1c1c1e" stroke="#333" stroke-width="2.5"/>
+  <!-- Lens shape: two circles connected -->
+  <circle cx="32" cy="51" r="16" fill="#2c2c40" stroke="#444" stroke-width="2"/>
+  <circle cx="68" cy="51" r="16" fill="#2c2c40" stroke="#444" stroke-width="2"/>
+  <!-- Lens inner glow -->
+  <circle cx="32" cy="51" r="11" fill="#3c3c60" opacity="0.8"/>
+  <circle cx="68" cy="51" r="11" fill="#3c3c60" opacity="0.8"/>
+  <ellipse cx="28" cy="46" rx="5" ry="3" fill="#5c5c80" opacity="0.6"/>
+  <ellipse cx="64" cy="46" rx="5" ry="3" fill="#5c5c80" opacity="0.6"/>
+  <!-- Bridge -->
+  <rect x="48" y="47" width="4" height="8" rx="1" fill="#1c1c1e"/>
+  <!-- Head strap -->
+  <path d="M8 40 Q2 26 8 12" fill="none" stroke="#1c1c1e" stroke-width="7" stroke-linecap="round"/>
+  <path d="M92 40 Q98 26 92 12" fill="none" stroke="#1c1c1e" stroke-width="7" stroke-linecap="round"/>
+  <path d="M30 28 Q50 18 70 28" fill="none" stroke="#1c1c1e" stroke-width="5" stroke-linecap="round"/>
+  <!-- Oculus/Meta wordmark area -->
+  <rect x="32" y="80" width="36" height="12" rx="4" fill="#e8e8ff" stroke="#333" stroke-width="1.5"/>
+  
+</svg>

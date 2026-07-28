@@ -1,0 +1,21 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Leaf blower: motor body + nozzle tube + handle + leaves -->
+  <!-- Motor body -->
+  <ellipse cx="60" cy="42" rx="20" ry="16" fill="#e05c2a" stroke="#333" stroke-width="2"/>
+  <!-- Nozzle tube going left-down -->
+  <path d="M42,48 Q25,55 10,62" fill="none" stroke="#555" stroke-width="6" stroke-linecap="round"/>
+  <!-- Nozzle tip flare -->
+  <ellipse cx="10" cy="62" rx="5" ry="3" transform="rotate(-20,10,62)" fill="#444" stroke="#333" stroke-width="1.5"/>
+  <!-- Handle on top -->
+  <path d="M55,28 Q55,18 65,18 Q75,18 75,28" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+  <!-- Trigger area -->
+  <rect x="62" y="53" width="10" height="6" rx="2" fill="#333"/>
+  <!-- Air/leaves coming out -->
+  <path d="M5,58 Q0,54 3,50" fill="none" stroke="#6abf69" stroke-width="2" stroke-linecap="round"/>
+  <path d="M5,63 Q-1,62 1,57" fill="none" stroke="#6abf69" stroke-width="2" stroke-linecap="round"/>
+  <path d="M7,68 Q2,70 4,64" fill="none" stroke="#6abf69" stroke-width="2" stroke-linecap="round"/>
+  <!-- Leaf shapes -->
+  <ellipse cx="25" cy="72" rx="5" ry="3" transform="rotate(-30,25,72)" fill="#f5a623" stroke="#c8841a" stroke-width="1"/>
+  <ellipse cx="18" cy="75" rx="4" ry="2.5" transform="rotate(15,18,75)" fill="#e05c2a" stroke="#c8401a" stroke-width="1"/>
+  <ellipse cx="33" cy="74" rx="4" ry="2.5" transform="rotate(-15,33,74)" fill="#f5c542" stroke="#c8a430" stroke-width="1"/>
+</svg>

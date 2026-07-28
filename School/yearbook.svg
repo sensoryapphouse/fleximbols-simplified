@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Book cover -->
+  <rect x="15" y="10" width="70" height="76" rx="4" fill="#4477aa" stroke="#333" stroke-width="2.5"/>
+  <!-- Book spine -->
+  <rect x="15" y="10" width="10" height="76" rx="4" fill="#2255aa" stroke="#333" stroke-width="2"/>
+  <!-- Cover title area -->
+  <rect x="24" y="14" width="57" height="12" rx="2" fill="#3366aa"/>
+  
+  <!-- Photo grid on cover -->
+  <!-- Row 1 -->
+  <rect x="26" y="30" width="16" height="14" rx="2" fill="#f5c07a" stroke="#aaa" stroke-width="1"/>
+  <rect x="45" y="30" width="16" height="14" rx="2" fill="#c8e8a0" stroke="#aaa" stroke-width="1"/>
+  <rect x="64" y="30" width="14" height="14" rx="2" fill="#c0c8e8" stroke="#aaa" stroke-width="1"/>
+  <!-- Row 2 -->
+  <rect x="26" y="47" width="16" height="14" rx="2" fill="#e8c0c0" stroke="#aaa" stroke-width="1"/>
+  <rect x="45" y="47" width="16" height="14" rx="2" fill="#f5c07a" stroke="#aaa" stroke-width="1"/>
+  <rect x="64" y="47" width="14" height="14" rx="2" fill="#c8e8a0" stroke="#aaa" stroke-width="1"/>
+  <!-- Row 3 -->
+  <rect x="26" y="64" width="16" height="14" rx="2" fill="#c0c8e8" stroke="#aaa" stroke-width="1"/>
+  <rect x="45" y="64" width="16" height="14" rx="2" fill="#e8c0c0" stroke="#aaa" stroke-width="1"/>
+  <rect x="64" y="64" width="14" height="14" rx="2" fill="#f5c07a" stroke="#aaa" stroke-width="1"/>
+</svg>

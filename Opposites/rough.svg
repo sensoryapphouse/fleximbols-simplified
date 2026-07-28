@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Jagged uneven surface -->
+  <path d="M15,65 L22,50 L29,60 L36,42 L43,55 L50,40 L57,58 L64,45 L71,62 L78,48 L85,65 Z" fill="#c8b89a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Base fill -->
+  <rect x="15" y="65" width="70" height="10" fill="#c8b89a" stroke="#333" stroke-width="2"/>
+  <!-- Hand hovering (rough/uncomfortable) -->
+  <path d="M32,36 Q50,30 68,36" fill="#f5c8a0" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Discomfort lines from hand -->
+  <line x1="38" y1="34" x2="36" y2="30" stroke="#e06060" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="32" x2="50" y2="28" stroke="#e06060" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="62" y1="34" x2="64" y2="30" stroke="#e06060" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,10.890) scale(0.8911)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- perch -->
+  <rect x="15" y="76" width="70" height="5" rx="2.5" fill="#8B6914" stroke="#555" stroke-width="1.5"/>
+  <!-- tail feathers -->
+  <path d="M54,75 Q60,83 56,90" fill="none" stroke="#c8b800" stroke-width="4" stroke-linecap="round"/>
+  <path d="M50,75 Q50,85 50,90" fill="none" stroke="#d4c400" stroke-width="3" stroke-linecap="round"/>
+  <path d="M46,75 Q40,83 44,90" fill="none" stroke="#c8b800" stroke-width="4" stroke-linecap="round"/>
+  <!-- body - yellow canary -->
+  <ellipse cx="50" cy="61" rx="14" ry="15" fill="#d4c800" stroke="#555" stroke-width="2"/>
+  <!-- wing -->
+  <ellipse cx="58" cy="61" rx="8" ry="11" fill="#b8b000" stroke="#555" stroke-width="1.5"/>
+  <!-- breast - bright yellow -->
+  <ellipse cx="44" cy="63" rx="8" ry="9" fill="#e8d800"/>
+  <!-- head - round yellow -->
+  <circle cx="50" cy="41" r="13" fill="#d4c800" stroke="#555" stroke-width="2"/>
+  <!-- beak - small pointed -->
+  <path d="M42,38 Q36,40 37,44 Q41,44 43,41 Z" fill="#d49800" stroke="#555" stroke-width="1.5"/>
+  <!-- eyes -->
+  <circle cx="55" cy="38" r="4" fill="white" stroke="#555" stroke-width="1"/>
+  <circle cx="55" cy="38" r="2.5" fill="#1a1a1a"/>
+  <circle cx="55.7" cy="37.3" r="0.7" fill="white"/>
+  <!-- feet -->
+  <line x1="43" y1="76" x2="40" y2="80" stroke="#555" stroke-width="1.5"/>
+  <line x1="40" y1="80" x2="36" y2="80" stroke="#555" stroke-width="1.5"/>
+  <line x1="40" y1="80" x2="39" y2="83" stroke="#555" stroke-width="1.5"/>
+  <line x1="57" y1="76" x2="54" y2="80" stroke="#555" stroke-width="1.5"/>
+  <line x1="54" y1="80" x2="50" y2="80" stroke="#555" stroke-width="1.5"/>
+  <!-- musical notes -->
+  <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="70" y="38" font-size="12" fill="#888">♪</text>
+  <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="78" y="28" font-size="9" fill="#888">♫</text>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl51" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl51)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

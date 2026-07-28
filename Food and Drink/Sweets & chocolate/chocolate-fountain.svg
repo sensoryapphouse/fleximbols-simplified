@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-9.748 -15.116) scale(1.1950)">
+<!-- base dish -->
+  <ellipse cx="50" cy="78" rx="30" ry="6" fill="#6b3520" stroke="#333" stroke-width="2"/>
+  <!-- stand pole -->
+  <rect x="47" y="30" width="6" height="48" fill="#8b4530" stroke="#333" stroke-width="1.5"/>
+  <!-- top tier -->
+  <ellipse cx="50" cy="30" rx="14" ry="5" fill="#6b3520" stroke="#333" stroke-width="2"/>
+  <!-- middle tier -->
+  <ellipse cx="50" cy="50" rx="20" ry="5" fill="#6b3520" stroke="#333" stroke-width="2"/>
+  <!-- cascading chocolate flows -->
+  <path d="M50 30 Q44 38 42 50" fill="none" stroke="#3a1a08" stroke-width="4" stroke-linecap="round"/>
+  <path d="M50 30 Q56 38 58 50" fill="none" stroke="#3a1a08" stroke-width="4" stroke-linecap="round"/>
+  <path d="M44 50 Q36 60 34 72" fill="none" stroke="#3a1a08" stroke-width="4" stroke-linecap="round"/>
+  <path d="M56 50 Q64 60 66 72" fill="none" stroke="#3a1a08" stroke-width="4" stroke-linecap="round"/>
+  <path d="M50 50 Q50 60 50 72" fill="none" stroke="#3a1a08" stroke-width="3" stroke-linecap="round"/>
+  <!-- strawberry on skewer -->
+  <line x1="75" y1="25" x2="68" y2="50" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M68 50 Q72 44 76 48 Q73 52 68 50" fill="#cc2222" stroke="#333" stroke-width="1.5"/>
+</g>
+  </svg>

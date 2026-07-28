@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Water -->
+  <path d="M5,74 Q25,70 45,74 Q65,78 85,74 Q90,72 95,74" fill="none" stroke="#6ab0d8" stroke-width="2"/>
+  <!-- Logs (horizontal) -->
+  <rect x="12" y="60" width="76" height="9" rx="4" fill="#a06030" stroke="#333" stroke-width="2"/>
+  <rect x="12" y="65" width="76" height="9" rx="4" fill="#8b5020" stroke="#333" stroke-width="2"/>
+  <rect x="12" y="70" width="76" height="9" rx="4" fill="#a06030" stroke="#333" stroke-width="2"/>
+  <!-- Cross-ties (rope) -->
+  <line x1="25" y1="60" x2="25" y2="79" stroke="#c8a060" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="60" x2="50" y2="79" stroke="#c8a060" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="75" y1="60" x2="75" y2="79" stroke="#c8a060" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Pole/oar -->
+  <line x1="72" y1="40" x2="72" y2="70" stroke="#8b6040" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Person standing -->
+  <circle cx="40" cy="48" r="5" fill="#f0c890" stroke="#333" stroke-width="2"/>
+  <line x1="40" y1="53" x2="40" y2="62" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="40" y1="56" x2="35" y2="60" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="40" y1="56" x2="45" y2="60" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="40" y1="62" x2="37" y2="68" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="40" y1="62" x2="43" y2="68" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3557" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3557)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

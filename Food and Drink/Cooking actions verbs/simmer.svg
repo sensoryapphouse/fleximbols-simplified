@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Pot body -->
+  <rect x="22" y="45" width="56" height="35" rx="4" fill="#b0c4d8" stroke="#2c4a6e" stroke-width="2.5"/>
+  <rect x="18" y="40" width="64" height="8" rx="3" fill="#8ab0cc" stroke="#2c4a6e" stroke-width="2.5"/>
+  <!-- Handles -->
+  <path d="M22 55 Q10 55 10 65 Q10 72 22 72" fill="none" stroke="#2c4a6e" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M78 55 Q90 55 90 65 Q90 72 78 72" fill="none" stroke="#2c4a6e" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Water -->
+  <rect x="23" y="52" width="54" height="27" rx="2" fill="#5b9bd5" opacity="0.6"/>
+  <!-- Gentle small bubbles -->
+  <circle cx="38" cy="68" r="2.5" fill="none" stroke="white" stroke-width="1.5"/>
+  <circle cx="50" cy="63" r="2" fill="none" stroke="white" stroke-width="1.5"/>
+  <circle cx="62" cy="67" r="2.5" fill="none" stroke="white" stroke-width="1.5"/>
+  <circle cx="44" cy="72" r="1.5" fill="none" stroke="white" stroke-width="1.5"/>
+  <circle cx="56" cy="70" r="2" fill="none" stroke="white" stroke-width="1.5"/>
+  <!-- Light steam (gentle) -->
+  <path d="M44 38 Q46 33 44 28" fill="none" stroke="#ccc" stroke-width="2" stroke-linecap="round"/>
+  <path d="M56 38 Q58 33 56 28" fill="none" stroke="#ccc" stroke-width="2" stroke-linecap="round"/>
+  <!-- Low flame -->
+  <path d="M40 82 Q45 77 50 82 Q55 77 60 82 Q57 88 50 87 Q43 88 40 82Z" fill="#e07020" stroke="#c05010" stroke-width="1.5"/>
+  <path d="M44 82 Q47 79 50 82 Q53 79 56 82 Q54 86 50 85 Q46 86 44 82Z" fill="#f0b030"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-117.071 -271.332) scale(1.4587)">
+
+  <!-- Canonical OPEN BOX drawn FIRST -->
+  <!-- Interior back wall -->
+  <rect x="140" y="270" width="232" height="44" fill="#7a5028" stroke="#000000" stroke-width="5"/>
+  <!-- Interior floor sloping forward -->
+  <path d="M 140 314 L 372 314 L 388 326 L 124 326 Z" fill="#a06840" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Front face -->
+  <rect x="120" y="326" width="272" height="94" fill="#caa379" stroke="#000000" stroke-width="5"/>
+
+  <!-- Ball drawn AFTER overlapping the lower-front of the box -->
+  <circle cx="256" cy="400" r="54" fill="#e74c3c" stroke="#000000" stroke-width="5"/>
+  <circle cx="236" cy="380" r="16" fill="#f7b8b0"/>
+
+</g>
+  </svg>

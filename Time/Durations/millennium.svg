@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<rect x="8" y="12" width="84" height="68" rx="5" fill="#f0e8f8" stroke="#664488" stroke-width="2.5"/>
+  <!-- Header -->
+  <rect x="8" y="12" width="84" height="14" rx="5" fill="#664488" stroke="#664488" stroke-width="2"/>
+  <text x="50" y="23" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="9" font-weight="bold" text-anchor="middle" fill="white">1000 yrs</text>
+  <!-- Large year milestone -->
+  <text x="50" y="55" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#664488">2000</text>
+  <!-- Timeline dots -->
+  <line x1="12" y1="66" x2="88" y2="66" stroke="#664488" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="12" cy="66" r="3" fill="#664488"/>
+  <circle cx="88" cy="66" r="3" fill="#cc4499"/>
+  <text x="12" y="75" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="7" text-anchor="middle" fill="#664488">1000</text>
+  <text x="88" y="75" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="7" text-anchor="middle" fill="#cc4499">2000</text>
+  <!-- Star/fireworks burst on year 2000 -->
+  <circle cx="88" cy="38" r="8" fill="#ffdd44" opacity="0.7" stroke="#cc8800" stroke-width="1.5"/>
+  <text x="88" y="42" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" text-anchor="middle" fill="#cc8800">★</text>
+</svg>

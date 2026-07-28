@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- tall stem -->
+  <line x1="50" y1="85" x2="50" y2="15" stroke="#4a7c3f" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- leaves -->
+  <path d="M50 78 Q34 72 32 62" stroke="#6ab04c" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M50 65 Q66 60 68 50" stroke="#6ab04c" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- blue flower clusters up the spike -->
+  <circle cx="44" cy="72" r="5" fill="#4060c0" stroke="#333" stroke-width="1.8"/>
+  <circle cx="56" cy="70" r="5" fill="#5070d0" stroke="#333" stroke-width="1.8"/>
+  <circle cx="43" cy="60" r="5" fill="#4060c0" stroke="#333" stroke-width="1.8"/>
+  <circle cx="57" cy="58" r="5" fill="#5070d0" stroke="#333" stroke-width="1.8"/>
+  <circle cx="44" cy="49" r="5" fill="#4060c0" stroke="#333" stroke-width="1.8"/>
+  <circle cx="56" cy="47" r="5" fill="#5070d0" stroke="#333" stroke-width="1.8"/>
+  <circle cx="45" cy="38" r="4.5" fill="#6080e0" stroke="#333" stroke-width="1.8"/>
+  <circle cx="55" cy="36" r="4.5" fill="#4060c0" stroke="#333" stroke-width="1.8"/>
+  <circle cx="50" cy="27" r="4" fill="#6080e0" stroke="#333" stroke-width="1.5"/>
+  <circle cx="50" cy="19" r="3" fill="#8090e0" stroke="#333" stroke-width="1.5"/>
+  <!-- white centers -->
+  <circle cx="44" cy="72" r="1.8" fill="white" stroke="none"/>
+  <circle cx="56" cy="70" r="1.8" fill="white" stroke="none"/>
+  <circle cx="43" cy="60" r="1.8" fill="white" stroke="none"/>
+  <circle cx="57" cy="58" r="1.8" fill="white" stroke="none"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- base spike -->
+  <polygon points="44,70 56,70 52,82 48,82" fill="#888" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- center body -->
+  <ellipse cx="50" cy="60" rx="12" ry="8" fill="#607080" stroke="#333" stroke-width="2.5"/>
+  <!-- rotating head -->
+  <circle cx="50" cy="52" r="10" fill="#888" stroke="#333" stroke-width="2.5"/>
+  <circle cx="50" cy="52" r="5" fill="#607080" stroke="#333" stroke-width="2"/>
+  <!-- nozzle arms -->
+  <line x1="50" y1="52" x2="36" y2="46" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <line x1="50" y1="52" x2="64" y2="58" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <!-- water spray arcs -->
+  <path d="M36 46 Q22 28 18 14" stroke="#6090C0" stroke-width="2" fill="none" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <path d="M36 46 Q28 36 30 22" stroke="#6090C0" stroke-width="2" fill="none" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <path d="M64 58 Q80 42 84 26" stroke="#6090C0" stroke-width="2" fill="none" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <path d="M64 58 Q76 50 82 38" stroke="#6090C0" stroke-width="2" fill="none" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <!-- water droplets -->
+  <circle cx="18" cy="14" r="2" fill="#6090C0"/>
+  <circle cx="30" cy="22" r="2" fill="#6090C0"/>
+  <circle cx="84" cy="26" r="2" fill="#6090C0"/>
+  <circle cx="82" cy="38" r="2" fill="#6090C0"/>
+  <!-- ground -->
+  <line x1="10" y1="82" x2="90" y2="82" stroke="#6A9A50" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Islam: Crescent and star -->
+  <!-- Crescent moon -->
+  <path d="M65,50 A30,30 0 1,1 65,50.01 A22,22 0 0,0 65,50Z" fill="#2a6a3a" stroke="#333" stroke-width="2"/>
+  <circle cx="50" cy="50" r="30" fill="#2a6a3a" stroke="#333" stroke-width="2.5"/>
+  <circle cx="61" cy="38" r="24" fill="#f5f0e0" stroke="none"/>
+  <!-- Star -->
+  <polygon points="72,28 74,34 80,34 75,38 77,44 72,40 67,44 69,38 64,34 70,34" fill="#f5f0e0" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

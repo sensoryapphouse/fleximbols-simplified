@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Molcajete / bowl -->
+  <path d="M14 56 Q14 78 50 78 Q86 78 86 56 L81 42 L19 42 Z" fill="#5a4030" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <ellipse cx="50" cy="42" rx="31" ry="8" fill="#4a3020" stroke="#333" stroke-width="2.5"/>
+  <!-- Guacamole green surface -->
+  <ellipse cx="50" cy="42" rx="28" ry="7" fill="#6aaa40" stroke="none"/>
+  <!-- Chunky avocado pieces -->
+  <path d="M34 40 Q40 34 46 40 Q40 38 34 40Z" fill="#4a8820" stroke="#3a6810" stroke-width="1.5"/>
+  <path d="M50 38 Q56 32 62 38 Q56 36 50 38Z" fill="#5a9830" stroke="#3a6810" stroke-width="1.5"/>
+  <path d="M38 43 Q44 37 50 43" fill="none" stroke="#3a6810" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Onion bits - white -->
+  <circle cx="36" cy="43" r="2.5" fill="white" stroke="#ccc" stroke-width="1"/>
+  <circle cx="62" cy="41" r="2" fill="white" stroke="#ccc" stroke-width="1"/>
+  <!-- Tomato bits - red -->
+  <circle cx="52" cy="44" r="2.5" fill="#c0392b" stroke="#8b1a1a" stroke-width="1"/>
+  <circle cx="44" cy="43" r="2" fill="#c0392b" stroke="#8b1a1a" stroke-width="1"/>
+  <!-- Lime juice hint - seeds -->
+  <ellipse cx="60" cy="43" r="2" fill="#c8d840" stroke="#a0b010" stroke-width="1"/>
+</svg>

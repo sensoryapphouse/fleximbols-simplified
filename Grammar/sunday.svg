@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<rect x="10" y="12" width="80" height="72" rx="6" fill="#fff9c4" stroke="#f9a825" stroke-width="2.5"/>
+  <rect x="10" y="12" width="80" height="20" rx="6" fill="#f9a825" stroke="#f9a825" stroke-width="2.5"/>
+  <rect x="10" y="24" width="80" height="8" fill="#f9a825"/>
+  <circle cx="28" cy="12" r="5" fill="white" stroke="#f9a825" stroke-width="2"/>
+  <circle cx="72" cy="12" r="5" fill="white" stroke="#f9a825" stroke-width="2"/>
+  <text x="50" y="27" font-size="9" text-anchor="middle" fill="white" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold">SUN</text>
+  <text x="50" y="65" font-size="30" text-anchor="middle" fill="#f9a825" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold">7</text>
+  <!-- Sun icon -->
+  <circle cx="50" cy="42" r="8" fill="#f5c518" stroke="#c8900a" stroke-width="1.5"/>
+  <line x1="50" y1="30" x2="50" y2="27" stroke="#c8900a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="58" y1="34" x2="61" y2="31" stroke="#c8900a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="62" y1="42" x2="65" y2="42" stroke="#c8900a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="42" y1="34" x2="39" y2="31" stroke="#c8900a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="38" y1="42" x2="35" y2="42" stroke="#c8900a" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

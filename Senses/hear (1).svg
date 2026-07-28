@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-7.465 0.997) scale(1.0631)">
+<!-- Head (profile facing left) -->
+  <circle cx="55" cy="35" r="20" fill="#FDDCB5" stroke="#333" stroke-width="2.5"/>
+  <!-- Ear on left side -->
+  <path d="M38 28 Q30 35 33 44 Q36 50 42 48" fill="#FDDCB5" stroke="#333" stroke-width="2.5"/>
+  <path d="M38 31 Q33 36 35 43" fill="none" stroke="#C9A882" stroke-width="1.5"/>
+  <!-- Eye -->
+  <circle cx="60" cy="32" r="2.5" fill="#333"/>
+  <!-- Sound waves toward ear -->
+  <path d="M18 30 Q25 35 18 40" stroke="#E67E22" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M11 25 Q22 35 11 45" stroke="#E67E22" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Body -->
+  <rect x="42" y="56" width="26" height="20" rx="4" fill="#5B9BD5" stroke="#333" stroke-width="2"/>
+</g>
+  </svg>

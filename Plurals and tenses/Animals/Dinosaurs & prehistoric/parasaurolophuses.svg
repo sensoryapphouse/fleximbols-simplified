@@ -1,0 +1,25 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- parasaurolophus - duck-billed dino with long backward crest -->
+  <!-- tail -->
+  <path d="M78,62 Q88,56 94,48 Q96,40 92,36" fill="none" stroke="#8aaa80" stroke-width="7" stroke-linecap="round"/>
+  <path d="M78,62 Q88,56 94,48 Q96,40 92,36" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- body -->
+  <path d="M26,62 Q28,44 40,36 Q55,28 72,36 Q82,44 80,62 Q76,74 52,76 Q30,76 26,62 Z" fill="#8aaa80" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- neck -->
+  <path d="M30,56 Q22,44 20,30 Q24,18 32,20 Q38,22 38,38 Q38,50 40,58" fill="#8aaa80" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- head - duck bill -->
+  <path d="M10,30 Q10,16 20,12 Q30,10 36,18 Q40,26 36,36 Q30,42 20,40 Z" fill="#8aaa80" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- long CREST pointing back-up -->
+  <path d="M30,12 Q40,4 52,6 Q58,10 54,18 Q46,16 36,18 Q34,14 30,12 Z" fill="#9aba90" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- crest tube interior hint -->
+  <path d="M32,14 Q42,8 52,10" fill="none" stroke="#7a9a70" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- duck bill extension -->
+  <path d="M10,30 Q4,32 2,38 Q4,42 10,40" fill="#9aba90" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- eye -->
+  <circle cx="20" cy="22" r="3" fill="#222"/>
+  <!-- arm -->
+  <path d="M38,54 Q30,60 26,68 Q28,70 32,70 Q36,64 42,58" fill="#7a9a70" stroke="#333" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- legs -->
+  <path d="M44,74 Q42,84 40,94 Q44,98 48,96 Q50,86 52,76" fill="#6a8a60" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M62,74 Q62,84 62,94 Q66,98 70,96 Q70,86 70,76" fill="#6a8a60" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl103" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl103)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

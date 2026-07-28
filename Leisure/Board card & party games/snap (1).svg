@@ -1,0 +1,8 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Snapchat ghost shape -->
+  <path d="M50,12 C35,12 28,22 28,33 C28,40 30,45 30,50 C28,51 22,53 22,57 C22,59 24,60 26,60 C27,60 29,59 31,58 C30,61 28,65 28,68 C28,75 38,82 50,82 C62,82 72,75 72,68 C72,65 70,61 69,58 C71,59 73,60 74,60 C76,60 78,59 78,57 C78,53 72,51 70,50 C70,45 72,40 72,33 C72,22 65,12 50,12 Z" fill="#FFFC00" stroke="#333" stroke-width="2.5"/>
+  <!-- Camera icon on ghost -->
+<circle cx="50" cy="48" r="6" fill="#c8e6fa" stroke="#333" stroke-width="1.5"/>
+  <circle cx="50" cy="48" r="3" fill="#3a7bd5"/>
+  <rect x="55" y="40" width="6" height="4" rx="1" fill="#333"/>
+</svg>

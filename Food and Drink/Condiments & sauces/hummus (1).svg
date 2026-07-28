@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Shallow plate/bowl -->
+  <ellipse cx="50" cy="72" rx="38" ry="10" fill="#e8e0d0" stroke="#a09080" stroke-width="1.5"/>
+  <path d="M12 62 Q12 75 50 75 Q88 75 88 62 Z" fill="#e8c870" stroke="#a07830" stroke-width="2"/>
+  <ellipse cx="50" cy="62" rx="38" ry="10" fill="#f0d880" stroke="#a07830" stroke-width="2"/>
+  <!-- Swirl well in centre -->
+  <ellipse cx="50" cy="59" rx="22" ry="8" fill="#e0c060" stroke="#a07830" stroke-width="1.5"/>
+  <!-- Olive oil pool -->
+  <ellipse cx="50" cy="59" rx="12" ry="5" fill="#d4820a" stroke="#a05008" stroke-width="1"/>
+  <!-- Paprika sprinkle -->
+  <circle cx="44" cy="57" r="2" fill="#c84020" stroke="none"/>
+  <circle cx="50" cy="56" r="2" fill="#c84020" stroke="none"/>
+  <circle cx="56" cy="57" r="2" fill="#c84020" stroke="none"/>
+  <!-- Chickpeas garnish -->
+  <ellipse cx="35" cy="63" rx="4" ry="3" fill="#c8a860" stroke="#8B6830" stroke-width="1"/>
+  <ellipse cx="65" cy="63" rx="4" ry="3" fill="#c8a860" stroke="#8B6830" stroke-width="1"/>
+  <!-- Pita -->
+  <path d="M15 70 Q25 66 35 70 Q25 74 15 70Z" fill="#f0d890" stroke="#a07830" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-20.896 -42.358) scale(1.4179)">
+<line x1="50" y1="75" x2="50" y2="90" stroke="#2d7a2d" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="43" cy="82" rx="9" ry="3" fill="#4aaa4a" stroke="#2d7a2d" stroke-width="1.5" transform="rotate(-20 43 82)"/>
+  <!-- trumpet lily petals -->
+  <path d="M50 75 Q38 65 32 50 Q34 42 42 40 Q48 42 50 50 Q52 42 58 40 Q66 42 68 50 Q62 65 50 75 Z" fill="#f0c8d0" stroke="#c06080" stroke-width="2" stroke-linejoin="round"/>
+  <!-- inner trumpet -->
+  <path d="M50 75 Q44 68 42 60 Q44 52 50 50 Q56 52 58 60 Q56 68 50 75 Z" fill="#e8a0b8" stroke="#c06080" stroke-width="1.5"/>
+  <!-- stamens -->
+  <line x1="50" y1="55" x2="46" y2="47" stroke="#a86000" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="55" x2="50" y2="45" stroke="#a86000" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="55" x2="54" y2="47" stroke="#a86000" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="46" cy="47" r="2" fill="#d4a000"/>
+  <circle cx="50" cy="45" r="2" fill="#d4a000"/>
+  <circle cx="54" cy="47" r="2" fill="#d4a000"/>
+</g>
+  </svg>

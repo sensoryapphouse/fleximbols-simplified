@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Table surface -->
+  <rect x="5" y="52" width="90" height="28" rx="3" fill="#5b8dd9" stroke="#222" stroke-width="2"/>
+  <!-- Table legs -->
+  <line x1="15" y1="80" x2="12" y2="90" stroke="#888" stroke-width="3" stroke-linecap="round"/>
+  <line x1="85" y1="80" x2="88" y2="90" stroke="#888" stroke-width="3" stroke-linecap="round"/>
+  <!-- Net in center -->
+<!-- Net posts -->
+  <line x1="48" y1="52" x2="5" y2="52" stroke="white" stroke-width="1.5"/>
+  <line x1="52" y1="52" x2="95" y2="52" stroke="white" stroke-width="1.5"/>
+  <!-- White line on table -->
+  <line x1="50" y1="52" x2="50" y2="80" stroke="white" stroke-width="1.5"/>
+  <line x1="5" y1="66" x2="95" y2="66" stroke="white" stroke-width="1"/>
+  <!-- Left paddle -->
+  <ellipse cx="20" cy="40" rx="12" ry="10" fill="#e74c3c" stroke="#222" stroke-width="2"/>
+  <rect x="17" y="48" width="6" height="10" rx="2" fill="#8B6914" stroke="#222" stroke-width="1.5"/>
+  <!-- Paddle face line -->
+  <line x1="12" y1="40" x2="28" y2="40" stroke="#c0392b" stroke-width="1.5"/>
+  <!-- Ball in air -->
+  <circle cx="50" cy="32" r="6" fill="#f5f5f5" stroke="#222" stroke-width="2"/>
+  <!-- Motion arc for ball -->
+  <path d="M28,44 Q40,20 50,32" fill="none" stroke="#ccc" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <!-- Right paddle -->
+  <ellipse cx="80" cy="42" rx="12" ry="10" fill="#e74c3c" stroke="#222" stroke-width="2"/>
+  <rect x="77" y="50" width="6" height="10" rx="2" fill="#8B6914" stroke="#222" stroke-width="1.5"/>
+  <line x1="72" y1="42" x2="88" y2="42" stroke="#c0392b" stroke-width="1.5"/>
+</svg>

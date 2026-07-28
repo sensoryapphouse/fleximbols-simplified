@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- water -->
+  <path d="M5 76 Q20 72 35 76 Q50 80 65 76 Q80 72 95 76" fill="none" stroke="#4a9eca" stroke-width="2" stroke-linecap="round"/>
+  <!-- hull barge shape -->
+  <path d="M12 72 L12 60 L88 60 L88 72 Q50 78 12 72 Z" fill="#c8a96e" stroke="#5a3e1b" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- house walls -->
+  <rect x="18" y="38" width="64" height="24" fill="#e8d5b5" stroke="#5a3e1b" stroke-width="2"/>
+  <!-- roof -->
+  <polygon points="14,38 50,18 86,38" fill="#c0392b" stroke="#7b241c" stroke-width="2" stroke-linejoin="round"/>
+  <!-- door -->
+  <rect x="43" y="50" width="14" height="12" rx="1" fill="#8b6914" stroke="#5a3e1b" stroke-width="1.5"/>
+  <!-- window left -->
+  <rect x="22" y="43" width="12" height="10" rx="1" fill="#aad4e8" stroke="#5a3e1b" stroke-width="1.5"/>
+  <!-- window right -->
+  <rect x="66" y="43" width="12" height="10" rx="1" fill="#aad4e8" stroke="#5a3e1b" stroke-width="1.5"/>
+</svg>

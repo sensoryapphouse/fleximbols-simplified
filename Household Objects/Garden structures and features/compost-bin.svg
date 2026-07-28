@@ -1,0 +1,24 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Compost bin: dark box with lid, ventilation slots, leaf/veg inside suggestion -->
+  <!-- Bin body -->
+  <rect x="15" y="35" width="70" height="45" rx="3" fill="#5d4037" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Lid -->
+  <rect x="12" y="28" width="76" height="10" rx="3" fill="#4a2f26" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Lid handle -->
+  <rect x="42" y="24" width="16" height="6" rx="3" fill="#333" stroke="#222" stroke-width="2"/>
+  <!-- Ventilation slots on front -->
+  <rect x="22" y="42" width="20" height="3" rx="1" fill="#3a2018" stroke="#333" stroke-width="1"/>
+  <rect x="22" y="50" width="20" height="3" rx="1" fill="#3a2018" stroke="#333" stroke-width="1"/>
+  <rect x="22" y="58" width="20" height="3" rx="1" fill="#3a2018" stroke="#333" stroke-width="1"/>
+  <rect x="22" y="66" width="20" height="3" rx="1" fill="#3a2018" stroke="#333" stroke-width="1"/>
+  <!-- Door/access panel right side with latch -->
+  <rect x="50" y="55" width="28" height="22" rx="2" fill="#6d4c41" stroke="#333" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <circle cx="54" cy="66" r="2.5" fill="#f5c542" stroke="#333" stroke-width="1.5"/>
+  <!-- Compost material visible through slots (green bits) -->
+  <circle cx="62" cy="44" r="3" fill="#6abf69" stroke="#4a8a50" stroke-width="1"/>
+  <circle cx="72" cy="48" r="2.5" fill="#8B6914" stroke="#555" stroke-width="1"/>
+  <circle cx="65" cy="52" r="2.5" fill="#6abf69" stroke="#4a8a50" stroke-width="1"/>
+  <!-- Base/feet -->
+  <rect x="20" y="79" width="12" height="5" rx="1" fill="#3a2018" stroke="#333" stroke-width="1.5"/>
+  <rect x="68" y="79" width="12" height="5" rx="1" fill="#3a2018" stroke="#333" stroke-width="1.5"/>
+</svg>

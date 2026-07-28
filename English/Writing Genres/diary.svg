@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-16.601 -16.530) scale(1.4480)">
+<!-- diary body -->
+  <rect x="20" y="15" width="52" height="62" rx="3" fill="#e8d5e8" stroke="#555" stroke-width="2.5"/>
+  <!-- spine -->
+  <rect x="20" y="15" width="8" height="62" rx="2" fill="#9b59b6" stroke="#555" stroke-width="1.5"/>
+  <!-- strap/band -->
+  <rect x="60" y="15" width="14" height="62" rx="0" fill="none" stroke="none"/>
+  <path d="M68 38 Q74 46 68 54" fill="none" stroke="#7d3c98" stroke-width="3" stroke-linecap="round"/>
+  <!-- lock -->
+  <rect x="64" y="42" width="10" height="8" rx="2" fill="#f1c40f" stroke="#555" stroke-width="2"/>
+  <path d="M66 42 Q66 37 69 37 Q72 37 72 42" fill="none" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <!-- lines on page -->
+  <line x1="32" y1="30" x2="62" y2="30" stroke="#ccc" stroke-width="1.5"/>
+  <line x1="32" y1="38" x2="62" y2="38" stroke="#ccc" stroke-width="1.5"/>
+  <line x1="32" y1="46" x2="62" y2="46" stroke="#ccc" stroke-width="1.5"/>
+  <line x1="32" y1="54" x2="62" y2="54" stroke="#ccc" stroke-width="1.5"/>
+  <line x1="32" y1="62" x2="62" y2="62" stroke="#ccc" stroke-width="1.5"/>
+  <!-- label -->
+</g>
+  </svg>

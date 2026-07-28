@@ -1,0 +1,26 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Electrolysis: skin cross-section with fine needle in follicle + electricity -->
+  <!-- Skin surface -->
+  <rect x="10" y="35" width="80" height="8" rx="3" fill="#f5c98a" stroke="#333" stroke-width="2"/>
+  <!-- Dermis layer -->
+  <rect x="10" y="43" width="80" height="25" rx="0" fill="#f0d8b8" stroke="#333" stroke-width="2"/>
+  <!-- Hair follicles -->
+  <ellipse cx="30" cy="52" rx="5" ry="8" fill="#e8c8a0" stroke="#c8a878" stroke-width="1.5"/>
+  <ellipse cx="50" cy="52" rx="5" ry="8" fill="#e8c8a0" stroke="#c8a878" stroke-width="1.5"/>
+  <ellipse cx="70" cy="52" rx="5" ry="8" fill="#e8c8a0" stroke="#c8a878" stroke-width="1.5"/>
+  <!-- Hair shafts -->
+  <line x1="30" y1="44" x2="30" y2="22" stroke="#8B6914" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="44" x2="50" y2="22" stroke="#8B6914" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Removed hair (x mark) -->
+  <line x1="67" y1="22" x2="73" y2="28" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
+  <line x1="73" y1="22" x2="67" y2="28" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
+  <!-- Fine electrolysis needle in right follicle -->
+  <line x1="70" y1="10" x2="70" y2="52" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Needle handle -->
+  <rect x="64" y="6" width="12" height="7" rx="3" fill="#d0d0d0" stroke="#333" stroke-width="2"/>
+  <!-- Electricity sparks -->
+  <path d="M65,52 L62,56 L66,55 L63,60" fill="none" stroke="#ffaa00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M75,52 L78,56 L74,55 L77,60" fill="none" stroke="#ffaa00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bottom tissue -->
+  <rect x="10" y="68" width="80" height="15" rx="3" fill="#e0c8a8" stroke="#333" stroke-width="2"/>
+</svg>

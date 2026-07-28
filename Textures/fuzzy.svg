@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-23.211 -23.211) scale(1.4656)">
+<!-- Circle with soft blurry/fuzzy outline (multiple concentric partial outlines) -->
+  <circle cx="50" cy="50" r="25" fill="#e8d8c8" stroke="#c8b8a8" stroke-width="3.753" opacity="0.3"/>
+  <circle cx="50" cy="50" r="25" fill="#e8d8c8" stroke="#c8b8a8" stroke-width="2.345" opacity="0.5"/>
+  <circle cx="50" cy="50" r="25" fill="#e8d8c8" stroke="#b8a898" stroke-width="1.407" opacity="0.7"/>
+  <circle cx="50" cy="50" r="25" fill="#e0d0c0" stroke="#333" stroke-width="0.704"/>
+  <!-- Small fuzz dots surrounding -->
+  <circle cx="20" cy="45" r="2" fill="#c8b8a8" opacity="0.6"/>
+  <circle cx="24" cy="32" r="1.5" fill="#c8b8a8" opacity="0.5"/>
+  <circle cx="36" cy="22" r="2" fill="#c8b8a8" opacity="0.6"/>
+  <circle cx="62" cy="22" r="1.5" fill="#c8b8a8" opacity="0.5"/>
+  <circle cx="76" cy="35" r="2" fill="#c8b8a8" opacity="0.6"/>
+  <circle cx="80" cy="52" r="1.5" fill="#c8b8a8" opacity="0.5"/>
+  <circle cx="72" cy="68" r="2" fill="#c8b8a8" opacity="0.6"/>
+  <circle cx="28" cy="66" r="1.5" fill="#c8b8a8" opacity="0.5"/>
+</g>
+  </svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-29.524 -52.534) scale(1.5920)">
+<line x1="50" y1="77" x2="50" y2="90" stroke="#2d7a2d" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="43" cy="84" rx="9" ry="3" fill="#4aaa4a" stroke="#2d7a2d" stroke-width="1.5" transform="rotate(-20 43 84)"/>
+  <!-- geometric layered petals - outer ring -->
+  <ellipse cx="50" cy="50" rx="5" ry="14" fill="#cc2244" stroke="#881122" stroke-width="2" transform="rotate(0 50 62)"/>
+  <ellipse cx="50" cy="50" rx="5" ry="14" fill="#cc2244" stroke="#881122" stroke-width="2" transform="rotate(30 50 62)"/>
+  <ellipse cx="50" cy="50" rx="5" ry="14" fill="#cc2244" stroke="#881122" stroke-width="2" transform="rotate(60 50 62)"/>
+  <ellipse cx="50" cy="50" rx="5" ry="14" fill="#cc2244" stroke="#881122" stroke-width="2" transform="rotate(90 50 62)"/>
+  <ellipse cx="50" cy="50" rx="5" ry="14" fill="#cc2244" stroke="#881122" stroke-width="2" transform="rotate(120 50 62)"/>
+  <ellipse cx="50" cy="50" rx="5" ry="14" fill="#cc2244" stroke="#881122" stroke-width="2" transform="rotate(150 50 62)"/>
+  <ellipse cx="50" cy="50" rx="5" ry="14" fill="#cc2244" stroke="#881122" stroke-width="2" transform="rotate(180 50 62)"/>
+  <ellipse cx="50" cy="50" rx="5" ry="14" fill="#cc2244" stroke="#881122" stroke-width="2" transform="rotate(210 50 62)"/>
+  <ellipse cx="50" cy="50" rx="5" ry="14" fill="#cc2244" stroke="#881122" stroke-width="2" transform="rotate(240 50 62)"/>
+  <ellipse cx="50" cy="50" rx="5" ry="14" fill="#cc2244" stroke="#881122" stroke-width="2" transform="rotate(270 50 62)"/>
+  <ellipse cx="50" cy="50" rx="5" ry="14" fill="#cc2244" stroke="#881122" stroke-width="2" transform="rotate(300 50 62)"/>
+  <ellipse cx="50" cy="50" rx="5" ry="14" fill="#cc2244" stroke="#881122" stroke-width="2" transform="rotate(330 50 62)"/>
+  <!-- middle ring -->
+  <ellipse cx="50" cy="54" rx="4" ry="10" fill="#dd4466" stroke="#881122" stroke-width="1.5" transform="rotate(15 50 62)"/>
+  <ellipse cx="50" cy="54" rx="4" ry="10" fill="#dd4466" stroke="#881122" stroke-width="1.5" transform="rotate(75 50 62)"/>
+  <ellipse cx="50" cy="54" rx="4" ry="10" fill="#dd4466" stroke="#881122" stroke-width="1.5" transform="rotate(135 50 62)"/>
+  <ellipse cx="50" cy="54" rx="4" ry="10" fill="#dd4466" stroke="#881122" stroke-width="1.5" transform="rotate(195 50 62)"/>
+  <ellipse cx="50" cy="54" rx="4" ry="10" fill="#dd4466" stroke="#881122" stroke-width="1.5" transform="rotate(255 50 62)"/>
+  <ellipse cx="50" cy="54" rx="4" ry="10" fill="#dd4466" stroke="#881122" stroke-width="1.5" transform="rotate(315 50 62)"/>
+  <!-- centre -->
+  <circle cx="50" cy="62" r="5" fill="#ffaa22" stroke="#cc6600" stroke-width="1.5"/>
+</g>
+  </svg>

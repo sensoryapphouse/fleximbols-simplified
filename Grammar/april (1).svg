@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<rect x="8" y="12" width="84" height="72" rx="6" fill="#e1f5fe" stroke="#0277bd" stroke-width="2.5"/>
+  <rect x="8" y="12" width="84" height="18" rx="6" fill="#0277bd" stroke="#0277bd" stroke-width="2.5"/>
+  <rect x="8" y="22" width="84" height="8" fill="#0277bd"/>
+  
+  <!-- Rain cloud -->
+  <ellipse cx="45" cy="42" rx="18" ry="12" fill="#90caf9" stroke="#0277bd" stroke-width="2"/>
+  <ellipse cx="58" cy="44" rx="14" ry="10" fill="#90caf9" stroke="#0277bd" stroke-width="2"/>
+  <ellipse cx="35" cy="46" rx="12" ry="8" fill="#90caf9" stroke="#0277bd" stroke-width="2"/>
+  <!-- Rain drops -->
+  <line x1="34" y1="57" x2="30" y2="68" stroke="#1976d2" stroke-width="2" stroke-linecap="round"/>
+  <line x1="44" y1="57" x2="40" y2="68" stroke="#1976d2" stroke-width="2" stroke-linecap="round"/>
+  <line x1="54" y1="57" x2="50" y2="68" stroke="#1976d2" stroke-width="2" stroke-linecap="round"/>
+  <line x1="64" y1="57" x2="60" y2="68" stroke="#1976d2" stroke-width="2" stroke-linecap="round"/>
+  <line x1="39" y1="63" x2="35" y2="74" stroke="#1976d2" stroke-width="2" stroke-linecap="round"/>
+  <line x1="59" y1="63" x2="55" y2="74" stroke="#1976d2" stroke-width="2" stroke-linecap="round"/>
+</svg>

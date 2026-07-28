@@ -1,0 +1,30 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- T-rex - massive head, tiny arms, large body, bipedal -->
+  <!-- tail -->
+  <path d="M76,60 Q88,54 96,44 Q98,36 94,34" fill="none" stroke="#7a8a60" stroke-width="8" stroke-linecap="round"/>
+  <path d="M76,60 Q88,54 96,44 Q98,36 94,34" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- body -->
+  <ellipse cx="56" cy="58" rx="22" ry="18" fill="#8aaa70" stroke="#333" stroke-width="2.5"/>
+  <!-- neck -->
+  <path d="M36,48 Q30,40 28,32 Q34,26 40,30 Q44,36 44,46 Q46,52 48,56" fill="#8aaa70" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- MASSIVE head - upper jaw -->
+  <path d="M8,30 Q8,14 24,10 Q38,8 44,18 Q46,26 42,34 Q36,40 28,42 Q18,42 12,36 Z" fill="#8aaa70" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- lower jaw -->
+  <path d="M10,36 Q12,46 20,48 Q30,50 36,44" fill="#7a9a60" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- teeth upper -->
+  <path d="M14,34 L12,42" stroke="#f0ece0" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M20,34 L18,44" stroke="#f0ece0" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M26,34 L26,44" stroke="#f0ece0" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M32,34 L34,42" stroke="#f0ece0" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- eye -->
+  <circle cx="26" cy="20" r="4" fill="#222"/>
+  <circle cx="27" cy="19" r="1.5" fill="#444"/>
+  <!-- tiny arms -->
+  <path d="M42,52 Q38,56 36,60" stroke="#7a9a60" stroke-width="5" stroke-linecap="round"/>
+  <path d="M42,52 Q38,56 36,60" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <path d="M36,60 L34,64" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <path d="M36,60 L32,62" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- massive legs -->
+  <path d="M42,72 Q40,82 36,92 Q40,96 46,94 Q48,84 52,74" fill="#6a8a50" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M60,72 Q58,82 56,92 Q60,96 66,94 Q68,84 70,74" fill="#6a8a50" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

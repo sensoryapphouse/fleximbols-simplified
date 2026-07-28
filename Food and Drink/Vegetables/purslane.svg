@@ -1,0 +1,24 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Purslane - succulent-like small rounded leaves on reddish stems -->
+  <!-- Central branching stems (reddish) -->
+  <path d="M50 95 Q50 80 50 68" stroke="#c05050" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M50 80 Q38 72 28 75" stroke="#c05050" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M50 80 Q62 72 72 75" stroke="#c05050" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M50 68 Q36 60 24 64" stroke="#c05050" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M50 68 Q64 60 76 64" stroke="#c05050" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M50 68 Q50 54 50 42" stroke="#c05050" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M50 54 Q38 46 28 50" stroke="#c05050" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M50 54 Q62 46 72 50" stroke="#c05050" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Succulent oval leaves -->
+  <ellipse cx="24" cy="65" r="9" fill="#6aaa3a" stroke="#3a6a1a" stroke-width="2"/>
+  <ellipse cx="76" cy="65" r="9" fill="#6aaa3a" stroke="#3a6a1a" stroke-width="2"/>
+  <ellipse cx="28" cy="76" r="9" fill="#7aba4a" stroke="#3a6a1a" stroke-width="2"/>
+  <ellipse cx="72" cy="76" r="9" fill="#7aba4a" stroke="#3a6a1a" stroke-width="2"/>
+  <ellipse cx="28" cy="50" r="8" fill="#6aaa3a" stroke="#3a6a1a" stroke-width="2"/>
+  <ellipse cx="72" cy="50" r="8" fill="#6aaa3a" stroke="#3a6a1a" stroke-width="2"/>
+  <ellipse cx="50" cy="40" r="10" fill="#7aba4a" stroke="#3a6a1a" stroke-width="2"/>
+  <!-- Top small yellow flowers -->
+  <circle cx="44" cy="26" r="5" fill="#f0d020" stroke="#8a8010" stroke-width="1.5"/>
+  <circle cx="56" cy="22" r="5" fill="#f0d020" stroke="#8a8010" stroke-width="1.5"/>
+  <circle cx="62" cy="32" r="4" fill="#f0d020" stroke="#8a8010" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- large intestine frame -->
+  <path d="M20 20 L20 70 Q20 78 28 78 L72 78 Q80 78 80 70 L80 20" fill="none" stroke="#c9845a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- small intestine coils inside -->
+  <path d="M35 30 Q42 26 48 32 Q54 38 46 42 Q38 46 42 52 Q46 58 54 54 Q62 50 60 44" fill="none" stroke="#ffb3c1" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- cecum at bottom right -->
+  <ellipse cx="70" cy="66" rx="7" ry="6" fill="#f5ddd0" stroke="#333" stroke-width="2"/>
+  <!-- appendix - finger-like projection -->
+  <path d="M70 72 Q66 78 62 80 Q58 82 56 80 Q56 76 60 74 Q64 72 70 72" fill="#ff9090" stroke="#cc2222" stroke-width="2" stroke-linejoin="round"/>
+  <!-- label arrow -->
+  <line x1="55" y1="82" x2="48" y2="88" stroke="#cc2222" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

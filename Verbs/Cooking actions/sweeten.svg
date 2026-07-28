@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Honey jar/bottle being drizzled -->
+  <rect x="55" y="18" width="22" height="30" rx="6" fill="#f0b030" stroke="#c08020" stroke-width="2.5"/>
+  <rect x="58" y="14" width="16" height="8" rx="3" fill="#d09020" stroke="#c08020" stroke-width="2"/>
+  <rect x="62" y="10" width="8" height="6" rx="2" fill="#c08010" stroke="#a06010" stroke-width="1.5"/>
+  <!-- Honey drizzle -->
+  <path d="M66 48 Q63 55 60 58 Q57 65 55 70 Q53 75 50 78" fill="none" stroke="#f0b030" stroke-width="3" stroke-linecap="round"/>
+  <!-- Food being sweetened (bowl/cake) -->
+  <ellipse cx="40" cy="78" rx="24" ry="8" fill="#e8d0a8" stroke="#8a6030" stroke-width="2.5"/>
+  <ellipse cx="40" cy="74" rx="24" ry="8" fill="#f0e0c0" stroke="#8a6030" stroke-width="2"/>
+  <!-- Sugar sparkle stars -->
+  <path d="M22 42 L24 38 L26 42 L30 40 L26 44 L24 48 L22 44 L18 40Z" fill="#f0d040" stroke="#c0a020" stroke-width="1"/>
+  <path d="M72 62 L73 59 L74 62 L77 61 L74 63 L73 66 L72 63 L69 61Z" fill="#f0d040" stroke="#c0a020" stroke-width="1"/>
+  <!-- Heart sparkle (sweet indicator) -->
+  <path d="M15 58 Q15 54 19 54 Q22 54 22 58 Q22 54 25 54 Q29 54 29 58 Q29 63 22 68 Q15 63 15 58Z" fill="#e05080" stroke="#c03060" stroke-width="1.5"/>
+</svg>

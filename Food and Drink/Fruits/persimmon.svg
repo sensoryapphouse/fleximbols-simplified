@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-8.910 -17.145) scale(1.1794)">
+<!-- persimmon body - orange round -->
+  <circle cx="50" cy="57" r="28" fill="#e87820" stroke="#333" stroke-width="2.5"/>
+  <!-- calyx cross (4 pointed green leaves) -->
+  <path d="M50 29 Q46 22 40 24 Q45 28 50 29 Z" fill="#5a9030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M50 29 Q54 22 60 24 Q55 28 50 29 Z" fill="#5a9030" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M50 29 Q44 24 42 18 Q46 22 50 29 Z" fill="#6aaa38" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M50 29 Q56 24 58 18 Q54 22 50 29 Z" fill="#6aaa38" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- indentation circle at top -->
+  <circle cx="50" cy="30" r="5" fill="#c05e10" stroke="#333" stroke-width="1.5"/>
+  <!-- highlight -->
+  <circle cx="38" cy="46" r="7" fill="#f0a040" opacity="0.5"/>
+  <circle cx="36" cy="44" r="3" fill="white" opacity="0.3"/>
+</g>
+  </svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Rear wheel -->
+  <circle cx="75" cy="65" r="18" fill="none" stroke="#333" stroke-width="3"/>
+  <circle cx="75" cy="65" r="5" fill="#888" stroke="#555" stroke-width="2"/>
+  <!-- Front wheel -->
+  <circle cx="25" cy="65" r="18" fill="none" stroke="#333" stroke-width="3"/>
+  <circle cx="25" cy="65" r="5" fill="#888" stroke="#555" stroke-width="2"/>
+  <!-- Frame -->
+  <line x1="25" y1="65" x2="55" y2="40" stroke="#c84040" stroke-width="3" stroke-linecap="round"/>
+  <line x1="55" y1="40" x2="75" y2="65" stroke="#c84040" stroke-width="3" stroke-linecap="round"/>
+  <line x1="55" y1="40" x2="50" y2="65" stroke="#c84040" stroke-width="3" stroke-linecap="round"/>
+  <!-- Seat post -->
+  <line x1="50" y1="65" x2="52" y2="45" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <line x1="46" y1="44" x2="58" y2="44" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <!-- Handlebars -->
+  <line x1="55" y1="40" x2="55" y2="30" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <line x1="49" y1="29" x2="61" y2="29" stroke="#555" stroke-width="3" stroke-linecap="round"/>
+  <!-- Battery on frame -->
+  <rect x="55" y="55" width="14" height="7" fill="#e8a020" stroke="#9a6010" stroke-width="1.5" rx="1"/>
+  <!-- Lightning bolt -->
+  <polyline points="64,30 61,36 65,35 62,42" fill="none" stroke="#f0c040" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

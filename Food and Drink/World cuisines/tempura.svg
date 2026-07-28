@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Plate -->
+  <ellipse cx="50" cy="78" rx="36" ry="9" fill="#e8e8e0" stroke="#888" stroke-width="2"/>
+  <!-- Battered shrimp body -->
+  <path d="M35 65 Q30 50 36 38 Q40 30 46 28 Q52 26 55 32 Q60 45 55 65 Z" fill="#e8a840" stroke="#8a5a10" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Shrimp tail -->
+  <path d="M46 28 Q42 20 38 18 Q44 22 46 16 Q50 22 54 20 Q52 26 46 28 Z" fill="#e05050" stroke="#8a2020" stroke-width="2"/>
+  <!-- Vegetable tempura -->
+  <ellipse cx="66" cy="58" rx="12" ry="8" fill="#e8a840" stroke="#8a5a10" stroke-width="2.5"/>
+  <ellipse cx="66" cy="55" rx="8" ry="5" fill="#5a8a3a"/>
+  <!-- Dipping sauce -->
+  <rect x="14" y="65" width="16" height="12" rx="3" fill="#8a5a20" stroke="#5a3a10" stroke-width="2"/>
+  <ellipse cx="22" cy="65" rx="8" ry="3" fill="#a86a30"/>
+</svg>

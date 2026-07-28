@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.403 -12.639) scale(1.3475)">
+<!-- Magnifying glass scanning - tilted with motion lines -->
+  <circle cx="42" cy="44" r="16" fill="rgba(200,230,255,0.5)" stroke="#333" stroke-width="2.5"/>
+  <circle cx="42" cy="44" r="11" fill="rgba(200,230,255,0.3)" stroke="none"/>
+  <!-- Cross-hairs inside -->
+  <line x1="42" y1="34" x2="42" y2="54" stroke="#7db8e0" stroke-width="1" stroke-dasharray="2,2"/>
+  <line x1="32" y1="44" x2="52" y2="44" stroke="#7db8e0" stroke-width="1" stroke-dasharray="2,2"/>
+  <!-- Handle -->
+  <line x1="53" y1="55" x2="65" y2="67" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Motion/scanning lines -->
+  <line x1="68" y1="30" x2="76" y2="28" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="70" y1="38" x2="79" y2="38" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="68" y1="46" x2="76" y2="48" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Sweep arc -->
+  <path d="M60 25 C75 30 80 45 72 58" fill="none" stroke="#e07040" stroke-width="1.5" stroke-dasharray="3,2"/>
+</g>
+  </svg>

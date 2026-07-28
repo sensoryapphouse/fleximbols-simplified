@@ -1,0 +1,15 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Phone silhouette -->
+  <rect x="25" y="5" width="50" height="90" rx="12" fill="#e8e8e8" stroke="#222" stroke-width="2.5"/>
+  <rect x="30" y="12" width="40" height="72" rx="8" fill="#2a2a3e"/>
+  <!-- Siri wave visualization on screen -->
+  <path d="M34 48 Q38 36 42 48 Q46 60 50 48 Q54 36 58 48 Q62 60 66 48" fill="none" stroke="#60a8f0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M34 52 Q38 42 42 52 Q46 62 50 52 Q54 42 58 52 Q62 62 66 52" fill="none" stroke="#8060e0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M34 56 Q38 48 42 56 Q46 64 50 56 Q54 48 58 56 Q62 64 66 56" fill="none" stroke="#e06080" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Status bar top -->
+  <line x1="34" y1="20" x2="66" y2="20" stroke="#555" stroke-width="1" stroke-linecap="round"/>
+  <!-- Home bar bottom -->
+  <rect x="40" y="88" width="20" height="3" rx="1.5" fill="#888"/>
+  <!-- Notch/face ID -->
+  <rect x="42" y="14" width="16" height="4" rx="2" fill="#1a1a2e"/>
+</svg>

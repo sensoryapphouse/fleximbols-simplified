@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Browser window -->
+  <rect x="6" y="14" width="88" height="70" rx="6" fill="#f0f4f8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Browser chrome bar -->
+  <rect x="6" y="14" width="88" height="18" rx="6" fill="#dde4ee" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="6" y="24" width="88" height="8" fill="#dde4ee"/>
+  <!-- Address bar with www -->
+<text x="54" y="26" font-size="6" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#4a6aa0">www.example.com</text>
+  <!-- Nav dots -->
+  <circle cx="11" cy="23" r="3" fill="#aaa" stroke="#333" stroke-width="1"/>
+  <!-- Web page content -->
+  <rect x="12" y="38" width="76" height="6" rx="2" fill="#c0c8d8"/>
+  <rect x="12" y="48" width="50" height="4" rx="2" fill="#d8d8d8"/>
+  <rect x="12" y="56" width="60" height="4" rx="2" fill="#d8d8d8"/>
+  <rect x="12" y="64" width="40" height="4" rx="2" fill="#d8d8d8"/>
+  <!-- Image placeholder -->
+  <rect x="68" y="46" width="22" height="20" rx="3" fill="#c8d8e8" stroke="#aaa" stroke-width="1.5"/>
+  <!-- Label -->
+</svg>

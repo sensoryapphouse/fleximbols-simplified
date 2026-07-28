@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Fiber cable body -->
+  <rect x="38" y="20" width="10" height="55" rx="5" fill="#c8e6c9" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Light beam emanating from top -->
+  <line x1="43" y1="20" x2="43" y2="8" stroke="#f5d77e" stroke-width="3" stroke-linecap="round"/>
+  <!-- Radiating light lines -->
+  <line x1="43" y1="20" x2="28" y2="10" stroke="#f5d77e" stroke-width="2" stroke-linecap="round"/>
+  <line x1="43" y1="20" x2="58" y2="10" stroke="#f5d77e" stroke-width="2" stroke-linecap="round"/>
+  <line x1="43" y1="20" x2="22" y2="18" stroke="#f5d77e" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="43" y1="20" x2="64" y2="18" stroke="#f5d77e" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Connector at bottom -->
+  <rect x="34" y="72" width="18" height="8" rx="2" fill="#f5d77e" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Core glow line -->
+  <line x1="43" y1="22" x2="43" y2="72" stroke="#fff" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+</svg>

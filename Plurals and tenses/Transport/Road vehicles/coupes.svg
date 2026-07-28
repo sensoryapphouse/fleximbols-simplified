@@ -1,0 +1,23 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- coupe - low, sleek, 2-door -->
+  <path d="M5 67 L5 55 Q5 52 9 52 L14 52 Q26 40 38 36 L64 36 Q76 38 84 44 L94 50 Q97 50 97 54 L97 67 Z" fill="#d05050" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- long sleek roof -->
+  <path d="M26 52 Q34 40 42 37 L62 36 Q72 37 80 43 L88 52 Z" fill="#b03030" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- windows - wide single window (2-door) -->
+  <path d="M30 51 Q36 41 44 38 L62 37 Q70 38 78 44 L86 51 Z" fill="#b8d8f0" stroke="#333" stroke-width="1.5"/>
+  <!-- bottom rail - low to ground -->
+  <rect x="5" y="63" width="92" height="5" rx="1" fill="#902020" stroke="#333" stroke-width="2"/>
+  <!-- wheels -->
+  <circle cx="23" cy="68" r="12" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="23" cy="68" r="7" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <circle cx="23" cy="68" r="3" fill="#ccc"/>
+  <circle cx="77" cy="68" r="12" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="77" cy="68" r="7" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <circle cx="77" cy="68" r="3" fill="#ccc"/>
+  <!-- headlight - sleek -->
+  <path d="M90 52 L96 54 L96 60 L90 60 Z" fill="#e8d050" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- taillight -->
+  <path d="M10 52 L4 54 L4 60 L10 60 Z" fill="#e05050" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- door line (single long door) -->
+  <path d="M50 52 L48 65" stroke="#902020" stroke-width="1.5" stroke-linecap="round"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3343" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3343)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

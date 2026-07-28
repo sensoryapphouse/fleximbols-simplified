@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-25.280 -32.712) scale(1.5071)">
+<!-- Upper lip -->
+  <path d="M20 36 Q30 28 42 36 Q50 28 58 36 Q70 28 80 36 L80 42 Q50 40 20 42 Z" fill="#c96a6a" stroke="#333" stroke-width="2"/>
+  <!-- Teeth top row -->
+<!-- Teeth dividers -->
+  <line x1="36" y1="42" x2="36" y2="52" stroke="#ccc" stroke-width="1"/>
+  <line x1="50" y1="42" x2="50" y2="52" stroke="#ccc" stroke-width="1"/>
+  <line x1="64" y1="42" x2="64" y2="52" stroke="#ccc" stroke-width="1"/>
+  <!-- Tongue -->
+  <path d="M30 52 Q50 55 70 52 Q75 65 65 72 Q55 78 50 78 Q45 78 35 72 Q25 65 30 52Z" fill="#e87a7a" stroke="#c05050" stroke-width="2"/>
+  <!-- Tongue centre line -->
+  <line x1="50" y1="54" x2="50" y2="74" stroke="#c05050" stroke-width="1.5"/>
+  <!-- Lower lip -->
+  <path d="M20 42 Q50 40 80 42 L80 48 Q70 54 50 56 Q30 54 20 48 Z" fill="#d47a7a" stroke="#333" stroke-width="2"/>
+</g>
+  </svg>

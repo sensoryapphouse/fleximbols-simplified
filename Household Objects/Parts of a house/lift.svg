@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Heavy box being lifted above head -->
+  <rect x="32" y="12" width="36" height="22" rx="3" fill="#c9a84c" stroke="#333" stroke-width="2"/>
+  <!-- Box stripes/weight indicator -->
+  <line x1="44" y1="12" x2="44" y2="34" stroke="#a08030" stroke-width="1.5"/>
+  <line x1="56" y1="12" x2="56" y2="34" stroke="#a08030" stroke-width="1.5"/>
+  <!-- Arms raised holding box -->
+  <line x1="38" y1="34" x2="32" y2="50" stroke="#f5c5a3" stroke-width="3" stroke-linecap="round"/>
+  <line x1="62" y1="34" x2="68" y2="50" stroke="#f5c5a3" stroke-width="3" stroke-linecap="round"/>
+  <!-- Person body -->
+  <circle cx="50" cy="60" r="7" fill="#f5c5a3" stroke="#333" stroke-width="2"/>
+  <rect x="42" y="67" width="16" height="16" rx="2" fill="#4a90d9" stroke="#333" stroke-width="2"/>
+  <line x1="46" y1="83" x2="42" y2="88" stroke="#6b7280" stroke-width="3" stroke-linecap="round"/>
+  <line x1="54" y1="83" x2="58" y2="88" stroke="#6b7280" stroke-width="3" stroke-linecap="round"/>
+  <!-- Upward arrows -->
+  <path d="M22,50 L22,38 M18,42 L22,38 L26,42" stroke="#e05c2a" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M78,50 L78,38 M74,42 L78,38 L82,42" stroke="#e05c2a" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

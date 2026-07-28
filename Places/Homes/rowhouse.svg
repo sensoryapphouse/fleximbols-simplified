@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Three connected row houses -->
+  <!-- House 1 -->
+  <rect x="6" y="40" width="28" height="36" fill="#E8D5B0" stroke="#4A2800" stroke-width="2"/>
+  <polygon points="4,42 20,22 36,42" fill="#C0392B" stroke="#7A1A00" stroke-width="2"/>
+  <rect x="10" y="46" width="9" height="8" fill="#AED6F1" stroke="#4A2800" stroke-width="1.5"/>
+  <rect x="15" y="58" width="10" height="18" fill="#8B5E3C" stroke="#4A2800" stroke-width="1.5"/>
+  <!-- House 2 (center) -->
+  <rect x="36" y="40" width="28" height="36" fill="#D5C4A0" stroke="#4A2800" stroke-width="2"/>
+  <polygon points="34,42 50,22 66,42" fill="#A93226" stroke="#7A1A00" stroke-width="2"/>
+  <rect x="40" y="46" width="9" height="8" fill="#AED6F1" stroke="#4A2800" stroke-width="1.5"/>
+  <rect x="45" y="58" width="10" height="18" fill="#8B5E3C" stroke="#4A2800" stroke-width="1.5"/>
+  <!-- House 3 -->
+  <rect x="66" y="40" width="28" height="36" fill="#C9B99A" stroke="#4A2800" stroke-width="2"/>
+  <polygon points="64,42 80,22 96,42" fill="#C0392B" stroke="#7A1A00" stroke-width="2"/>
+  <rect x="70" y="46" width="9" height="8" fill="#AED6F1" stroke="#4A2800" stroke-width="1.5"/>
+  <rect x="75" y="58" width="10" height="18" fill="#8B5E3C" stroke="#4A2800" stroke-width="1.5"/>
+  <!-- Ground line -->
+  <line x1="4" y1="76" x2="96" y2="76" stroke="#4A3800" stroke-width="1.5"/>
+</svg>

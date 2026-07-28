@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Tube body -->
+  <rect x="28" y="38" width="42" height="22" rx="3" fill="#d4e8a0" stroke="#4a7a10" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Tube cap (left end) -->
+  <rect x="18" y="40" width="12" height="18" rx="3" fill="#4a7a10" stroke="#2d5a0a" stroke-width="2"/>
+  <!-- Squeezed end (right) -->
+  <path d="M70,42 Q82,44 84,50 Q82,56 70,58 Z" fill="#d4e8a0" stroke="#4a7a10" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Nozzle -->
+  <rect x="82" y="47" width="8" height="6" rx="2" fill="#4a7a10" stroke="#2d5a0a" stroke-width="1.5"/>
+  <!-- Ointment coming out -->
+  <path d="M90,50 Q95,48 96,50 Q95,52 90,50" fill="#f0e68c" stroke="#9a8a10" stroke-width="1.5"/>
+  <!-- Label on tube -->
+<line x1="38" y1="47" x2="54" y2="47" stroke="#4a7a10" stroke-width="1.5"/>
+  <line x1="38" y1="51" x2="54" y2="51" stroke="#4a7a10" stroke-width="1.5"/>
+</svg>

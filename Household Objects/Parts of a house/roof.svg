@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <svg viewBox="0 0 580 480" preserveAspectRatio="xMidYMid meet">
+  
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="350,443 43,448 36,275 173,119 350,311 515,290 521,403 350,443 350,443" fill="#bcbec0" stroke="#010101" stroke-width="4.0" fill-rule="evenodd"/>
+    <polyline points="350,443 350,311" fill="none" stroke="#010101" stroke-width="4.0"/>
+    <polygon points="412,388 370,396 370,341 412,332 412,388 412,388" fill="#bcbec0" stroke="#010101" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="491,375 451,384 451,326 491,319 491,375 491,375" fill="#bcbec0" stroke="#010101" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="252,366 175,366 175,298 252,298 252,366 252,366" fill="#bcbec0" stroke="#010101" stroke-width="4.0" fill-rule="evenodd"/>
+    <polyline points="216,296 216,366" fill="none" stroke="#010101" stroke-width="4.0"/>
+    <polyline points="173,332 250,334" fill="none" stroke="#010101" stroke-width="4.0"/>
+    <polygon points="141,349 141,349 141,343 139,334 134,328 130,324 124,319 117,315 111,313 102,313 102,313 96,313 88,315 81,319 77,324 73,328 68,334 66,343 66,349 66,349 66,358 66,446 141,446 141,358 141,358 141,349 141,349 141,349" fill="#bcbec0" stroke="#010101" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="199,245 149,245 149,200 199,200 199,245 199,245" fill="#bcbec0" stroke="#010101" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="15,290 15,290 47,255 98,198 152,140 173,121 179,114 186,112 186,112 229,108 301,102 374,99 399,99 414,102 414,102 419,106 425,112 446,136 496,204 545,275 560,298 564,311 564,311 562,313 558,315 534,322 466,337 393,347 367,349 352,347 352,347 342,337 323,313 267,245 192,149 192,149 122,225 68,283 49,305 34,315 34,315 26,319 19,322 13,317 8,313 6,309 6,302 11,296 15,290 15,290 15,290" fill="#c4262d" stroke="#010101" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="359,121 359,121 357,125 355,129 350,131 344,134 320,136 320,136 314,136 310,131 305,129 305,123 301,78 301,78 303,74 305,69 310,67 316,65 340,63 340,63 346,65 350,67 355,72 355,76 359,121 359,121" fill="#c4262d" stroke="#010101" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="426,32 499,47 457,177 505,202 419,246 373,161 420,167 426,32" fill="#ed1c24" stroke="#010101" stroke-width="4.0" fill-rule="evenodd"/>
+  </g>
+</svg>
+</svg>

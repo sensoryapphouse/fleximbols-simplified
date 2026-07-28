@@ -1,0 +1,30 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Twister: spotted mat with hands and feet, colorful dots -->
+  <!-- Mat border -->
+  <rect x="5" y="12" width="90" height="76" rx="6" fill="#f0f0e8" stroke="#333" stroke-width="2.5"/>
+  <!-- Columns of colored dots (4 cols x 4 rows) -->
+  <!-- Red column -->
+  <circle cx="18" cy="26" r="9" fill="#d02020" stroke="#333" stroke-width="1.5"/>
+  <circle cx="18" cy="46" r="9" fill="#d02020" stroke="#333" stroke-width="1.5"/>
+  <circle cx="18" cy="66" r="9" fill="#d02020" stroke="#333" stroke-width="1.5"/>
+  <circle cx="18" cy="80" r="7" fill="#d02020" stroke="#333" stroke-width="1.5"/>
+  <!-- Yellow column -->
+  <circle cx="38" cy="26" r="9" fill="#e0c020" stroke="#333" stroke-width="1.5"/>
+  <circle cx="38" cy="46" r="9" fill="#e0c020" stroke="#333" stroke-width="1.5"/>
+  <circle cx="38" cy="66" r="9" fill="#e0c020" stroke="#333" stroke-width="1.5"/>
+  <circle cx="38" cy="80" r="7" fill="#e0c020" stroke="#333" stroke-width="1.5"/>
+  <!-- Green column -->
+  <circle cx="62" cy="26" r="9" fill="#20a040" stroke="#333" stroke-width="1.5"/>
+  <circle cx="62" cy="46" r="9" fill="#20a040" stroke="#333" stroke-width="1.5"/>
+  <circle cx="62" cy="66" r="9" fill="#20a040" stroke="#333" stroke-width="1.5"/>
+  <circle cx="62" cy="80" r="7" fill="#20a040" stroke="#333" stroke-width="1.5"/>
+  <!-- Blue column -->
+  <circle cx="82" cy="26" r="9" fill="#2060d0" stroke="#333" stroke-width="1.5"/>
+  <circle cx="82" cy="46" r="9" fill="#2060d0" stroke="#333" stroke-width="1.5"/>
+  <circle cx="82" cy="66" r="9" fill="#2060d0" stroke="#333" stroke-width="1.5"/>
+  <circle cx="82" cy="80" r="7" fill="#2060d0" stroke="#333" stroke-width="1.5"/>
+  <!-- Dividing lines between columns -->
+  <line x1="27" y1="12" x2="27" y2="88" stroke="#ccc" stroke-width="1.5"/>
+  <line x1="50" y1="12" x2="50" y2="88" stroke="#ccc" stroke-width="1.5"/>
+  <line x1="72" y1="12" x2="72" y2="88" stroke="#ccc" stroke-width="1.5"/>
+</svg>

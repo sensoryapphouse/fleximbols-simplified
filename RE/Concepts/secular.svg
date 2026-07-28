@@ -1,0 +1,14 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Secular: Government building / separation of church and state -->
+  <!-- Building columns -->
+  <rect x="10" y="75" width="80" height="18" rx="2" fill="#a0a0c0" stroke="#333" stroke-width="2"/>
+  <rect x="10" y="68" width="80" height="8" rx="1" fill="#8888aa" stroke="#333" stroke-width="2"/>
+  <!-- Columns -->
+  <rect x="15" y="30" width="8" height="38" rx="2" fill="#b0b0cc" stroke="#333" stroke-width="2"/>
+  <rect x="30" y="30" width="8" height="38" rx="2" fill="#b0b0cc" stroke="#333" stroke-width="2"/>
+  <rect x="46" y="30" width="8" height="38" rx="2" fill="#b0b0cc" stroke="#333" stroke-width="2"/>
+  <rect x="62" y="30" width="8" height="38" rx="2" fill="#b0b0cc" stroke="#333" stroke-width="2"/>
+  <rect x="77" y="30" width="8" height="38" rx="2" fill="#b0b0cc" stroke="#333" stroke-width="2"/>
+  <!-- Triangular pediment -->
+  <polygon points="50,8 92,30 8,30" fill="#c0c0d8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

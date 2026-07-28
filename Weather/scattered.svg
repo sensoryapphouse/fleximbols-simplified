@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Face -->
+  <circle cx="50" cy="45" r="18" fill="#FFDAB9" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Overwhelmed eyes - wide -->
+  <ellipse cx="43" cy="42" rx="4" ry="4" fill="white" stroke="#333" stroke-width="1.5"/>
+  <circle cx="43" cy="42" r="2" fill="#333"/>
+  <ellipse cx="57" cy="42" rx="4" ry="4" fill="white" stroke="#333" stroke-width="1.5"/>
+  <circle cx="57" cy="42" r="2" fill="#333"/>
+  <!-- Wavy mouth - frazzled -->
+  <path d="M43 52 Q46 50 49 52 Q52 54 55 52 Q58 50 57 52" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Thoughts going all directions -->
+  <circle cx="20" cy="20" r="5" fill="#FFD700" stroke="#333" stroke-width="1.5"/>
+  <path d="M33 30 L25 24" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <circle cx="80" cy="15" r="4" fill="#90EE90" stroke="#333" stroke-width="1.5"/>
+  <path d="M65 32 L76 19" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <circle cx="15" cy="60" r="4" fill="#FFB6C1" stroke="#333" stroke-width="1.5"/>
+  <path d="M32 52 L20 57" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <circle cx="85" cy="65" r="4" fill="#87CEEB" stroke="#333" stroke-width="1.5"/>
+  <path d="M68 53 L81 62" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,2"/>
+</svg>

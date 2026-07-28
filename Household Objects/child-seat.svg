@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.210 -12.454) scale(1.4056)">
+<!-- Car seat base -->
+  <path d="M18 75 L18 58 Q18 52 24 52 L76 52 Q82 52 82 58 L82 75Z" fill="#5577aa" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Car seat back (rear-facing reclined) -->
+  <path d="M24 52 L32 18 Q34 14 40 14 L66 14 Q72 14 70 18 L76 52Z" fill="#5577aa" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Harness straps -->
+  <line x1="42" y1="18" x2="38" y2="50" stroke="#f5c842" stroke-width="3" stroke-linecap="round"/>
+  <line x1="58" y1="18" x2="62" y2="50" stroke="#f5c842" stroke-width="3" stroke-linecap="round"/>
+  <line x1="38" y1="38" x2="62" y2="38" stroke="#f5c842" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Child figure in seat -->
+  <circle cx="50" cy="24" r="7" fill="#f5d5b0" stroke="#333" stroke-width="1.5"/>
+  <!-- Buckle -->
+  <rect x="44" y="48" width="12" height="6" rx="2" fill="#cc0000" stroke="#333" stroke-width="1.5"/>
+</g>
+  </svg>

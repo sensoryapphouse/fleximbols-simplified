@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-19.801 -24.372) scale(1.3974)">
+<!-- body -->
+  <ellipse cx="50" cy="60" rx="22" ry="16" fill="#5db85d" stroke="#2d6e2d" stroke-width="2.5"/>
+  <!-- head -->
+  <ellipse cx="50" cy="44" rx="18" ry="13" fill="#5db85d" stroke="#2d6e2d" stroke-width="2.5"/>
+  <!-- big eyes left -->
+  <circle cx="38" cy="35" r="7" fill="#c8eac0" stroke="#2d6e2d" stroke-width="2"/>
+  <circle cx="38" cy="35" r="4" fill="#1a1a1a"/>
+  <circle cx="36" cy="33" r="1.5" fill="white"/>
+  <!-- big eyes right -->
+  <circle cx="62" cy="35" r="7" fill="#c8eac0" stroke="#2d6e2d" stroke-width="2"/>
+  <circle cx="62" cy="35" r="4" fill="#1a1a1a"/>
+  <circle cx="60" cy="33" r="1.5" fill="white"/>
+  <!-- mouth line -->
+  <path d="M38 48 Q50 54 62 48" fill="none" stroke="#2d6e2d" stroke-width="2" stroke-linecap="round"/>
+  <!-- front legs -->
+  <path d="M30 62 Q22 65 18 72" fill="none" stroke="#2d6e2d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M70 62 Q78 65 82 72" fill="none" stroke="#2d6e2d" stroke-width="3" stroke-linecap="round"/>
+  <!-- back legs bent -->
+  <path d="M35 72 Q25 80 20 75 Q18 68 28 65" fill="none" stroke="#2d6e2d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M65 72 Q75 80 80 75 Q82 68 72 65" fill="none" stroke="#2d6e2d" stroke-width="3" stroke-linecap="round"/>
+  <!-- label -->
+</g>
+  </svg>

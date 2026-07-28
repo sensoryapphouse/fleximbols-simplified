@@ -1,0 +1,14 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Zabuton - rectangular flat meditation mat in 3D perspective -->
+  <!-- Top face -->
+  <polygon points="12,48 88,48 80,68 20,68" fill="#92400e" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Front face with depth -->
+  <polygon points="20,68 80,68 80,76 20,76" fill="#78350f" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Top surface quilted lines -->
+  <line x1="30" y1="48" x2="26" y2="68" stroke="#b45309" stroke-width="1.5" opacity="0.6"/>
+  <line x1="50" y1="48" x2="50" y2="68" stroke="#b45309" stroke-width="1.5" opacity="0.6"/>
+  <line x1="70" y1="48" x2="74" y2="68" stroke="#b45309" stroke-width="1.5" opacity="0.6"/>
+  <line x1="12" y1="56" x2="88" y2="56" stroke="#b45309" stroke-width="1.5" opacity="0.6"/>
+  <!-- Seam/piping border -->
+  <polygon points="12,48 88,48 80,68 20,68" fill="none" stroke="#333" stroke-width="2.5"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2246" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2246)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

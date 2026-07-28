@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- diving falcon - streamlined -->
+  <!-- wings swept back -->
+  <path d="M50 45 Q38 38 18 48 Q22 56 38 52 Q44 50 50 50 Z" fill="#4a5a78" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M18 48 Q10 46 8 52 Q12 56 22 54" fill="#3a4a68" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M50 45 Q62 38 82 48 Q78 56 62 52 Q56 50 50 50 Z" fill="#4a5a78" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M82 48 Q90 46 92 52 Q88 56 78 54" fill="#3a4a68" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- body - streamlined -->
+  <ellipse cx="50" cy="54" rx="10" ry="16" fill="#4a5a78" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- cream/buff underside -->
+  <ellipse cx="50" cy="58" rx="6" ry="12" fill="#e8d8a0" stroke="#333" stroke-width="1" stroke-linejoin="round"/>
+  <!-- barring on underside -->
+  <path d="M45 52 Q50 50 55 52" fill="none" stroke="#8a7040" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M44 56 Q50 54 56 56" fill="none" stroke="#8a7040" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M44 60 Q50 58 56 60" fill="none" stroke="#8a7040" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- pointed tail -->
+  <path d="M44 68 Q50 74 56 68 Q54 80 50 82 Q46 80 44 68 Z" fill="#4a5a78" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- head - rounded with malar stripe -->
+  <circle cx="50" cy="38" r="12" fill="#2a3040" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- cream face -->
+  <ellipse cx="46" cy="42" rx="8" ry="7" fill="#e8d8b0" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- malar stripe (distinctive falcon mark) -->
+  <path d="M44 38 Q42 44 40 48" fill="none" stroke="#2a3040" stroke-width="3" stroke-linecap="round"/>
+  <!-- beak hooked -->
+  <path d="M38 42 Q44 38 50 38 Q48 46 42 48 Z" fill="#d0a020" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- eye -->
+  <circle cx="46" cy="36" r="3.5" fill="#e0b020" stroke="#333" stroke-width="1"/>
+  <circle cx="46" cy="36" r="2" fill="#333"/>
+  <circle cx="45.5" cy="35.5" r="0.7" fill="white"/>
+  <!-- talons -->
+  <path d="M44 82 Q40 88 36 90" stroke="#d0a020" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M46 82 Q44 90 42 92" stroke="#d0a020" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M54 82 Q58 88 62 90" stroke="#d0a020" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M52 82 Q54 90 56 92" stroke="#d0a020" stroke-width="2" stroke-linecap="round" fill="none"/>
+</svg>

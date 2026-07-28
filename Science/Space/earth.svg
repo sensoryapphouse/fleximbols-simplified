@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- globe background -->
+  <circle cx="50" cy="48" r="36" fill="#4a90d9" stroke="#2060a0" stroke-width="2.5"/>
+  <!-- continents (simplified) -->
+  <!-- europe/africa -->
+  <path d="M44,22 Q46,20 50,22 Q54,26 54,34 Q56,38 54,44 Q52,50 50,52 Q48,54 46,52 Q44,48 44,42 Q42,36 44,30Z" fill="#5bba5b" stroke="#2e8b2e" stroke-width="1.5"/>
+  <!-- americas -->
+  <path d="M28,28 Q32,24 36,28 Q38,34 36,40 Q34,46 32,50 Q30,54 28,52 Q26,46 26,38 Q24,32 28,28Z" fill="#5bba5b" stroke="#2e8b2e" stroke-width="1.5"/>
+  <!-- asia/australia -->
+  <path d="M58,26 Q64,22 70,26 Q74,32 72,38 Q70,42 66,44 Q62,42 60,38 Q56,32 58,26Z" fill="#5bba5b" stroke="#2e8b2e" stroke-width="1.5"/>
+  <ellipse cx="66" cy="58" rx="7" ry="5" fill="#5bba5b" stroke="#2e8b2e" stroke-width="1.5" transform="rotate(10,66,58)"/>
+  <!-- equator line -->
+  <path d="M14,48 Q50,44 86,48" fill="none" stroke="white" stroke-width="1" opacity="0.5"/>
+  <!-- globe highlight -->
+  <circle cx="38" cy="32" r="8" fill="white" opacity="0.15"/>
+</svg>

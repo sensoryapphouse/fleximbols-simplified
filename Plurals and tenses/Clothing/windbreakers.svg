@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- body -->
+  <path d="M30 40 L20 35 L15 55 L25 55 L25 80 L75 80 L75 55 L85 55 L80 35 L70 40" fill="#6aaSa4" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- collar/hood -->
+  <path d="M30 40 Q35 30 50 28 Q65 30 70 40" fill="#5b9ea0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- hood -->
+  <path d="M35 38 Q50 15 65 38" fill="#5b9ea0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- zip line -->
+  <line x1="50" y1="40" x2="50" y2="78" stroke="#333" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <!-- cuffs -->
+  <rect x="15" y="53" width="10" height="5" rx="2" fill="#4a8a8c" stroke="#333" stroke-width="1.5"/>
+  <rect x="75" y="53" width="10" height="5" rx="2" fill="#4a8a8c" stroke="#333" stroke-width="1.5"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl774" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl774)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

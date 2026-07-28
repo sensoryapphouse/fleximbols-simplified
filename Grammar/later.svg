@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Clock face -->
+  <circle cx="42" cy="46" r="26" fill="#fffdf0" stroke="#333" stroke-width="2.5"/>
+  <!-- Hands at a later time (pointing ahead) -->
+  <line x1="42" y1="46" x2="56" y2="36" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="42" y1="46" x2="56" y2="46" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="42" cy="46" r="3" fill="#333"/>
+  <!-- Forward arrow (further than soon) -->
+  <line x1="68" y1="40" x2="86" y2="40" stroke="#c08020" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="86,40 78,35 78,45" fill="#c08020"/>
+</svg>

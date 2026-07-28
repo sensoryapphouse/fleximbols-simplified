@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- water surface -->
+  <path d="M10,72 Q30,68 50,72 Q70,76 90,72" fill="none" stroke="#7aaad4" stroke-width="2"/>
+  <!-- outer petals -->
+  <path d="M50,68 Q40,55 38,40 Q50,50 50,68Z" fill="#f09ab0" stroke="#e05c8a" stroke-width="2"/>
+  <path d="M50,68 Q60,55 62,40 Q50,50 50,68Z" fill="#f09ab0" stroke="#e05c8a" stroke-width="2"/>
+  <path d="M50,68 Q35,58 28,44 Q44,52 50,68Z" fill="#e87cb0" stroke="#e05c8a" stroke-width="2"/>
+  <path d="M50,68 Q65,58 72,44 Q56,52 50,68Z" fill="#e87cb0" stroke="#e05c8a" stroke-width="2"/>
+  <path d="M50,68 Q32,62 24,50 Q40,56 50,68Z" fill="#d46090" stroke="#b03060" stroke-width="2"/>
+  <path d="M50,68 Q68,62 76,50 Q60,56 50,68Z" fill="#d46090" stroke="#b03060" stroke-width="2"/>
+  <!-- center petals -->
+  <path d="M50,68 Q44,58 44,48 Q50,55 50,68Z" fill="#f5b8c8" stroke="#e05c8a" stroke-width="1.5"/>
+  <path d="M50,68 Q56,58 56,48 Q50,55 50,68Z" fill="#f5b8c8" stroke="#e05c8a" stroke-width="1.5"/>
+  <path d="M50,68 Q42,62 40,54 Q50,60 50,68Z" fill="#f0a0c0" stroke="#e05c8a" stroke-width="1.5"/>
+  <path d="M50,68 Q58,62 60,54 Q50,60 50,68Z" fill="#f0a0c0" stroke="#e05c8a" stroke-width="1.5"/>
+  <!-- center -->
+  <circle cx="50" cy="58" r="8" fill="#f5c518" stroke="#c8940a" stroke-width="2"/>
+  <!-- leaves -->
+  <ellipse cx="25" cy="72" rx="14" ry="6" fill="#5bba5b" stroke="#2e8b2e" stroke-width="2" transform="rotate(-15,25,72)"/>
+  <ellipse cx="75" cy="72" rx="14" ry="6" fill="#5bba5b" stroke="#2e8b2e" stroke-width="2" transform="rotate(15,75,72)"/>
+</svg>

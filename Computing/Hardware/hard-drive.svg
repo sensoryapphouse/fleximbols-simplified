@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- HDD body -->
+  <rect x="12" y="28" width="76" height="48" rx="5" fill="#d8d8d8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Disk platter circle -->
+  <circle cx="46" cy="52" r="18" fill="#bbb" stroke="#555" stroke-width="2"/>
+  <circle cx="46" cy="52" r="6" fill="#999" stroke="#555" stroke-width="1.5"/>
+  <circle cx="46" cy="52" r="2" fill="#666"/>
+  <!-- Read arm -->
+  <line x1="55" y1="43" x2="68" y2="36" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="68" cy="36" r="3" fill="#777" stroke="#333" stroke-width="1.5"/>
+  <!-- Connector on right -->
+  <rect x="76" y="46" width="12" height="12" rx="2" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+  <!-- Label -->
+</svg>

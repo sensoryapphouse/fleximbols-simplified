@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Theatrical costume - king/queen style with crown and cape -->
+  <!-- Cape -->
+  <path d="M28 22 Q14 40 16 72 L26 72 Q28 52 36 36 Z" fill="#993322" stroke="#333" stroke-width="2"/>
+  <path d="M72 22 Q86 40 84 72 L74 72 Q72 52 64 36 Z" fill="#993322" stroke="#333" stroke-width="2"/>
+  <!-- Ermine/fur trim on cape -->
+  <path d="M28 22 Q14 40 16 72" fill="none" stroke="#eeeeee" stroke-width="4"/>
+  <path d="M72 22 Q86 40 84 72" fill="none" stroke="#eeeeee" stroke-width="4"/>
+  <!-- Tunic body -->
+  <rect x="30" y="22" width="40" height="42" rx="4" fill="#224488" stroke="#333" stroke-width="2.5"/>
+  <!-- Gold trim on tunic -->
+  <line x1="30" y1="30" x2="70" y2="30" stroke="#c8b400" stroke-width="2"/>
+  <line x1="30" y1="36" x2="70" y2="36" stroke="#c8b400" stroke-width="1"/>
+  <!-- Royal brooch at chest -->
+  <circle cx="50" cy="34" r="5" fill="#c8b400" stroke="#333" stroke-width="1.5"/>
+  <circle cx="50" cy="34" r="3" fill="#cc2222"/>
+  <!-- Crown on top -->
+  <path d="M36 20 L36 10 L50 16 L64 10 L64 20 Z" fill="#c8b400" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="36" cy="10" r="3" fill="#cc2222" stroke="#333" stroke-width="1"/>
+  <circle cx="50" cy="6" r="3" fill="#cc2222" stroke="#333" stroke-width="1"/>
+  <circle cx="64" cy="10" r="3" fill="#cc2222" stroke="#333" stroke-width="1"/>
+  <!-- Belt -->
+  <rect x="30" y="50" width="40" height="6" rx="2" fill="#c8b400" stroke="#333" stroke-width="1.5"/>
+  <rect x="44" y="49" width="12" height="8" rx="1" fill="#c8b400" stroke="#333" stroke-width="1.5"/>
+  <!-- Legs in tights -->
+  <rect x="30" y="64" width="16" height="22" rx="3" fill="#224488" stroke="#333" stroke-width="2"/>
+  <rect x="54" y="64" width="16" height="22" rx="3" fill="#224488" stroke="#333" stroke-width="2"/>
+</svg>

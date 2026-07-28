@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Face outline (faint) -->
+  <ellipse cx="50" cy="50" rx="32" ry="38" fill="#f5c89a" stroke="#ddd" stroke-width="1.5"/>
+  <!-- Eyes (faint) -->
+  <ellipse cx="35" cy="38" rx="6" ry="4" fill="white" stroke="#ccc" stroke-width="1"/>
+  <circle cx="35" cy="38" r="2" fill="#ccc"/>
+  <ellipse cx="65" cy="38" rx="6" ry="4" fill="white" stroke="#ccc" stroke-width="1"/>
+  <circle cx="65" cy="38" r="2" fill="#ccc"/>
+  <!-- Mouth (faint) -->
+  <path d="M40 68 Q50 73 60 68" fill="none" stroke="#ddd" stroke-width="1.5"/>
+  <!-- NOSE highlighted -->
+  <!-- Bridge -->
+  <path d="M50 32 Q46 40 42 48 Q38 56 44 62 Q50 66 56 62 Q62 56 58 48 Q54 40 50 32" fill="#e8c8a0" stroke="#b08060" stroke-width="2"/>
+  <!-- Nostrils -->
+  <ellipse cx="44" cy="62" rx="5" ry="4" fill="#d4a070" stroke="#a06040" stroke-width="1.5"/>
+  <ellipse cx="56" cy="62" rx="5" ry="4" fill="#d4a070" stroke="#a06040" stroke-width="1.5"/>
+  <!-- Highlight outline (red dashed) -->
+  <path d="M48 30 Q43 40 39 50 Q35 58 42 65 Q50 70 58 65 Q65 58 61 50 Q57 40 52 30 Z" fill="none" stroke="#e74c3c" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <!-- Arrow pointing to nose -->
+  <line x1="10" y1="50" x2="26" y2="52" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
+  <polyline points="16,48 26,52 16,56" fill="none" stroke="#e74c3c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-8.838 -8.838) scale(1.1779)">
+<!-- Glucose meter device -->
+  <rect x="30" y="22" width="40" height="56" rx="6" fill="#e8eaf6" stroke="#3949ab" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Screen -->
+  <rect x="34" y="28" width="32" height="20" rx="3" fill="#263238" stroke="#3949ab" stroke-width="1.5"/>
+  <!-- Blood glucose reading -->
+  <text x="50" y="40" font-size="9" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#4caf50" font-weight="bold">126</text>
+  <text x="50" y="47" font-size="5" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#90a4ae">mg/dL</text>
+  <!-- Test strip slot -->
+  <rect x="64" y="44" width="8" height="4" rx="1" fill="#8d6e63" stroke="#5d4037" stroke-width="1"/>
+  <rect x="60" y="42" width="4" height="8" rx="1" fill="#a5d6a7" stroke="#388e3c" stroke-width="1.5"/>
+  <!-- Button -->
+  <circle cx="50" cy="60" r="5" fill="#3949ab" stroke="#1a237e" stroke-width="1.5"/>
+  <!-- Blood drop -->
+  <path d="M50,12 Q46,18 46,22 Q46,26 50,26 Q54,26 54,22 Q54,18 50,12 Z" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <!-- Arrow from drop to meter -->
+  <line x1="50" y1="26" x2="50" y2="22" stroke="#e74c3c" stroke-width="1.5" stroke-dasharray="2,2"/>
+</g>
+  </svg>

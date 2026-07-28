@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Calendar stack (suggesting many years) -->
+  <rect x="18" y="28" width="70" height="52" rx="4" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+  <rect x="14" y="24" width="70" height="52" rx="4" fill="#bbdefb" stroke="#1565c0" stroke-width="2"/>
+  <rect x="10" y="20" width="70" height="52" rx="4" fill="#f5f5f5" stroke="#555" stroke-width="2.5"/>
+  <!-- Calendar top bar -->
+  <rect x="10" y="20" width="70" height="14" rx="4" fill="#1565c0" stroke="#555" stroke-width="2.5"/>
+  <rect x="10" y="28" width="70" height="6" fill="#1565c0"/>
+  <!-- Large 10 -->
+  <text x="45" y="60" font-size="28" text-anchor="middle" fill="#1565c0" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold">10</text>
+  <text x="45" y="72" font-size="8" text-anchor="middle" fill="#555" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif">years</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- edamame pod 1 -->
+<path d="M12,38 Q14,26 26,25 Q36,24 44,28 Q50,32 48,40 Q44,50 32,52 Q20,52 14,46 Q10,42 12,38 Z" fill="#66bb44" stroke="#448822" stroke-width="2.5"/>
+<!-- bean bumps -->
+<ellipse cx="24" cy="38" rx="6" ry="8" fill="#88cc55" stroke="#448822" stroke-width="1.5"/>
+<ellipse cx="36" cy="36" rx="6" ry="8" fill="#88cc55" stroke="#448822" stroke-width="1.5"/>
+<!-- edamame pod 2 -->
+<path d="M52,48 Q54,36 66,35 Q76,34 84,38 Q90,42 88,50 Q84,60 72,62 Q60,62 54,56 Q50,52 52,48 Z" fill="#66bb44" stroke="#448822" stroke-width="2.5"/>
+<!-- bean bumps 2 -->
+<ellipse cx="64" cy="48" rx="6" ry="8" fill="#88cc55" stroke="#448822" stroke-width="1.5"/>
+<ellipse cx="76" cy="46" rx="6" ry="8" fill="#88cc55" stroke="#448822" stroke-width="1.5"/>
+<!-- salt crystals -->
+<circle cx="30" cy="30" r="1.5" fill="white"/>
+<circle cx="68" cy="40" r="1.5" fill="white"/>
+<circle cx="44" cy="42" r="1.5" fill="white"/>
+</svg>

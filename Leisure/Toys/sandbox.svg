@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Sandbox frame -->
+  <rect x="12" y="42" width="76" height="36" rx="4" fill="#f9a825" stroke="#f57f17" stroke-width="2.5"/>
+  <!-- Sand fill -->
+  <rect x="16" y="50" width="68" height="24" rx="2" fill="#ffe082"/>
+  <!-- Sand texture lumps -->
+  <ellipse cx="30" cy="62" rx="8" ry="4" fill="#ffd54f"/>
+  <ellipse cx="55" cy="60" rx="10" ry="5" fill="#ffd54f"/>
+  <ellipse cx="75" cy="65" rx="7" ry="3" fill="#ffd54f"/>
+  <!-- Toys in sand -->
+  <path d="M25,58 L22,68 L28,68 Z" fill="#e53935" stroke="#b71c1c" stroke-width="1"/>
+  <rect x="40" y="60" width="10" height="7" rx="1" fill="#42a5f5" stroke="#1565c0" stroke-width="1"/>
+  <path d="M45,57 L42,62 L48,62 Z" fill="#42a5f5" stroke="#1565c0" stroke-width="1"/>
+  <!-- Spade handle -->
+  <line x1="62" y1="52" x2="62" y2="70" stroke="#795548" stroke-width="2"/>
+  <path d="M58,65 L62,73 L66,65 Z" fill="#795548" stroke="#5d4037" stroke-width="1"/>
+  <!-- Corner posts -->
+  <circle cx="12" cy="42" r="4" fill="#f57f17" stroke="#e65100" stroke-width="2"/>
+  <circle cx="88" cy="42" r="4" fill="#f57f17" stroke="#e65100" stroke-width="2"/>
+  <circle cx="12" cy="78" r="4" fill="#f57f17" stroke="#e65100" stroke-width="2"/>
+  <circle cx="88" cy="78" r="4" fill="#f57f17" stroke="#e65100" stroke-width="2"/>
+</svg>

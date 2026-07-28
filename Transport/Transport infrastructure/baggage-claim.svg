@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Conveyor belt -->
+  <rect x="8" y="52" width="84" height="18" rx="6" fill="#888" stroke="#333" stroke-width="2.5"/>
+  <!-- Belt lines -->
+  <line x1="25" y1="52" x2="25" y2="70" stroke="#555" stroke-width="1.5"/>
+  <line x1="42" y1="52" x2="42" y2="70" stroke="#555" stroke-width="1.5"/>
+  <line x1="59" y1="52" x2="59" y2="70" stroke="#555" stroke-width="1.5"/>
+  <line x1="76" y1="52" x2="76" y2="70" stroke="#555" stroke-width="1.5"/>
+  <!-- Rollers at ends -->
+  <circle cx="14" cy="61" r="9" fill="#aaa" stroke="#333" stroke-width="2"/>
+  <circle cx="86" cy="61" r="9" fill="#aaa" stroke="#333" stroke-width="2"/>
+  <!-- Suitcase on belt -->
+  <rect x="35" y="38" width="20" height="16" rx="3" fill="#e74c3c" stroke="#333" stroke-width="2"/>
+  <rect x="42" y="34" width="6" height="6" rx="1" fill="none" stroke="#333" stroke-width="2"/>
+  <line x1="35" y1="46" x2="55" y2="46" stroke="#333" stroke-width="1.5"/>
+  <!-- Suitcase 2 -->
+  <rect x="62" y="40" width="16" height="13" rx="3" fill="#3498db" stroke="#333" stroke-width="2"/>
+  <rect x="67" y="36" width="6" height="5" rx="1" fill="none" stroke="#333" stroke-width="2"/>
+</svg>

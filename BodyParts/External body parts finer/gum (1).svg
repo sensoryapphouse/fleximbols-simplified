@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-29.789 -33.767) scale(1.5973)">
+<!-- gum stick pack -->
+  <rect x="22" y="25" width="56" height="55" rx="5" fill="#c0e8f0" stroke="#4898b0" stroke-width="2.5"/>
+  <!-- inner label -->
+<!-- brand stripe -->
+  <rect x="28" y="38" width="44" height="10" fill="#4898b0"/>
+  <!-- stick of gum -->
+  <rect x="34" y="52" width="32" height="10" rx="3" fill="#e8f8a0" stroke="#a0b040" stroke-width="1.5"/>
+</g>
+  </svg>

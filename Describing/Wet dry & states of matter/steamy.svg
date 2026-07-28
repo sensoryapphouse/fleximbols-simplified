@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-5.718 -3.488) scale(1.1144)">
+<!-- Hot surface / bowl -->
+  <ellipse cx="50" cy="68" rx="32" ry="10" fill="#d4a060" stroke="#8a6030" stroke-width="2.5"/>
+  <path d="M18 68 Q18 58 50 56 Q82 58 82 68" fill="#c4905a" stroke="#8a6030" stroke-width="2.5"/>
+  <!-- Steam rising -->
+  <path d="M30 52 Q26 44 30 36 Q34 28 30 20" fill="none" stroke="#aaa" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M50 50 Q46 42 50 34 Q54 26 50 18" fill="none" stroke="#aaa" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M70 52 Q66 44 70 36 Q74 28 70 20" fill="none" stroke="#aaa" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+  </svg>

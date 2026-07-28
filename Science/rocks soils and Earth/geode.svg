@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Geode - rock with crystal interior, shown as cross-section -->
+  <!-- Rock outer -->
+  <circle cx="50" cy="48" r="38" fill="#a08060" stroke="#604020" stroke-width="2.5"/>
+  <!-- Rock inner shell -->
+  <circle cx="50" cy="48" r="30" fill="#c0a880" stroke="#806040" stroke-width="1.5"/>
+  <!-- Crystal cavity -->
+  <circle cx="50" cy="48" r="22" fill="#1a1040"/>
+  <!-- Purple crystals inside -->
+  <polygon points="50,28 54,44 46,44" fill="#9b59b6" stroke="#6a2a8a" stroke-width="1.5"/>
+  <polygon points="62,33 64,48 56,46" fill="#8e44ad" stroke="#5a2070" stroke-width="1.5"/>
+  <polygon points="38,33 44,46 36,48" fill="#8e44ad" stroke="#5a2070" stroke-width="1.5"/>
+  <polygon points="68,46 68,60 60,56" fill="#7d3c98" stroke="#5a2070" stroke-width="1.5"/>
+  <polygon points="32,46 40,56 32,60" fill="#7d3c98" stroke="#5a2070" stroke-width="1.5"/>
+  <polygon points="50,68 54,52 46,52" fill="#b370d0" stroke="#6a2a8a" stroke-width="1.5"/>
+  <!-- Center void -->
+  <circle cx="50" cy="48" r="8" fill="#0d0820"/>
+</svg>

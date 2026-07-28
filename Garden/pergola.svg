@@ -1,0 +1,16 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Posts -->
+<rect x="12" y="35" width="6" height="45" fill="#c8a87a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<rect x="82" y="35" width="6" height="45" fill="#c8a87a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<!-- Top beams crosswise -->
+<rect x="8" y="28" width="84" height="7" fill="#b8986a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<!-- Overhead slats -->
+<rect x="18" y="22" width="5" height="14" fill="#c8a87a" stroke="#333" stroke-width="1.5"/>
+<rect x="30" y="22" width="5" height="14" fill="#c8a87a" stroke="#333" stroke-width="1.5"/>
+<rect x="42" y="22" width="5" height="14" fill="#c8a87a" stroke="#333" stroke-width="1.5"/>
+<rect x="54" y="22" width="5" height="14" fill="#c8a87a" stroke="#333" stroke-width="1.5"/>
+<rect x="66" y="22" width="5" height="14" fill="#c8a87a" stroke="#333" stroke-width="1.5"/>
+<rect x="78" y="22" width="5" height="14" fill="#c8a87a" stroke="#333" stroke-width="1.5"/>
+<!-- Ground line -->
+<line x1="10" y1="80" x2="90" y2="80" stroke="#888" stroke-width="1.5"/>
+</svg>

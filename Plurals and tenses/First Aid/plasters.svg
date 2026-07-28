@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Plaster/adhesive bandage at slight angle -->
+  <g transform="rotate(-15 50 50)">
+    <!-- Main strip -->
+    <rect x="14" y="40" width="72" height="20" rx="10" fill="#f5cba7" stroke="#8B6914" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- Left fabric end -->
+    <rect x="14" y="40" width="20" height="20" rx="10" fill="#e8c090" stroke="#8B6914" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Right fabric end -->
+    <rect x="66" y="40" width="20" height="20" rx="10" fill="#e8c090" stroke="#8B6914" stroke-width="2" stroke-linejoin="round"/>
+    <!-- White sterile pad center -->
+<!-- Cross on pad -->
+    <rect x="47" y="45" width="6" height="10" rx="1" fill="#e74c3c"/>
+    <rect x="42" y="48" width="16" height="4" rx="1" fill="#e74c3c"/>
+    <!-- Perforations on fabric -->
+    <circle cx="22" cy="46" r="1" fill="#c9a87a"/>
+    <circle cx="22" cy="54" r="1" fill="#c9a87a"/>
+    <circle cx="78" cy="46" r="1" fill="#c9a87a"/>
+    <circle cx="78" cy="54" r="1" fill="#c9a87a"/>
+  </g>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl937" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl937)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

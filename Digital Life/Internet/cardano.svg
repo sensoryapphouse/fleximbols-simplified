@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Cardano ADA - starburst/flower pattern -->
+  <circle cx="50" cy="48" r="36" fill="#0e1e40" stroke="#0033ad" stroke-width="2.5"/>
+  <!-- Starburst rays (8-pointed) -->
+  <circle cx="50" cy="28" r="4" fill="#0033ad"/>
+  <circle cx="50" cy="68" r="4" fill="#0033ad"/>
+  <circle cx="30" cy="48" r="4" fill="#0033ad"/>
+  <circle cx="70" cy="48" r="4" fill="#0033ad"/>
+  <circle cx="36" cy="34" r="3" fill="#3d7af5"/>
+  <circle cx="64" cy="34" r="3" fill="#3d7af5"/>
+  <circle cx="36" cy="62" r="3" fill="#3d7af5"/>
+  <circle cx="64" cy="62" r="3" fill="#3d7af5"/>
+  <!-- Inner ring dots -->
+  <circle cx="50" cy="36" r="2.5" fill="#3d7af5"/>
+  <circle cx="50" cy="60" r="2.5" fill="#3d7af5"/>
+  <circle cx="38" cy="48" r="2.5" fill="#3d7af5"/>
+  <circle cx="62" cy="48" r="2.5" fill="#3d7af5"/>
+  <!-- Center ADA symbol -->
+  <circle cx="50" cy="48" r="8" fill="#0033ad" stroke="#3d7af5" stroke-width="1.5"/>
+  <text x="50" y="52" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="white">ADA</text>
+</svg>

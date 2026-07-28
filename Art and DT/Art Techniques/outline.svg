@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-13.070 3.681) scale(1.1030)">
+<!-- Solid shape (star) to be outlined -->
+  <path d="M50,18 L56,36 L75,36 L60,48 L66,66 L50,55 L34,66 L40,48 L25,36 L44,36 Z" fill="#e8e8e8" stroke="#ccc" stroke-width="1"/>
+  <!-- Outline being traced (with marker/pen) -->
+  <path d="M50,18 L56,36 L75,36 L60,48 L66,66 L50,55 L34,66 L40,48 L25,36 L44,36 Z" fill="none" stroke="#4a90d9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5,2"/>
+  <!-- Marker/pen tracing the outline -->
+  <line x1="75" y1="36" x2="85" y2="28" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <rect x="82" y="22" width="8" height="8" rx="2" fill="#4a90d9" stroke="#333" stroke-width="1.5"/>
+  <!-- Small marker tip circle -->
+  <circle cx="75" cy="36" r="3" fill="#4a90d9"/>
+  <!-- Arrow showing tracing direction -->
+  <path d="M60,48 Q70,52 75,46" stroke="#e05c2a" stroke-width="1.5" fill="none" stroke-dasharray="3,2"/>
+  <polygon points="73,42 78,48 68,48" fill="#e05c2a"/>
+</g>
+  </svg>

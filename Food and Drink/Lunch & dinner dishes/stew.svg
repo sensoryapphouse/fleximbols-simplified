@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- bowl -->
+  <path d="M 12 48 Q 12 80 50 80 Q 88 80 88 48 Z" fill="#e8d4b0" stroke="#888" stroke-width="2.5"/>
+  <ellipse cx="50" cy="48" rx="38" ry="11" fill="#dcc89a" stroke="#888" stroke-width="2"/>
+  <!-- stew thick surface -->
+  <ellipse cx="50" cy="48" rx="33" ry="9" fill="#8B4513"/>
+  <!-- chunky vegetables/meat -->
+  <circle cx="36" cy="46" r="5" fill="#c84030"/>
+  <circle cx="52" cy="44" r="5" fill="#c09040"/>
+  <circle cx="64" cy="47" r="5" fill="#608030"/>
+  <circle cx="44" cy="50" r="4" fill="#b07030"/>
+  <!-- steam -->
+  <path d="M 38 36 Q 36 28 38 21" fill="none" stroke="#bbb" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 62 36 Q 60 28 62 21" fill="none" stroke="#bbb" stroke-width="2" stroke-linecap="round"/>
+</svg>

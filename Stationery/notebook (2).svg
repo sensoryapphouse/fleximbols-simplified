@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Book body -->
+  <rect x="22" y="14" width="58" height="70" rx="3" fill="#5B8CC8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Spiral binding -->
+  <rect x="22" y="14" width="12" height="70" rx="3" fill="#4A7AB8" stroke="#333" stroke-width="2"/>
+  <!-- Spiral circles -->
+  <circle cx="28" cy="24" r="4" fill="none" stroke="#333" stroke-width="2"/>
+  <circle cx="28" cy="36" r="4" fill="none" stroke="#333" stroke-width="2"/>
+  <circle cx="28" cy="48" r="4" fill="none" stroke="#333" stroke-width="2"/>
+  <circle cx="28" cy="60" r="4" fill="none" stroke="#333" stroke-width="2"/>
+  <circle cx="28" cy="72" r="4" fill="none" stroke="#333" stroke-width="2"/>
+  <!-- Page lines -->
+  <line x1="40" y1="30" x2="72" y2="30" stroke="white" stroke-width="2"/>
+  <line x1="40" y1="40" x2="72" y2="40" stroke="white" stroke-width="2"/>
+  <line x1="40" y1="50" x2="72" y2="50" stroke="white" stroke-width="2"/>
+  <line x1="40" y1="60" x2="72" y2="60" stroke="white" stroke-width="2"/>
+</svg>

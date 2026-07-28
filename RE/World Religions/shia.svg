@@ -1,0 +1,12 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shia Islam: Crescent + Zulfiqar sword (Ali's sword) -->
+  <!-- Crescent -->
+  <circle cx="44" cy="40" r="28" fill="#1a4a7a" stroke="#333" stroke-width="2.5"/>
+  <circle cx="54" cy="32" r="21" fill="#f5f0e0" stroke="none"/>
+  <!-- Star -->
+  <polygon points="68,18 70,24 76,24 71,28 73,34 68,30 63,34 65,28 60,24 66,24" fill="#1a4a7a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Zulfiqar (double-pointed sword) -->
+  <path d="M25,70 L70,95 L75,88 L35,60Z" fill="#c8a96e" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M35,60 L80,80 L75,88 L25,70Z" fill="#a08040" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="20" y="66" width="12" height="6" rx="2" fill="#c8a96e" stroke="#333" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Bamboo steamer base -->
+  <ellipse cx="50" cy="78" rx="36" ry="9" fill="#c8a050" stroke="#7a5820" stroke-width="2.5"/>
+  <rect x="14" y="60" width="72" height="20" rx="5" fill="#c8a050" stroke="#7a5820" stroke-width="2.5"/>
+  <!-- Steamer weave pattern -->
+  <line x1="14" y1="65" x2="86" y2="65" stroke="#a88030" stroke-width="1"/>
+  <line x1="14" y1="72" x2="86" y2="72" stroke="#a88030" stroke-width="1"/>
+  <line x1="26" y1="60" x2="26" y2="80" stroke="#a88030" stroke-width="1"/>
+  <line x1="38" y1="60" x2="38" y2="80" stroke="#a88030" stroke-width="1"/>
+  <line x1="50" y1="60" x2="50" y2="80" stroke="#a88030" stroke-width="1"/>
+  <line x1="62" y1="60" x2="62" y2="80" stroke="#a88030" stroke-width="1"/>
+  <line x1="74" y1="60" x2="74" y2="80" stroke="#a88030" stroke-width="1"/>
+  <!-- Steamer rim lid -->
+  <rect x="14" y="55" width="72" height="8" rx="4" fill="#a88030" stroke="#7a5820" stroke-width="2"/>
+  <!-- Xiaolongbao on top -->
+  <!-- Left XLB -->
+  <circle cx="30" cy="52" r="12" fill="#f5e8d0" stroke="#c0a070" stroke-width="2"/>
+  <path d="M24 44 Q30 40 36 44" fill="none" stroke="#c0a070" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="30" cy="42" r="2" fill="#c0a070"/>
+  <!-- Right XLB -->
+  <circle cx="58" cy="50" r="12" fill="#f5e8d0" stroke="#c0a070" stroke-width="2"/>
+  <path d="M52 42 Q58 38 64 42" fill="none" stroke="#c0a070" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="58" cy="40" r="2" fill="#c0a070"/>
+  <!-- Steam -->
+  <path d="M36 28 Q38 21 36 14" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-linecap="round"/>
+  <path d="M64 26 Q66 19 64 12" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-linecap="round"/>
+</svg>

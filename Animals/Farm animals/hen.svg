@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- tail feathers -->
+  <path d="M20,50 C10,40 8,28 16,26 C20,26 22,32 18,42" fill="#c84040" stroke="#8b1010" stroke-width="2"/>
+  <path d="M20,54 C8,48 4,36 14,34 C18,34 20,42 18,50" fill="#d44040" stroke="#8b1010" stroke-width="2"/>
+  <path d="M20,58 C10,56 6,48 14,46 C18,46 20,54 20,58" fill="#c84040" stroke="#8b1010" stroke-width="2"/>
+  <!-- body -->
+  <ellipse cx="46" cy="60" rx="26" ry="20" fill="#c84040" stroke="#8b1010" stroke-width="2.5"/>
+  <!-- wing -->
+  <path d="M34,52 C28,48 28,60 34,66 C40,68 52,64 52,58 C52,52 42,48 34,52 Z" fill="#b03030" stroke="#8b1010" stroke-width="2"/>
+  <!-- neck -->
+  <rect x="60" y="34" width="14" height="26" rx="5" fill="#c84040" stroke="#8b1010" stroke-width="2.5"/>
+  <!-- head -->
+  <circle cx="70" cy="28" r="14" fill="#c84040" stroke="#8b1010" stroke-width="2.5"/>
+  <!-- comb -->
+  <path d="M62,16 C62,10 66,8 66,14 C66,10 70,8 70,14 C70,10 74,8 74,14 C72,18 64,18 62,16 Z" fill="#e84040" stroke="#8b1010" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- wattle -->
+  <path d="M76,30 Q80,34 78,40 Q76,42 74,40 Q72,36 76,30 Z" fill="#e84040" stroke="#8b1010" stroke-width="1.5"/>
+  <!-- beak -->
+  <polygon points="80,26 88,28 80,32" fill="#f0c020" stroke="#c89010" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- eye -->
+  <circle cx="74" cy="24" r="3" fill="#f0c020"/>
+  <circle cx="74" cy="24" r="1.5" fill="#1a1a1a"/>
+  <!-- legs -->
+  <line x1="42" y1="80" x2="38" y2="86" stroke="#f0c020" stroke-width="3" stroke-linecap="round"/>
+  <line x1="38" y1="86" x2="30" y2="86" stroke="#f0c020" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="38" y1="86" x2="36" y2="90" stroke="#f0c020" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="54" y1="80" x2="58" y2="86" stroke="#f0c020" stroke-width="3" stroke-linecap="round"/>
+  <line x1="58" y1="86" x2="66" y2="86" stroke="#f0c020" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="58" y1="86" x2="60" y2="90" stroke="#f0c020" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

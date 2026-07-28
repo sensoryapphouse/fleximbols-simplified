@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Tree trunk -->
+  <rect x="44" y="78" width="12" height="10" fill="#8B5E3C" stroke="#4a3020" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Tree layers -->
+  <polygon points="50,10 22,45 35,45 18,65 32,65 20,82 80,82 68,65 82,65 65,45 78,45" fill="#2e7d32" stroke="#1b5e20" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Star on top -->
+  <polygon points="50,6 52,13 59,13 54,17 56,24 50,20 44,24 46,17 41,13 48,13" fill="#f9a825" stroke="#e65100" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Ornaments -->
+  <circle cx="36" cy="58" r="4" fill="#e53935" stroke="#b71c1c" stroke-width="1.5"/>
+  <circle cx="64" cy="58" r="4" fill="#1565c0" stroke="#0d47a1" stroke-width="1.5"/>
+  <circle cx="50" cy="52" r="4" fill="#f9a825" stroke="#e65100" stroke-width="1.5"/>
+  <circle cx="42" cy="70" r="4" fill="#2e7d32" stroke="#1b5e20" stroke-width="1.5"/>
+  <circle cx="58" cy="70" r="4" fill="#e53935" stroke="#b71c1c" stroke-width="1.5"/>
+  <!-- Label -->
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Waistband -->
+  <rect x="24" y="12" width="52" height="7" rx="3" fill="#5a2a4a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Body/gusset area -->
+  <path d="M24 19 L76 19 L76 45 L56 50 L44 50 L24 45 Z" fill="#7a4a6a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Left leg full length -->
+  <path d="M24 45 L44 50 L42 84 L18 84 L20 45 Z" fill="#7a4a6a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Right leg full length -->
+  <path d="M76 45 L56 50 L58 84 L82 84 L80 45 Z" fill="#7a4a6a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Foot hint -->
+  <ellipse cx="30" cy="84" rx="12" ry="3" fill="#6a3a5a" stroke="#333" stroke-width="1.5"/>
+  <ellipse cx="70" cy="84" rx="12" ry="3" fill="#6a3a5a" stroke="#333" stroke-width="1.5"/>
+</svg>

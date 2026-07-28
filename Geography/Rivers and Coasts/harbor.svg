@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Water -->
+  <rect x="5" y="58" width="90" height="27" fill="#4488BB" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Water waves -->
+  <path d="M5,65 Q15,62 25,65 Q35,68 45,65 Q55,62 65,65 Q75,68 85,65 Q90,63 95,65" fill="none" stroke="#6699CC" stroke-width="1.5"/>
+  <path d="M5,73 Q15,70 25,73 Q35,76 45,73 Q55,70 65,73 Q75,76 85,73" fill="none" stroke="#6699CC" stroke-width="1.5"/>
+  <!-- Dock -->
+  <rect x="5" y="55" width="90" height="6" fill="#8B7355" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Dock posts -->
+  <rect x="15" y="55" width="4" height="20" fill="#7A6244" stroke="#555" stroke-width="1.5"/>
+  <rect x="35" y="55" width="4" height="20" fill="#7A6244" stroke="#555" stroke-width="1.5"/>
+  <rect x="55" y="55" width="4" height="20" fill="#7A6244" stroke="#555" stroke-width="1.5"/>
+  <rect x="75" y="55" width="4" height="20" fill="#7A6244" stroke="#555" stroke-width="1.5"/>
+  <!-- Boat 1 (sailboat) -->
+  <path d="M20,56 L20,38 L38,56Z" fill="#FFEECC" stroke="#555" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="18" y="50" width="22" height="6" rx="3" fill="#EEE8D8" stroke="#555" stroke-width="2"/>
+  <line x1="20" y1="38" x2="20" y2="56" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <!-- Boat 2 (fishing) -->
+  <path d="M58,58 Q65,52 72,58" fill="#CC8844" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="58" y="54" width="14" height="5" fill="#CC8844" stroke="#555" stroke-width="2"/>
+  <line x1="65" y1="54" x2="65" y2="44" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <path d="M60,48 Q65,44 70,48" fill="none" stroke="#888" stroke-width="1.5"/>
+  <!-- Buildings on shore -->
+  <rect x="5" y="30" width="25" height="26" fill="#F5E6D3" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="2,30 17,18 30,30" fill="#CC6644" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="70" y="35" width="25" height="21" fill="#F5E6D3" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="67,35 82,24 97,35" fill="#CC6644" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Seagulls -->
+  <path d="M45,20 Q48,17 51,20" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M55,14 Q58,11 61,14" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

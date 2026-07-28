@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- t-shirt body -->
+  <path d="M30 38 L30 75 L70 75 L70 38 L60 28 L54 34 Q50 37 46 34 L40 28 Z" fill="#f1948a" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- left sleeve -->
+  <path d="M30 38 L12 44 L14 56 L30 48 Z" fill="#f1948a" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- right sleeve -->
+  <path d="M70 38 L88 44 L86 56 L70 48 Z" fill="#f1948a" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- crew neck -->
+  <ellipse cx="50" cy="34" rx="8" ry="5" fill="none" stroke="#555" stroke-width="2"/>
+  <!-- label -->
+</svg>

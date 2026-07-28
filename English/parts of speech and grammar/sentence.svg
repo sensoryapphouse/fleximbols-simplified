@@ -1,0 +1,20 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sentence: gavel + prison bars -->
+  <!-- Gavel -->
+  <rect x="8" y="12" width="28" height="12" rx="2" fill="#6b4c2a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="32" y1="18" x2="48" y2="34" stroke="#8b6914" stroke-width="4" stroke-linecap="round"/>
+  <line x1="32" y1="18" x2="48" y2="34" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Strike plate -->
+  <rect x="5" y="32" width="18" height="5" rx="1" fill="#8b7355" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Prison cell window with bars -->
+  <rect x="50" y="15" width="42" height="55" rx="4" fill="#c8d8e8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Bars -->
+  <line x1="60" y1="18" x2="60" y2="67" stroke="#555" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="71" y1="18" x2="71" y2="67" stroke="#555" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="82" y1="18" x2="82" y2="67" stroke="#555" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="52" y1="40" x2="90" y2="40" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Person silhouette behind bars -->
+  <circle cx="71" cy="30" r="5" fill="#f5cba7" stroke="#333" stroke-width="1.5"/>
+  <rect x="64" y="36" width="14" height="12" rx="2" fill="#5b7fa6" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+
+</svg>

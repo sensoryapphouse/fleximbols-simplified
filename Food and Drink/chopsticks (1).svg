@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Left chopstick -->
+  <line x1="38" y1="15" x2="32" y2="82" stroke="#8B5E3C" stroke-width="5" stroke-linecap="round"/>
+  <!-- Right chopstick -->
+  <line x1="62" y1="15" x2="68" y2="82" stroke="#8B5E3C" stroke-width="5" stroke-linecap="round"/>
+  <!-- Tips highlight -->
+  <line x1="32" y1="75" x2="32" y2="82" stroke="#5C3A1E" stroke-width="5" stroke-linecap="round"/>
+  <line x1="68" y1="75" x2="68" y2="82" stroke="#5C3A1E" stroke-width="5" stroke-linecap="round"/>
+</svg>

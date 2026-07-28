@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Sun setting on left (below horizon) -->
+  <circle cx="20" cy="56" r="10" fill="#f0a830" stroke="#cc7700" stroke-width="2"/>
+  <!-- Horizon line -->
+  <line x1="10" y1="62" x2="90" y2="62" stroke="#888" stroke-width="2"/>
+  <!-- Rays going down/away -->
+  <line x1="20" y1="40" x2="20" y2="46" stroke="#f0a830" stroke-width="2" stroke-linecap="round"/>
+  <line x1="8" y1="44" x2="12" y2="48" stroke="#f0a830" stroke-width="2" stroke-linecap="round"/>
+  <!-- Calendar with back arrow -->
+  <rect x="42" y="24" width="46" height="34" rx="3" fill="#fffdf0" stroke="#333" stroke-width="2"/>
+  <rect x="42" y="24" width="46" height="10" rx="3" fill="#c8c8e8" stroke="#333" stroke-width="2"/>
+  <text x="65" y="48" font-size="9" text-anchor="middle" fill="#555" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif">-1</text>
+</svg>

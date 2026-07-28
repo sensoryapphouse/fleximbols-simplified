@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Desk -->
+  <rect x="10" y="68" width="80" height="6" rx="2" fill="#c8a96e" stroke="#333" stroke-width="2"/>
+  <line x1="20" y1="74" x2="20" y2="84" stroke="#c8a96e" stroke-width="4" stroke-linecap="round"/>
+  <line x1="80" y1="74" x2="80" y2="84" stroke="#c8a96e" stroke-width="4" stroke-linecap="round"/>
+  <!-- Open book on desk -->
+  <rect x="18" y="54" width="26" height="16" rx="2" fill="#f8f4e8" stroke="#333" stroke-width="2"/>
+  <line x1="31" y1="54" x2="31" y2="70" stroke="#333" stroke-width="1.5"/>
+  <line x1="21" y1="60" x2="30" y2="60" stroke="#888" stroke-width="1"/>
+  <line x1="21" y1="64" x2="30" y2="64" stroke="#888" stroke-width="1"/>
+  <line x1="32" y1="60" x2="41" y2="60" stroke="#888" stroke-width="1"/>
+  <line x1="32" y1="64" x2="41" y2="64" stroke="#888" stroke-width="1"/>
+  <!-- Figure sitting at desk -->
+  <circle cx="65" cy="40" r="11" fill="#f5c8a0" stroke="#333" stroke-width="2"/>
+  <!-- Eyes looking down at book -->
+  <circle cx="61" cy="38" r="2" fill="#333"/>
+  <circle cx="69" cy="38" r="2" fill="#333"/>
+  <line x1="61" y1="40" x2="61" y2="43" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="69" y1="40" x2="69" y2="43" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Body -->
+  <line x1="65" y1="51" x2="65" y2="68" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Arm on desk -->
+  <line x1="65" y1="58" x2="44" y2="64" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Lamp -->
+  <line x1="76" y1="68" x2="76" y2="44" stroke="#888" stroke-width="2" stroke-linecap="round"/>
+  <path d="M76 44 C76 38 84 36 86 40" fill="none" stroke="#888" stroke-width="2"/>
+  <ellipse cx="82" cy="42" rx="6" ry="4" fill="#f0e060" stroke="#888" stroke-width="1.5" transform="rotate(30,82,42)"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2821" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2821)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

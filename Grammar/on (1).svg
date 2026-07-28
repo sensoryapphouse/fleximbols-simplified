@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(-67.411 -118.309) scale(1.2646)">
+  <!-- CLOSED BOX -->
+  <rect x="100" y="260" width="312" height="180" fill="#caa379" stroke="#000000" stroke-width="5"/>
+  <rect x="100" y="260" width="312" height="32" fill="#bb9771" stroke="#000000" stroke-width="5"/>
+  <line x1="100" y1="292" x2="412" y2="292" stroke="#000000" stroke-width="5"/>
+
+  <!-- Ball sitting on top of closed lid (bottom of ball y=206+54=260 touches lid top y=260) -->
+  <circle cx="256" cy="206" r="54" fill="#e74c3c" stroke="#000000" stroke-width="5"/>
+  <circle cx="236" cy="186" r="16" fill="#f7b8b0"/>
+</g>
+  </svg>

@@ -1,0 +1,18 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Habanero: lantern/bell shape, orange, wrinkled, small -->
+  <!-- Stem -->
+  <line x1="50" y1="8" x2="50" y2="20" stroke="#3a7020" stroke-width="3" stroke-linecap="round"/>
+  <!-- Leaf -->
+  <path d="M50 16 Q42 10 36 13 Q44 18 50 16Z" fill="#3a7020" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Lantern/bell habanero shape - wide at shoulders, tapers to point -->
+  <path d="M50 20 Q68 20 76 34 Q82 46 78 62 Q74 74 64 82 Q58 88 52 90 Q50 92 48 90 Q42 88 36 82 Q26 74 22 62 Q18 46 24 34 Q32 20 50 20Z" fill="#d06010" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Wrinkle folds (habanero characteristic) -->
+  <path d="M36 28 Q32 42 34 58" fill="none" stroke="#b04808" stroke-width="2" stroke-linecap="round"/>
+  <path d="M44 24 Q40 38 40 54" fill="none" stroke="#b04808" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M56 24 Q60 38 60 54" fill="none" stroke="#b04808" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M64 28 Q68 42 66 58" fill="none" stroke="#b04808" stroke-width="2" stroke-linecap="round"/>
+  <!-- Small pointed tip at bottom -->
+  <path d="M46 88 Q50 94 54 88" fill="#d06010" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Highlight -->
+  <ellipse cx="36" cy="42" rx="7" ry="10" fill="#e87820" stroke="none" opacity="0.5"/>
+</svg>

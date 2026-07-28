@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Finishing line / end marker -->
+  <!-- Progress line with milestones -->
+  <line x1="12" y1="50" x2="86" y2="50" stroke="#888" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Milestone dots -->
+  <circle cx="24" cy="50" r="4" fill="#aaa" stroke="#666" stroke-width="1.5"/>
+  <circle cx="40" cy="50" r="4" fill="#aaa" stroke="#666" stroke-width="1.5"/>
+  <circle cx="56" cy="50" r="4" fill="#aaa" stroke="#666" stroke-width="1.5"/>
+  <!-- Final destination with star -->
+  <circle cx="78" cy="50" r="8" fill="#f0c030" stroke="#cc8800" stroke-width="2"/>
+  <!-- Finish flag -->
+  <rect x="82" y="28" width="3" height="22" fill="#333"/>
+  <rect x="82" y="28" width="12" height="8" fill="#cc2200"/>
+</svg>

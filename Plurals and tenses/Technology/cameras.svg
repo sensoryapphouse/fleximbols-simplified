@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,4.260) scale(0.9574)">
+<!-- Camera body -->
+  <rect x="10" y="35" width="80" height="48" rx="6" fill="#d0c8b8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Viewfinder hump -->
+  <rect x="30" y="26" width="36" height="12" rx="4" fill="#c0b8a8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Lens circle (outer) -->
+  <circle cx="42" cy="59" r="18" fill="#444" stroke="#333" stroke-width="2.5"/>
+  <!-- Lens inner rings -->
+  <circle cx="42" cy="59" r="13" fill="#555" stroke="#666" stroke-width="1.5"/>
+  <circle cx="42" cy="59" r="8" fill="#222" stroke="#666" stroke-width="1.5"/>
+  <circle cx="42" cy="59" r="3" fill="#888"/>
+  <!-- Flash -->
+  <rect x="68" y="41" width="12" height="8" rx="3" fill="#f8f060" stroke="#333" stroke-width="2"/>
+  <!-- Shutter button -->
+  <circle cx="72" cy="32" r="5" fill="#c0b0a0" stroke="#333" stroke-width="2"/>
+  <!-- Label -->
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3047" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3047)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Spine column -->
+  <!-- Cervical vertebrae (top) -->
+  <rect x="43" y="8" width="14" height="8" rx="2" fill="#aed6f1" stroke="#333" stroke-width="1.5"/>
+  <rect x="43" y="18" width="14" height="8" rx="2" fill="#aed6f1" stroke="#333" stroke-width="1.5"/>
+  <!-- Thoracic vertebrae -->
+  <rect x="43" y="28" width="14" height="7" rx="2" fill="#a9dfbf" stroke="#333" stroke-width="1.5"/>
+  <rect x="43" y="37" width="14" height="7" rx="2" fill="#a9dfbf" stroke="#333" stroke-width="1.5"/>
+  <rect x="43" y="46" width="14" height="7" rx="2" fill="#a9dfbf" stroke="#333" stroke-width="1.5"/>
+  <!-- Lumbar vertebrae (highlighted) -->
+  <rect x="40" y="55" width="20" height="8" rx="2" fill="#f1948a" stroke="#c0392b" stroke-width="2.5"/>
+  <rect x="40" y="65" width="20" height="8" rx="2" fill="#f1948a" stroke="#c0392b" stroke-width="2.5"/>
+  <rect x="40" y="75" width="20" height="7" rx="2" fill="#f1948a" stroke="#c0392b" stroke-width="2.5"/>
+  <!-- Highlight circle around lumbar region -->
+  <ellipse cx="50" cy="67" rx="20" ry="18" fill="none" stroke="#c0392b" stroke-width="2.5" stroke-dasharray="5,3"/>
+  <!-- Disc spaces -->
+  <line x1="43" y1="16" x2="57" y2="16" stroke="#ddd" stroke-width="1"/>
+  <line x1="43" y1="26" x2="57" y2="26" stroke="#ddd" stroke-width="1"/>
+  <!-- Label -->
+  <text x="72" y="68" font-size="7" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#c0392b" font-weight="bold">L</text>
+</svg>

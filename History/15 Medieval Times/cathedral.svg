@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Main nave -->
+  <rect x="20" y="48" width="60" height="37" fill="#EEE8D8" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Nave roof -->
+  <polygon points="15,48 50,30 85,48" fill="#AA5533" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Left tower -->
+  <rect x="5" y="28" width="18" height="57" fill="#DDD8C8" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <polygon points="5,28 14,10 23,28" fill="#AA5533" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Right tower -->
+  <rect x="77" y="28" width="18" height="57" fill="#DDD8C8" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <polygon points="77,28 86,10 95,28" fill="#AA5533" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Cross on left spire -->
+  <line x1="14" y1="10" x2="14" y2="6" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <line x1="11" y1="8" x2="17" y2="8" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cross on right spire -->
+  <line x1="86" y1="10" x2="86" y2="6" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <line x1="83" y1="8" x2="89" y2="8" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <!-- Tower windows -->
+  <rect x="8" y="35" width="12" height="14" rx="4" fill="#A8D4F5" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="80" y="35" width="12" height="14" rx="4" fill="#A8D4F5" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Rose window -->
+  <circle cx="50" cy="40" r="7" fill="#FFAACC" stroke="#555" stroke-width="2"/>
+  <line x1="43" y1="40" x2="57" y2="40" stroke="#555" stroke-width="1.5"/>
+  <line x1="50" y1="33" x2="50" y2="47" stroke="#555" stroke-width="1.5"/>
+  <line x1="45" y1="35" x2="55" y2="45" stroke="#555" stroke-width="1"/>
+  <line x1="55" y1="35" x2="45" y2="45" stroke="#555" stroke-width="1"/>
+  <!-- Tall pointed windows -->
+  <rect x="26" y="54" width="12" height="20" rx="5" fill="#A8D4F5" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="62" y="54" width="12" height="20" rx="5" fill="#A8D4F5" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Main door arch -->
+  <rect x="40" y="65" width="20" height="20" rx="7" fill="#C8A87A" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+</svg>

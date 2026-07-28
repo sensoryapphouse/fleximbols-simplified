@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- chocolate bar wrapper -->
+  <rect x="15" y="28" width="70" height="48" rx="5" fill="#6b3420" stroke="#3a1a0a" stroke-width="2.5"/>
+  <!-- foil/wrapper highlight -->
+  <rect x="18" y="31" width="64" height="42" rx="4" fill="#7a3c25"/>
+  <!-- chocolate segments grid -->
+  <line x1="38" y1="31" x2="38" y2="73" stroke="#3a1a0a" stroke-width="1.5"/>
+  <line x1="55" y1="31" x2="55" y2="73" stroke="#3a1a0a" stroke-width="1.5"/>
+  <line x1="72" y1="31" x2="72" y2="73" stroke="#3a1a0a" stroke-width="1.5"/>
+  <line x1="18" y1="46" x2="82" y2="46" stroke="#3a1a0a" stroke-width="1.5"/>
+  <line x1="18" y1="60" x2="82" y2="60" stroke="#3a1a0a" stroke-width="1.5"/>
+</svg>

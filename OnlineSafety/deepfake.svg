@@ -1,0 +1,24 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Real face left -->
+  <circle cx="28" cy="38" r="22" fill="#f5c5a3" stroke="#333" stroke-width="2.5"/>
+  <circle cx="20" cy="34" r="3" fill="#5a3a1a"/>
+  <circle cx="36" cy="34" r="3" fill="#5a3a1a"/>
+  <path d="M20 48 Q28 55 36 48" fill="none" stroke="#5a3a1a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Real label tick -->
+  <circle cx="28" cy="72" r="8" fill="#7fbf7f" stroke="#333" stroke-width="2"/>
+  <polyline points="23,72 27,76 34,68" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Swap/AI arrows in center -->
+  <path d="M52 40 Q60 36 68 40" fill="none" stroke="#e84040" stroke-width="2.5" stroke-linecap="round"/>
+  <polyline points="65,36 69,40 65,44" fill="none" stroke="#e84040" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M68 50 Q60 54 52 50" fill="none" stroke="#e84040" stroke-width="2.5" stroke-linecap="round"/>
+  <polyline points="55,54 51,50 55,46" fill="none" stroke="#e84040" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Fake face right - robot-ish to indicate synthetic -->
+  <circle cx="76" cy="38" r="22" fill="#d4e8f5" stroke="#e84040" stroke-width="2.5" stroke-dasharray="4,2"/>
+  <rect x="67" y="30" width="8" height="8" rx="2" fill="#4a90d9" stroke="#333" stroke-width="1.5"/>
+  <rect x="81" y="30" width="8" height="8" rx="2" fill="#4a90d9" stroke="#333" stroke-width="1.5"/>
+  <rect x="68" y="46" width="20" height="5" rx="2" fill="#333"/>
+  <!-- Fake label X -->
+  <circle cx="76" cy="72" r="8" fill="#e84040" stroke="#333" stroke-width="2"/>
+  <line x1="71" y1="67" x2="81" y2="77" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="81" y1="67" x2="71" y2="77" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

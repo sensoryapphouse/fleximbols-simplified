@@ -1,0 +1,28 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Spectrum bar: left=blue, center=purple, right=red -->
+  <defs>
+    <linearGradient id="spec" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2980b9"/>
+      <stop offset="50%" stop-color="#8e44ad"/>
+      <stop offset="100%" stop-color="#c0392b"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="42" width="84" height="16" rx="4" fill="url(#spec)" stroke="#222" stroke-width="2.5"/>
+  <!-- Left label -->
+  
+  <!-- Right label -->
+  
+  <!-- Center marker -->
+  <polygon points="50,40 44,28 56,28" fill="#f1c40f" stroke="#222" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Marker line -->
+  <line x1="50" y1="28" x2="50" y2="42" stroke="#f1c40f" stroke-width="2.5"/>
+  <!-- "MODERATE" label -->
+  
+  <!-- Dividers on spectrum -->
+  <line x1="50" y1="42" x2="50" y2="58" stroke="#fff" stroke-width="1" stroke-dasharray="2,2"/>
+  <!-- Scale ticks -->
+  <line x1="8" y1="62" x2="8" y2="66" stroke="#555" stroke-width="2"/>
+  <line x1="50" y1="62" x2="50" y2="66" stroke="#555" stroke-width="2"/>
+  <line x1="92" y1="62" x2="92" y2="66" stroke="#555" stroke-width="2"/>
+  <line x1="8" y1="58" x2="92" y2="58" stroke="#555" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Pointing hand + multiple distant/small objects -->
+  <!-- Pointing hand -->
+  <path d="M6,56 L6,48 Q6,44 10,44 L22,44 Q26,44 26,48 L38,48 Q40,48 40,50 L40,52 Q40,54 38,54 L26,54 L26,60 Q26,64 22,64 L10,64 Q6,64 6,60 Z" fill="#f5c5a3" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M26,48 L46,48 Q50,48 50,52 Q50,56 46,56 L26,56" fill="#f5c5a3" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Long dashed line to distance -->
+  <line x1="50" y1="52" x2="62" y2="40" stroke="#555" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <!-- Small/distant objects (two small circles) -->
+  <circle cx="70" cy="24" r="8" fill="#f5d020" stroke="black" stroke-width="2"/>
+  <circle cx="86" cy="32" r="8" fill="#4a90d9" stroke="black" stroke-width="2"/>
+  <!-- Distance dots -->
+  <circle cx="54" cy="48" r="1.5" fill="#888"/>
+  <circle cx="58" cy="44" r="1.5" fill="#888"/>
+</svg>

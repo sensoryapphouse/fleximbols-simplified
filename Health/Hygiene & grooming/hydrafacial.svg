@@ -1,0 +1,27 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Hydrafacial: face + water droplets + suction wand -->
+  <!-- Head -->
+  <ellipse cx="50" cy="45" rx="27" ry="32" fill="#f5c98a" stroke="#333" stroke-width="2.5"/>
+  <!-- Eyes -->
+  <ellipse cx="40" cy="40" rx="5" ry="3" fill="#fff" stroke="#333" stroke-width="2"/>
+  <circle cx="40" cy="40" r="2" fill="#555"/>
+  <ellipse cx="60" cy="40" rx="5" ry="3" fill="#fff" stroke="#333" stroke-width="2"/>
+  <circle cx="60" cy="40" r="2" fill="#555"/>
+  <!-- Smile -->
+  <path d="M42,56 Q50,63 58,56" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Nose -->
+  <path d="M48,48 L46,53 Q50,55 54,53 L52,48" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Neck -->
+  <rect x="43" y="76" width="14" height="14" rx="3" fill="#f5c98a" stroke="#333" stroke-width="2"/>
+  <!-- Wand device on side -->
+  <rect x="72" y="30" width="8" height="28" rx="4" fill="#d0d0d0" stroke="#333" stroke-width="2.5"/>
+  <!-- Suction tip -->
+  <ellipse cx="76" cy="58" rx="5" ry="4" fill="#bbb" stroke="#333" stroke-width="2"/>
+  <!-- Water droplets -->
+  <path d="M28,22 Q26,18 28,15 Q30,18 28,22 Z" fill="#5b8dd9" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M38,14 Q36,10 38,7 Q40,10 38,14 Z" fill="#5b8dd9" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M50,12 Q48,8 50,5 Q52,8 50,12 Z" fill="#5b8dd9" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Hydro glow lines on face -->
+  <path d="M30,42 Q26,42 24,45" fill="none" stroke="#5b8dd9" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M30,50 Q25,52 24,56" fill="none" stroke="#5b8dd9" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

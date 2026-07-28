@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Building body -->
+  <rect x="10" y="46" width="80" height="36" fill="#e8eef5" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Roof/pediment -->
+  <rect x="8" y="38" width="84" height="10" rx="2" fill="#d8e0ec" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Police badge/star -->
+  <polygon points="50,20 54,30 65,30 57,37 60,48 50,42 40,48 43,37 35,30 46,30" fill="#c8d8f0" stroke="#3355aa" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="50" cy="35" r="5" fill="#3355aa" stroke="#223388" stroke-width="1.5"/>
+  <!-- POLICE text on building -->
+  <text x="50" y="38" font-size="5.5" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#333">POLICE PRECINCT</text>
+  <!-- Windows -->
+  <rect x="16" y="52" width="14" height="14" rx="1" fill="#a8c4e0" stroke="#555" stroke-width="1.5"/>
+  <rect x="70" y="52" width="14" height="14" rx="1" fill="#a8c4e0" stroke="#555" stroke-width="1.5"/>
+  <!-- Door -->
+  <rect x="40" y="60" width="20" height="22" rx="2" fill="#8899aa" stroke="#333" stroke-width="2"/>
+  <!-- Blue light above door -->
+  <circle cx="50" cy="56" r="3" fill="#4488ff" stroke="#333" stroke-width="1.5"/>
+  <!-- Steps -->
+  <rect x="8" y="82" width="84" height="3" rx="1" fill="#ddd" stroke="#555" stroke-width="1.5"/>
+</svg>

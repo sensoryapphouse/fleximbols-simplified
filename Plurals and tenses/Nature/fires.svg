@@ -1,0 +1,11 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- FIRE = Financial Independence / Retire Early -->
+  <!-- Flame shape -->
+  <path d="M50 10 Q60 25 72 30 Q80 35 78 50 Q76 65 65 72 Q70 58 62 52 Q60 62 55 68 Q52 58 44 62 Q36 68 34 80 Q28 70 26 55 Q22 40 30 30 Q38 22 40 10 Q44 20 50 18 Z" fill="#e05020" stroke="#222" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Inner flame -->
+  <path d="M50 28 Q56 38 62 42 Q66 48 62 58 Q58 52 54 56 Q52 50 48 54 Q42 58 40 68 Q36 58 36 48 Q34 38 40 32 Q44 28 46 22 Z" fill="#f0a020" stroke="none"/>
+  <!-- Core -->
+  <path d="M50 44 Q54 50 52 58 Q50 54 48 58 Q46 50 50 44 Z" fill="#ffe060" stroke="none"/>
+  <!-- Dollar sign at base -->
+  
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2490" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2490)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Hovering kestrel: wings raised, tail fanned -->
+  <!-- Left wing: raised -->
+  <path d="M48,48 L22,32 L16,38 L22,46 Z" fill="#c8780a" stroke="#444" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M22,46 L16,38 L10,44 L18,50 Z" fill="#b86808" stroke="#444" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Right wing: raised -->
+  <path d="M52,48 L78,32 L84,38 L78,46 Z" fill="#c8780a" stroke="#444" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M78,46 L84,38 L90,44 L82,50 Z" fill="#b86808" stroke="#444" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Wing markings: dark spots -->
+  <circle cx="26" cy="38" r="2" fill="#6a3808"/>
+  <circle cx="34" cy="36" r="2" fill="#6a3808"/>
+  <circle cx="42" cy="38" r="2" fill="#6a3808"/>
+  <circle cx="74" cy="38" r="2" fill="#6a3808"/>
+  <circle cx="66" cy="36" r="2" fill="#6a3808"/>
+  <circle cx="58" cy="38" r="2" fill="#6a3808"/>
+  <!-- Body: compact -->
+  <ellipse cx="50" cy="56" rx="12" ry="10" fill="#e8b060" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Belly: streaked -->
+  <line x1="44" y1="52" x2="42" y2="60" stroke="#8a5020" stroke-width="1"/>
+  <line x1="48" y1="51" x2="46" y2="62" stroke="#8a5020" stroke-width="1"/>
+  <line x1="52" y1="51" x2="54" y2="62" stroke="#8a5020" stroke-width="1"/>
+  <line x1="56" y1="52" x2="58" y2="60" stroke="#8a5020" stroke-width="1"/>
+  <!-- Head: blue-grey -->
+  <ellipse cx="50" cy="44" rx="10" ry="9" fill="#9090b0" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Moustache mark -->
+  <path d="M44,48 Q46,50 46,52" stroke="#222" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M56,48 Q54,50 54,52" stroke="#222" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Eye: yellow -->
+  <circle cx="44" cy="41" r="3" fill="#e8c020" stroke="#444" stroke-width="1.5"/>
+  <circle cx="44" cy="41" r="1.8" fill="#222"/>
+  <circle cx="43" cy="40" r="0.6" fill="white"/>
+  <circle cx="56" cy="41" r="3" fill="#e8c020" stroke="#444" stroke-width="1.5"/>
+  <circle cx="56" cy="41" r="1.8" fill="#222"/>
+  <circle cx="55" cy="40" r="0.6" fill="white"/>
+  <!-- Beak: hooked -->
+  <path d="M45,47 Q50,46 55,48 Q54,52 50,52 Q46,52 45,50 Z" fill="#d8a020" stroke="#444" stroke-width="1.5"/>
+  <!-- Fan tail -->
+  <path d="M38,64 L62,64 Q68,74 50,76 Q32,74 38,64 Z" fill="#e8b060" stroke="#444" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Tail banding -->
+  <line x1="40" y1="67" x2="60" y2="67" stroke="#8a5020" stroke-width="1.5"/>
+  <line x1="40" y1="70" x2="60" y2="70" stroke="#8a5020" stroke-width="1.5"/>
+  <!-- Sub-terminal band: dark -->
+  <path d="M38,72 Q50,76 62,72" stroke="#333" stroke-width="3" fill="none"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl61" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl61)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

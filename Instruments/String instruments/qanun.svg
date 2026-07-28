@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Qanun: flat trapezoidal zither -->
+  <path d="M8,28 L88,18 L88,72 L8,72 Z" fill="#c8a464" stroke="#5a3a10" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Sound holes (decorative) -->
+  <circle cx="30" cy="52" r="6" fill="none" stroke="#5a3a10" stroke-width="1.2"/>
+  <circle cx="30" cy="52" r="3" fill="none" stroke="#5a3a10" stroke-width="0.8"/>
+  <!-- Strings (many, running horizontally) -->
+  <line x1="10" y1="35" x2="86" y2="25" stroke="#bbb" stroke-width="0.6"/>
+  <line x1="10" y1="39" x2="86" y2="29" stroke="#bbb" stroke-width="0.6"/>
+  <line x1="10" y1="43" x2="86" y2="33" stroke="#bbb" stroke-width="0.6"/>
+  <line x1="10" y1="47" x2="86" y2="37" stroke="#bbb" stroke-width="0.6"/>
+  <line x1="10" y1="51" x2="86" y2="41" stroke="#bbb" stroke-width="0.6"/>
+  <line x1="10" y1="55" x2="86" y2="45" stroke="#bbb" stroke-width="0.6"/>
+  <line x1="10" y1="59" x2="86" y2="49" stroke="#bbb" stroke-width="0.6"/>
+  <line x1="10" y1="63" x2="86" y2="53" stroke="#bbb" stroke-width="0.6"/>
+  <!-- Bridge on right -->
+  <line x1="74" y1="21" x2="74" y2="72" stroke="#5a3a10" stroke-width="2"/>
+  <!-- Tuning pegs along right edge -->
+  <rect x="82" y="18" width="6" height="54" rx="2" fill="#a07840" stroke="#5a3a10" stroke-width="1"/>
+  <circle cx="85" cy="25" r="1.5" fill="#5a3a10"/>
+  <circle cx="85" cy="32" r="1.5" fill="#5a3a10"/>
+  <circle cx="85" cy="39" r="1.5" fill="#5a3a10"/>
+  <circle cx="85" cy="46" r="1.5" fill="#5a3a10"/>
+  <circle cx="85" cy="53" r="1.5" fill="#5a3a10"/>
+  <circle cx="85" cy="60" r="1.5" fill="#5a3a10"/>
+  <!-- Mandals (tuning levers) on left -->
+  <rect x="8" y="28" width="10" height="44" rx="1" fill="#d4a84b" stroke="#5a3a10" stroke-width="1"/>
+</svg>

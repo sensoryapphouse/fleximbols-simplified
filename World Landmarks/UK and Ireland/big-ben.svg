@@ -1,0 +1,44 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sky -->
+  <rect x="0" y="0" width="100" height="88" fill="#87ceeb"/>
+  <!-- Thames river -->
+  <rect x="0" y="85" width="100" height="15" fill="#4fc3f7"/>
+  <path d="M0,87 Q25,85 50,87 Q75,89 100,85" fill="none" stroke="#29b6f6" stroke-width="2"/>
+  <!-- Westminster Palace base -->
+  <rect x="5" y="68" width="90" height="20" rx="2" fill="#d4c090" stroke="#8b6914" stroke-width="2"/>
+  <!-- Gothic decorative top on palace -->
+  <path d="M5,68 Q20,62 35,68 Q50,62 65,68 Q80,62 95,68" fill="none" stroke="#8b6914" stroke-width="2"/>
+  <!-- Windows on palace -->
+  <rect x="10" y="73" width="8" height="10" rx="1" fill="#87ceeb" stroke="#8b6914" stroke-width="1"/>
+  <path d="M10,73 Q14,70 18,73" fill="#c4922a" stroke="#8b6914" stroke-width="1"/>
+  <rect x="25" y="73" width="8" height="10" rx="1" fill="#87ceeb" stroke="#8b6914" stroke-width="1"/>
+  <path d="M25,73 Q29,70 33,73" fill="#c4922a" stroke="#8b6914" stroke-width="1"/>
+  <rect x="67" y="73" width="8" height="10" rx="1" fill="#87ceeb" stroke="#8b6914" stroke-width="1"/>
+  <path d="M67,73 Q71,70 75,73" fill="#c4922a" stroke="#8b6914" stroke-width="1"/>
+  <rect x="82" y="73" width="8" height="10" rx="1" fill="#87ceeb" stroke="#8b6914" stroke-width="1"/>
+  <path d="M82,73 Q86,70 90,73" fill="#c4922a" stroke="#8b6914" stroke-width="1"/>
+  <!-- Clock tower base section -->
+  <rect x="38" y="48" width="24" height="22" rx="1" fill="#d4c090" stroke="#8b6914" stroke-width="2"/>
+  <!-- Gothic window on tower -->
+  <rect x="44" y="53" width="12" height="12" rx="1" fill="#87ceeb" stroke="#8b6914" stroke-width="1.5"/>
+  <path d="M44,53 Q50,48 56,53" fill="#c4922a" stroke="#8b6914" stroke-width="1.5"/>
+  <!-- Clock face section -->
+  <rect x="36" y="28" width="28" height="22" rx="2" fill="#d4c090" stroke="#8b6914" stroke-width="2"/>
+  <!-- Clock faces (four sides, show two) -->
+  <circle cx="50" cy="38" r="9" fill="#fffde7" stroke="#8b6914" stroke-width="2"/>
+  <!-- Clock hands -->
+  <line x1="50" y1="38" x2="50" y2="31" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="50" y1="38" x2="56" y2="38" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="50" cy="38" r="1.5" fill="#333"/>
+  <!-- Roman numerals hint -->
+  <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="49" y="30" fill="#333" font-size="3">XII</text>
+  <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="56" y="40" fill="#333" font-size="3">III</text>
+  <!-- Gothic spire/belfry -->
+  <rect x="42" y="15" width="16" height="15" rx="1" fill="#c4a870" stroke="#8b6914" stroke-width="2"/>
+  <!-- Gothic arched openings in belfry -->
+  <path d="M44,20 L44,28 Q50,25 56,28 L56,20 Q50,16 44,20 Z" fill="#87ceeb" stroke="#8b6914" stroke-width="1"/>
+  <!-- Ornate Gothic pinnacle spire -->
+  <polygon points="50,4 46,15 54,15" fill="#c4a870" stroke="#8b6914" stroke-width="1.5"/>
+  <!-- Small flag atop -->
+  <line x1="50" y1="4" x2="50" y2="1" stroke="#333" stroke-width="1"/>
+</svg>

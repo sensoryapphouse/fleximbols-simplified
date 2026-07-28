@@ -1,0 +1,22 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Fox body -->
+  <ellipse cx="50" cy="65" rx="25" ry="16" fill="#d07030" stroke="#222" stroke-width="2.5"/>
+  <!-- Head -->
+  <ellipse cx="75" cy="52" rx="15" ry="12" fill="#d07030" stroke="#222" stroke-width="2.5"/>
+  <!-- Snout (pointed) -->
+  <polygon points="88,52 82,48 82,56" fill="#e8c0a0" stroke="#222" stroke-width="2"/>
+  <!-- Eye -->
+  <circle cx="76" cy="49" r="2.5" fill="#222"/>
+  <!-- Ear -->
+  <polygon points="70,42 75,30 80,42" fill="#d07030" stroke="#222" stroke-width="2"/>
+  <polygon points="71,42 75,34 79,42" fill="#d06060" stroke="none"/>
+  <!-- Legs -->
+  <rect x="35" y="78" width="7" height="16" rx="3" fill="#d07030" stroke="#222" stroke-width="2"/>
+  <rect x="46" y="78" width="7" height="16" rx="3" fill="#d07030" stroke="#222" stroke-width="2"/>
+  <rect x="57" y="78" width="7" height="16" rx="3" fill="#d07030" stroke="#222" stroke-width="2"/>
+  <!-- Tail with white tip -->
+  <path d="M 25 62 Q 8 50 12 72" stroke="#d07030" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <circle cx="12" cy="72" r="5" fill="#f0f0f0" stroke="#d07030" stroke-width="1"/>
+  <!-- Teeth showing -->
+  <path d="M 84 52 L 87 50 L 90 53" stroke="#f0f0f0" stroke-width="1.5" fill="none" stroke-linejoin="round"/>
+</svg>

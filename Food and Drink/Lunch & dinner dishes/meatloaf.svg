@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Platter/pan -->
+  <rect x="14" y="65" width="72" height="12" rx="3" fill="#d4a870" stroke="#333" stroke-width="2"/>
+  <!-- Meatloaf rectangular loaf shape -->
+  <path d="M20 68 Q20 38 50 35 Q80 38 80 68 Z" fill="#6B3A2A" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Ketchup glaze on top -->
+  <path d="M22 52 Q50 42 78 52 Q75 44 50 40 Q25 44 22 52 Z" fill="#c0392b" stroke="#8B1A1A" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Ketchup drips down sides -->
+  <path d="M28 52 Q27 58 26 62" fill="none" stroke="#c0392b" stroke-width="2" stroke-linecap="round"/>
+  <path d="M50 47 Q50 55 50 62" fill="none" stroke="#c0392b" stroke-width="2" stroke-linecap="round"/>
+  <path d="M72 52 Q73 58 74 62" fill="none" stroke="#c0392b" stroke-width="2" stroke-linecap="round"/>
+  <!-- Slice cut showing inside -->
+  <path d="M64 45 Q64 62 74 65" fill="none" stroke="#4a2018" stroke-width="2" stroke-linecap="round"/>
+</svg>

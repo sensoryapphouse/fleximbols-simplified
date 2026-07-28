@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Chopping board -->
+  <rect x="8" y="58" width="84" height="16" rx="4" fill="#c9a84c" stroke="#8B6914" stroke-width="2"/>
+  <!-- Board handle -->
+  <rect x="78" y="62" width="14" height="8" rx="4" fill="#8B6914" stroke="#333" stroke-width="1.5"/>
+  <!-- Chopped pieces on board -->
+  <rect x="14" y="48" width="14" height="10" rx="2" fill="#5cb85c" stroke="#3d8b3d" stroke-width="1.5"/>
+  <rect x="30" y="50" width="12" height="8" rx="2" fill="#5cb85c" stroke="#3d8b3d" stroke-width="1.5"/>
+  <rect x="44" y="48" width="14" height="10" rx="2" fill="#5cb85c" stroke="#3d8b3d" stroke-width="1.5"/>
+  <!-- Cleaver/knife raised -->
+  <!-- Blade -->
+  <path d="M56,14 L56,46 Q56,50 60,50 L76,50 Q80,50 80,46 L80,22 Q80,14 72,14 Z" fill="#aaa" stroke="#333" stroke-width="2"/>
+  <!-- Knife handle -->
+  <rect x="58" y="10" width="20" height="8" rx="3" fill="#8B6914" stroke="#333" stroke-width="2"/>
+  <!-- Blade shine -->
+  <path d="M60,22 L60,44" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Impact/motion lines -->
+  <path d="M50,38 L46,30" stroke="#e05c2a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M54,34 L50,26" stroke="#e05c2a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M58,32 L56,24" stroke="#e05c2a" stroke-width="2" stroke-linecap="round"/>
+  <!-- Downward arrow -->
+  <path d="M84,28 L84,20 M80,24 L84,20 L88,24" stroke="#e05c2a" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

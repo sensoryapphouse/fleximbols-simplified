@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Fig body (teardrop shape) -->
+  <path d="M50 82 Q28 80 24 60 Q20 40 36 28 Q42 22 50 22 Q58 22 64 28 Q80 40 76 60 Q72 80 50 82 Z" fill="#7a4080" stroke="#4a1850" stroke-width="2.5"/>
+  <!-- Darker section at bottom (eye) -->
+  <ellipse cx="50" cy="74" rx="8" ry="5" fill="#5a2060" stroke="#3a0840" stroke-width="1.5"/>
+  <!-- Interior cross section hint -->
+  <path d="M50 22 Q50 50 50 74" fill="none" stroke="#4a1850" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <!-- Highlight -->
+  <ellipse cx="38" cy="36" rx="7" ry="5" fill="#9060a0" opacity="0.5"/>
+  <!-- Stem -->
+  <rect x="49" y="12" width="3" height="12" rx="1" fill="#7a5020" stroke="#5a3010" stroke-width="1"/>
+  <!-- Leaf -->
+  <path d="M50 18 Q56 10 64 11 Q58 16 50 18" fill="#50a020" stroke="#308010" stroke-width="1.5"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1217" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1217)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

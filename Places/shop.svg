@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Ground -->
+  <rect x="0" y="78" width="100" height="12" fill="#b8d4a0" stroke="#555" stroke-width="1"/>
+  <!-- Building -->
+  <rect x="15" y="30" width="70" height="48" fill="#f0e8d8" stroke="#444" stroke-width="2"/>
+  <!-- Roof -->
+  <polygon points="10,30 90,30 80,16 20,16" fill="#c87850" stroke="#444" stroke-width="2"/>
+  <!-- Awning -->
+  <path d="M12,42 Q50,50 88,42" fill="#e84040" stroke="#444" stroke-width="1.5"/>
+  <rect x="12" y="40" width="76" height="4" fill="#e84040" stroke="#444" stroke-width="1.5"/>
+  <!-- Shop sign -->
+  <rect x="22" y="30" width="56" height="10" fill="#f8f0d8" stroke="#444" stroke-width="1.5"/>
+  
+  <!-- Display window -->
+  <rect x="18" y="46" width="30" height="20" fill="#d8eef8" stroke="#444" stroke-width="1.5"/>
+  <!-- Item in window display -->
+  <rect x="24" y="50" width="10" height="12" fill="#e84040" stroke="#444" stroke-width="1"/>
+  <rect x="36" y="52" width="8" height="10" fill="#4880c8" stroke="#444" stroke-width="1"/>
+  <!-- Door -->
+  <rect x="52" y="54" width="16" height="24" fill="#8b6040" stroke="#444" stroke-width="1.5"/>
+  <circle cx="65" cy="66" r="1.5" fill="#d4a830"/>
+  <!-- Label -->
+</svg>

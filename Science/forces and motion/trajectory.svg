@@ -1,0 +1,19 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Trajectory: curved path from launch to orbit -->
+  <!-- Earth at bottom left -->
+  <circle cx="15" cy="85" r="12" fill="#4488cc" stroke="#222" stroke-width="2.5"/>
+  <path d="M8,78 Q15,74 22,78 Q22,86 15,90 Q8,86 8,78 Z" fill="#44aa44" stroke="#222" stroke-width="1"/>
+  <!-- Planet/target at top right -->
+  <circle cx="85" cy="15" r="10" fill="#cc6633" stroke="#222" stroke-width="2.5"/>
+  <!-- Trajectory arc - curved path -->
+  <path d="M22,78 Q45,20 80,22" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="6,3"/>
+  <!-- Arrowhead as polygon at end of path -->
+  <polygon points="80,22 70,18 72,28" fill="#333" stroke="#222" stroke-width="1"/>
+  <!-- Spacecraft along path -->
+  <circle cx="52" cy="42" r="4" fill="#dddddd" stroke="#222" stroke-width="2"/>
+  <line x1="52" y1="38" x2="52" y2="30" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Velocity labels hint: tick marks on arc -->
+  <line x1="34" y1="56" x2="38" y2="52" stroke="#666" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="52" y1="42" x2="56" y2="38" stroke="#666" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="68" y1="33" x2="72" y2="29" stroke="#666" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

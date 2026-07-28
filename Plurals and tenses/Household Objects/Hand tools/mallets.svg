@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,15.490) scale(0.8451)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <svg viewBox="0 0 580 480" preserveAspectRatio="xMidYMid meet">
+  
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="458,26 248,244 248,244 222,270 163,326 129,356 97,382 83,393 71,402 62,407 54,410 104,469 104,469 121,448 161,402 185,375 209,351 230,330 239,322 247,317 521,88 521,88 513,77 494,54 484,43 473,33 468,29 464,27 461,26 458,26 458,26" fill="#e4be9d" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="292,118 292,97 373,7 373,7 394,21 416,37 442,57 455,69 469,82 482,95 495,109 506,123 516,138 525,153 531,168 528,186 431,252 292,118" fill="#af8977" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+  </g>
+</svg>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1900" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1900)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

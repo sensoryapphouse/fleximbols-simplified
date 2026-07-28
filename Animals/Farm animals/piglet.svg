@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- small round piglet body -->
+  <ellipse cx="52" cy="65" rx="22" ry="16" fill="#f4b8c0" stroke="#c06070" stroke-width="2"/>
+  <!-- tiny legs -->
+  <rect x="34" y="77" width="7" height="8" rx="2" fill="#f4b8c0" stroke="#c06070" stroke-width="1.5"/>
+  <rect x="43" y="77" width="7" height="8" rx="2" fill="#f4b8c0" stroke="#c06070" stroke-width="1.5"/>
+  <rect x="56" y="77" width="7" height="8" rx="2" fill="#f4b8c0" stroke="#c06070" stroke-width="1.5"/>
+  <rect x="65" y="77" width="7" height="8" rx="2" fill="#f4b8c0" stroke="#c06070" stroke-width="1.5"/>
+  <!-- hooves small -->
+  <rect x="34" y="83" width="7" height="3" rx="1" fill="#7a4050"/>
+  <rect x="43" y="83" width="7" height="3" rx="1" fill="#7a4050"/>
+  <rect x="56" y="83" width="7" height="3" rx="1" fill="#7a4050"/>
+  <rect x="65" y="83" width="7" height="3" rx="1" fill="#7a4050"/>
+  <!-- curly tail -->
+  <path d="M74,63 Q82,60 80,54 Q78,50 74,54" fill="none" stroke="#f4b8c0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M74,63 Q82,60 80,54 Q78,50 74,54" fill="none" stroke="#c06070" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- head - large relative to body (baby) -->
+  <circle cx="32" cy="55" r="18" fill="#f4b8c0" stroke="#c06070" stroke-width="2"/>
+  <!-- large ears flopped -->
+  <ellipse cx="18" cy="41" rx="7" ry="9" fill="#f4b8c0" stroke="#c06070" stroke-width="1.5" transform="rotate(-15 18 41)"/>
+  <ellipse cx="46" cy="39" rx="7" ry="9" fill="#f4b8c0" stroke="#c06070" stroke-width="1.5" transform="rotate(15 46 39)"/>
+  <!-- round snout -->
+  <ellipse cx="22" cy="62" rx="9" ry="7" fill="#e898a8" stroke="#c06070" stroke-width="1.5"/>
+  <circle cx="19" cy="63" r="2" fill="#7a4050"/>
+  <circle cx="25" cy="63" r="2" fill="#7a4050"/>
+  <!-- big cute eyes -->
+  <circle cx="26" cy="51" r="4.5" fill="#2a1a1a"/>
+  <circle cx="27.2" cy="50" r="1.5" fill="white"/>
+  <circle cx="38" cy="51" r="4.5" fill="#2a1a1a"/>
+  <circle cx="39.2" cy="50" r="1.5" fill="white"/>
+  <!-- blush cheeks -->
+  <circle cx="17" cy="57" r="5" fill="#f4b0c0" opacity="0.6"/>
+  <circle cx="43" cy="57" r="5" fill="#f4b0c0" opacity="0.6"/>
+</svg>

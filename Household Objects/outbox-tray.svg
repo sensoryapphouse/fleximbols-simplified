@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Tray body -->
+  <rect x="8" y="55" width="84" height="22" rx="3" fill="#ccaa66" stroke="#333" stroke-width="2.5"/>
+  <!-- Tray rim -->
+  <rect x="8" y="55" width="84" height="5" rx="3" fill="#aa8844" stroke="#333" stroke-width="2"/>
+  <!-- Side walls -->
+  <rect x="8" y="50" width="4" height="27" rx="1" fill="#aa8844" stroke="#333" stroke-width="2"/>
+  <rect x="88" y="50" width="4" height="27" rx="1" fill="#aa8844" stroke="#333" stroke-width="2"/>
+  <!-- Paper stack (fewer papers - going out) -->
+  <rect x="14" y="48" width="72" height="3" rx="1" fill="#eee" stroke="#bbb" stroke-width="1"/>
+<!-- Lines on top paper -->
+  <line x1="20" y1="52" x2="80" y2="52" stroke="#ddd" stroke-width="1"/>
+  <line x1="20" y1="54" x2="60" y2="54" stroke="#ddd" stroke-width="1"/>
+  <!-- OUT label -->
+
+  <!-- Feet -->
+  <rect x="14" y="77" width="8" height="5" rx="1" fill="#886633" stroke="#333" stroke-width="1.5"/>
+  <rect x="78" y="77" width="8" height="5" rx="1" fill="#886633" stroke="#333" stroke-width="1.5"/>
+  <!-- Arrow out (paper leaving) -->
+  <line x1="50" y1="40" x2="50" y2="28" stroke="#cc6622" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="50,24 46,32 54,32" fill="#cc6622"/>
+</svg>

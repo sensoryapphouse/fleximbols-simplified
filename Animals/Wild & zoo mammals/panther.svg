@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- body - all black -->
+  <ellipse cx="54" cy="60" rx="26" ry="17" fill="#2a2a2a" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- rump -->
+  <ellipse cx="72" cy="58" rx="12" ry="15" fill="#2a2a2a" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- subtle sheen highlights -->
+  <path d="M44 50 Q54 48 64 52" fill="none" stroke="#444" stroke-width="2" stroke-linecap="round"/>
+  <!-- neck -->
+  <path d="M34 52 Q30 39 32 28 Q40 26 42 40 Q44 52 37 56 Z" fill="#2a2a2a" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- head -->
+  <ellipse cx="30" cy="34" rx="15" ry="13" fill="#2a2a2a" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- muzzle - slightly lighter -->
+  <ellipse cx="30" cy="41" rx="9" ry="6.5" fill="#3a3a3a" stroke="#555" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- nose -->
+  <path d="M25 39 Q30 37 35 39 Q34 43 30 43 Q26 43 25 39 Z" fill="#883060" stroke="#555" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- mouth -->
+  <path d="M25 43 Q28 46 30 45 Q32 46 35 43" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- eyes - green/yellow glow -->
+  <ellipse cx="22" cy="31" rx="3.5" ry="3" fill="#40a030" stroke="#555" stroke-width="1"/>
+  <ellipse cx="22" cy="31" rx="1" ry="2" fill="#111"/>
+  <circle cx="21" cy="30" r="0.7" fill="white"/>
+  <ellipse cx="38" cy="31" rx="3.5" ry="3" fill="#40a030" stroke="#555" stroke-width="1"/>
+  <ellipse cx="38" cy="31" rx="1" ry="2" fill="#111"/>
+  <circle cx="37" cy="30" r="0.7" fill="white"/>
+  <!-- whisker dots -->
+  <circle cx="24" cy="41" r="0.8" fill="#555"/>
+  <circle cx="24" cy="43" r="0.8" fill="#555"/>
+  <circle cx="36" cy="41" r="0.8" fill="#555"/>
+  <circle cx="36" cy="43" r="0.8" fill="#555"/>
+  <!-- ears -->
+  <path d="M18 25 Q16 17 20 15 Q24 17 24 25 Z" fill="#2a2a2a" stroke="#555" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M36 25 Q36 17 40 15 Q44 17 42 25 Z" fill="#2a2a2a" stroke="#555" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- tail - long -->
+  <path d="M82 54 Q96 46 95 62 Q88 70 82 62" fill="#2a2a2a" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- legs -->
+  <rect x="36" y="75" width="8" height="13" rx="3" fill="#2a2a2a" stroke="#555" stroke-width="2"/>
+  <rect x="48" y="76" width="8" height="12" rx="3" fill="#2a2a2a" stroke="#555" stroke-width="2"/>
+  <rect x="60" y="75" width="8" height="13" rx="3" fill="#2a2a2a" stroke="#555" stroke-width="2"/>
+  <rect x="70" y="74" width="8" height="13" rx="3" fill="#2a2a2a" stroke="#555" stroke-width="2"/>
+  <!-- paws -->
+  <ellipse cx="40" cy="88" rx="5" ry="3" fill="#2a2a2a" stroke="#555" stroke-width="1.5"/>
+  <ellipse cx="52" cy="88" rx="5" ry="3" fill="#2a2a2a" stroke="#555" stroke-width="1.5"/>
+  <ellipse cx="64" cy="88" rx="5" ry="3" fill="#2a2a2a" stroke="#555" stroke-width="1.5"/>
+  <ellipse cx="74" cy="87" rx="5" ry="3" fill="#2a2a2a" stroke="#555" stroke-width="1.5"/>
+</svg>

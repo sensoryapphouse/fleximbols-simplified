@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-20.717 -11.445) scale(1.5071)">
+<!-- Clinical/educational side profile -->
+  <!-- Shaft -->
+  <rect x="36" y="20" width="22" height="50" rx="8" fill="#f4c2a1" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Glans (rounded tip) -->
+  <ellipse cx="47" cy="20" rx="12" ry="9" fill="#e8a888" stroke="#333" stroke-width="2.5"/>
+  <!-- Corona ridge -->
+  <path d="M35 22 Q47 28 59 22" fill="none" stroke="#c08060" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Urethral meatus (opening) -->
+  <ellipse cx="47" cy="13" rx="2.5" ry="1.5" fill="#c08060" stroke="#333" stroke-width="1"/>
+  <!-- Shaft outline details -->
+  <path d="M41 28 L41 68" fill="none" stroke="#c8a080" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M53 28 L53 68" fill="none" stroke="#c8a080" stroke-width="1.2" stroke-linecap="round"/>
+</g>
+  </svg>

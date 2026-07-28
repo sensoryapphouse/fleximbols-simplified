@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- vinyl record -->
+  <circle cx="50" cy="48" r="38" fill="#212121" stroke="#333" stroke-width="2"/>
+  <!-- grooves -->
+  <circle cx="50" cy="48" r="32" fill="none" stroke="#444" stroke-width="1"/>
+  <circle cx="50" cy="48" r="26" fill="none" stroke="#444" stroke-width="1"/>
+  <circle cx="50" cy="48" r="20" fill="none" stroke="#444" stroke-width="1"/>
+  <!-- label -->
+  <circle cx="50" cy="48" r="14" fill="#e53935" stroke="#b71c1c" stroke-width="1.5"/>
+  <!-- label text lines -->
+  <line x1="40" y1="44" x2="60" y2="44" stroke="#ef9a9a" stroke-width="1.5"/>
+  <line x1="38" y1="48" x2="62" y2="48" stroke="#ef9a9a" stroke-width="1.5"/>
+  <line x1="40" y1="52" x2="60" y2="52" stroke="#ef9a9a" stroke-width="1.5"/>
+  <!-- center hole -->
+  <circle cx="50" cy="48" r="3" fill="#212121" stroke="#444" stroke-width="1"/>
+  <!-- reflection highlight -->
+  <path d="M20,25 Q35,15 55,18" fill="none" stroke="#666" stroke-width="1.5" opacity="0.5"/>
+</svg>

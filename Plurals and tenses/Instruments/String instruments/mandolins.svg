@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Pear-shaped body -->
+  <path d="M50 82 Q28 82 22 65 Q16 48 30 38 Q38 32 50 32 Q62 32 70 38 Q84 48 78 65 Q72 82 50 82 Z" fill="#c8906a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Sound hole -->
+  <circle cx="50" cy="60" r="9" fill="#7a4523" stroke="#333" stroke-width="2"/>
+  <!-- Fretboard/neck -->
+  <rect x="44" y="5" width="12" height="30" rx="3" fill="#8d6e63" stroke="#333" stroke-width="2.5"/>
+  <!-- Scroll/head -->
+  <ellipse cx="50" cy="6" rx="9" ry="6" fill="#6d4c41" stroke="#333" stroke-width="2"/>
+  <!-- Tuning pegs (4 pairs = 8) -->
+  <circle cx="41" cy="6" r="2.5" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <circle cx="59" cy="6" r="2.5" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <circle cx="41" cy="11" r="2.5" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <circle cx="59" cy="11" r="2.5" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <!-- 4 double strings -->
+  <line x1="46" y1="10" x2="43" y2="80" stroke="#bbb" stroke-width="1" opacity="0.9"/>
+  <line x1="48" y1="10" x2="46" y2="80" stroke="#bbb" stroke-width="1" opacity="0.9"/>
+  <line x1="52" y1="10" x2="54" y2="80" stroke="#bbb" stroke-width="1" opacity="0.9"/>
+  <line x1="54" y1="10" x2="57" y2="80" stroke="#bbb" stroke-width="1" opacity="0.9"/>
+  <!-- Fret marks -->
+  <line x1="44" y1="20" x2="56" y2="20" stroke="#555" stroke-width="1.5"/>
+  <line x1="44" y1="27" x2="56" y2="27" stroke="#555" stroke-width="1.5"/>
+  <!-- Bridge -->
+  <rect x="42" y="76" width="16" height="4" rx="2" fill="#6d4c41" stroke="#333" stroke-width="1.5"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2426" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2426)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

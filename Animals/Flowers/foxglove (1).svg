@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-4.913 -7.702) scale(1.0983)">
+<!-- Stem -->
+  <line x1="50" y1="85" x2="50" y2="20" stroke="#3a7d44" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Leaves -->
+  <ellipse cx="38" cy="72" rx="10" ry="5" fill="#4a9e5c" stroke="#2d6e35" stroke-width="1.5" transform="rotate(-30 38 72)"/>
+  <ellipse cx="62" cy="62" rx="10" ry="5" fill="#4a9e5c" stroke="#2d6e35" stroke-width="1.5" transform="rotate(30 62 62)"/>
+  <!-- Tubular flowers hanging from spike -->
+  <path d="M50 28 Q58 30 58 38 Q58 44 50 44 L50 28" fill="#c06090" stroke="#8b3060" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M50 34 Q59 36 59 44 Q59 50 50 50 L50 34" fill="#c06090" stroke="#8b3060" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M50 42 Q59 44 59 52 Q59 58 50 58 L50 42" fill="#c878a0" stroke="#8b3060" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M50 50 Q58 52 58 60 Q58 65 50 65 L50 50" fill="#d090b8" stroke="#8b3060" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Spots inside flowers -->
+  <circle cx="55" cy="38" r="1.5" fill="#8b3060" opacity="0.6"/>
+  <circle cx="55" cy="46" r="1.5" fill="#8b3060" opacity="0.6"/>
+</g>
+  </svg>

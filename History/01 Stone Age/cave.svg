@@ -1,0 +1,14 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- rock face -->
+  <rect x="5" y="15" width="90" height="65" rx="4" fill="#9a8a78" stroke="#6a5a48" stroke-width="2"/>
+  <!-- cave arch opening -->
+  <path d="M25 80 L25 50 Q25 22 50 22 Q75 22 75 50 L75 80 Z" fill="#2a2018" stroke="#1a1008" stroke-width="2.5"/>
+  <!-- cave floor -->
+  <rect x="25" y="72" width="50" height="10" fill="#4a3a28" stroke="#3a2818" stroke-width="1.5"/>
+  <!-- stalactites -->
+  <polygon points="38,22 35,34 41,34" fill="#6a5a48" stroke="#4a3a28" stroke-width="1.5"/>
+  <polygon points="50,22 47,30 53,30" fill="#6a5a48" stroke="#4a3a28" stroke-width="1.5"/>
+  <polygon points="62,22 59,36 65,36" fill="#6a5a48" stroke="#4a3a28" stroke-width="1.5"/>
+  <!-- ground in front -->
+  <rect x="5" y="78" width="90" height="7" rx="3" fill="#7a8a3a" stroke="#3a5020" stroke-width="1.5"/>
+</svg>

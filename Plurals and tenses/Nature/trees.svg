@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Trunk -->
+  <rect x="43" y="60" width="14" height="26" fill="#a0724a" stroke="#5a3a1a" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Canopy layers -->
+  <ellipse cx="50" cy="50" rx="30" ry="22" fill="#4a8a2a" stroke="#2a5a0a" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="50" cy="38" rx="24" ry="18" fill="#5a9a3a" stroke="#2a5a0a" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="50" cy="28" rx="17" ry="14" fill="#6aaa4a" stroke="#2a5a0a" stroke-width="2" stroke-linejoin="round"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2512" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2512)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

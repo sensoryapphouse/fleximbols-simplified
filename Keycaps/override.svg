@@ -1,0 +1,22 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Background document (vetoed, crossed out) -->
+  <rect x="8" y="40" width="55" height="55" rx="3" fill="#f5e0e0" stroke="#aaa" stroke-width="2" opacity="0.8"/>
+  <!-- Red X on background doc -->
+  <line x1="12" y1="44" x2="59" y2="91" stroke="#c0392b" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  <line x1="59" y1="44" x2="12" y2="91" stroke="#c0392b" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  <!-- Foreground override document -->
+  <rect x="37" y="8" width="58" height="72" rx="3" fill="#fffde7" stroke="#222" stroke-width="2.5"/>
+  <!-- Text lines on override doc -->
+  <line x1="44" y1="20" x2="88" y2="20" stroke="#bdc3c7" stroke-width="1.5"/>
+  <line x1="44" y1="28" x2="88" y2="28" stroke="#bdc3c7" stroke-width="1.5"/>
+  <line x1="44" y1="36" x2="82" y2="36" stroke="#bdc3c7" stroke-width="1.5"/>
+  <!-- Green "OVERRIDE" stamp -->
+  <rect x="40" y="48" width="52" height="18" rx="3" fill="#27ae60" stroke="#222" stroke-width="2" transform="rotate(-8,66,57)"/>
+  
+  <!-- Large green checkmark -->
+  <circle cx="66" cy="82" r="12" fill="#27ae60" stroke="#222" stroke-width="2.5"/>
+  <polyline points="57,82 63,88 76,75" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Arrow indicating override (upward/forward) -->
+  <defs><marker id="arr-o" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><polygon points="0,8 4,0 8,8" fill="#27ae60"/></marker></defs>
+  <line x1="20" y1="35" x2="40" y2="20" stroke="#27ae60" stroke-width="2.5" marker-end="url(#arr-o)"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Crochet hook -->
+  <line x1="70" y1="15" x2="55" y2="55" stroke="#8B6914" stroke-width="3" stroke-linecap="round"/>
+  <!-- Hook curve at bottom -->
+  <path d="M55,55 Q50,62 45,58 Q42,54 46,50" stroke="#8B6914" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Yarn loops being formed -->
+  <path d="M25,40 Q30,28 40,32 Q50,36 48,50" stroke="#e07070" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M20,55 Q22,42 32,44 Q42,46 44,58" stroke="#e07070" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M18,68 Q18,55 28,56 Q38,57 40,68" stroke="#e07070" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Completed fabric below -->
+  <path d="M18,68 Q28,72 38,68 Q48,64 58,68 Q68,72 78,68" stroke="#e07070" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M18,73 Q28,77 38,73 Q48,69 58,73 Q68,77 78,73" stroke="#e07070" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Yarn ball -->
+  <circle cx="22" cy="30" r="12" fill="#e07070" stroke="#c05050" stroke-width="2"/>
+  <path d="M12,26 Q22,22 32,26" stroke="#c05050" stroke-width="1.5" fill="none"/>
+  <path d="M10,32 Q22,28 34,32" stroke="#c05050" stroke-width="1.5" fill="none"/>
+  <path d="M14,38 Q22,36 30,38" stroke="#c05050" stroke-width="1.5" fill="none"/>
+</svg>

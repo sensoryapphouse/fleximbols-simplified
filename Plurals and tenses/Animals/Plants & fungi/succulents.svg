@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,1.640) scale(0.9836)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-29.922 -51.484) scale(1.6000)">
+<!-- Pot -->
+  <path d="M35 85 L38 70 L62 70 L65 85 Z" fill="#d06030" stroke="#903010" stroke-width="2.5" stroke-linejoin="round"/>
+  <ellipse cx="50" cy="70" rx="13" ry="4" fill="#b05020" stroke="#903010" stroke-width="2"/>
+  <!-- Succulent rosette - thick fleshy leaves radiating from center -->
+  <!-- Outer leaves -->
+  <ellipse cx="50" cy="52" rx="6" ry="14" fill="#6aaa40" stroke="#3a7020" stroke-width="2"/>
+  <ellipse cx="50" cy="52" rx="6" ry="14" fill="#6aaa40" stroke="#3a7020" stroke-width="2" transform="rotate(45 50 52)"/>
+  <ellipse cx="50" cy="52" rx="6" ry="14" fill="#6aaa40" stroke="#3a7020" stroke-width="2" transform="rotate(90 50 52)"/>
+  <ellipse cx="50" cy="52" rx="6" ry="14" fill="#6aaa40" stroke="#3a7020" stroke-width="2" transform="rotate(135 50 52)"/>
+  <!-- Inner leaves -->
+  <ellipse cx="50" cy="52" rx="4" ry="9" fill="#88c858" stroke="#3a7020" stroke-width="2" transform="rotate(22.5 50 52)"/>
+  <ellipse cx="50" cy="52" rx="4" ry="9" fill="#88c858" stroke="#3a7020" stroke-width="2" transform="rotate(67.5 50 52)"/>
+  <ellipse cx="50" cy="52" rx="4" ry="9" fill="#88c858" stroke="#3a7020" stroke-width="2" transform="rotate(112.5 50 52)"/>
+  <ellipse cx="50" cy="52" rx="4" ry="9" fill="#88c858" stroke="#3a7020" stroke-width="2" transform="rotate(157.5 50 52)"/>
+  <!-- Center -->
+  <circle cx="50" cy="52" r="5" fill="#a8e070" stroke="#3a7020" stroke-width="2"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl305" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl305)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

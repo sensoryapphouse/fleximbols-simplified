@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Desk -->
+  <rect x="12" y="55" width="76" height="10" rx="3" fill="#c8a96e" stroke="#333" stroke-width="2.5"/>
+  <!-- Officer (right) -->
+  <circle cx="72" cy="35" r="7" fill="#f4c07a" stroke="#333" stroke-width="2"/>
+  <line x1="72" y1="42" x2="72" y2="55" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <!-- Officer hat -->
+  <rect x="64" y="27" width="16" height="5" rx="2" fill="#1a3a5c" stroke="#333" stroke-width="1.5"/>
+  <!-- Traveller (left) -->
+  <circle cx="30" cy="35" r="7" fill="#f4c07a" stroke="#333" stroke-width="2"/>
+  <line x1="30" y1="42" x2="30" y2="55" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <!-- Passport being handed -->
+  <rect x="38" y="46" width="14" height="10" rx="2" fill="#2c5f2e" stroke="#333" stroke-width="2"/>
+  <line x1="34" y1="51" x2="38" y2="51" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Stamp -->
+  <circle cx="72" cy="46" r="5" fill="none" stroke="#e74c3c" stroke-width="2"/>
+  <text x="70" y="49" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="5" fill="#e74c3c">OK</text>
+</svg>

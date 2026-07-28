@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,6.740) scale(0.9326)">
+<!-- Cutting board -->
+  <rect x="10" y="58" width="80" height="16" rx="4" fill="#c9a84c" stroke="#8B6914" stroke-width="2"/>
+  <!-- Food item (loaf of bread) -->
+  <path d="M15,35 Q15,25 30,25 L70,25 Q85,25 85,35 L85,58 L15,58 Z" fill="#e8c99a" stroke="#333" stroke-width="2"/>
+  <!-- Bread texture lines -->
+  <path d="M20,35 Q50,28 80,35" stroke="#c9a87a" stroke-width="1.5" fill="none"/>
+  <!-- Knife blade -->
+  <path d="M55,15 L55,56" stroke="#888" stroke-width="3" stroke-linecap="round"/>
+  <!-- Knife handle -->
+  <rect x="50" y="10" width="10" height="10" rx="3" fill="#8B6914" stroke="#333" stroke-width="2"/>
+  <!-- Knife guard -->
+  <rect x="48" y="19" width="14" height="4" rx="1" fill="#666" stroke="#333" stroke-width="1.5"/>
+  <!-- Slice being cut (separated piece) -->
+  <path d="M55,30 L65,30 L65,58 L55,58 Z" fill="#e8b87a" stroke="#333" stroke-width="1.5"/>
+  <!-- Slice gap line -->
+  <line x1="55" y1="25" x2="55" y2="58" stroke="#333" stroke-width="2"/>
+  <!-- Downward motion arrow -->
+  <path d="M64,18 L64,10 M60,14 L64,10 L68,14" stroke="#e05c2a" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1088" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1088)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

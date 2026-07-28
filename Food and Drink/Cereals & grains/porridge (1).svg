@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- bowl -->
+  <path d="M 15 50 Q 15 82 50 82 Q 85 82 85 50 Z" fill="#e8d4b0" stroke="#888" stroke-width="2"/>
+  <ellipse cx="50" cy="50" rx="35" ry="10" fill="#dcc89a" stroke="#888" stroke-width="2"/>
+  <!-- porridge smooth surface -->
+  <ellipse cx="50" cy="50" rx="30" ry="8" fill="#d4b87a"/>
+  <!-- steam -->
+  <path d="M 38 40 Q 36 32 38 25 Q 40 18 38 12" fill="none" stroke="#bbb" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 50 38 Q 48 30 50 23 Q 52 16 50 10" fill="none" stroke="#bbb" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 62 40 Q 60 32 62 25 Q 64 18 62 12" fill="none" stroke="#bbb" stroke-width="2" stroke-linecap="round"/>
+</svg>

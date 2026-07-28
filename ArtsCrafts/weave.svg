@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Loom frame -->
+  <rect x="14" y="14" width="72" height="72" rx="4" fill="none" stroke="#8b6914" stroke-width="3"/>
+  <!-- Vertical warp threads -->
+  <line x1="26" y1="14" x2="26" y2="86" stroke="#8b6914" stroke-width="2"/>
+  <line x1="38" y1="14" x2="38" y2="86" stroke="#8b6914" stroke-width="2"/>
+  <line x1="50" y1="14" x2="50" y2="86" stroke="#8b6914" stroke-width="2"/>
+  <line x1="62" y1="14" x2="62" y2="86" stroke="#8b6914" stroke-width="2"/>
+  <line x1="74" y1="14" x2="74" y2="86" stroke="#8b6914" stroke-width="2"/>
+  <!-- Horizontal weft threads (woven through) -->
+  <path d="M14 26 Q20 26 26 26 Q32 22 38 26 Q44 30 50 26 Q56 22 62 26 Q68 30 74 26 Q80 26 86 26" fill="none" stroke="#cc6699" stroke-width="2.5"/>
+  <path d="M14 38 Q20 38 26 38 Q32 42 38 38 Q44 34 50 38 Q56 42 62 38 Q68 34 74 38 Q80 38 86 38" fill="none" stroke="#6699cc" stroke-width="2.5"/>
+  <path d="M14 50 Q20 50 26 50 Q32 46 38 50 Q44 54 50 50 Q56 46 62 50 Q68 54 74 50 Q80 50 86 50" fill="none" stroke="#cc6699" stroke-width="2.5"/>
+  <path d="M14 62 Q20 62 26 62 Q32 66 38 62 Q44 58 50 62 Q56 66 62 62 Q68 58 74 62 Q80 62 86 62" fill="none" stroke="#6699cc" stroke-width="2.5"/>
+  <path d="M14 74 Q20 74 26 74 Q32 70 38 74 Q44 78 50 74 Q56 70 62 74 Q68 78 74 74 Q80 74 86 74" fill="none" stroke="#cc6699" stroke-width="2.5"/>
+</svg>

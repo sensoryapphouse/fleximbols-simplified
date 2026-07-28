@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-25.636 -28.667) scale(1.5142)">
+<!-- HDMI stick/dongle body -->
+  <ellipse cx="50" cy="52" rx="24" ry="22" fill="#e8c87a" stroke="#333" stroke-width="2.5"/>
+  <!-- Chrome logo rings -->
+  <circle cx="50" cy="52" r="13" fill="none" stroke="#cc4444" stroke-width="3"/>
+  <circle cx="50" cy="52" r="8" fill="#cc4444"/>
+  <!-- HDMI plug -->
+  <rect x="44" y="22" width="12" height="14" rx="2" fill="#555" stroke="#333" stroke-width="2"/>
+  <rect x="46" y="36" width="8" height="4" fill="#555"/>
+  <!-- Cable -->
+  <line x1="50" y1="40" x2="50" y2="30" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+</g>
+  </svg>

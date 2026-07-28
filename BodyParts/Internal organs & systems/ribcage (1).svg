@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-8.642 1.895) scale(1.1728)">
+<!-- Sternum (central bone) -->
+  <rect x="46" y="15" width="8" height="52" rx="3" fill="#e8d8c0" stroke="#333" stroke-width="2"/>
+  <!-- Left ribs -->
+  <path d="M46 20 Q30 20 22 30 Q18 38 26 42 Q38 44 46 38" fill="none" stroke="#c8a87a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M46 28 Q29 27 21 37 Q17 46 25 50 Q37 53 46 46" fill="none" stroke="#c8a87a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M46 36 Q29 35 22 44 Q18 52 26 56 Q38 59 46 53" fill="none" stroke="#c8a87a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M46 44 Q31 44 25 52 Q22 58 28 61 Q38 64 46 60" fill="none" stroke="#c8a87a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M46 52 Q33 52 28 59 Q26 64 30 66 Q38 68 46 65" fill="none" stroke="#c8a87a" stroke-width="2" stroke-linecap="round"/>
+  <!-- Right ribs -->
+  <path d="M54 20 Q70 20 78 30 Q82 38 74 42 Q62 44 54 38" fill="none" stroke="#c8a87a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M54 28 Q71 27 79 37 Q83 46 75 50 Q63 53 54 46" fill="none" stroke="#c8a87a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M54 36 Q71 35 78 44 Q82 52 74 56 Q62 59 54 53" fill="none" stroke="#c8a87a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M54 44 Q69 44 75 52 Q78 58 72 61 Q62 64 54 60" fill="none" stroke="#c8a87a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M54 52 Q67 52 72 59 Q74 64 70 66 Q62 68 54 65" fill="none" stroke="#c8a87a" stroke-width="2" stroke-linecap="round"/>
+</g>
+  </svg>

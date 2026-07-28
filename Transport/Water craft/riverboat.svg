@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- River water - flatter/calmer -->
+  <path d="M5 76 Q30 74 55 76 Q75 78 95 76" fill="none" stroke="#2176ae" stroke-width="2" stroke-linecap="round"/>
+  <path d="M5 80 Q30 78 55 80 Q75 82 95 80" fill="none" stroke="#2176ae" stroke-width="1" stroke-linecap="round" opacity="0.5"/>
+  <!-- Flat-bottomed hull -->
+  <rect x="10" y="68" width="80" height="8" rx="2" fill="#8B6914" stroke="#4a3000" stroke-width="2.5"/>
+  <!-- Low flat deck -->
+  <rect x="12" y="58" width="76" height="11" rx="2" fill="#c8b89a" stroke="#7a5230" stroke-width="2"/>
+  <!-- Cabin/passenger area -->
+  <rect x="18" y="42" width="52" height="17" rx="3" fill="#f5f0e8" stroke="#7a5230" stroke-width="2"/>
+  <!-- Windows on cabin -->
+  <rect x="22" y="45" width="8" height="8" rx="1" fill="#aed6f1" stroke="#555" stroke-width="1.5"/>
+  <rect x="34" y="45" width="8" height="8" rx="1" fill="#aed6f1" stroke="#555" stroke-width="1.5"/>
+  <rect x="46" y="45" width="8" height="8" rx="1" fill="#aed6f1" stroke="#555" stroke-width="1.5"/>
+  <rect x="58" y="45" width="8" height="8" rx="1" fill="#aed6f1" stroke="#555" stroke-width="1.5"/>
+  <!-- Smokestack -->
+  <rect x="48" y="28" width="8" height="16" rx="2" fill="#555" stroke="#222" stroke-width="2"/>
+  <!-- Smoke puffs -->
+  <circle cx="52" cy="24" r="4" fill="#bbb" opacity="0.6"/>
+  <circle cx="56" cy="20" r="3" fill="#bbb" opacity="0.4"/>
+  <!-- Railing -->
+  <line x1="18" y1="42" x2="70" y2="42" stroke="#7a5230" stroke-width="1.5"/>
+  <!-- Label -->
+</svg>

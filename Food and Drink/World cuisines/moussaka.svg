@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Baking dish -->
+  <path d="M10 55 L10 78 L90 78 L90 55 Z" fill="#c87830" stroke="#7a3c0a" stroke-width="2"/>
+  <rect x="10" y="50" width="80" height="8" rx="2" fill="#d88840" stroke="#7a3c0a" stroke-width="2"/>
+  <!-- Layered bake visible from side/front -->
+  <!-- Bechamel top (cream/white) -->
+  <rect x="12" y="52" width="76" height="12" rx="1" fill="#f0e8c8" stroke="#c8b080" stroke-width="1.5"/>
+  <!-- Golden brown top -->
+  <path d="M12 52 Q50 48 88 52" fill="none" stroke="#c8900a" stroke-width="2" stroke-linecap="round"/>
+  <!-- Meat layer (brown) -->
+  <rect x="12" y="61" width="76" height="8" rx="1" fill="#8B4018" stroke="#5a1a00" stroke-width="1.5"/>
+  <!-- Eggplant layer (purple-brown) -->
+  <rect x="12" y="66" width="76" height="8" rx="1" fill="#5a2878" stroke="#3a0a50" stroke-width="1.5"/>
+  <!-- Potato layer (yellow) -->
+  <rect x="12" y="71" width="76" height="5" rx="1" fill="#d4c060" stroke="#8B8030" stroke-width="1.5"/>
+  <!-- Dish handles -->
+  <rect x="2" y="60" width="10" height="6" rx="2" fill="#c07030" stroke="#7a3c0a" stroke-width="1.5"/>
+  <rect x="88" y="60" width="10" height="6" rx="2" fill="#c07030" stroke="#7a3c0a" stroke-width="1.5"/>
+</svg>

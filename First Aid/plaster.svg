@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Plaster/adhesive bandage at slight angle -->
+  <g transform="rotate(-15 50 50)">
+    <!-- Main strip -->
+    <rect x="14" y="40" width="72" height="20" rx="10" fill="#f5cba7" stroke="#8B6914" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- Left fabric end -->
+    <rect x="14" y="40" width="20" height="20" rx="10" fill="#e8c090" stroke="#8B6914" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Right fabric end -->
+    <rect x="66" y="40" width="20" height="20" rx="10" fill="#e8c090" stroke="#8B6914" stroke-width="2" stroke-linejoin="round"/>
+    <!-- White sterile pad center -->
+<!-- Cross on pad -->
+    <rect x="47" y="45" width="6" height="10" rx="1" fill="#e74c3c"/>
+    <rect x="42" y="48" width="16" height="4" rx="1" fill="#e74c3c"/>
+    <!-- Perforations on fabric -->
+    <circle cx="22" cy="46" r="1" fill="#c9a87a"/>
+    <circle cx="22" cy="54" r="1" fill="#c9a87a"/>
+    <circle cx="78" cy="46" r="1" fill="#c9a87a"/>
+    <circle cx="78" cy="54" r="1" fill="#c9a87a"/>
+  </g>
+</svg>

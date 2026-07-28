@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Sarod body: rounded with flat top section -->
+  <path d="M32,58 Q28,50 30,42 Q35,35 50,35 Q65,35 70,42 Q72,50 68,58 Q65,72 50,78 Q35,72 32,58 Z" fill="#c8a464" stroke="#5a3a10" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="45" y="12" width="10" height="32" rx="3" fill="#888" stroke="#5a3a10" stroke-width="2"/>
+  <!-- Peg box -->
+  <path d="M43,12 L47,7 L53,7 L57,12 Z" fill="#a07840" stroke="#5a3a10" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Pegs -->
+  <circle cx="47" cy="9" r="2" fill="#5a3a10"/>
+  <circle cx="53" cy="9" r="2" fill="#5a3a10"/>
+  <!-- Metal fingerboard (sarod has no frets, metal neck) -->
+  <rect x="46" y="13" width="8" height="30" rx="1" fill="#c0c0c0" stroke="#888" stroke-width="1"/>
+  <!-- Sound hole -->
+  <circle cx="50" cy="56" r="5" fill="none" stroke="#5a3a10" stroke-width="1.5"/>
+  <!-- Strings -->
+  <line x1="49" y1="10" x2="49" y2="73" stroke="#999" stroke-width="0.7"/>
+  <line x1="51" y1="10" x2="51" y2="73" stroke="#999" stroke-width="0.7"/>
+  <!-- Bridge -->
+  <rect x="44" y="71" width="12" height="3" rx="1" fill="#5a3a10"/>
+  <!-- Skin membrane on body top -->
+  <path d="M32,48 Q36,44 50,44 Q64,44 68,48" fill="none" stroke="#d4a84b" stroke-width="1.5" stroke-dasharray="2,2"/>
+</svg>

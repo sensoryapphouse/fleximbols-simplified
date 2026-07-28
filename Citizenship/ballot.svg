@@ -1,0 +1,21 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Paper -->
+  <rect x="12" y="8" width="66" height="82" rx="3" fill="#fffde7" stroke="#222" stroke-width="2.5"/>
+  <!-- Folded corner -->
+  <polygon points="66,8 78,8 78,20" fill="#e0d8a0" stroke="#222" stroke-width="1.5"/>
+  <!-- Title lines -->
+  <rect x="20" y="16" width="38" height="6" rx="1" fill="#bdc3c7" stroke="none"/>
+  <!-- Choice 1 - checked -->
+  <rect x="20" y="30" width="12" height="12" rx="1" fill="#ecf0f1" stroke="#222" stroke-width="2"/>
+  <polyline points="22,36 26,40 32,32" fill="none" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="37" y1="36" x2="60" y2="36" stroke="#555" stroke-width="2"/>
+  <!-- Choice 2 - unchecked -->
+  <rect x="20" y="48" width="12" height="12" rx="1" fill="#ecf0f1" stroke="#222" stroke-width="2"/>
+  <line x1="37" y1="54" x2="60" y2="54" stroke="#555" stroke-width="2"/>
+  <!-- Choice 3 - unchecked -->
+  <rect x="20" y="66" width="12" height="12" rx="1" fill="#ecf0f1" stroke="#222" stroke-width="2"/>
+  <line x1="37" y1="72" x2="60" y2="72" stroke="#555" stroke-width="2"/>
+  <!-- Seal/stamp at bottom -->
+  <circle cx="62" cy="80" r="9" fill="#c0392b" stroke="#222" stroke-width="1.5" opacity="0.7"/>
+  <text x="62" y="84" font-size="7" text-anchor="middle" fill="#fff" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold">OFFICIAL</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Slide structure -->
+  <line x1="20" y1="20" x2="20" y2="78" stroke="#888" stroke-width="2.5"/>
+  <line x1="20" y1="20" x2="30" y2="20" stroke="#888" stroke-width="2.5"/>
+  <!-- Slide ramp -->
+  <path d="M30 20 L75 74" stroke="#4a90d9" stroke-width="5" stroke-linecap="round"/>
+  <!-- Platform at top -->
+  <rect x="14" y="14" width="22" height="8" rx="2" fill="#c8e6fa" stroke="#333" stroke-width="2"/>
+  <!-- Person sliding -->
+  <circle cx="56" cy="44" r="8" fill="#f5c89a" stroke="#333" stroke-width="2"/>
+  <!-- Body on slide -->
+  <line x1="54" y1="52" x2="62" y2="62" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <!-- Arms up in fun -->
+  <line x1="56" y1="55" x2="46" y2="48" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="56" y1="55" x2="65" y2="48" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Legs on slide -->
+  <line x1="62" y1="62" x2="68" y2="70" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Ground -->
+  <line x1="10" y1="82" x2="90" y2="82" stroke="#888" stroke-width="1.5"/>
+</svg>

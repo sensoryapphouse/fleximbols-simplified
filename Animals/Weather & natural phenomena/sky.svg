@@ -1,0 +1,12 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- blue sky background -->
+  <rect x="5" y="10" width="90" height="65" rx="8" fill="#87ceeb" stroke="#4a9acd" stroke-width="2"/>
+  <!-- small clouds -->
+  <circle cx="30" cy="30" r="10" fill="white" stroke="#bbb" stroke-width="1.5"/>
+  <circle cx="42" cy="26" r="12" fill="white" stroke="#bbb" stroke-width="1.5"/>
+  <circle cx="54" cy="30" r="10" fill="white" stroke="#bbb" stroke-width="1.5"/>
+  <circle cx="70" cy="38" r="9" fill="white" stroke="#bbb" stroke-width="1.5"/>
+  <circle cx="80" cy="34" r="11" fill="white" stroke="#bbb" stroke-width="1.5"/>
+  <!-- ground -->
+  <rect x="5" y="70" width="90" height="8" rx="4" fill="#5a9e3a" stroke="#2d5a1b" stroke-width="1.5"/>
+</svg>

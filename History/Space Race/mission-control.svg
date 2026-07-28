@@ -1,0 +1,37 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Room background -->
+  <rect x="2" y="2" width="96" height="96" rx="4" fill="#e8e8e8" stroke="#222" stroke-width="2"/>
+  <!-- Large display screen at front -->
+  <rect x="8" y="8" width="84" height="38" rx="3" fill="#112244" stroke="#222" stroke-width="2.5"/>
+  <!-- Screen content: orbit path -->
+  <ellipse cx="50" cy="27" rx="28" ry="12" fill="none" stroke="#4488cc" stroke-width="2"/>
+  <circle cx="50" cy="27" r="5" fill="#334466" stroke="#4488cc" stroke-width="1.5"/>
+  <circle cx="78" cy="27" r="3" fill="#aaddff" stroke="#4488cc" stroke-width="1.5"/>
+  <!-- Screen readouts -->
+  <line x1="12" y1="15" x2="22" y2="15" stroke="#44cc44" stroke-width="1.5"/>
+  <line x1="12" y1="20" x2="20" y2="20" stroke="#44cc44" stroke-width="1.5"/>
+  <line x1="12" y1="25" x2="18" y2="25" stroke="#cc4444" stroke-width="1.5"/>
+  <!-- Workstations - rows of desks -->
+  <!-- Row 1 desks -->
+  <rect x="8" y="52" width="20" height="12" rx="2" fill="#cccccc" stroke="#333" stroke-width="1.5"/>
+  <rect x="40" y="52" width="20" height="12" rx="2" fill="#cccccc" stroke="#333" stroke-width="1.5"/>
+  <rect x="72" y="52" width="20" height="12" rx="2" fill="#cccccc" stroke="#333" stroke-width="1.5"/>
+  <!-- Monitors on desks -->
+  <rect x="12" y="49" width="12" height="8" rx="1" fill="#224466" stroke="#222" stroke-width="1.5"/>
+  <rect x="44" y="49" width="12" height="8" rx="1" fill="#224466" stroke="#222" stroke-width="1.5"/>
+  <rect x="76" y="49" width="12" height="8" rx="1" fill="#224466" stroke="#222" stroke-width="1.5"/>
+  <!-- Row 2 desks -->
+  <rect x="8" y="72" width="20" height="12" rx="2" fill="#cccccc" stroke="#333" stroke-width="1.5"/>
+  <rect x="40" y="72" width="20" height="12" rx="2" fill="#cccccc" stroke="#333" stroke-width="1.5"/>
+  <rect x="72" y="72" width="20" height="12" rx="2" fill="#cccccc" stroke="#333" stroke-width="1.5"/>
+  <rect x="12" y="69" width="12" height="8" rx="1" fill="#224466" stroke="#222" stroke-width="1.5"/>
+  <rect x="44" y="69" width="12" height="8" rx="1" fill="#224466" stroke="#222" stroke-width="1.5"/>
+  <rect x="76" y="69" width="12" height="8" rx="1" fill="#224466" stroke="#222" stroke-width="1.5"/>
+  <!-- Operators (head circles) -->
+  <circle cx="18" cy="63" r="4" fill="#f0c898" stroke="#333" stroke-width="1.5"/>
+  <circle cx="50" cy="63" r="4" fill="#f0c898" stroke="#333" stroke-width="1.5"/>
+  <circle cx="82" cy="63" r="4" fill="#f0c898" stroke="#333" stroke-width="1.5"/>
+  <circle cx="18" cy="83" r="4" fill="#f0c898" stroke="#333" stroke-width="1.5"/>
+  <circle cx="50" cy="83" r="4" fill="#f0c898" stroke="#333" stroke-width="1.5"/>
+  <circle cx="82" cy="83" r="4" fill="#f0c898" stroke="#333" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Clarinet body - single reed woodwind, cylindrical black body -->
+  <!-- Main body sections -->
+  <rect x="47" y="14" width="7" height="60" rx="3" fill="#2a2a2a" stroke="#333" stroke-width="2"/>
+  <!-- Upper joint (slightly different shade) -->
+  <rect x="47" y="14" width="7" height="25" rx="3" fill="#3a3a3a" stroke="#333" stroke-width="2"/>
+  <!-- Bell -->
+  <path d="M47 74 Q43 80 42 85 L59 85 Q58 80 54 74Z" fill="#2a2a2a" stroke="#333" stroke-width="2"/>
+  <ellipse cx="50" cy="85" rx="8" ry="3.5" fill="#1a1a1a" stroke="#333" stroke-width="1.5"/>
+  <!-- Tone holes -->
+  <circle cx="50" cy="25" r="2.5" fill="#555" stroke="#333" stroke-width="1"/>
+  <circle cx="50" cy="33" r="2.5" fill="#555" stroke="#333" stroke-width="1"/>
+  <circle cx="50" cy="41" r="2.5" fill="#555" stroke="#333" stroke-width="1"/>
+  <circle cx="50" cy="50" r="2.5" fill="#555" stroke="#333" stroke-width="1"/>
+  <circle cx="50" cy="58" r="2.5" fill="#555" stroke="#333" stroke-width="1"/>
+  <circle cx="50" cy="66" r="2.5" fill="#555" stroke="#333" stroke-width="1"/>
+  <!-- Silver keys -->
+  <ellipse cx="55" cy="30" rx="4" ry="2.5" fill="#aaa" stroke="#333" stroke-width="1"/>
+  <ellipse cx="55" cy="45" rx="4" ry="2.5" fill="#aaa" stroke="#333" stroke-width="1"/>
+  <!-- Barrel joint connector -->
+  <rect x="46" y="36" width="9" height="4" rx="1" fill="#555" stroke="#333" stroke-width="1"/>
+  <!-- Mouthpiece -->
+  <rect x="46" y="7" width="9" height="9" rx="3" fill="#222" stroke="#333" stroke-width="2"/>
+  <!-- Reed (flat on front) -->
+  <rect x="47" y="7" width="4" height="8" rx="1" fill="#d4b870" stroke="#555" stroke-width="1"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-23.946 -31.782) scale(1.4590)">
+<!-- Wavy crisp/chip with crinkled edge -->
+  <path d="M20 55 Q25 40 30 52 Q35 38 40 50 Q45 36 50 48 Q55 35 60 47 Q65 33 70 45 Q75 32 80 44 Q83 50 80 58 Q75 72 70 60 Q65 74 60 62 Q55 76 50 64 Q45 78 40 66 Q35 80 30 68 Q25 75 20 62 Z" fill="#ffe082" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Crinkle highlights -->
+  <path d="M28 50 Q33 42 38 50" fill="none" stroke="#c8a46e" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M48 46 Q53 38 58 46" fill="none" stroke="#c8a46e" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M65 42 Q70 34 75 42" fill="none" stroke="#c8a46e" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+  </svg>

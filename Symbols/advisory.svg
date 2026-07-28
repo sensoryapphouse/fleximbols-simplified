@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Round table -->
+  <ellipse cx="50" cy="55" rx="35" ry="18" fill="#d4a870" stroke="#333" stroke-width="2.5"/>
+  <ellipse cx="50" cy="52" rx="35" ry="18" fill="#e8c890" stroke="#333" stroke-width="2.5"/>
+  <!-- Table surface lines -->
+  <ellipse cx="50" cy="52" rx="32" ry="15" fill="none" stroke="#b8904a" stroke-width="1"/>
+  <!-- Person top (teacher/advisor) -->
+  <circle cx="50" cy="22" r="8" fill="#f5c8a0" stroke="#333" stroke-width="2"/>
+  <path d="M42,38 Q42,30 50,30 Q58,30 58,38" fill="#5588cc" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Person left -->
+  <circle cx="18" cy="40" r="7" fill="#f5c8a0" stroke="#333" stroke-width="2"/>
+  <path d="M11,54 Q11,47 18,47 Q25,47 25,54" fill="#cc8844" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Person right -->
+  <circle cx="82" cy="40" r="7" fill="#f5c8a0" stroke="#333" stroke-width="2"/>
+  <path d="M75,54 Q75,47 82,47 Q89,47 89,54" fill="#44aa66" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Person bottom-left -->
+  <circle cx="28" cy="64" r="6" fill="#f5c8a0" stroke="#333" stroke-width="2"/>
+  <!-- Person bottom-right -->
+  <circle cx="72" cy="64" r="6" fill="#c8a070" stroke="#333" stroke-width="2"/>
+  <!-- Speech lines -->
+  <line x1="44" y1="30" x2="36" y2="36" stroke="#888" stroke-width="1.2" stroke-dasharray="2,2"/>
+  <line x1="56" y1="30" x2="64" y2="36" stroke="#888" stroke-width="1.2" stroke-dasharray="2,2"/>
+</svg>

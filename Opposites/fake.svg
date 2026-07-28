@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Approval / genuine seal badge (scalloped rosette) -->
+  <g>
+    <!-- rosette outer -->
+    <path d="M50,12
+      l6,5 l8,-2 l3,8 l8,3 l-2,8 l5,6 l-5,6 l2,8 l-8,3 l-3,8 l-8,-2 l-6,5 l-6,-5 l-8,2 l-3,-8 l-8,-3 l2,-8 l-5,-6 l5,-6 l-2,-8 l8,-3 l3,-8 l8,2 z"
+      fill="#f3b53b" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="50" cy="50" r="22" fill="#f7cf6e" stroke="#333" stroke-width="2"/>
+    <!-- genuine tick inside -->
+    <polyline points="40,50 47,58 62,42" fill="none" stroke="#cfa030" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- Big red cross over the seal = fake/not genuine -->
+  <line x1="20" y1="22" x2="80" y2="80" stroke="#e02020" stroke-width="8" stroke-linecap="round"/>
+  <line x1="80" y1="22" x2="20" y2="80" stroke="#e02020" stroke-width="8" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Rail -->
+  <line x1="5" y1="78" x2="95" y2="78" stroke="#888" stroke-width="3" stroke-linecap="round"/>
+  <!-- Sleepers -->
+  <line x1="12" y1="75" x2="12" y2="81" stroke="#8B6914" stroke-width="2"/>
+  <line x1="26" y1="75" x2="26" y2="81" stroke="#8B6914" stroke-width="2"/>
+  <line x1="40" y1="75" x2="40" y2="81" stroke="#8B6914" stroke-width="2"/>
+  <line x1="54" y1="75" x2="54" y2="81" stroke="#8B6914" stroke-width="2"/>
+  <line x1="68" y1="75" x2="68" y2="81" stroke="#8B6914" stroke-width="2"/>
+  <line x1="82" y1="75" x2="82" y2="81" stroke="#8B6914" stroke-width="2"/>
+  <!-- Locomotive body -->
+  <rect x="8" y="44" width="44" height="28" rx="4" fill="#e85c2c" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Boiler dome -->
+  <ellipse cx="30" cy="44" rx="12" ry="6" fill="#c84000" stroke="#222" stroke-width="2"/>
+  <!-- Cab -->
+  <rect x="44" y="32" width="20" height="14" rx="3" fill="#c84000" stroke="#222" stroke-width="2"/>
+  <rect x="47" y="34" width="14" height="10" rx="2" fill="#aad4f5" stroke="#222" stroke-width="1.5"/>
+  <!-- Chimney -->
+  <rect x="14" y="34" width="8" height="12" rx="2" fill="#c84000" stroke="#222" stroke-width="2"/>
+  <ellipse cx="18" cy="33" rx="6" ry="3" fill="#888" stroke="#222" stroke-width="1.5"/>
+  <!-- Puff -->
+  <circle cx="18" cy="26" r="6" fill="#ddd" stroke="#aaa" stroke-width="1" opacity="0.8"/>
+  <circle cx="25" cy="22" r="4" fill="#ddd" stroke="#aaa" stroke-width="1" opacity="0.7"/>
+  <!-- Wheels -->
+  <circle cx="18" cy="72" r="8" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="18" cy="72" r="3" fill="#888"/>
+  <circle cx="34" cy="72" r="8" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="34" cy="72" r="3" fill="#888"/>
+  <circle cx="50" cy="72" r="8" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="50" cy="72" r="3" fill="#888"/>
+  <!-- Carriage -->
+  <rect x="56" y="50" width="36" height="22" rx="3" fill="#5b8dd9" stroke="#222" stroke-width="2"/>
+  <rect x="60" y="53" width="10" height="10" rx="1" fill="#aad4f5" stroke="#222" stroke-width="1.5"/>
+  <rect x="74" y="53" width="10" height="10" rx="1" fill="#aad4f5" stroke="#222" stroke-width="1.5"/>
+  <circle cx="64" cy="72" r="6" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="64" cy="72" r="2.5" fill="#888"/>
+  <circle cx="82" cy="72" r="6" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="82" cy="72" r="2.5" fill="#888"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Dryer body (barrel) -->
+  <ellipse cx="45" cy="38" rx="28" ry="20" fill="#d47a7a" stroke="#555" stroke-width="2.5"/>
+  <!-- Nozzle -->
+  <path d="M72 30 L88 34 L88 42 L72 46 Z" fill="#c06060" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Vent grille on back -->
+  <ellipse cx="22" cy="38" rx="8" ry="14" fill="#c06060" stroke="#555" stroke-width="1.5"/>
+  <line x1="14" y1="35" x2="30" y2="35" stroke="#555" stroke-width="1"/>
+  <line x1="14" y1="38" x2="30" y2="38" stroke="#555" stroke-width="1"/>
+  <line x1="14" y1="41" x2="30" y2="41" stroke="#555" stroke-width="1"/>
+  <!-- Handle -->
+  <rect x="34" y="55" width="14" height="30" rx="5" fill="#d47a7a" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Air flow lines -->
+  <path d="M90 30 Q95 34 90 38" stroke="#f5d97a" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M90 38 Q95 42 90 46" stroke="#f5d97a" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

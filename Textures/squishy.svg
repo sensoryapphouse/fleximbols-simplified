@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Squashed blob - flattened irregular shape -->
+  <ellipse cx="50" cy="62" rx="38" ry="14" fill="#e8c8d8" stroke="#333" stroke-width="2.5"/>
+  <!-- Blob squishing out at sides -->
+  <ellipse cx="15" cy="62" rx="6" ry="9" fill="#e8c8d8" stroke="#333" stroke-width="2"/>
+  <ellipse cx="85" cy="62" rx="6" ry="9" fill="#e8c8d8" stroke="#333" stroke-width="2"/>
+  <!-- Object pressing down -->
+  <rect x="30" y="40" width="40" height="12" rx="3" fill="#aaa" stroke="#333" stroke-width="2.5"/>
+  <!-- Down arrow -->
+  <line x1="50" y1="28" x2="50" y2="36" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="50,37 46,32 54,32" fill="#555"/>
+  <!-- Squish marks on sides -->
+  <line x1="10" y1="56" x2="6" y2="52" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="90" y1="56" x2="94" y2="52" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

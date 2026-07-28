@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Handle - angled -->
+  <rect x="44" y="45" width="7" height="40" rx="3" fill="#c8a46e" stroke="#7a5230" stroke-width="2" stroke-linecap="round" transform="rotate(-10 50 65)"/>
+  <!-- Pickaxe head - curved body -->
+  <path d="M12 38 Q30 28 50 32 Q70 28 88 38 Q70 42 50 40 Q30 42 12 38 Z" fill="#888" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Left pick point -->
+  <path d="M12 38 Q6 32 8 26 Q14 30 18 36 Z" fill="#777" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Right pick point -->
+  <path d="M88 38 Q94 32 92 26 Q86 30 82 36 Z" fill="#777" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Eye hole -->
+  <ellipse cx="50" cy="36" rx="7" ry="5" fill="#c8a46e" stroke="#7a5230" stroke-width="1.5"/>
+  <!-- Label -->
+</svg>

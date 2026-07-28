@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Two eyes side by side -->
+  <!-- Left eye -->
+  <path d="M5 44 Q18 30 30 28 Q42 30 55 44 Q42 58 30 60 Q18 58 5 44 Z" fill="white" stroke="#222" stroke-width="2"/>
+  <!-- Left iris -->
+  <circle cx="30" cy="44" r="10" fill="#3e8a5a"/>
+  <!-- Left pupil -->
+  <circle cx="30" cy="44" r="6" fill="#111"/>
+  <!-- Left shine -->
+  <circle cx="25" cy="39" r="3" fill="white" opacity="0.7"/>
+  <!-- Left lashes -->
+  <line x1="12" y1="37" x2="9" y2="30" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="22" y1="31" x2="20" y2="23" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="32" y1="29" x2="32" y2="21" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="42" y1="31" x2="44" y2="23" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="37" x2="53" y2="30" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Left upper lid -->
+  <path d="M5 44 Q18 32 30 30 Q42 32 55 44" fill="none" stroke="#555" stroke-width="1.2"/>
+  <!-- Right eye -->
+  <path d="M45 44 Q58 30 70 28 Q82 30 95 44 Q82 58 70 60 Q58 58 45 44 Z" fill="white" stroke="#222" stroke-width="2"/>
+  <!-- Right iris -->
+  <circle cx="70" cy="44" r="10" fill="#5a3e8a"/>
+  <!-- Right pupil -->
+  <circle cx="70" cy="44" r="6" fill="#111"/>
+  <!-- Right shine -->
+  <circle cx="65" cy="39" r="3" fill="white" opacity="0.7"/>
+  <!-- Right lashes -->
+  <line x1="52" y1="37" x2="49" y2="30" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="62" y1="31" x2="60" y2="23" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="72" y1="29" x2="72" y2="21" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="82" y1="31" x2="84" y2="23" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="90" y1="37" x2="93" y2="30" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Right upper lid -->
+  <path d="M45 44 Q58 32 70 30 Q82 32 95 44" fill="none" stroke="#555" stroke-width="1.2"/>
+  <!-- Bridge of nose between eyes -->
+  <path d="M55 47 Q50 55 45 58" fill="none" stroke="#d4a070" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

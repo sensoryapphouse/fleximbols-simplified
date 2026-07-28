@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Harmonica - small rectangular mouth organ with holes -->
+  <rect x="10" y="35" width="80" height="32" rx="4" fill="#c8a06a" stroke="#333" stroke-width="2.5"/>
+  <!-- Top cover plate -->
+  <rect x="10" y="35" width="80" height="10" rx="3" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+  <!-- Bottom cover plate -->
+  <rect x="10" y="57" width="80" height="10" rx="3" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+  <!-- Air holes -->
+  <rect x="16" y="45" width="7" height="12" rx="1" fill="#333"/>
+  <rect x="26" y="45" width="7" height="12" rx="1" fill="#333"/>
+  <rect x="36" y="45" width="7" height="12" rx="1" fill="#333"/>
+  <rect x="46" y="45" width="7" height="12" rx="1" fill="#333"/>
+  <rect x="56" y="45" width="7" height="12" rx="1" fill="#333"/>
+  <rect x="66" y="45" width="7" height="12" rx="1" fill="#333"/>
+  <rect x="76" y="45" width="7" height="12" rx="1" fill="#333"/>
+  <!-- Music notes -->
+  <text x="35" y="28" font-size="14" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#888">&#9835;</text>
+  <text x="55" y="25" font-size="10" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#aaa">&#9834;</text>
+</svg>

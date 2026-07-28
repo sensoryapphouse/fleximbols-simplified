@@ -1,0 +1,20 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Yuzu - bumpy yellow citrus, small -->
+  <circle cx="50" cy="55" r="36" fill="#f0d040" stroke="#b08020" stroke-width="2.5"/>
+  <!-- Bumpy texture -->
+  <circle cx="36" cy="44" r="6" fill="#f4d848" stroke="#b08020" stroke-width="1.5"/>
+  <circle cx="50" cy="40" r="6" fill="#f4d848" stroke="#b08020" stroke-width="1.5"/>
+  <circle cx="64" cy="44" r="6" fill="#f4d848" stroke="#b08020" stroke-width="1.5"/>
+  <circle cx="30" cy="57" r="5" fill="#f4d848" stroke="#b08020" stroke-width="1.5"/>
+  <circle cx="44" cy="55" r="5" fill="#f4d848" stroke="#b08020" stroke-width="1.5"/>
+  <circle cx="58" cy="55" r="5" fill="#f4d848" stroke="#b08020" stroke-width="1.5"/>
+  <circle cx="70" cy="57" r="5" fill="#f4d848" stroke="#b08020" stroke-width="1.5"/>
+  <circle cx="36" cy="68" r="5" fill="#f4d848" stroke="#b08020" stroke-width="1.5"/>
+  <circle cx="50" cy="68" r="5" fill="#f4d848" stroke="#b08020" stroke-width="1.5"/>
+  <circle cx="64" cy="68" r="5" fill="#f4d848" stroke="#b08020" stroke-width="1.5"/>
+  <!-- Stem -->
+  <line x1="50" y1="19" x2="50" y2="10" stroke="#5a3a1a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Two leaves -->
+  <ellipse cx="42" cy="8" rx="9" ry="4" fill="#3a7a2a" stroke="#1a5a1a" stroke-width="2" transform="rotate(-20 42 8)"/>
+  <ellipse cx="60" cy="8" rx="9" ry="4" fill="#3a7a2a" stroke="#1a5a1a" stroke-width="2" transform="rotate(20 60 8)"/>
+</svg>

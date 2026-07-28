@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-7.087 -1.454) scale(1.1894)">
+<!-- Left glass -->
+  <path d="M22 20 L18 55 L30 55 L26 20 Z" fill="#aad4f5" stroke="#333" stroke-width="2"/>
+  <rect x="18" y="55" width="12" height="3" rx="1" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <rect x="21" y="58" width="6" height="8" rx="1" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <rect x="18" y="66" width="12" height="3" rx="1" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <!-- Right glass -->
+  <path d="M74 20 L78 55 L66 55 L70 20 Z" fill="#f5d76e" stroke="#333" stroke-width="2"/>
+  <rect x="66" y="55" width="12" height="3" rx="1" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <rect x="71" y="58" width="6" height="8" rx="1" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <rect x="66" y="66" width="12" height="3" rx="1" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <!-- Clink lines -->
+  <line x1="50" y1="28" x2="50" y2="18" stroke="#f5d76e" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="28" x2="43" y2="20" stroke="#f5d76e" stroke-width="2" stroke-linecap="round"/>
+  <line x1="50" y1="28" x2="57" y2="20" stroke="#f5d76e" stroke-width="2" stroke-linecap="round"/>
+  <!-- Glasses touching -->
+  <line x1="26" y1="25" x2="74" y2="25" stroke="#333" stroke-width="0"/>
+  <path d="M26 22 L50 28 L74 22" stroke="#333" stroke-width="0" fill="none"/>
+</g>
+  </svg>

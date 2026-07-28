@@ -1,0 +1,17 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- cliff top -->
+  <rect x="30" y="8" width="40" height="20" rx="3" fill="#7a8a3a" stroke="#3a5020" stroke-width="2"/>
+  <!-- rock face -->
+  <rect x="35" y="25" width="30" height="40" fill="#9a8a78" stroke="#6a5a48" stroke-width="2"/>
+  <!-- falling water -->
+  <rect x="42" y="25" width="16" height="40" fill="#80c8f0" stroke="#4090d0" stroke-width="1.5" opacity="0.8"/>
+  <!-- water flow lines -->
+  <line x1="46" y1="25" x2="46" y2="65" stroke="white" stroke-width="1" opacity="0.6"/>
+  <line x1="50" y1="25" x2="50" y2="65" stroke="white" stroke-width="1" opacity="0.6"/>
+  <line x1="54" y1="25" x2="54" y2="65" stroke="white" stroke-width="1" opacity="0.6"/>
+  <!-- splash pool -->
+  <ellipse cx="50" cy="72" rx="22" ry="8" fill="#4090d0" stroke="#2060a0" stroke-width="2"/>
+  <!-- splash -->
+  <path d="M40 68 Q38 62 34 65" stroke="#80c8f0" stroke-width="2" fill="none"/>
+  <path d="M60 68 Q62 62 66 65" stroke="#80c8f0" stroke-width="2" fill="none"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-4.554 -19.166) scale(1.0922)">
+<!-- structured purse body -->
+  <rect x="20" y="42" width="60" height="44" rx="6" fill="#c0392b" stroke="#7b241c" stroke-width="2.5"/>
+  <!-- flap over top -->
+  <path d="M20 52 Q20 42 50 40 Q80 42 80 52" fill="#d44a3a" stroke="#7b241c" stroke-width="2.5"/>
+  <!-- clasp/magnetic closure -->
+  <circle cx="50" cy="53" r="5" fill="#c8c8c8" stroke="#888" stroke-width="2"/>
+  <line x1="47" y1="53" x2="53" y2="53" stroke="#888" stroke-width="1.5"/>
+  <!-- handle strap -->
+  <path d="M30 42 Q25 28 35 24 Q45 20 55 24 Q65 28 70 42" fill="none" stroke="#7b241c" stroke-width="3" stroke-linecap="round"/>
+  <!-- bottom stitch line -->
+  <line x1="24" y1="78" x2="76" y2="78" stroke="#7b241c" stroke-width="1.5" stroke-dasharray="4,3"/>
+</g>
+  </svg>

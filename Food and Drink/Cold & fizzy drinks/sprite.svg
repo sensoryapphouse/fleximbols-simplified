@@ -1,0 +1,47 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- sprite - nature spirit, translucent wings, glowing form -->
+  <!-- glowing aura -->
+  <circle cx="50" cy="48" r="28" fill="#e8f0a8" stroke="#c8d870" stroke-width="1.5" opacity="0.4"/>
+  <!-- butterfly-like wings -->
+  <path d="M46,44 Q28,22 10,18 Q8,26 14,32 Q26,38 40,48 Z" fill="#a8d870" stroke="#333" stroke-width="2" stroke-linejoin="round" opacity="0.85"/>
+  <path d="M46,50 Q20,52 10,64 Q12,70 20,68 Q32,62 44,56 Z" fill="#a8d870" stroke="#333" stroke-width="2" stroke-linejoin="round" opacity="0.85"/>
+  <path d="M54,44 Q72,22 90,18 Q92,26 86,32 Q74,38 60,48 Z" fill="#c8e870" stroke="#333" stroke-width="2" stroke-linejoin="round" opacity="0.85"/>
+  <path d="M54,50 Q80,52 90,64 Q88,70 80,68 Q68,62 56,56 Z" fill="#c8e870" stroke="#333" stroke-width="2" stroke-linejoin="round" opacity="0.85"/>
+  <!-- wing patterns -->
+  <path d="M46,46 Q32,30 14,22" fill="none" stroke="#88b840" stroke-width="1" stroke-linecap="round"/>
+  <path d="M46,52 Q28,56 12,66" fill="none" stroke="#88b840" stroke-width="1" stroke-linecap="round"/>
+  <path d="M54,46 Q68,30 86,22" fill="none" stroke="#88b840" stroke-width="1" stroke-linecap="round"/>
+  <path d="M54,52 Q72,56 88,66" fill="none" stroke="#88b840" stroke-width="1" stroke-linecap="round"/>
+  <!-- body slender glowing -->
+  <ellipse cx="50" cy="54" rx="6" ry="12" fill="#d8f0a0" stroke="#333" stroke-width="2.5"/>
+  <!-- flowing skirt/dress -->
+  <path d="M44,62 Q38,72 36,84 Q42,88 50,88 Q58,88 64,84 Q62,72 56,62 Z" fill="#b8d870" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- arms gesturing -->
+  <path d="M44,50 Q34,44 28,36 Q26,40 28,44 Q34,50 40,52" fill="#d8f0a0" stroke="#333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M56,50 Q66,44 72,36 Q74,40 72,44 Q66,50 60,52" fill="#d8f0a0" stroke="#333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- floating sparkles from hands -->
+  <circle cx="28" cy="36" r="2" fill="#e8e820"/>
+  <circle cx="26" cy="30" r="1.5" fill="#e8e820"/>
+  <circle cx="22" cy="34" r="1" fill="#e8e820"/>
+  <circle cx="72" cy="36" r="2" fill="#e8e820"/>
+  <circle cx="74" cy="30" r="1.5" fill="#e8e820"/>
+  <circle cx="78" cy="34" r="1" fill="#e8e820"/>
+  <!-- head ethereal -->
+  <circle cx="50" cy="36" r="11" fill="#e0f0c0" stroke="#333" stroke-width="2.5"/>
+  <!-- POINTED ears -->
+  <path d="M40,34 Q32,26 34,20 Q40,24 42,30" fill="#e0f0c0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M60,34 Q68,26 66,20 Q60,24 58,30" fill="#e0f0c0" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- eyes large gentle -->
+  <circle cx="44" cy="34" r="4" fill="#4a9820"/>
+  <circle cx="56" cy="34" r="4" fill="#4a9820"/>
+  <circle cx="44" cy="34" r="4" fill="none" stroke="#333" stroke-width="1.5"/>
+  <circle cx="56" cy="34" r="4" fill="none" stroke="#333" stroke-width="1.5"/>
+  <circle cx="45" cy="33" r="1.5" fill="#fff"/>
+  <circle cx="57" cy="33" r="1.5" fill="#fff"/>
+  <!-- serene smile -->
+  <path d="M44,40 Q50,44 56,40" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- leaf crown hair -->
+  <path d="M42,26 Q40,20 42,16 Q46,20 46,26" fill="#7aaa48" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M50,24 Q50,18 50,14 Q54,18 54,24" fill="#7aaa48" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M58,26 Q60,20 58,16 Q54,20 54,26" fill="#7aaa48" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

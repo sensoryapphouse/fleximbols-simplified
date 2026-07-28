@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Three sizes side by side, the MIDDLE one highlighted = medium -->
+<!-- Small (left, grey) -->
+  <circle cx="22" cy="62" r="13" fill="#d5dbdb" stroke="#7f8c8d" stroke-width="2.5"/>
+<!-- Large (right, grey) -->
+  <circle cx="78" cy="50" r="22" fill="#d5dbdb" stroke="#7f8c8d" stroke-width="2.5"/>
+<!-- Medium (centre, highlighted colour) -->
+  <circle cx="50" cy="55" r="17.5" fill="#e67e22" stroke="#a85812" stroke-width="3"/>
+<!-- Highlight ring / selection on the medium one -->
+  <circle cx="50" cy="55" r="22" fill="none" stroke="#27ae60" stroke-width="2.5" stroke-dasharray="4 3"/>
+<!-- Tick to mark the chosen medium -->
+  <path d="M43 56 l5 6 9 -12" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

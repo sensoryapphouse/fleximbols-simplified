@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,12.440) scale(0.8756)">
+<!-- raincoat body -->
+  <path d="M26 36 L22 80 L78 80 L74 36 L63 24 L55 34 L45 34 L37 24 Z" fill="#f1c40f" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- sleeves -->
+  <path d="M26 36 L8 44 L10 60 L26 52 Z" fill="#f1c40f" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M74 36 L92 44 L90 60 L74 52 Z" fill="#f1c40f" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- hood attached -->
+  <path d="M37 24 Q38 12 50 10 Q62 12 63 24 Q56 29 50 30 Q44 29 37 24 Z" fill="#f1c40f" stroke="#555" stroke-width="2.5"/>
+  <path d="M40 24 Q41 16 50 14 Q59 16 60 24 Q55 27 50 28 Q45 27 40 24 Z" fill="#e2b800" stroke="none"/>
+  <!-- button snap line -->
+  <line x1="50" y1="30" x2="50" y2="80" stroke="#d4a800" stroke-width="2"/>
+  <!-- snap buttons -->
+  <circle cx="50" cy="45" r="2.5" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <circle cx="50" cy="58" r="2.5" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <circle cx="50" cy="71" r="2.5" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <!-- rain drops -->
+  <path d="M14 12 Q15 9 16 12 Q16 15 15 15 Q14 15 14 12 Z" fill="#3498db" stroke="none"/>
+  <path d="M24 8 Q25 5 26 8 Q26 11 25 11 Q24 11 24 8 Z" fill="#3498db" stroke="none"/>
+  <path d="M80 10 Q81 7 82 10 Q82 13 81 13 Q80 13 80 10 Z" fill="#3498db" stroke="none"/>
+  <!-- label -->
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3614" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3614)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- party hat cone -->
+  <polygon points="50,10 10,80 90,80" fill="#e87090" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- stripes on hat -->
+  <path d="M30 65 Q50 58 70 65 L75 72 Q50 65 25 72 Z" fill="#e8c020" stroke="none"/>
+  <path d="M38 50 Q50 45 62 50 L66 57 Q50 52 34 57 Z" fill="#2980b9" stroke="none"/>
+  <path d="M44 38 Q50 34 56 38 L58 44 Q50 40 42 44 Z" fill="#e8c020" stroke="none"/>
+  <!-- hat brim/band -->
+  <path d="M10 80 Q50 90 90 80" fill="#d06080" stroke="#333" stroke-width="2"/>
+  <!-- pompom at top -->
+  <circle cx="50" cy="10" r="7" fill="#e8c020" stroke="#c8a000" stroke-width="2"/>
+  <!-- streamers/string tie -->
+  <path d="M10 80 Q6 86 8 90" stroke="#555" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M90 80 Q94 86 92 90" stroke="#555" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- polka dots on hat -->
+  <circle cx="40" cy="60" r="3" fill="white" opacity="0.7"/>
+  <circle cx="60" cy="60" r="3" fill="white" opacity="0.7"/>
+  <circle cx="50" cy="70" r="3" fill="white" opacity="0.7"/>
+  <circle cx="35" cy="70" r="2.5" fill="white" opacity="0.7"/>
+  <circle cx="65" cy="70" r="2.5" fill="white" opacity="0.7"/>
+</svg>

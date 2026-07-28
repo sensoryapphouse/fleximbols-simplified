@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Roads approaching roundabout (4 directions) -->
+  <rect x="40" y="8" width="20" height="24" fill="#777" stroke="#333" stroke-width="1.5"/>
+  <rect x="40" y="68" width="20" height="24" fill="#777" stroke="#333" stroke-width="1.5"/>
+  <rect x="8" y="40" width="24" height="20" fill="#777" stroke="#333" stroke-width="1.5"/>
+  <rect x="68" y="40" width="24" height="20" fill="#777" stroke="#333" stroke-width="1.5"/>
+  <!-- Road lane markings -->
+
+<!-- Roundabout circle (grey road ring) -->
+  <circle cx="50" cy="50" r="28" fill="#777" stroke="#333" stroke-width="2"/>
+  <!-- Central island (green) -->
+  <circle cx="50" cy="50" r="18" fill="#5a9a3a" stroke="#333" stroke-width="2"/>
+  <!-- Arrow on circle -->
+  <path d="M50 32 A18 18 0 1 1 32 50" fill="none" stroke="white" stroke-width="2" stroke-dasharray="4,2"/>
+  <polygon points="32,44 32,56 26,50" fill="white"/>
+  <!-- Label -->
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- body -->
+  <ellipse cx="52" cy="60" rx="25" ry="17" fill="#b0a090" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- rump -->
+  <ellipse cx="70" cy="58" rx="11" ry="15" fill="#b0a090" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- neck -->
+  <path d="M32 52 Q28 38 30 28 Q37 26 39 38 Q41 50 36 55 Z" fill="#b0a090" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- head -->
+  <path d="M18 26 Q28 18 36 22 Q40 30 36 40 Q26 42 18 36 Z" fill="#b0a090" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- large muzzle -->
+  <ellipse cx="17" cy="34" rx="7" ry="6" fill="#c8b8a8" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- nostril -->
+  <ellipse cx="14" cy="35" rx="1.5" ry="1" fill="#555"/>
+  <ellipse cx="19" cy="35" rx="1.5" ry="1" fill="#555"/>
+  <!-- eye -->
+  <circle cx="28" cy="26" r="2.5" fill="#333"/>
+  <circle cx="27.5" cy="25.5" r="0.7" fill="white"/>
+  <!-- very long ears -->
+  <path d="M28 18 Q27 6 30 4 Q33 6 32 18 Z" fill="#b0a090" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M34 17 Q35 5 38 4 Q40 6 38 17 Z" fill="#b0a090" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- inner ear -->
+  <path d="M29 18 Q28.5 8 30 6 Q31.5 8 31 18 Z" fill="#c89090" stroke="none"/>
+  <path d="M35 17 Q36 7 37.5 5.5 Q38.5 7 37.5 17 Z" fill="#c89090" stroke="none"/>
+  <!-- mane - short stiff -->
+  <path d="M30 24 Q32 30 33 36" fill="none" stroke="#7a6a5a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- cross on back (donkey marking) -->
+  <line x1="38" y1="48" x2="66" y2="48" stroke="#7a6a5a" stroke-width="1.5"/>
+  <line x1="52" y1="44" x2="52" y2="52" stroke="#7a6a5a" stroke-width="1.5"/>
+  <!-- tail with tuft -->
+  <path d="M80 54 L86 50 Q90 56 86 62 L80 60" fill="none" stroke="#7a6a5a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- legs -->
+  <rect x="30" y="75" width="7" height="13" rx="2" fill="#b0a090" stroke="#333" stroke-width="2"/>
+  <rect x="42" y="76" width="7" height="12" rx="2" fill="#b0a090" stroke="#333" stroke-width="2"/>
+  <rect x="56" y="74" width="7" height="13" rx="2" fill="#b0a090" stroke="#333" stroke-width="2"/>
+  <rect x="68" y="73" width="7" height="13" rx="2" fill="#b0a090" stroke="#333" stroke-width="2"/>
+  <!-- hooves -->
+  <rect x="30" y="86" width="7" height="4" rx="1" fill="#555"/>
+  <rect x="42" y="86" width="7" height="4" rx="1" fill="#555"/>
+  <rect x="56" y="85" width="7" height="4" rx="1" fill="#555"/>
+  <rect x="68" y="84" width="7" height="4" rx="1" fill="#555"/>
+</svg>

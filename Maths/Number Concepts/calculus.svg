@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Background board -->
+  <rect x="8" y="10" width="84" height="70" rx="4" fill="#f5f0e8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Integral symbol large -->
+  <text x="28" y="62" font-size="52" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#6a3d8a" font-style="italic">∫</text>
+  <!-- Integration bounds -->
+  <text x="38" y="22" font-size="10" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#e05555">b</text>
+  <text x="21" y="72" font-size="10" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#e05555">a</text>
+  <!-- Integrand -->
+  <text x="48" y="52" font-size="12" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#333" font-style="italic">f(x)dx</text>
+  <!-- Derivative notation -->
+  <text x="55" y="22" font-size="10" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#6a9fd8" font-style="italic">dy</text>
+  <line x1="55" y1="24" x2="72" y2="24" stroke="#6a9fd8" stroke-width="1.5"/>
+  <text x="55" y="33" font-size="10" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#6a9fd8" font-style="italic">dx</text>
+  <!-- Limit notation -->
+  <text x="54" y="72" font-size="7" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#555">lim f(x)</text>
+  <text x="54" y="80" font-size="6" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#555">x→∞</text>
+</svg>

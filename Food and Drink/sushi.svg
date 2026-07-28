@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-29.141 -33.125) scale(1.6000)">
+<!-- maki roll piece -->
+  <rect x="22" y="28" width="55" height="48" rx="6" fill="#1a1a1a" stroke="#333" stroke-width="2.5"/>
+  <!-- rice ring -->
+<!-- salmon filling centre -->
+  <rect x="33" y="40" width="33" height="24" rx="3" fill="#e87a50"/>
+  <!-- sesame seeds on outside -->
+  <circle cx="30" cy="38" r="1.5" fill="white"/>
+  <circle cx="50" cy="30" r="1.5" fill="white"/>
+  <circle cx="70" cy="38" r="1.5" fill="white"/>
+  <circle cx="70" cy="62" r="1.5" fill="white"/>
+  <circle cx="50" cy="70" r="1.5" fill="white"/>
+  <circle cx="30" cy="62" r="1.5" fill="white"/>
+</g>
+  </svg>

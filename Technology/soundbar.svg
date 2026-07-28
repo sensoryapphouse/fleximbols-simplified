@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- soundbar body - long flat rectangle -->
+  <rect x="8" y="36" width="84" height="30" rx="6" fill="#2c3e50" stroke="#2c3e50" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- speaker grille dots / mesh -->
+  <circle cx="20" cy="51" r="2.5" fill="#5d6d7e"/>
+  <circle cx="28" cy="51" r="2.5" fill="#5d6d7e"/>
+  <circle cx="36" cy="51" r="2.5" fill="#5d6d7e"/>
+  <circle cx="44" cy="51" r="2.5" fill="#5d6d7e"/>
+  <circle cx="52" cy="51" r="2.5" fill="#5d6d7e"/>
+  <circle cx="60" cy="51" r="2.5" fill="#5d6d7e"/>
+  <circle cx="68" cy="51" r="2.5" fill="#5d6d7e"/>
+  <circle cx="76" cy="51" r="2.5" fill="#5d6d7e"/>
+  <circle cx="84" cy="51" r="2.5" fill="#5d6d7e"/>
+  <!-- indicator LEDs -->
+  <circle cx="20" cy="44" r="2" fill="#82e0aa" stroke="none" opacity="0.8"/>
+  <circle cx="26" cy="44" r="2" fill="#82e0aa" opacity="0.5"/>
+  <circle cx="32" cy="44" r="2" fill="#82e0aa" opacity="0.3"/>
+  <!-- bass cone outline at left end -->
+  <circle cx="20" cy="51" r="6" fill="none" stroke="#5d6d7e" stroke-width="1.5"/>
+  <!-- sound waves on right -->
+  <path d="M 90 44 Q 94 51 90 58" fill="none" stroke="#aab7b8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 94 40 Q 100 51 94 62" fill="none" stroke="#aab7b8" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- small feet -->
+  <rect x="16" y="66" width="8" height="4" rx="2" fill="#7f8c8d" stroke="#2c3e50" stroke-width="1.5"/>
+  <rect x="76" y="66" width="8" height="4" rx="2" fill="#7f8c8d" stroke="#2c3e50" stroke-width="1.5"/>
+</svg>

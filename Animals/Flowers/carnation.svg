@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-24.951 -49.763) scale(1.4990)">
+<line x1="50" y1="75" x2="50" y2="90" stroke="#2d7a2d" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="43" cy="83" rx="9" ry="3" fill="#4aaa4a" stroke="#2d7a2d" stroke-width="1.5" transform="rotate(-20 43 83)"/>
+  <!-- calyx -->
+  <path d="M44 75 Q50 72 56 75 L54 70 Q50 68 46 70 Z" fill="#4aaa4a" stroke="#2d7a2d" stroke-width="1.5"/>
+  <!-- ruffled fringed petals using wavy paths -->
+  <path d="M32 60 Q34 52 38 55 Q40 46 44 50 Q46 40 50 44 Q54 40 56 50 Q60 46 62 55 Q66 52 68 60 Q64 68 50 70 Q36 68 32 60 Z" fill="#e86090" stroke="#b04060" stroke-width="2" stroke-linejoin="round"/>
+  <!-- inner ruffled layer -->
+  <path d="M38 62 Q40 54 44 57 Q46 48 50 52 Q54 48 56 57 Q60 54 62 62 Q58 70 50 71 Q42 70 38 62 Z" fill="#f090b0" stroke="#b04060" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- fringe marks -->
+  <path d="M38 62 Q39 58 40 54" fill="none" stroke="#b04060" stroke-width="1"/>
+  <path d="M44 57 Q45 52 46 48" fill="none" stroke="#b04060" stroke-width="1"/>
+  <path d="M56 57 Q55 52 54 48" fill="none" stroke="#b04060" stroke-width="1"/>
+  <path d="M62 62 Q61 58 60 54" fill="none" stroke="#b04060" stroke-width="1"/>
+</g>
+  </svg>

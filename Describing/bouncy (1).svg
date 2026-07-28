@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ground line -->
+  <line x1="15" y1="82" x2="85" y2="82" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <!-- Main ball at bottom bounce point -->
+  <circle cx="50" cy="70" r="12" fill="#f0a030" stroke="#333" stroke-width="2.5"/>
+  <!-- Ball trail showing arc trajectory (ghost balls) -->
+  <circle cx="25" cy="42" r="9" fill="#f0d898" stroke="#ccc" stroke-width="1.5" opacity="0.6"/>
+  <circle cx="75" cy="38" r="7" fill="#f0d898" stroke="#ccc" stroke-width="1.5" opacity="0.4"/>
+  <!-- Bounce arc path -->
+  <path d="M25,42 Q38,80 50,70 Q62,58 75,38" fill="none" stroke="#ccc" stroke-width="1.5" stroke-dasharray="4,3" stroke-linecap="round"/>
+  <!-- Motion lines under ball -->
+  <line x1="40" y1="82" x2="38" y2="86" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="82" x2="50" y2="87" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="60" y1="82" x2="62" y2="86" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

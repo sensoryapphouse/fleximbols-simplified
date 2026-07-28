@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- App icon / box -->
+  <rect x="28" y="15" width="44" height="44" rx="10" fill="#6699ff" stroke="#333" stroke-width="2.5"/>
+  <!-- App icon design (star/app) -->
+  <polygon points="50,22 53,33 65,33 55,40 59,51 50,44 41,51 45,40 35,33 47,33" fill="#fff" stroke="#aaccff" stroke-width="1"/>
+  <!-- Download arrow -->
+  <line x1="50" y1="62" x2="50" y2="78" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="42,74 50,84 58,74" fill="#333"/>
+  <!-- Base/shelf -->
+  <line x1="30" y1="84" x2="70" y2="84" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+</svg>

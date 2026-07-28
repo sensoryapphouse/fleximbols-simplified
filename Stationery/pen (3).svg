@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(1.035 -1.251) scale(1.0888)">
+<!-- Pen body (angled) -->
+  <rect x="38" y="14" width="14" height="54" rx="5" fill="#4a6fa5" stroke="#333" stroke-width="2.5" transform="rotate(15 45 41)"/>
+  <!-- Clip -->
+  <rect x="47" y="16" width="4" height="30" rx="2" fill="#888" stroke="#333" stroke-width="1.5" transform="rotate(15 49 31)"/>
+  <!-- Tip section -->
+  <polygon points="36,66 54,60 52,72" fill="#c8a97a" stroke="#333" stroke-width="2" stroke-linejoin="round" transform="rotate(15 45 66)"/>
+  <!-- Nib -->
+  <line x1="48" y1="72" x2="50" y2="80" stroke="#333" stroke-width="2" stroke-linecap="round" transform="rotate(15 49 76)"/>
+  <!-- Label -->
+</g>
+  </svg>

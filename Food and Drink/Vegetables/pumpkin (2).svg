@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-14.108 -23.822) scale(1.2834)">
+<!-- pumpkin ribs -->
+  <ellipse cx="50" cy="58" rx="10" ry="28" fill="#E64A19" stroke="#BF360C" stroke-width="2"/>
+  <ellipse cx="38" cy="58" rx="10" ry="26" fill="#F4511E" stroke="#BF360C" stroke-width="2"/>
+  <ellipse cx="62" cy="58" rx="10" ry="26" fill="#F4511E" stroke="#BF360C" stroke-width="2"/>
+  <ellipse cx="26" cy="60" rx="9" ry="22" fill="#FF7043" stroke="#BF360C" stroke-width="2"/>
+  <ellipse cx="74" cy="60" rx="9" ry="22" fill="#FF7043" stroke="#BF360C" stroke-width="2"/>
+  <!-- outline -->
+  <ellipse cx="50" cy="60" rx="32" ry="26" fill="none" stroke="#BF360C" stroke-width="2.5"/>
+  <!-- stem -->
+  <rect x="47" y="22" width="7" height="14" rx="3" fill="#5D4037" stroke="#3E2723" stroke-width="2"/>
+  <!-- leaf curl -->
+  <path d="M54 26 C62 20 70 22 68 30 C66 36 58 34 56 28" fill="#4CAF50" stroke="#2E7D32" stroke-width="1.5"/>
+</g>
+  </svg>

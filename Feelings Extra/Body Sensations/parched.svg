@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-9.375 -3.751) scale(1.1875)">
+<!-- Dry cracked lips/mouth -->
+  <!-- Upper lip -->
+  <path d="M20 42 Q35 36 50 38 Q65 36 80 42 Q65 46 50 44 Q35 46 20 42Z" fill="#e8a090" stroke="#c06060" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Lower lip -->
+  <path d="M20 42 Q35 46 50 44 Q65 46 80 42 Q75 58 50 62 Q25 58 20 42Z" fill="#d48080" stroke="#c06060" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Cracks on lips -->
+  <line x1="38" y1="43" x2="39" y2="52" stroke="#a04040" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="52" y1="44" x2="51" y2="54" stroke="#a04040" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="65" y1="44" x2="64" y2="50" stroke="#a04040" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Flaking crack horizontal -->
+  <line x1="30" y1="50" x2="46" y2="49" stroke="#a04040" stroke-width="1" stroke-linecap="round"/>
+  <line x1="56" y1="50" x2="70" y2="50" stroke="#a04040" stroke-width="1" stroke-linecap="round"/>
+  <!-- Dryness marks -->
+  <line x1="28" y1="30" x2="32" y2="34" stroke="#e8a000" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="32" y1="28" x2="28" y2="34" stroke="#e8a000" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="68" y1="30" x2="72" y2="34" stroke="#e8a000" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="72" y1="28" x2="68" y2="34" stroke="#e8a000" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+  </svg>

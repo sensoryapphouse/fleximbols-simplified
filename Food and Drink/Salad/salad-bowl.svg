@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Bowl -->
+  <path d="M15 50 Q15 78 50 80 Q85 78 85 50Z" fill="#f5f0e8" stroke="#8b7355" stroke-width="2.5"/>
+  <ellipse cx="50" cy="50" rx="35" ry="8" fill="#f5f0e8" stroke="#8b7355" stroke-width="2.5"/>
+  <!-- Mixed salad leaves -->
+  <ellipse cx="35" cy="46" rx="12" ry="7" fill="#5a9a3a" stroke="#3a7a1a" stroke-width="1.5"/>
+  <ellipse cx="52" cy="43" rx="11" ry="6" fill="#6aad4a" stroke="#3a7a1a" stroke-width="1.5"/>
+  <ellipse cx="66" cy="46" rx="10" ry="6" fill="#4a8a2a" stroke="#3a7a1a" stroke-width="1.5"/>
+  <!-- Tomato -->
+  <circle cx="40" cy="52" r="6" fill="#e8503a" stroke="#b83a2a" stroke-width="1.5"/>
+  <!-- Cucumber -->
+  <ellipse cx="60" cy="54" rx="6" ry="4" fill="#7ab648" stroke="#4a7a1e" stroke-width="1.5"/>
+  <!-- Crouton -->
+  <rect x="46" y="48" width="8" height="8" rx="1" fill="#d4a853" stroke="#7a5c1e" stroke-width="1"/>
+</svg>

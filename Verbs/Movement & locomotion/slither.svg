@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Snake-like slithering motion - wavy body -->
+  <!-- Snake head at right -->
+  <ellipse cx="82" cy="45" rx="10" ry="8" fill="#6aaa5a" stroke="#333" stroke-width="2.5"/>
+  <!-- Snake eye -->
+  <circle cx="85" cy="42" r="3" fill="#222" stroke="#333" stroke-width="1"/>
+  <circle cx="86" cy="41" r="1" fill="white"/>
+  <!-- Tongue -->
+  <path d="M92 46 L97 44 M97 44 L99 42 M97 44 L99 46" fill="none" stroke="#c03030" stroke-width="2" stroke-linecap="round"/>
+  <!-- Wavy snake body -->
+  <path d="M72 50 Q62 58 52 50 Q42 42 32 50 Q22 58 12 50" fill="none" stroke="#6aaa5a" stroke-width="8" stroke-linecap="round"/>
+  <!-- Scale pattern overlay -->
+  <path d="M72 50 Q62 58 52 50 Q42 42 32 50 Q22 58 12 50" fill="none" stroke="#4a8a3a" stroke-width="4" stroke-dasharray="6,8" stroke-linecap="round"/>
+  <!-- Belly lighter colour -->
+  <path d="M72 51 Q62 57 52 51 Q42 45 32 51 Q22 57 12 51" fill="none" stroke="#90cc80" stroke-width="2" stroke-linecap="round"/>
+  <!-- Ground shadow showing motion -->
+  <path d="M72 56 Q62 64 52 56 Q42 48 32 56 Q22 64 12 56" fill="none" stroke="#ccc" stroke-width="2" stroke-dasharray="3,5" stroke-linecap="round"/>
+  <!-- Label -->
+</svg>

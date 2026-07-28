@@ -1,0 +1,15 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Popsicle - classic two-color popsicle -->
+  <!-- Stick -->
+  <rect x="44" y="63" width="12" height="30" rx="4" fill="#D4A860" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Bottom half - different color -->
+  <rect x="22" y="45" width="56" height="24" rx="8" fill="#FF8C00" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Top half -->
+  <rect x="22" y="14" width="56" height="36" rx="12" fill="#FF4444" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Dividing line between colors -->
+  <line x1="22" y1="45" x2="78" y2="45" stroke="#333" stroke-width="1.5"/>
+  <!-- Highlight -->
+  <rect x="30" y="18" width="12" height="32" rx="6" fill="#FF8888" stroke="none" opacity="0.5"/>
+  <!-- Bite mark -->
+  <path d="M60,14 Q74,20 76,30 Q70,18 60,14Z" fill="#CC3333" stroke="none" opacity="0.4"/>
+</svg>

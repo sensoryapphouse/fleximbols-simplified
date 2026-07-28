@@ -1,0 +1,15 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Whole melon -->
+  <ellipse cx="50" cy="55" rx="40" ry="35" fill="#e8a040" stroke="#333" stroke-width="2.5"/>
+  <!-- Netting texture -->
+  <path d="M20 45 Q50 35 80 45" fill="none" stroke="#c07820" stroke-width="1.5"/>
+  <path d="M15 55 Q50 45 85 55" fill="none" stroke="#c07820" stroke-width="1.5"/>
+  <path d="M18 67 Q50 57 82 67" fill="none" stroke="#c07820" stroke-width="1.5"/>
+  <path d="M36 21 Q40 55 36 87" fill="none" stroke="#c07820" stroke-width="1"/>
+  <path d="M50 20 Q54 55 50 88" fill="none" stroke="#c07820" stroke-width="1"/>
+  <path d="M64 21 Q60 55 64 87" fill="none" stroke="#c07820" stroke-width="1"/>
+  <!-- Stem -->
+  <path d="M50 20 Q52 14 55 11" fill="none" stroke="#8a6020" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Leaf -->
+  <path d="M51 17 Q62 9 66 16 Q58 20 51 17 Z" fill="#5a8a30" stroke="#2a5a10" stroke-width="1.5"/>
+</svg>

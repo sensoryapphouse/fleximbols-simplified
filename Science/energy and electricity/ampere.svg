@@ -1,0 +1,12 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Ampere: large A symbol with ammeter circle -->
+  <rect x="8" y="8" width="84" height="84" rx="8" fill="#fff3e0" stroke="#e67e22" stroke-width="3"/>
+  <!-- Ammeter circle -->
+  <circle cx="50" cy="45" r="28" fill="#ffe8c0" stroke="#e67e22" stroke-width="2.5"/>
+  <!-- Large A inside circle -->
+  <text x="50" y="60" font-size="36" fill="#c0392b" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold" text-anchor="middle">A</text>
+  <!-- Unit label -->
+<!-- Connecting wires stubbed at circle -->
+  <line x1="8" y1="45" x2="22" y2="45" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="78" y1="45" x2="92" y2="45" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

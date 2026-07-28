@@ -1,0 +1,24 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Deck platform in perspective -->
+<polygon points="10,55 90,55 80,75 20,75" fill="#c8a87a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<!-- Deck boards horizontal lines -->
+<line x1="12" y1="60" x2="88" y2="60" stroke="#b0906a" stroke-width="1.5"/>
+<line x1="13" y1="65" x2="87" y2="65" stroke="#b0906a" stroke-width="1.5"/>
+<line x1="15" y1="70" x2="85" y2="70" stroke="#b0906a" stroke-width="1.5"/>
+<!-- Railing posts top -->
+<rect x="10" y="38" width="4" height="18" fill="#888" stroke="#333" stroke-width="1.5"/>
+<rect x="48" y="38" width="4" height="18" fill="#888" stroke="#333" stroke-width="1.5"/>
+<rect x="86" y="38" width="4" height="18" fill="#888" stroke="#333" stroke-width="1.5"/>
+<!-- Railing top rail -->
+<rect x="8" y="35" width="84" height="5" rx="2" fill="#888" stroke="#333" stroke-width="2"/>
+<!-- Railing balusters -->
+<line x1="20" y1="40" x2="20" y2="55" stroke="#aaa" stroke-width="1.5"/>
+<line x1="30" y1="40" x2="30" y2="55" stroke="#aaa" stroke-width="1.5"/>
+<line x1="40" y1="40" x2="40" y2="55" stroke="#aaa" stroke-width="1.5"/>
+<line x1="60" y1="40" x2="60" y2="55" stroke="#aaa" stroke-width="1.5"/>
+<line x1="70" y1="40" x2="70" y2="55" stroke="#aaa" stroke-width="1.5"/>
+<line x1="80" y1="40" x2="80" y2="55" stroke="#aaa" stroke-width="1.5"/>
+<!-- Steps -->
+<rect x="36" y="72" width="28" height="4" fill="#b8986a" stroke="#333" stroke-width="1.5"/>
+<rect x="38" y="76" width="24" height="3" fill="#c8a87a" stroke="#333" stroke-width="1"/>
+</svg>

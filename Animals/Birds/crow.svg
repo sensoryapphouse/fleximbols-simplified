@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- branch -->
+  <path d="M10 70 Q50 66 90 70" fill="none" stroke="#8B6030" stroke-width="5" stroke-linecap="round"/>
+  <!-- tail - slightly fanned -->
+  <path d="M56 68 Q62 72 68 68 Q64 82 60 84 Q58 82 60 80 Q58 84 56 84 Q54 80 56 68 Z" fill="#1a1a1a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- body -->
+  <ellipse cx="50" cy="56" rx="16" ry="14" fill="#1a1a1a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- wing -->
+  <path d="M36 52 Q28 58 28 68 Q34 70 40 64 Q42 58 48 54 Z" fill="#111" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M64 52 Q72 58 72 68 Q66 70 60 64 Q58 58 52 54 Z" fill="#111" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- wing feather highlights -->
+  <path d="M30 60 Q36 64 40 68" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M70 60 Q64 64 60 68" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- blue-black sheen -->
+  <path d="M36 50 Q50 46 64 50" fill="none" stroke="#2a2a4a" stroke-width="2" stroke-linecap="round"/>
+  <!-- neck -->
+  <path d="M40 50 Q36 44 38 38 Q44 34 52 38 Q54 44 50 50 Z" fill="#1a1a1a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- head -->
+  <circle cx="44" cy="34" r="12" fill="#1a1a1a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- strong straight beak -->
+  <path d="M32 36 Q40 32 46 34 Q44 40 38 42 Z" fill="#1a1a1a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- beak highlight -->
+  <path d="M32 36 Q38 34 44 35" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- eye - with iridescent quality -->
+  <circle cx="40" cy="30" r="3.5" fill="#2a2a2a" stroke="#555" stroke-width="1.5"/>
+  <circle cx="40" cy="30" r="2" fill="#111"/>
+  <circle cx="39.5" cy="29.5" r="0.8" fill="white"/>
+  <!-- feet -->
+  <line x1="44" y1="68" x2="38" y2="74" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="38" y1="74" x2="32" y2="76" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="38" y1="74" x2="36" y2="78" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="38" y1="74" x2="40" y2="78" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="56" y1="68" x2="58" y2="74" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="74" x2="62" y2="76" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="74" x2="58" y2="78" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="74" x2="56" y2="78" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+</svg>

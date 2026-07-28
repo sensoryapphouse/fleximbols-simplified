@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Tall cup -->
+  <path d="M28 20 L32 82 Q50 86 68 82 L72 20Z" fill="#f5e8d0" stroke="#8b7355" stroke-width="2.5"/>
+  <!-- Drink fill (milky tea) -->
+  <path d="M30 35 L32 82 Q50 86 68 82 L70 35Z" fill="#d4a870" stroke="none"/>
+  <!-- Tapioca pearls at bottom -->
+  <circle cx="38" cy="76" r="5" fill="#2a1810" stroke="#1a1008" stroke-width="1"/>
+  <circle cx="50" cy="78" r="5" fill="#2a1810" stroke="#1a1008" stroke-width="1"/>
+  <circle cx="62" cy="76" r="5" fill="#2a1810" stroke="#1a1008" stroke-width="1"/>
+  <circle cx="44" cy="70" r="4.5" fill="#3a2818" stroke="#1a1008" stroke-width="1"/>
+  <circle cx="56" cy="70" r="4.5" fill="#3a2818" stroke="#1a1008" stroke-width="1"/>
+  <!-- Dome lid -->
+  <path d="M28 20 Q28 12 50 10 Q72 12 72 20Z" fill="#d0e8f8" stroke="#8090b0" stroke-width="2"/>
+  <!-- Straw -->
+  <rect x="46" y="5" width="6" height="55" rx="3" fill="#e87a5a" stroke="#c05040" stroke-width="1.5"/>
+</svg>

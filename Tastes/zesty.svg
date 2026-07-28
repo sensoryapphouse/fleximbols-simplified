@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-3.458 -13.843) scale(1.1622)">
+<!-- Lemon -->
+  <ellipse cx="46" cy="55" rx="22" ry="18" fill="#ffd966" stroke="#c8a000" stroke-width="2.5"/>
+  <!-- Lemon segments hint -->
+  <line x1="46" y1="37" x2="46" y2="73" stroke="#c8a000" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="24" y1="55" x2="68" y2="55" stroke="#c8a000" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Lemon tip -->
+  <path d="M66 48 Q72 52 68 58" fill="none" stroke="#c8a000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Zing lines (energy) -->
+  <line x1="68" y1="32" x2="72" y2="26" stroke="#e8a000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="74" y1="38" x2="80" y2="34" stroke="#e8a000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="78" y1="48" x2="85" y2="46" stroke="#e8a000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Star/burst spark -->
+  <line x1="75" y1="26" x2="75" y2="20" stroke="#ffd166" stroke-width="2" stroke-linecap="round"/>
+  <line x1="71" y1="23" x2="79" y2="23" stroke="#ffd166" stroke-width="2" stroke-linecap="round"/>
+  <line x1="72" y1="21" x2="78" y2="25" stroke="#ffd166" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="78" y1="21" x2="72" y2="25" stroke="#ffd166" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+  </svg>

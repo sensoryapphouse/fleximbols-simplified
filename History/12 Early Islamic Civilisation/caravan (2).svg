@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Main body of caravan - rounded ends -->
+  <rect x="10" y="32" width="78" height="44" rx="8" fill="#e8dfc8" stroke="#5a4a2a" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Roof detail / stripe -->
+  <rect x="10" y="32" width="78" height="10" rx="8" fill="#cc8844" stroke="#5a4a2a" stroke-width="1.5"/>
+  <!-- Hitch at front left -->
+  <rect x="3" y="54" width="10" height="4" fill="#888" stroke="#444" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="3" y1="56" x2="0" y2="56" stroke="#888" stroke-width="2" stroke-linecap="round"/>
+  <!-- Wheels -->
+  <circle cx="28" cy="78" r="10" fill="#444" stroke="#222" stroke-width="2"/>
+  <circle cx="28" cy="78" r="5" fill="#888" stroke="#444" stroke-width="1.5"/>
+  <circle cx="72" cy="78" r="10" fill="#444" stroke="#222" stroke-width="2"/>
+  <circle cx="72" cy="78" r="5" fill="#888" stroke="#444" stroke-width="1.5"/>
+  <!-- Chassis below body -->
+  <rect x="16" y="72" width="66" height="6" fill="#888" stroke="#444" stroke-width="1.5"/>
+  <!-- Windows -->
+  <rect x="20" y="40" width="16" height="14" fill="#aaccee" stroke="#5a4a2a" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="28" y1="40" x2="28" y2="54" stroke="#5a4a2a" stroke-width="1"/>
+  <rect x="52" y="40" width="16" height="14" fill="#aaccee" stroke="#5a4a2a" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="60" y1="40" x2="60" y2="54" stroke="#5a4a2a" stroke-width="1"/>
+  <!-- Door -->
+  <rect x="74" y="44" width="10" height="24" fill="#8a6030" stroke="#5a3a1a" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="76" cy="57" r="1.5" fill="#cc9900"/>
+  <!-- Awning -->
+  <path d="M88,42 Q90,38 88,34" fill="none" stroke="#cc8844" stroke-width="2" stroke-linecap="round"/>
+  <path d="M88,34 Q95,40 88,46" fill="#ffdd99" stroke="#cc8844" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

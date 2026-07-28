@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- beetroot - deep purple/maroon round root -->
+  <circle cx="50" cy="58" r="26" fill="#6A1B4D" stroke="#4A0E35" stroke-width="2.5"/>
+  <!-- highlight -->
+  <ellipse cx="40" cy="48" rx="8" ry="10" fill="#8E1F6B" opacity="0.5"/>
+  <!-- ring lines (cross-section texture) -->
+  <circle cx="50" cy="58" r="18" fill="none" stroke="#4A0E35" stroke-width="1" opacity="0.5"/>
+  <circle cx="50" cy="58" r="10" fill="none" stroke="#4A0E35" stroke-width="1" opacity="0.5"/>
+  <!-- root tail -->
+  <path d="M50 84 C50 84 48 88 47 90" stroke="#6A1B4D" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- leaves -->
+  <path d="M44 32 C40 22 34 18 30 12 C36 14 40 22 44 32Z" fill="#4CAF50" stroke="#2E7D32" stroke-width="1.5"/>
+  <path d="M50 30 C50 20 52 14 52 8 C56 12 54 22 50 30Z" fill="#388E3C" stroke="#2E7D32" stroke-width="1.5"/>
+  <path d="M56 32 C60 22 66 18 70 12 C64 14 60 22 56 32Z" fill="#4CAF50" stroke="#2E7D32" stroke-width="1.5"/>
+  <!-- red stems -->
+  <line x1="44" y1="32" x2="47" y2="36" stroke="#C62828" stroke-width="2"/>
+  <line x1="50" y1="30" x2="50" y2="36" stroke="#C62828" stroke-width="2"/>
+  <line x1="56" y1="32" x2="53" y2="36" stroke="#C62828" stroke-width="2"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1513" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1513)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

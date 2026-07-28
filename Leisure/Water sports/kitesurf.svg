@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Kite in sky -->
+  <path d="M20,12 Q50,8 80,12 Q65,28 50,30 Q35,28 20,12 Z" fill="#e74c3c" stroke="#222" stroke-width="2"/>
+  <!-- Kite struts -->
+  <line x1="20" y1="12" x2="80" y2="12" stroke="#c0392b" stroke-width="1.5"/>
+  <line x1="50" y1="8" x2="50" y2="30" stroke="#c0392b" stroke-width="1.5"/>
+  <!-- Control lines to rider -->
+  <line x1="30" y1="18" x2="50" y2="72" stroke="#888" stroke-width="1.5"/>
+  <line x1="70" y1="18" x2="50" y2="72" stroke="#888" stroke-width="1.5"/>
+  <!-- Water -->
+  <path d="M5,80 Q25,76 50,80 Q75,76 95,80 L95,90 L5,90 Z" fill="#aed6f1" stroke="none"/>
+  <!-- Board on water -->
+  <ellipse cx="50" cy="80" rx="24" ry="4" fill="#f39c12" stroke="#222" stroke-width="2"/>
+  <!-- Rider -->
+  <circle cx="50" cy="62" r="6" fill="#f5c5a3" stroke="#222" stroke-width="2"/>
+  <line x1="50" y1="68" x2="50" y2="80" stroke="#5b8dd9" stroke-width="3" stroke-linecap="round"/>
+  <!-- Harness arms holding bar -->
+  <line x1="50" y1="70" x2="42" y2="66" stroke="#5b8dd9" stroke-width="2" stroke-linecap="round"/>
+  <line x1="50" y1="70" x2="58" y2="66" stroke="#5b8dd9" stroke-width="2" stroke-linecap="round"/>
+  <!-- Bent knees on board -->
+  <line x1="50" y1="80" x2="42" y2="78" stroke="#5b8dd9" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="80" x2="58" y2="78" stroke="#5b8dd9" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

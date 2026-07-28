@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Paper -->
+  <rect x="20" y="10" width="44" height="58" rx="3" fill="#fffde7" stroke="#333" stroke-width="2.5"/>
+  <line x1="28" y1="26" x2="56" y2="26" stroke="#333" stroke-width="1.5"/>
+  <line x1="28" y1="34" x2="56" y2="34" stroke="#333" stroke-width="1.5"/>
+  <!-- Question marks on paper -->
+  <text x="33" y="52" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="16" fill="#e07b54" font-weight="bold">?</text>
+  <text x="43" y="60" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" fill="#e07b54" font-weight="bold">?</text>
+  <!-- Clock -->
+  <circle cx="72" cy="58" r="18" fill="white" stroke="#333" stroke-width="2.5"/>
+  <circle cx="72" cy="58" r="2" fill="#333"/>
+  <line x1="72" y1="58" x2="72" y2="46" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="72" y1="58" x2="80" y2="62" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+</svg>

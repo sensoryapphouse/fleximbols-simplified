@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,4.260) scale(0.9574)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Daybed frame -->
+  <rect x="10" y="35" width="80" height="30" rx="3" fill="#D4A860" stroke="#7A5A00" stroke-width="2.5"/>
+  <!-- Mattress -->
+  <rect x="12" y="37" width="76" height="26" rx="2" fill="#E8D5B0" stroke="#8B6A3C" stroke-width="1.5"/>
+  <!-- Back rest (one long side) -->
+  <rect x="8" y="28" width="84" height="10" rx="3" fill="#8B5E3C" stroke="#4A2800" stroke-width="2.5"/>
+  <!-- End panel left (solid side) -->
+  <rect x="8" y="28" width="10" height="40" rx="2" fill="#8B5E3C" stroke="#4A2800" stroke-width="2"/>
+  <!-- End panel right (lower, open side) -->
+  <rect x="82" y="35" width="10" height="33" rx="2" fill="#8B5E3C" stroke="#4A2800" stroke-width="2"/>
+  <!-- Pillows/cushions -->
+  <rect x="14" y="39" width="22" height="16" rx="3" fill="#AED6F1" stroke="#2C4F6B" stroke-width="1.5"/>
+  <rect x="40" y="39" width="22" height="16" rx="3" fill="#E8B8D0" stroke="#8B3060" stroke-width="1.5"/>
+  <rect x="66" y="39" width="18" height="16" rx="3" fill="#C4D8A0" stroke="#3A6B3A" stroke-width="1.5"/>
+  <!-- Blanket draped -->
+  <path d="M10,63 Q28,58 46,60 Q64,62 82,57" fill="none" stroke="#D0DCEC" stroke-width="4" stroke-linecap="round"/>
+  <!-- Legs -->
+  <rect x="12" y="66" width="5" height="10" rx="1" fill="#7A5A00" stroke="#4A3800" stroke-width="1.5"/>
+  <rect x="83" y="66" width="5" height="10" rx="1" fill="#7A5A00" stroke="#4A3800" stroke-width="1.5"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1761" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1761)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,30 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-27.913 -16.083) scale(1.3026)">
+  <!-- Shellac: nail polish bottle with UV lamp icon -->
+  <!-- Polish bottle (shellac brand style) -->
+  <rect x="30" y="35" width="26" height="48" rx="5" fill="#8B1A4A" stroke="#333" stroke-width="2.5"/>
+  <!-- Bottle neck -->
+  <rect x="34" y="25" width="18" height="14" rx="3" fill="#6B1A3A" stroke="#333" stroke-width="2.5"/>
+  <!-- Bottle cap -->
+  <rect x="36" y="16" width="14" height="12" rx="3" fill="#444" stroke="#333" stroke-width="2.5"/>
+  <!-- Brush inside cap -->
+  <line x1="43" y1="16" x2="43" y2="28" stroke="#888" stroke-width="2" stroke-linecap="round"/>
+  <!-- Bottle label -->
+<!-- Label text lines -->
+  <line x1="36" y1="52" x2="50" y2="52" stroke="#8B1A4A" stroke-width="2" stroke-linecap="round"/>
+  <line x1="38" y1="58" x2="48" y2="58" stroke="#8B1A4A" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="37" y1="63" x2="49" y2="63" stroke="#8B1A4A" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Bottle shine -->
+  <line x1="34" y1="40" x2="34" y2="80" stroke="#c040a0" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+  <!-- UV lamp on right -->
+  <rect x="60" y="50" width="30" height="22" rx="5" fill="#d0d0d0" stroke="#333" stroke-width="2.5"/>
+  <!-- UV strip -->
+  <rect x="63" y="55" width="24" height="7" rx="3" fill="#9966cc" stroke="#333" stroke-width="1.5"/>
+  <!-- UV glow -->
+  <line x1="68" y1="72" x2="67" y2="77" stroke="#9966cc" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="75" y1="72" x2="75" y2="78" stroke="#9966cc" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="82" y1="72" x2="83" y2="77" stroke="#9966cc" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Power button -->
+  <circle cx="75" cy="45" r="4" fill="#e74c3c" stroke="#333" stroke-width="2"/>
+</g>
+  </svg>

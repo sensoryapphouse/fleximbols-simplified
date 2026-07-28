@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Taxi body -->
+  <rect x="8" y="52" width="84" height="22" fill="#f0e040" stroke="#9a9010" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Taxi cabin -->
+  <path d="M20,52 Q30,34 50,34 Q70,34 80,52" fill="#f0e040" stroke="#9a9010" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Windows -->
+  <path d="M25,52 Q32,40 50,40 Q68,40 75,52" fill="#c8e8f8" stroke="#4a8aaa" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="50" y1="40" x2="50" y2="52" stroke="#4a8aaa" stroke-width="1.5"/>
+  <!-- Robot driver visible in left window -->
+  <circle cx="35" cy="45" r="5" fill="#d8e8d8" stroke="#5a8a5a" stroke-width="1.5"/>
+  <circle cx="33" cy="44" r="1" fill="#333"/>
+  <circle cx="37" cy="44" r="1" fill="#333"/>
+  <line x1="33" y1="47" x2="37" y2="47" stroke="#333" stroke-width="1" stroke-linecap="round"/>
+  <!-- TAXI sign on roof -->
+  <rect x="35" y="29" width="30" height="7" rx="2" fill="#c84040" stroke="#7a1010" stroke-width="1.5"/>
+  
+  <!-- Sensor pod -->
+  <ellipse cx="50" cy="28" rx="6" ry="3" fill="#f0c040" stroke="#9a8010" stroke-width="1.5"/>
+  <!-- Wheels -->
+  <circle cx="25" cy="74" r="10" fill="#333" stroke="#111" stroke-width="2"/>
+  <circle cx="25" cy="74" r="5" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <circle cx="75" cy="74" r="10" fill="#333" stroke="#111" stroke-width="2"/>
+  <circle cx="75" cy="74" r="5" fill="#888" stroke="#555" stroke-width="1.5"/>
+</svg>

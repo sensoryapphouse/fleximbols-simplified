@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,18.550) scale(0.8145)">
+  <g transform="translate(-7.571 -10.780) scale(1.2886)">
+<!-- lamb chop with T-shaped bone -->
+  <!-- bone vertical -->
+  <rect x="62" y="20" width="8" height="50" rx="4" fill="#F5F5F5" stroke="#BDBDBD" stroke-width="2"/>
+  <!-- bone horizontal top -->
+  <rect x="52" y="20" width="28" height="8" rx="4" fill="#F5F5F5" stroke="#BDBDBD" stroke-width="2"/>
+  <!-- meat around bone - lamb pink-red -->
+  <path d="M18 38 C18 24 58 18 68 30 C76 40 72 70 56 76 C36 80 18 62 18 48Z" fill="#D4856A" stroke="#8D4E2E" stroke-width="2.5"/>
+  <!-- fat cap -->
+  <path d="M18 38 C16 28 30 20 48 18 C58 16 66 22 68 30" fill="#F8D7C4" stroke="#8D4E2E" stroke-width="2"/>
+  <!-- meat grain lines -->
+  <path d="M24 46 C32 42 40 48 48 44" stroke="#C0725A" stroke-width="1.5" fill="none"/>
+  <path d="M22 57 C30 53 38 59 46 55" stroke="#C0725A" stroke-width="1.5" fill="none"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl118" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl118)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

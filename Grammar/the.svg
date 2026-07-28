@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- "the": pointing at ONE specific item (the definite one) among others -->
+  <!-- Three items in a row; the middle one is singled out -->
+  <circle cx="24" cy="34" r="9" fill="#cfd8dc" stroke="#1d1d1d" stroke-width="2.5"/>
+  <circle cx="50" cy="34" r="11" fill="#f5b400" stroke="#1d1d1d" stroke-width="3"/>
+  <circle cx="76" cy="34" r="9" fill="#cfd8dc" stroke="#1d1d1d" stroke-width="2.5"/>
+  <!-- Pointing hand from below at the highlighted (the specific) item -->
+  <g stroke="#1d1d1d" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+    <!-- fist -->
+    <path d="M40,84 q-4,0 -4,-5 l0,-6 q0,-4 4,-4 l8,0 q4,0 4,4 l0,11 q0,5 -5,5 z" fill="#f5cba7"/>
+    <!-- index finger pointing up to item -->
+    <path d="M50,69 l0,-16 q0,-3 3,-3 q3,0 3,3 l0,16" fill="#f5cba7"/>
+  </g>
+</svg>

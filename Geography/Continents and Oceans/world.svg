@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- globe -->
+  <circle cx="50" cy="46" r="34" fill="#4a90d9" stroke="#2060a0" stroke-width="2.5"/>
+  <!-- longitude lines -->
+  <ellipse cx="50" cy="46" rx="12" ry="34" fill="none" stroke="white" stroke-width="1" opacity="0.4"/>
+  <ellipse cx="50" cy="46" rx="24" ry="34" fill="none" stroke="white" stroke-width="1" opacity="0.3"/>
+  <!-- latitude lines -->
+  <path d="M16,46 Q50,40 84,46" fill="none" stroke="white" stroke-width="1" opacity="0.4"/>
+  <path d="M20,34 Q50,28 80,34" fill="none" stroke="white" stroke-width="1" opacity="0.4"/>
+  <path d="M20,58 Q50,64 80,58" fill="none" stroke="white" stroke-width="1" opacity="0.4"/>
+  <!-- land masses -->
+  <path d="M40,20 Q46,18 50,22 Q54,28 52,34 Q48,36 44,32 Q40,28 40,22Z" fill="#5bba5b" stroke="#2e8b2e" stroke-width="1.5"/>
+  <path d="M28,36 Q34,32 38,36 Q40,42 36,48 Q32,50 28,46 Q24,40 28,36Z" fill="#5bba5b" stroke="#2e8b2e" stroke-width="1.5"/>
+  <path d="M56,40 Q62,36 66,40 Q68,46 64,50 Q60,52 56,48 Q52,44 56,40Z" fill="#5bba5b" stroke="#2e8b2e" stroke-width="1.5"/>
+  <!-- connection lines (world connectivity) -->
+  <path d="M50,12 Q70,10 80,8" stroke="#e87c1e" stroke-width="1.5" fill="none" stroke-dasharray="3,2"/>
+  <path d="M50,12 Q30,10 20,8" stroke="#e87c1e" stroke-width="1.5" fill="none" stroke-dasharray="3,2"/>
+  <circle cx="50" cy="12" r="3" fill="#e87c1e" stroke="#b05000" stroke-width="1.5"/>
+</svg>

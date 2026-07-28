@@ -1,0 +1,16 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Tangerine - rounder than mandarin, deeper orange -->
+  <circle cx="50" cy="55" r="34" fill="#e86010" stroke="#333" stroke-width="2.5"/>
+  <!-- Segment lines -->
+  <path d="M50 21 Q56 55 50 89" fill="none" stroke="#b84000" stroke-width="1.5" opacity="0.5"/>
+  <path d="M50 21 Q72 38 84 55" fill="none" stroke="#b84000" stroke-width="1" opacity="0.4"/>
+  <path d="M50 21 Q28 38 16 55" fill="none" stroke="#b84000" stroke-width="1" opacity="0.4"/>
+  <path d="M50 21 Q78 55 68 83" fill="none" stroke="#b84000" stroke-width="1" opacity="0.3"/>
+  <path d="M50 21 Q22 55 32 83" fill="none" stroke="#b84000" stroke-width="1" opacity="0.3"/>
+  <!-- Top dimple -->
+  <ellipse cx="50" cy="21" rx="6" ry="4" fill="#b84000" stroke="#333" stroke-width="1"/>
+  <!-- Stem -->
+  <path d="M50 17 Q51 9 54 6" fill="none" stroke="#5a3010" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Leaf -->
+  <path d="M52 12 Q63 5 66 13 Q57 17 52 12 Z" fill="#4a9020" stroke="#2a6010" stroke-width="1.5"/>
+</svg>

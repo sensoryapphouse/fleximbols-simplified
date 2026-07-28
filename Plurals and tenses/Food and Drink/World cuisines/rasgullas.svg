@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Bowl with syrup -->
+  <path d="M12 58 Q12 82 50 82 Q88 82 88 58 Z" fill="#f0e8c8" stroke="#b0a070" stroke-width="2"/>
+  <ellipse cx="50" cy="58" rx="38" ry="11" fill="#f5f0dc" stroke="#b0a070" stroke-width="2"/>
+  <!-- Syrup -->
+  <ellipse cx="50" cy="55" rx="32" ry="9" fill="#e8dab0" stroke="#b0a070" stroke-width="1.5"/>
+  <!-- Rasgulla balls (white sponge) -->
+  <circle cx="35" cy="50" r="11" fill="#f8f5ee" stroke="#c8b890" stroke-width="2"/>
+  <circle cx="65" cy="50" r="11" fill="#f8f5ee" stroke="#c8b890" stroke-width="2"/>
+  <!-- Sponge texture -->
+  <circle cx="32" cy="47" r="2" fill="#ede8de" stroke="none"/>
+  <circle cx="38" cy="44" r="1.5" fill="#ede8de" stroke="none"/>
+  <circle cx="62" cy="47" r="2" fill="#ede8de" stroke="none"/>
+  <circle cx="68" cy="44" r="1.5" fill="#ede8de" stroke="none"/>
+  <!-- Rose water hint (pink dot) -->
+  <circle cx="50" cy="55" r="3" fill="#f0c0b0" stroke="none"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1611" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1611)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

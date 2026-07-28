@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-1.654 -22.303) scale(1.2258)">
+<!-- arching stem -->
+  <path d="M50 88 Q48 70 42 55 Q38 42 35 30" fill="none" stroke="#4aaa4a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- leaves -->
+  <ellipse cx="48" cy="72" rx="9" ry="3" fill="#4aaa4a" stroke="#2d7a2d" stroke-width="1.5" transform="rotate(-20 48 72)"/>
+  <!-- hanging bells -->
+  <!-- bell 1 -->
+  <path d="M35 30 Q29 33 28 42 Q33 50 38 45 Q42 38 38 30 Z" fill="#6688cc" stroke="#334488" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="33" y1="46" x2="33" y2="52" stroke="#334488" stroke-width="1" stroke-linecap="round"/>
+  <!-- bell 2 -->
+  <path d="M38 38 Q32 41 31 50 Q36 58 41 53 Q45 46 41 38 Z" fill="#7799dd" stroke="#334488" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="36" y1="54" x2="36" y2="60" stroke="#334488" stroke-width="1" stroke-linecap="round"/>
+  <!-- bell 3 -->
+  <path d="M41 48 Q35 51 34 60 Q39 68 44 63 Q48 56 44 48 Z" fill="#6688cc" stroke="#334488" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="39" y1="64" x2="39" y2="70" stroke="#334488" stroke-width="1" stroke-linecap="round"/>
+</g>
+  </svg>

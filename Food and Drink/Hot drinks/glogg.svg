@@ -1,0 +1,25 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Nordic mug/cup with dark red glogg, almonds, raisins, spices, steam -->
+  <!-- Ceramic mug with handle -->
+  <path d="M16 28 L16 82 Q16 90 25 90 L72 90 Q81 90 81 82 L81 28 Z" fill="#800020" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Handle -->
+  <path d="M81 38 Q95 38 95 55 Q95 72 81 72" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <!-- Dark red glogg -->
+  <path d="M18 35 L18 82 Q18 88 25 88 L72 88 Q79 88 79 82 L79 35 Z" fill="#600015"/>
+  <!-- Mug rim -->
+  <rect x="16" y="26" width="65" height="7" rx="3" fill="#ccc" stroke="#333" stroke-width="2"/>
+  <!-- Almond -->
+  <ellipse cx="38" cy="56" rx="6" ry="4" fill="#d4a050" stroke="#8b5a1c" stroke-width="1.5" transform="rotate(-20 38 56)"/>
+  <line x1="34" y1="54" x2="42" y2="58" stroke="#8b5a1c" stroke-width="0.8"/>
+  <!-- Raisins -->
+  <ellipse cx="54" cy="62" rx="4" ry="3" fill="#4a2008" stroke="#2a1000" stroke-width="1.5"/>
+  <ellipse cx="48" cy="68" rx="4" ry="3" fill="#4a2008" stroke="#2a1000" stroke-width="1.5"/>
+  <!-- Cinnamon stick -->
+  <rect x="66" y="28" width="4" height="38" rx="2" fill="#8b4513" stroke="#5a2d0c" stroke-width="1.5"/>
+  <!-- Cardamom pod -->
+  <ellipse cx="58" cy="48" rx="4" ry="3" fill="#a0b050" stroke="#607020" stroke-width="1.5"/>
+  <!-- Steam -->
+  <path d="M30 22 Q33 15 30 8" fill="none" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <path d="M48 21 Q51 14 48 7" fill="none" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <path d="M66 22 Q69 15 66 8" fill="none" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+</svg>

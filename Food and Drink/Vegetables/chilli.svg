@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- chilli body - curved pointed shape -->
+  <path d="M55 22 C62 26 72 38 70 55 C68 68 60 78 52 80 C46 80 40 74 42 65 C44 55 50 46 50 36 C50 28 52 20 55 22Z" fill="#D32F2F" stroke="#B71C1C" stroke-width="2.5"/>
+  <!-- highlight -->
+  <path d="M54 28 C58 32 64 44 62 55" stroke="#EF9A9A" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <!-- tip -->
+  <path d="M52 80 C52 80 50 84 50 86" stroke="#B71C1C" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- stem and leaf -->
+  <rect x="48" y="14" width="5" height="10" rx="2" fill="#66BB6A" stroke="#2E7D32" stroke-width="1.5"/>
+  <path d="M53 18 C58 14 65 16 63 22" fill="#4CAF50" stroke="#2E7D32" stroke-width="1.5"/>
+</svg>

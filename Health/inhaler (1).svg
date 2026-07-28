@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-10.354 -11.738) scale(1.2323)">
+<!-- Inhaler body (vertical canister) -->
+  <rect x="38" y="25" width="22" height="42" rx="5" fill="#a8c4e0" stroke="#2c5f8a" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Canister top -->
+  <rect x="43" y="18" width="12" height="10" rx="3" fill="#c0c0c0" stroke="#888" stroke-width="2"/>
+  <!-- Mouthpiece (horizontal L-shape) -->
+  <rect x="38" y="63" width="35" height="12" rx="6" fill="#7fb3d8" stroke="#2c5f8a" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Mouthpiece opening -->
+  <ellipse cx="73" cy="69" rx="5" ry="6" fill="#2c5f8a" stroke="#1a3f60" stroke-width="1.5"/>
+  <!-- Medicine spray puff lines -->
+  <path d="M75,65 Q82,62 84,60" fill="none" stroke="#a8d8e8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M75,69 Q84,69 86,68" fill="none" stroke="#a8d8e8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M75,73 Q82,76 84,78" fill="none" stroke="#a8d8e8" stroke-width="2" stroke-linecap="round"/>
+  <!-- Label on body -->
+<line x1="43" y1="39" x2="55" y2="39" stroke="#2c5f8a" stroke-width="1.5"/>
+  <line x1="43" y1="44" x2="55" y2="44" stroke="#2c5f8a" stroke-width="1.5"/>
+  <line x1="43" y1="49" x2="55" y2="49" stroke="#2c5f8a" stroke-width="1.5"/>
+</g>
+  </svg>

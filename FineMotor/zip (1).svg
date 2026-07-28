@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Two fabric edges -->
+  <rect x="10" y="20" width="28" height="62" rx="3" fill="#c8d8f0" stroke="#336699" stroke-width="2"/>
+  <rect x="62" y="20" width="28" height="62" rx="3" fill="#c8d8f0" stroke="#336699" stroke-width="2"/>
+  <!-- Zipper teeth (left) -->
+  <rect x="34" y="28" width="6" height="4" rx="1" fill="#aaa" stroke="#555" stroke-width="1"/>
+  <rect x="34" y="36" width="6" height="4" rx="1" fill="#aaa" stroke="#555" stroke-width="1"/>
+  <rect x="34" y="44" width="6" height="4" rx="1" fill="#aaa" stroke="#555" stroke-width="1"/>
+  <rect x="34" y="52" width="6" height="4" rx="1" fill="#aaa" stroke="#555" stroke-width="1"/>
+  <rect x="34" y="60" width="6" height="4" rx="1" fill="#aaa" stroke="#555" stroke-width="1"/>
+  <!-- Zipper teeth (right) -->
+  <rect x="60" y="28" width="6" height="4" rx="1" fill="#aaa" stroke="#555" stroke-width="1"/>
+  <rect x="60" y="36" width="6" height="4" rx="1" fill="#aaa" stroke="#555" stroke-width="1"/>
+  <rect x="60" y="44" width="6" height="4" rx="1" fill="#aaa" stroke="#555" stroke-width="1"/>
+  <rect x="60" y="52" width="6" height="4" rx="1" fill="#aaa" stroke="#555" stroke-width="1"/>
+  <rect x="60" y="60" width="6" height="4" rx="1" fill="#aaa" stroke="#555" stroke-width="1"/>
+  <!-- Zipper pull/slider (at top, closed) -->
+  <rect x="38" y="20" width="24" height="14" rx="4" fill="#888" stroke="#444" stroke-width="2.5"/>
+  <rect x="44" y="27" width="12" height="5" rx="2" fill="#aaa" stroke="#555" stroke-width="1.5"/>
+  <!-- Arrow pointing down (zipping up) -->
+  <line x1="50" y1="36" x2="50" y2="70" stroke="#cc6600" stroke-width="2" stroke-dasharray="4,3"/>
+  <polygon points="45,68 50,76 55,68" fill="#cc6600"/>
+</svg>

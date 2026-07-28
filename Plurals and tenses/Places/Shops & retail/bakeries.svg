@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,4.260) scale(0.9574)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Building -->
+  <rect x="8" y="30" width="84" height="55" fill="#FFF8E7" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Awning - warm brown -->
+  <rect x="8" y="28" width="84" height="12" fill="#CC8844" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Awning stripes -->
+  <line x1="20" y1="28" x2="20" y2="40" stroke="#AA6622" stroke-width="2"/>
+  <line x1="32" y1="28" x2="32" y2="40" stroke="#AA6622" stroke-width="2"/>
+  <line x1="44" y1="28" x2="44" y2="40" stroke="#AA6622" stroke-width="2"/>
+  <line x1="56" y1="28" x2="56" y2="40" stroke="#AA6622" stroke-width="2"/>
+  <line x1="68" y1="28" x2="68" y2="40" stroke="#AA6622" stroke-width="2"/>
+  <line x1="80" y1="28" x2="80" y2="40" stroke="#AA6622" stroke-width="2"/>
+  <!-- Shop window -->
+  <rect x="12" y="43" width="76" height="22" fill="#A8D4F5" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Croissant shape -->
+  <path d="M22,48 Q18,54 22,60 Q28,62 34,58 Q38,52 34,47 Q28,44 22,48Z" fill="#D4A855" stroke="#555" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M22,48 Q25,52 22,60" fill="none" stroke="#AA7733" stroke-width="1.5"/>
+  <!-- Bread loaf -->
+  <ellipse cx="60" cy="53" rx="16" ry="9" fill="#D4A855" stroke="#555" stroke-width="1.5"/>
+  <path d="M46,53 Q48,46 60,46 Q72,46 74,53" fill="#C89040" stroke="#555" stroke-width="1.5"/>
+  <!-- Score lines on bread -->
+  <path d="M52,46 Q53,50 52,56" fill="none" stroke="#AA7733" stroke-width="1"/>
+  <path d="M60,45 Q61,50 60,57" fill="none" stroke="#AA7733" stroke-width="1"/>
+  <path d="M68,46 Q69,50 68,56" fill="none" stroke="#AA7733" stroke-width="1"/>
+  <!-- Door -->
+  <rect x="38" y="66" width="24" height="19" fill="#C8A87A" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="59" cy="76" r="2" fill="#888"/>
+  <!-- Sign -->
+  <rect x="28" y="12" width="44" height="14" fill="#FFEECC" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="33" y1="17" x2="67" y2="17" stroke="#CC8844" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="36" y1="22" x2="64" y2="22" stroke="#CC8844" stroke-width="1.5" stroke-linecap="round"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2678" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2678)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

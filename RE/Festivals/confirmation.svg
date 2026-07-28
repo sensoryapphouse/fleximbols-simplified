@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- cross -->
+  <rect x="44" y="15" width="12" height="45" rx="2" fill="#8b5e3c" stroke="#5c3310" stroke-width="2"/>
+  <rect x="28" y="27" width="44" height="12" rx="2" fill="#8b5e3c" stroke="#5c3310" stroke-width="2"/>
+  <!-- dove -->
+  <ellipse cx="75" cy="22" rx="11" ry="6" fill="white" stroke="#7aaad4" stroke-width="2"/>
+  <path d="M64,22 Q67,14 75,14 Q83,14 86,22" fill="white" stroke="#7aaad4" stroke-width="2"/>
+  <circle cx="87" cy="21" r="4" fill="white" stroke="#7aaad4" stroke-width="2"/>
+  <circle cx="89" cy="20" r="1" fill="#555"/>
+  <path d="M64,22 L57,26 M64,24 L56,30" stroke="#7aaad4" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- rays -->
+  <line x1="50" y1="58" x2="50" y2="72" stroke="#f5c518" stroke-width="2" stroke-linecap="round"/>
+  <line x1="43" y1="60" x2="37" y2="72" stroke="#f5c518" stroke-width="2" stroke-linecap="round"/>
+  <line x1="57" y1="60" x2="63" y2="72" stroke="#f5c518" stroke-width="2" stroke-linecap="round"/>
+  <!-- confirm checkmark circle -->
+  <circle cx="50" cy="80" r="9" fill="#5bba5b" stroke="#2e8b2e" stroke-width="2"/>
+  <polyline points="44,80 48,84 56,75" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

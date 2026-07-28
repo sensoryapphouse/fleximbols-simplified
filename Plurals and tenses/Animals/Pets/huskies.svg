@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Body -->
+  <ellipse cx="50" cy="62" rx="22" ry="18" fill="#d0d0d0" stroke="#333" stroke-width="2"/>
+  <!-- White belly -->
+  <ellipse cx="50" cy="64" rx="14" ry="12" fill="#f5f5f5" stroke="#bbb" stroke-width="1"/>
+  <!-- Head -->
+  <circle cx="50" cy="36" r="16" fill="#d0d0d0" stroke="#333" stroke-width="2"/>
+  <!-- White face mask -->
+  <ellipse cx="50" cy="40" rx="10" ry="10" fill="#f5f5f5" stroke="#bbb" stroke-width="1"/>
+  <!-- Ears - upright pointed -->
+  <polygon points="38,24 33,10 44,22" fill="#d0d0d0" stroke="#333" stroke-width="2"/>
+  <polygon points="36,23 35,12 43,21" fill="#333" stroke="#333" stroke-width="1"/>
+  <polygon points="62,24 67,10 56,22" fill="#d0d0d0" stroke="#333" stroke-width="2"/>
+  <polygon points="64,23 65,12 57,21" fill="#333" stroke="#333" stroke-width="1"/>
+  <!-- Blue eyes -->
+  <circle cx="44" cy="34" r="4" fill="#4a90d9" stroke="#333" stroke-width="1.5"/>
+  <circle cx="56" cy="34" r="4" fill="#4a90d9" stroke="#333" stroke-width="1.5"/>
+  <circle cx="43" cy="33" r="1.5" fill="#1a4a80"/>
+  <circle cx="55" cy="33" r="1.5" fill="#1a4a80"/>
+  <circle cx="44" cy="32" r="1" fill="white"/>
+  <circle cx="56" cy="32" r="1" fill="white"/>
+  <!-- Nose -->
+  <ellipse cx="50" cy="41" rx="3" ry="2" fill="#222"/>
+  <!-- Mouth -->
+  <path d="M47 43 Q50 46 53 43" fill="none" stroke="#555" stroke-width="1.5"/>
+  <!-- Tail - curled up -->
+  <path d="M72 58 Q84 45 76 38 Q70 34 68 42" fill="#d0d0d0" stroke="#333" stroke-width="2"/>
+  <!-- Legs -->
+  <rect x="35" y="75" width="9" height="8" rx="3" fill="#d0d0d0" stroke="#333" stroke-width="1.5"/>
+  <rect x="56" y="75" width="9" height="8" rx="3" fill="#d0d0d0" stroke="#333" stroke-width="1.5"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl282" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl282)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

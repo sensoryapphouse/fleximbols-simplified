@@ -1,0 +1,19 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Watt: power/energy symbol with W and lightbulb -->
+  <rect x="8" y="8" width="84" height="84" rx="8" fill="#fffde7" stroke="#f39c12" stroke-width="3"/>
+  <!-- Lightbulb shape -->
+  <path d="M50,15 Q65,15 72,28 Q78,40 72,52 Q68,60 65,65 L35,65 Q32,60 28,52 Q22,40 28,28 Q35,15 50,15 Z"
+        fill="#fff176" stroke="#f39c12" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Filament inside bulb -->
+  <polyline points="40,50 43,42 46,50 49,42 52,50 55,42 58,50 61,42"
+            fill="none" stroke="#e67e22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bulb base -->
+  <rect x="38" y="65" width="24" height="5" rx="1" fill="#ccc" stroke="#333" stroke-width="1.5"/>
+  <rect x="40" y="70" width="20" height="5" rx="1" fill="#bbb" stroke="#333" stroke-width="1.5"/>
+  <rect x="42" y="75" width="16" height="5" rx="1" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+  <!-- W label below -->
+<!-- Rays from bulb -->
+  <line x1="50" y1="8" x2="50" y2="3" stroke="#f39c12" stroke-width="2" stroke-linecap="round"/>
+  <line x1="75" y1="18" x2="79" y2="14" stroke="#f39c12" stroke-width="2" stroke-linecap="round"/>
+  <line x1="25" y1="18" x2="21" y2="14" stroke="#f39c12" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Cone (triangle) -->
+  <polygon points="30,60 70,60 50,88" fill="#f0d080" stroke="#9a7a10" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Waffle grid pattern on cone -->
+  <line x1="38" y1="60" x2="44" y2="88" stroke="#9a7a10" stroke-width="1.5"/>
+  <line x1="50" y1="60" x2="50" y2="88" stroke="#9a7a10" stroke-width="1.5"/>
+  <line x1="62" y1="60" x2="56" y2="88" stroke="#9a7a10" stroke-width="1.5"/>
+  <line x1="30" y1="66" x2="70" y2="66" stroke="#9a7a10" stroke-width="1.5"/>
+  <line x1="33" y1="72" x2="67" y2="72" stroke="#9a7a10" stroke-width="1.5"/>
+  <line x1="38" y1="78" x2="62" y2="78" stroke="#9a7a10" stroke-width="1.5"/>
+  <!-- Soft serve swirl (modern) -->
+  <!-- Bottom swirl loop -->
+  <ellipse cx="50" cy="55" rx="20" ry="10" fill="#f5f5dc" stroke="#888" stroke-width="2"/>
+  <!-- Middle swirl loop -->
+  <ellipse cx="50" cy="44" rx="16" ry="9" fill="#f5f5dc" stroke="#888" stroke-width="2"/>
+  <!-- Top swirl loop -->
+  <ellipse cx="50" cy="34" rx="12" ry="8" fill="#f5f5dc" stroke="#888" stroke-width="2"/>
+  <!-- Tip point -->
+  <ellipse cx="50" cy="24" rx="6" ry="6" fill="#f5f5dc" stroke="#888" stroke-width="2"/>
+  <polygon points="47,20 53,20 50,14" fill="#f5f5dc" stroke="#888" stroke-width="2" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Three letter blocks -->
+  <!-- Block C -->
+  <rect x="10" y="28" width="24" height="24" rx="4" fill="#d4e8f5" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="22" y="45" font-size="18" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#333" font-weight="bold">C</text>
+  <!-- Block A -->
+  <rect x="38" y="28" width="24" height="24" rx="4" fill="#d4f5d4" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="50" y="45" font-size="18" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#333" font-weight="bold">A</text>
+  <!-- Block T -->
+  <rect x="66" y="28" width="24" height="24" rx="4" fill="#f5d4d4" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="78" y="45" font-size="18" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#333" font-weight="bold">T</text>
+  <!-- Underline for spelling check -->
+  <line x1="10" y1="55" x2="90" y2="55" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Check mark -->
+  <polyline points="36,62 44,70 64,56" fill="none" stroke="#6aaa6a" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Word "cat" below -->
+  <text x="50" y="78" font-size="10" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#555" font-style="italic">c - a - t</text>
+</svg>

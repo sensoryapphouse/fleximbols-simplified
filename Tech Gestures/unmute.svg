@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- mic body -->
+  <rect x="38" y="12" width="24" height="36" rx="12" fill="#e8e8e8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- mic stand arc -->
+  <path d="M28 44 Q28 64 50 64 Q72 64 72 44" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- mic stand line -->
+  <line x1="50" y1="64" x2="50" y2="76" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="36" y1="76" x2="64" y2="76" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- sound waves right -->
+  <path d="M76 32 Q84 42 76 52" fill="none" stroke="#30a030" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M82 27 Q94 42 82 57" fill="none" stroke="#30a030" stroke-width="2" stroke-linecap="round"/>
+  <!-- green tick -->
+  <circle cx="22" cy="22" r="10" fill="#30a030"/>
+  <polyline points="16,22 20,27 29,16" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

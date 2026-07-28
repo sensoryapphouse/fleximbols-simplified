@@ -1,0 +1,26 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,12.440) scale(0.8756)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Highball glass with pink grapefruit soda, salted rim, grapefruit -->
+  <!-- Salted rim (dotted) -->
+  <path d="M27 16 L73 16" stroke="#ddd" stroke-width="3" stroke-dasharray="3,2" stroke-linecap="round"/>
+  <!-- Glass body -->
+  <path d="M27 16 L24 85 Q24 90 32 90 L68 90 Q76 90 76 85 L73 16 Z" fill="#f5a8b0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Liquid - pink -->
+  <path d="M28 22 L25 85 Q25 89 32 89 L68 89 Q75 89 75 85 L72 22 Z" fill="#f59898"/>
+  <!-- Bubbles -->
+  <circle cx="42" cy="45" r="2" fill="#fff" opacity="0.5"/>
+  <circle cx="58" cy="60" r="1.5" fill="#fff" opacity="0.5"/>
+  <circle cx="50" cy="35" r="1.5" fill="#fff" opacity="0.5"/>
+  <!-- Ice -->
+  <rect x="34" y="58" width="12" height="12" rx="2" fill="#d8eef5" stroke="#aaccdd" stroke-width="1.5" opacity="0.8"/>
+  <!-- Glass outline -->
+  <path d="M27 16 L24 85 Q24 90 32 90 L68 90 Q76 90 76 85 L73 16 Z" fill="none" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Grapefruit half on rim -->
+  <circle cx="71" cy="18" r="10" fill="#f5a830" stroke="#c87820" stroke-width="1.5"/>
+  <!-- Grapefruit segments -->
+  <path d="M71 8 L71 28" stroke="#c87820" stroke-width="0.8"/>
+  <path d="M61 18 L81 18" stroke="#c87820" stroke-width="0.8"/>
+  <path d="M64 11 L78 25" stroke="#c87820" stroke-width="0.8"/>
+  <path d="M78 11 L64 25" stroke="#c87820" stroke-width="0.8"/>
+  <!-- Pink flesh -->
+  <circle cx="71" cy="18" r="6" fill="#f5a0b0"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1061" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1061)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

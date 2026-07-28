@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-0.160 -17.665) scale(1.0042)">
+<!-- bikini top -->
+  <path d="M33 38 Q40 32 50 30 Q60 32 67 38 L62 48 Q56 42 50 40 Q44 42 38 48 Z" fill="#e05080" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- tie straps neck -->
+  <line x1="50" y1="30" x2="50" y2="22" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- tie straps sides -->
+  <line x1="33" y1="38" x2="25" y2="42" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="67" y1="38" x2="75" y2="42" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- bikini bottom -->
+  <path d="M28 62 Q32 55 50 54 Q68 55 72 62 L70 75 Q65 80 50 81 Q35 80 30 75 Z" fill="#e05080" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- side ties -->
+  <line x1="28" y1="62" x2="20" y2="65" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="72" y1="62" x2="80" y2="65" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+  </svg>

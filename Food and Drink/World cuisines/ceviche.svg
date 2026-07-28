@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Bowl -->
+  <path d="M15 48 Q15 78 50 80 Q85 78 85 48Z" fill="#f5f0e8" stroke="#8b7355" stroke-width="2.5"/>
+  <ellipse cx="50" cy="48" rx="35" ry="8" fill="#f5f0e8" stroke="#8b7355" stroke-width="2.5"/>
+  <!-- Citrus leche de tigre (milky lime juice) -->
+  <ellipse cx="50" cy="50" rx="32" ry="6" fill="#f0f8e8" stroke="#d0e8b0" stroke-width="1"/>
+  <!-- Raw fish pieces (white/pink, citrus-cured) -->
+  <rect x="25" y="52" width="12" height="8" rx="2" fill="#f0d0c0" stroke="#c0a090" stroke-width="1.5" transform="rotate(-10 25 52)"/>
+  <rect x="42" y="50" width="10" height="7" rx="2" fill="#e8c8b8" stroke="#c0a090" stroke-width="1.5" transform="rotate(8 42 50)"/>
+  <rect x="58" y="52" width="11" height="8" rx="2" fill="#f0d0c0" stroke="#c0a090" stroke-width="1.5" transform="rotate(-5 58 52)"/>
+  <rect x="35" y="60" width="10" height="7" rx="2" fill="#e8c8b8" stroke="#c0a090" stroke-width="1.5" transform="rotate(12 35 60)"/>
+  <rect x="52" y="62" width="12" height="8" rx="2" fill="#f0d0c0" stroke="#c0a090" stroke-width="1.5" transform="rotate(-8 52 62)"/>
+  <!-- Lime slices -->
+  <circle cx="28" cy="46" r="6" fill="#a8c840" stroke="#6a9820" stroke-width="1.5"/>
+  <line x1="28" y1="40" x2="28" y2="52" stroke="#6a9820" stroke-width="0.8"/>
+  <line x1="22" y1="46" x2="34" y2="46" stroke="#6a9820" stroke-width="0.8"/>
+  <!-- Red onion -->
+  <path d="M68 46 Q74 42 78 48 Q74 54 68 52 Q64 48 68 46Z" fill="#c870a0" stroke="#a04080" stroke-width="1"/>
+  <!-- Coriander -->
+  <circle cx="50" cy="44" r="3" fill="#5a9a3a" stroke="#3a7a1a" stroke-width="1"/>
+  <circle cx="56" cy="43" r="2.5" fill="#6aad4a" stroke="#3a7a1a" stroke-width="1"/>
+</svg>

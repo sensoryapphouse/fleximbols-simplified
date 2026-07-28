@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- outer round head -->
+  <circle cx="50" cy="52" r="33" fill="#81C784" stroke="#2E7D32" stroke-width="2.5"/>
+  <!-- leaf lines on surface -->
+  <ellipse cx="50" cy="52" r="24" fill="#A5D6A7" stroke="#388E3C" stroke-width="2"/>
+  <ellipse cx="50" cy="52" r="15" fill="#C8E6C9" stroke="#388E3C" stroke-width="1.5"/>
+  <!-- curved vein lines -->
+  <path d="M50 37 Q38 52 50 67" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+  <path d="M50 37 Q62 52 50 67" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+  <!-- small stub at top -->
+  <ellipse cx="50" cy="20" rx="6" ry="4" fill="#66BB6A" stroke="#2E7D32" stroke-width="1.5"/>
+</svg>

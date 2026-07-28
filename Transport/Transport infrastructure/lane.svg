@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Grassy verges -->
+  <rect x="0" y="10" width="100" height="68" fill="#8ab870"/>
+  <!-- Narrow lane surface -->
+  <rect x="33" y="10" width="34" height="68" fill="#b0a890" stroke="#555" stroke-width="2"/>
+  <!-- Hedgerows / foliage on sides -->
+  <rect x="5" y="10" width="28" height="68" fill="#5a9a3a" stroke="#2a6a1a" stroke-width="1.5" rx="4"/>
+  <rect x="67" y="10" width="28" height="68" fill="#5a9a3a" stroke="#2a6a1a" stroke-width="1.5" rx="4"/>
+  <!-- Hedge texture bumps -->
+  <circle cx="12" cy="22" r="7" fill="#4a8a2a"/>
+  <circle cx="22" cy="28" r="6" fill="#6aaa3a"/>
+  <circle cx="14" cy="40" r="7" fill="#4a8a2a"/>
+  <circle cx="24" cy="50" r="5" fill="#6aaa3a"/>
+  <circle cx="88" cy="22" r="7" fill="#4a8a2a"/>
+  <circle cx="78" cy="28" r="6" fill="#6aaa3a"/>
+  <circle cx="86" cy="40" r="7" fill="#4a8a2a"/>
+  <circle cx="76" cy="50" r="5" fill="#6aaa3a"/>
+  <!-- Label -->
+</svg>

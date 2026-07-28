@@ -1,0 +1,25 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Mousepad: rectangular pad with mouse on top, stitched border -->
+  <!-- Pad body -->
+  <rect x="8" y="35" width="75" height="52" rx="8" fill="#1a1a2e" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Stitched border -->
+  <rect x="12" y="39" width="67" height="44" rx="5" fill="none" stroke="#555" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <!-- Subtle design/logo on pad -->
+  <circle cx="40" cy="70" r="10" fill="none" stroke="#3498db" stroke-width="1.5" opacity="0.5"/>
+  <circle cx="40" cy="70" r="5" fill="none" stroke="#3498db" stroke-width="1" opacity="0.5"/>
+  <!-- Mouse body on pad -->
+  <path d="M60 42 Q59 34 68 34 Q77 34 76 42 L77 62 Q77 70 68 70 Q59 70 60 62Z" fill="#aaa" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Mouse scroll wheel -->
+  <rect x="65" y="42" width="6" height="10" rx="3" fill="#777" stroke="#222" stroke-width="1.5"/>
+  <!-- Mouse button divider -->
+  <line x1="68" y1="34" x2="68" y2="52" stroke="#222" stroke-width="1.5"/>
+  <!-- Mouse side buttons -->
+  <rect x="76" y="46" width="4" height="5" rx="1" fill="#888" stroke="#222" stroke-width="1"/>
+  <rect x="76" y="53" width="4" height="5" rx="1" fill="#888" stroke="#222" stroke-width="1"/>
+  <!-- USB cable from mouse -->
+  <path d="M68 70 Q68 78 68 85 Q60 90 50 90" fill="none" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <!-- RGB edge light strip on pad -->
+  <rect x="8" y="80" width="75" height="5" rx="3" fill="#9b59b6" stroke="none" opacity="0.7"/>
+  <rect x="8" y="80" width="25" height="5" rx="3" fill="#e63b2e" stroke="none" opacity="0.7"/>
+  <rect x="33" y="80" width="25" height="5" rx="3" fill="#27ae60" stroke="none" opacity="0.7"/>
+</svg>

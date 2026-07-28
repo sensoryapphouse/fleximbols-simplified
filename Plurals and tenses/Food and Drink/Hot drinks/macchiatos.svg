@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,8.960) scale(0.9104)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.210 -35.171) scale(1.4056)">
+<!-- Small cup (like espresso) -->
+  <path d="M28 48 Q30 72 50 74 Q70 72 72 48Z" fill="#f5f0e8" stroke="#8b7355" stroke-width="2.5"/>
+  <rect x="28" y="42" width="44" height="10" rx="4" fill="#f5f0e8" stroke="#8b7355" stroke-width="2.5"/>
+  <!-- Espresso base (dark) -->
+  <path d="M30 50 Q32 70 50 72 Q68 70 70 50Z" fill="#2a1408" stroke="none"/>
+  <!-- The macchiato "mark" - small dot of milk foam -->
+  <circle cx="50" cy="48" r="8" fill="#f8f4ec" stroke="#d0c8b8" stroke-width="1.5"/>
+  <!-- Handle -->
+  <path d="M72 52 Q82 54 82 60 Q82 66 72 66" fill="none" stroke="#8b7355" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Saucer -->
+  <ellipse cx="50" cy="74" rx="30" ry="6" fill="#f0ece4" stroke="#c0b8a8" stroke-width="1.5"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1286" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1286)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

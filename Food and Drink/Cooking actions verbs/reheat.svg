@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(2.333 -14.768) scale(0.9543)">
+<!-- Leftover container/bowl -->
+  <ellipse cx="50" cy="68" rx="28" ry="12" fill="#b0c4d8" stroke="#2c4a6e" stroke-width="2.5"/>
+  <ellipse cx="50" cy="64" rx="28" ry="8" fill="#9ab4c8" stroke="#2c4a6e" stroke-width="2"/>
+  <!-- Food inside -->
+  <ellipse cx="50" cy="62" rx="22" ry="6" fill="#c87820" stroke="#8a5010" stroke-width="1.5"/>
+  <!-- Snowflake to indicate leftover/cold -->
+  <line x1="22" y1="48" x2="22" y2="54" stroke="#5b9bd5" stroke-width="2" stroke-linecap="round"/>
+  <line x1="19" y1="51" x2="25" y2="51" stroke="#5b9bd5" stroke-width="2" stroke-linecap="round"/>
+  <line x1="20" y1="49" x2="24" y2="53" stroke="#5b9bd5" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="24" y1="49" x2="20" y2="53" stroke="#5b9bd5" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Arrow to heat waves -->
+  <path d="M28 51 L38 51" fill="none" stroke="#444" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="36,48 41,51 36,54" fill="#444"/>
+  <!-- Heat waves rising from food -->
+  <path d="M42 54 Q45 46 42 38 Q45 30 42 22" fill="none" stroke="#e07020" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M50 52 Q53 44 50 36 Q53 28 50 20" fill="none" stroke="#e07020" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M58 54 Q61 46 58 38 Q61 30 58 22" fill="none" stroke="#e07020" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+  </svg>

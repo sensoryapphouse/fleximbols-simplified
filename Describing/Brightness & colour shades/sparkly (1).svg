@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-7.768 -1.374) scale(1.1193)">
+<!-- Star sparkles - multiple 4-point stars -->
+  <!-- Large central star sparkle -->
+  <path d="M50,20 L53,38 L68,35 L53,42 L58,60 L50,46 L42,60 L47,42 L32,35 L47,38 Z" fill="#f0d820" stroke="#c8a810" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Medium star top right -->
+  <path d="M76,22 L78,30 L84,28 L78,32 L80,40 L76,33 L72,40 L74,32 L68,28 L74,30 Z" fill="#f0d820" stroke="#c8a810" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Small star bottom left -->
+  <path d="M24,60 L25,65 L29,63 L25,66 L26,72 L24,67 L22,72 L23,66 L19,63 L23,65 Z" fill="#f0c830" stroke="#c8a810" stroke-width="1" stroke-linejoin="round"/>
+  <!-- Tiny star right -->
+  <path d="M80,58 L81,62 L84,61 L81,63 L82,67 L80,64 L78,67 L79,63 L76,61 L79,62 Z" fill="#f0d820" stroke="#c8a810" stroke-width="1" stroke-linejoin="round"/>
+</g>
+  </svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ground -->
+  <rect x="0" y="72" width="100" height="18" fill="#d8c890" stroke="#555" stroke-width="1"/>
+  <!-- Stall 1 -->
+  <rect x="5" y="48" width="28" height="24" fill="#f8f4ec" stroke="#444" stroke-width="1.5"/>
+  <!-- Canopy 1 -->
+  <polygon points="2,40 35,40 35,48 2,48" fill="#e84040" stroke="#444" stroke-width="1.5"/>
+  <line x1="8" y1="40" x2="8" y2="48" stroke="#c82020" stroke-width="1"/>
+  <line x1="14" y1="40" x2="14" y2="48" stroke="#c82020" stroke-width="1"/>
+  <line x1="20" y1="40" x2="20" y2="48" stroke="#c82020" stroke-width="1"/>
+  <line x1="26" y1="40" x2="26" y2="48" stroke="#c82020" stroke-width="1"/>
+  <!-- Produce in stall 1 -->
+  <circle cx="14" cy="58" r="4" fill="#40a840" stroke="#444" stroke-width="1"/>
+  <circle cx="22" cy="57" r="4" fill="#e8a020" stroke="#444" stroke-width="1"/>
+  <!-- Stall 2 -->
+  <rect x="37" y="48" width="26" height="24" fill="#f8f4ec" stroke="#444" stroke-width="1.5"/>
+  <!-- Canopy 2 -->
+  <polygon points="34,40 65,40 65,48 34,48" fill="#4880c8" stroke="#444" stroke-width="1.5"/>
+  <line x1="40" y1="40" x2="40" y2="48" stroke="#3060a8" stroke-width="1"/>
+  <line x1="46" y1="40" x2="46" y2="48" stroke="#3060a8" stroke-width="1"/>
+  <line x1="52" y1="40" x2="52" y2="48" stroke="#3060a8" stroke-width="1"/>
+  <line x1="58" y1="40" x2="58" y2="48" stroke="#3060a8" stroke-width="1"/>
+  <!-- Items stall 2 -->
+  <rect x="40" y="54" width="8" height="14" fill="#d4a060" stroke="#444" stroke-width="1"/>
+  <circle cx="56" cy="58" r="4" fill="#e84040" stroke="#444" stroke-width="1"/>
+  <!-- Stall 3 -->
+  <rect x="67" y="48" width="28" height="24" fill="#f8f4ec" stroke="#444" stroke-width="1.5"/>
+  <!-- Canopy 3 -->
+  <polygon points="64,40 97,40 97,48 64,48" fill="#e8a020" stroke="#444" stroke-width="1.5"/>
+  <line x1="70" y1="40" x2="70" y2="48" stroke="#c88010" stroke-width="1"/>
+  <line x1="76" y1="40" x2="76" y2="48" stroke="#c88010" stroke-width="1"/>
+  <line x1="82" y1="40" x2="82" y2="48" stroke="#c88010" stroke-width="1"/>
+  <line x1="88" y1="40" x2="88" y2="48" stroke="#c88010" stroke-width="1"/>
+  <!-- Items stall 3 -->
+  <circle cx="75" cy="57" r="4" fill="#a040a8" stroke="#444" stroke-width="1"/>
+  <circle cx="84" cy="58" r="4" fill="#40a840" stroke="#444" stroke-width="1"/>
+  <!-- Support poles -->
+  <line x1="5" y1="40" x2="5" y2="72" stroke="#8b6040" stroke-width="2"/>
+  <line x1="33" y1="40" x2="33" y2="72" stroke="#8b6040" stroke-width="2"/>
+  <line x1="37" y1="40" x2="37" y2="72" stroke="#8b6040" stroke-width="2"/>
+  <line x1="63" y1="40" x2="63" y2="72" stroke="#8b6040" stroke-width="2"/>
+  <line x1="67" y1="40" x2="67" y2="72" stroke="#8b6040" stroke-width="2"/>
+  <line x1="95" y1="40" x2="95" y2="72" stroke="#8b6040" stroke-width="2"/>
+  <!-- Label -->
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl785" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl785)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

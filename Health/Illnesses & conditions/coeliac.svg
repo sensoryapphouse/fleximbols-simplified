@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-11.489 -6.685) scale(1.2298)">
+<!-- Wheat stalk -->
+  <line x1="50" y1="75" x2="50" y2="20" stroke="#c8a43a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Wheat grains left -->
+  <ellipse cx="42" cy="30" rx="7" ry="4" fill="#f0d060" stroke="#c8a43a" stroke-width="2" transform="rotate(-30 42 30)"/>
+  <ellipse cx="42" cy="44" rx="7" ry="4" fill="#f0d060" stroke="#c8a43a" stroke-width="2" transform="rotate(-30 42 44)"/>
+  <ellipse cx="42" cy="58" rx="7" ry="4" fill="#f0d060" stroke="#c8a43a" stroke-width="2" transform="rotate(-30 42 58)"/>
+  <!-- Wheat grains right -->
+  <ellipse cx="58" cy="30" rx="7" ry="4" fill="#f0d060" stroke="#c8a43a" stroke-width="2" transform="rotate(30 58 30)"/>
+  <ellipse cx="58" cy="44" rx="7" ry="4" fill="#f0d060" stroke="#c8a43a" stroke-width="2" transform="rotate(30 58 44)"/>
+  <ellipse cx="58" cy="58" rx="7" ry="4" fill="#f0d060" stroke="#c8a43a" stroke-width="2" transform="rotate(30 58 58)"/>
+  <!-- Red X over wheat -->
+  <line x1="28" y1="18" x2="72" y2="72" stroke="#c0392b" stroke-width="4" stroke-linecap="round"/>
+  <line x1="72" y1="18" x2="28" y2="72" stroke="#c0392b" stroke-width="4" stroke-linecap="round"/>
+</g>
+  </svg>

@@ -1,0 +1,26 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- hatchback - short, high roofline that drops sharply at rear -->
+  <path d="M5 67 L5 50 Q5 46 9 46 L14 46 Q22 36 32 34 L72 34 Q78 34 84 38 L88 42 L88 48 Q92 50 95 50 L95 67 Z" fill="#c070a0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- roof dropping to rear hatch -->
+  <path d="M24 46 Q28 36 36 34 L72 34 Q78 34 84 38 L88 42 L88 46 Z" fill="#a04080" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- rear hatch (vertical) -->
+  <line x1="88" y1="46" x2="92" y2="67" stroke="#333" stroke-width="2.5"/>
+  <!-- windows -->
+  <path d="M28 45 Q32 37 40 35 L54 35 L53 45 Z" fill="#b8d8f0" stroke="#333" stroke-width="1.5"/>
+  <path d="M55 45 L55 35 L70 35 Q76 36 82 40 L86 45 Z" fill="#b8d8f0" stroke="#333" stroke-width="1.5"/>
+  <!-- hatch window (rear) -->
+  <path d="M88 44 L88 46 L92 52 L92 44 Z" fill="#b8d8f0" stroke="#333" stroke-width="1.5"/>
+  <!-- bottom -->
+  <rect x="5" y="63" width="90" height="6" rx="1" fill="#804060" stroke="#333" stroke-width="2"/>
+  <!-- wheels -->
+  <circle cx="24" cy="69" r="12" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="24" cy="69" r="7" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <circle cx="24" cy="69" r="3" fill="#ccc"/>
+  <circle cx="78" cy="69" r="12" fill="#333" stroke="#222" stroke-width="2"/>
+  <circle cx="78" cy="69" r="7" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <circle cx="78" cy="69" r="3" fill="#ccc"/>
+  <!-- headlight -->
+  <rect x="89" y="50" width="5" height="8" rx="2" fill="#e8d050" stroke="#333" stroke-width="1.5"/>
+  <!-- taillight -->
+  <rect x="5" y="50" width="5" height="8" rx="2" fill="#e05050" stroke="#333" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+
+  <!-- LEFT smaller box -->
+  <!-- Back wall: x=30 y=290 w=160 h=30 -->
+  <rect x="30" y="290" width="160" height="30" fill="#7a5028" stroke="#000000" stroke-width="5"/>
+  <!-- Floor: M30 320 L190 320 L200 330 L20 330 -->
+  <path d="M 30 320 L 190 320 L 200 330 L 20 330 Z" fill="#a06840" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Front face: x=20 y=330 w=180 h=80 -->
+  <rect x="20" y="330" width="180" height="80" fill="#caa379" stroke="#000000" stroke-width="5"/>
+
+  <!-- RIGHT smaller box -->
+  <!-- Back wall: x=322 y=290 w=160 h=30 -->
+  <rect x="322" y="290" width="160" height="30" fill="#7a5028" stroke="#000000" stroke-width="5"/>
+  <!-- Floor: M322 320 L482 320 L492 330 L312 330 -->
+  <path d="M 322 320 L 482 320 L 492 330 L 312 330 Z" fill="#a06840" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Front face: x=312 y=330 w=180 h=80 -->
+  <rect x="312" y="330" width="180" height="80" fill="#caa379" stroke="#000000" stroke-width="5"/>
+
+  <!-- Ball BETWEEN the two boxes -->
+  <circle cx="256" cy="380" r="54" fill="#e74c3c" stroke="#000000" stroke-width="5"/>
+  <circle cx="236" cy="360" r="16" fill="#f7b8b0"/>
+
+  <!-- Double-headed horizontal arrow above ball (between the two box top edges) -->
+  <!-- Shaft: x=210 y=280 w=92 h=14 -->
+  <rect x="210" y="280" width="92" height="14" fill="#2eb05a" stroke="#000000" stroke-width="5"/>
+  <!-- Left arrowhead pointing left at x=200 -->
+  <polygon points="200,287 230,265 230,309" fill="#2eb05a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Right arrowhead pointing right at x=312 -->
+  <polygon points="312,287 282,265 282,309" fill="#2eb05a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+
+</svg>

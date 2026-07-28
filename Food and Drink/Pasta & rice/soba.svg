@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- tray/zaru (bamboo mat) -->
+<rect x="12" y="38" width="76" height="44" rx="4" fill="#c8a870" stroke="#886644" stroke-width="2"/>
+<!-- bamboo lines -->
+<line x1="12" y1="46" x2="88" y2="46" stroke="#aa8850" stroke-width="1"/>
+<line x1="12" y1="54" x2="88" y2="54" stroke="#aa8850" stroke-width="1"/>
+<line x1="12" y1="62" x2="88" y2="62" stroke="#aa8850" stroke-width="1"/>
+<line x1="12" y1="70" x2="88" y2="70" stroke="#aa8850" stroke-width="1"/>
+<!-- buckwheat soba (dark brown noodles) -->
+<path d="M18,44 Q28,38 38,44 Q48,50 58,44 Q68,38 78,44" fill="none" stroke="#554433" stroke-width="3" stroke-linecap="round"/>
+<path d="M16,52 Q28,46 38,52 Q50,58 62,52 Q72,46 80,52" fill="none" stroke="#554433" stroke-width="3" stroke-linecap="round"/>
+<path d="M20,60 Q32,54 42,60 Q52,66 62,60 Q72,54 78,60" fill="none" stroke="#554433" stroke-width="2.5" stroke-linecap="round"/>
+<!-- dipping sauce cup -->
+<rect x="72" y="16" width="16" height="22" rx="4" fill="#ccaa55" stroke="#886633" stroke-width="2"/>
+<rect x="72" y="16" width="16" height="8" rx="3" fill="#997722" stroke="#664400" stroke-width="1.5"/>
+</svg>

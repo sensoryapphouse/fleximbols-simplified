@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-25.854 -16.836) scale(1.4097)">
+<!-- large bottle/item -->
+  <rect x="22" y="25" width="22" height="40" rx="5" fill="#7aaad4" stroke="#2060a0" stroke-width="2.5"/>
+  <rect x="26" y="18" width="14" height="10" rx="3" fill="#7aaad4" stroke="#2060a0" stroke-width="2"/>
+  <rect x="29" y="15" width="8" height="5" rx="1" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <!-- minus / reduce symbol -->
+  <circle cx="62" cy="45" r="18" fill="#e05050" stroke="#b03030" stroke-width="2.5"/>
+  <line x1="50" y1="45" x2="74" y2="45" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <!-- arrow showing reduction -->
+  <path d="M44,50 L54,44" stroke="#555" stroke-width="2" stroke-dasharray="3,2" fill="none"/>
+  <!-- small item on right (result) -->
+  <rect x="72" y="55" width="14" height="22" rx="3" fill="#7aaad4" stroke="#2060a0" stroke-width="2"/>
+  <rect x="75" y="50" width="8" height="7" rx="2" fill="#7aaad4" stroke="#2060a0" stroke-width="1.5"/>
+</g>
+  </svg>

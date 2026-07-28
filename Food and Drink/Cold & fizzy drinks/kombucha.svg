@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Bottle shape -->
+  <path d="M38 18 L38 30 Q28 34 26 45 L24 78 Q24 84 50 86 Q76 84 76 78 L74 45 Q72 34 62 30 L62 18Z" fill="#f0d880" stroke="#8b6a10" stroke-width="2.5"/>
+  <!-- Amber fizzy fill -->
+  <path d="M38 32 Q28 36 26 47 L24 78 Q24 84 50 86 Q76 84 76 78 L74 47 Q72 36 62 32Z" fill="#c89030" stroke="none"/>
+  <!-- Carbonation bubbles -->
+  <circle cx="38" cy="70" r="2" fill="none" stroke="#f0b840" stroke-width="1"/>
+  <circle cx="50" cy="65" r="2.5" fill="none" stroke="#f0b840" stroke-width="1"/>
+  <circle cx="62" cy="68" r="2" fill="none" stroke="#f0b840" stroke-width="1"/>
+  <circle cx="44" cy="55" r="1.5" fill="none" stroke="#f0b840" stroke-width="1"/>
+  <circle cx="56" cy="58" r="2" fill="none" stroke="#f0b840" stroke-width="1"/>
+  <!-- Bottle neck label area -->
+  <rect x="35" y="30" width="30" height="18" rx="2" fill="#f5e090" stroke="#c8a820" stroke-width="1"/>
+  <!-- Bottle cap -->
+  <rect x="37" y="14" width="26" height="6" rx="3" fill="#5a2a10" stroke="#3a1808" stroke-width="1.5"/>
+  <rect x="40" y="10" width="20" height="6" rx="3" fill="#7a3a1a" stroke="#3a1808" stroke-width="1.5"/>
+</svg>

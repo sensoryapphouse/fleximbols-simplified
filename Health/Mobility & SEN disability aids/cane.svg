@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Walking cane: single clean object, curved crook handle -->
+  <!-- Shaft -->
+  <line x1="55" y1="86" x2="55" y2="32" stroke="#9c6b3a" stroke-width="6" stroke-linecap="round"/>
+  <!-- Curved crook handle -->
+  <path d="M55,32 Q55,16 41,16 Q30,16 30,28" fill="none" stroke="#9c6b3a" stroke-width="6" stroke-linecap="round"/>
+  <!-- Highlight along shaft -->
+  <line x1="53" y1="84" x2="53" y2="34" stroke="#c08a4f" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Grip band -->
+  <rect x="50" y="44" width="10" height="11" rx="2" fill="#c8a870" stroke="#7a5424" stroke-width="2"/>
+  <!-- Rubber tip at base -->
+  <ellipse cx="55" cy="87" rx="5" ry="3.5" fill="#333" stroke="#111" stroke-width="1.5"/>
+</svg>

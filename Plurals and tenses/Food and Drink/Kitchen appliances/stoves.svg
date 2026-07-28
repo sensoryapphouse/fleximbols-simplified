@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,17.190) scale(0.8281)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Stove body -->
+  <rect x="8" y="18" width="84" height="62" rx="4" fill="#c8c8c8" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Stovetop surface -->
+  <rect x="10" y="18" width="80" height="32" rx="3" fill="#555" stroke="#555" stroke-width="1"/>
+  <!-- Burners (4) -->
+  <circle cx="30" cy="33" r="10" fill="none" stroke="#888" stroke-width="2.5"/>
+  <circle cx="30" cy="33" r="4" fill="#777" stroke="#888" stroke-width="1.5"/>
+  <circle cx="70" cy="33" r="10" fill="none" stroke="#888" stroke-width="2.5"/>
+  <circle cx="70" cy="33" r="4" fill="#777" stroke="#888" stroke-width="1.5"/>
+  <!-- Lower burners (smaller) -->
+  <circle cx="30" cy="22" r="0" fill="none"/>
+  <!-- Oven door -->
+  <rect x="12" y="52" width="76" height="26" rx="3" fill="#aaa" stroke="#555" stroke-width="2"/>
+  <!-- Oven window -->
+  <rect x="20" y="56" width="60" height="18" rx="2" fill="#333" stroke="#666" stroke-width="1.5"/>
+  <!-- Door handle -->
+  <rect x="22" y="75" width="56" height="5" rx="2" fill="#999" stroke="#555" stroke-width="1.5"/>
+  <!-- Knobs -->
+  <circle cx="18" cy="14" r="4" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <circle cx="32" cy="14" r="4" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <circle cx="68" cy="14" r="4" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <circle cx="82" cy="14" r="4" fill="#555" stroke="#333" stroke-width="1.5"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1318" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1318)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

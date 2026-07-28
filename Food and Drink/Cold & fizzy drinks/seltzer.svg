@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-17.067 -18.247) scale(1.3427)">
+<!-- Clear glass -->
+  <path d="M28 20 L30 80 Q50 84 70 80 L72 20Z" fill="#f0f8ff" stroke="#8090b0" stroke-width="2.5"/>
+  <!-- Very clear/transparent water -->
+  <path d="M30 25 L30 80 Q50 84 70 80 L70 25Z" fill="#e8f4ff" stroke="none" opacity="0.5"/>
+  <!-- Carbonation bubbles (rising) -->
+  <circle cx="38" cy="70" r="2" fill="none" stroke="#90b0d0" stroke-width="1.5"/>
+  <circle cx="50" cy="65" r="2.5" fill="none" stroke="#90b0d0" stroke-width="1.5"/>
+  <circle cx="62" cy="68" r="2" fill="none" stroke="#90b0d0" stroke-width="1.5"/>
+  <circle cx="42" cy="55" r="1.5" fill="none" stroke="#90b0d0" stroke-width="1"/>
+  <circle cx="56" cy="50" r="2" fill="none" stroke="#90b0d0" stroke-width="1"/>
+  <circle cx="35" cy="42" r="1.5" fill="none" stroke="#90b0d0" stroke-width="1"/>
+  <circle cx="65" cy="40" r="1.5" fill="none" stroke="#90b0d0" stroke-width="1"/>
+  <circle cx="50" cy="35" r="2" fill="none" stroke="#90b0d0" stroke-width="1"/>
+  <!-- Lime/lemon wedge on rim -->
+  <path d="M65 22 Q74 16 78 22 Q74 30 65 28 Q62 24 65 22Z" fill="#a8c840" stroke="#6a9820" stroke-width="1.5"/>
+  <line x1="72" y1="16" x2="71" y2="30" stroke="#6a9820" stroke-width="0.8"/>
+</g>
+  </svg>

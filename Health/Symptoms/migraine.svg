@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-11.478 -5.288) scale(1.2308)">
+<!-- Head silhouette -->
+  <rect x="44" y="70" width="12" height="12" rx="4" fill="#d0b090" stroke="#6a4820" stroke-width="2"/>
+  <circle cx="50" cy="45" r="28" fill="#d0b090" stroke="#6a4820" stroke-width="2.5"/>
+  <!-- Neck -->
+  
+  <!-- Pain side of head (one-sided migraine) highlighted -->
+  <path d="M50 18 Q72 18 72 45 Q72 62 50 72" fill="#e07070" stroke="none" opacity="0.3"/>
+  <!-- LIGHTNING BOLT pain symbol - key migraine indicator -->
+  <path d="M58 15 L48 38 L56 38 L44 62 L54 62 L42 82" fill="#e0a020" stroke="#c07010" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Pain pulse lines -->
+  <path d="M66 22 Q76 22 80 28" fill="none" stroke="#c04040" stroke-width="2" stroke-linecap="round"/>
+  <path d="M68 32 Q78 32 82 38" fill="none" stroke="#c04040" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M66 42 Q76 42 80 48" fill="none" stroke="#c04040" stroke-width="1" stroke-linecap="round"/>
+  <!-- Face features - squinting in pain -->
+  <path d="M36 42 Q38 39 40 42" fill="none" stroke="#6a4820" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Left eye squinting -->
+  <path d="M36 44 Q38 46 40 44" fill="none" stroke="#6a4820" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Pain expression -->
+  <path d="M38 56 Q44 60 50 58" fill="none" stroke="#6a4820" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+  </svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,16.820) scale(0.8318)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Speaker - cone in a box -->
+  <!-- Cabinet box -->
+  <rect x="15" y="12" width="70" height="72" rx="4" fill="#555" stroke="#222" stroke-width="2.5"/>
+  <!-- Speaker cone frame (circle) -->
+  <circle cx="50" cy="50" r="26" fill="#444" stroke="#222" stroke-width="2"/>
+  <!-- Outer surround ring -->
+  <circle cx="50" cy="50" r="26" fill="none" stroke="#777" stroke-width="3"/>
+  <!-- Spider / cone -->
+  <circle cx="50" cy="50" r="18" fill="#666" stroke="#333" stroke-width="1.5"/>
+  <circle cx="50" cy="50" r="10" fill="#777" stroke="#333" stroke-width="1.5"/>
+  <!-- Dust cap (center) -->
+  <circle cx="50" cy="50" r="5" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <!-- Tweeter (small circle top right of cabinet) -->
+  <circle cx="72" cy="20" r="5" fill="#555" stroke="#777" stroke-width="1.5"/>
+  <!-- Sound waves -->
+  <path d="M88,38 Q95,50 88,62" fill="none" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <path d="M92,32 Q102,50 92,68" fill="none" stroke="#ccc" stroke-width="1.5" stroke-linecap="round"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3168" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3168)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

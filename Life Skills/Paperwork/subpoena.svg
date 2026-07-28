@@ -1,0 +1,31 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Subpoena: document + person being summoned (finger pointing at person) -->
+  <!-- Document -->
+  <rect x="8" y="8" width="52" height="68" rx="4" fill="#f5eecc" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <polygon points="48,8 60,8 60,20" fill="#ddd8a0" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="13" y="14" width="41" height="12" rx="2" fill="#8b2222" stroke="#333" stroke-width="1.5"/>
+  
+  <!-- Content lines -->
+  <line x1="13" y1="32" x2="56" y2="32" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="13" y1="40" x2="56" y2="40" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="13" y1="48" x2="56" y2="48" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="13" y1="56" x2="44" y2="56" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Official seal -->
+  <circle cx="48" cy="64" r="8" fill="#8b2222" stroke="#333" stroke-width="1.5"/>
+  
+  <!-- Arrow pointing at person -->
+  <defs>
+    <marker id="arrSub" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <polygon points="0,0 0,6 8,3" fill="#8b2222" stroke="none"/>
+    </marker>
+  </defs>
+  <line x1="63" y1="52" x2="74" y2="52" stroke="#8b2222" stroke-width="3" stroke-linecap="round" marker-end="url(#arrSub)"/>
+  <!-- Summoned person -->
+  <circle cx="84" cy="42" r="10" fill="#f5cba7" stroke="#333" stroke-width="2"/>
+  <rect x="74" y="53" width="20" height="20" rx="2" fill="#5b7fa6" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Legs -->
+  <rect x="76" y="72" width="7" height="14" rx="2" fill="#2a2a3a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="85" y="72" width="7" height="14" rx="2" fill="#2a2a3a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Exclamation (surprised) -->
+  
+</svg>

@@ -1,0 +1,20 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Ballot box -->
+  <rect x="20" y="50" width="60" height="42" rx="3" fill="#2980b9" stroke="#222" stroke-width="2.5"/>
+  <rect x="20" y="44" width="60" height="10" rx="2" fill="#3498db" stroke="#222" stroke-width="2.5"/>
+  <!-- Slot -->
+  <rect x="38" y="44" width="24" height="4" rx="1" fill="#1a252f" stroke="#222" stroke-width="1.5"/>
+  <!-- Ballot paper going into slot -->
+  <rect x="40" y="30" width="20" height="18" rx="1.5" fill="#fff" stroke="#222" stroke-width="2" transform="rotate(8 50 39)"/>
+  <polyline points="44,38 47,42 56,33" fill="none" stroke="#27ae60" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" transform="rotate(8 50 39)"/>
+  <!-- Big checkmark in circle above -->
+  <circle cx="50" cy="24" r="18" fill="#27ae60" stroke="#222" stroke-width="2.5"/>
+  <polyline points="38,24 46,32 62,16" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Confetti dots -->
+  <circle cx="12" cy="15" r="3" fill="#f1c40f" stroke="#222" stroke-width="1.5"/>
+  <circle cx="25" cy="8" r="3" fill="#e74c3c" stroke="#222" stroke-width="1.5"/>
+  <circle cx="75" cy="10" r="3" fill="#9b59b6" stroke="#222" stroke-width="1.5"/>
+  <circle cx="88" cy="20" r="3" fill="#f39c12" stroke="#222" stroke-width="1.5"/>
+  <rect x="78" y="6" width="5" height="5" rx="1" fill="#3498db" stroke="#222" stroke-width="1.5" transform="rotate(30,80,8)"/>
+  <rect x="14" y="28" width="5" height="5" rx="1" fill="#e74c3c" stroke="#222" stroke-width="1.5" transform="rotate(45,16,30)"/>
+</svg>

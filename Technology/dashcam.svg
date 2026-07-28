@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Windshield (top arc) -->
+  <path d="M10 55 Q10 25 50 20 Q90 25 90 55" stroke="#aaa" stroke-width="2" fill="#e8f4f8" opacity="0.6"/>
+  <!-- Dashcam body (small, hangs from windshield) -->
+  <rect x="33" y="30" width="34" height="24" rx="5" fill="#2a2a2a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Suction mount arm -->
+  <line x1="50" y1="22" x2="50" y2="30" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="50" cy="21" rx="8" ry="5" fill="#888" stroke="#333" stroke-width="2"/>
+  <!-- Lens -->
+  <circle cx="50" cy="42" r="9" fill="#444" stroke="#555" stroke-width="2"/>
+  <circle cx="50" cy="42" r="6" fill="#333" stroke="#555" stroke-width="1.5"/>
+  <circle cx="50" cy="42" r="3" fill="#111"/>
+  <!-- Screen on back of cam -->
+  <rect x="35" y="32" width="14" height="10" rx="2" fill="#1a3a1a" stroke="#555" stroke-width="1"/>
+  <text x="42" y="39" font-size="5" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#0f0">REC</text>
+  <!-- Dashboard line -->
+  <rect x="5" y="65" width="90" height="8" rx="2" fill="#c0a860" stroke="#333" stroke-width="2"/>
+  <!-- Label -->
+</svg>

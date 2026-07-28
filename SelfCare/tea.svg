@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Cup body -->
+  <path d="M25 45 Q25 75 50 75 Q75 75 75 45 Z" fill="#f5e6d3" stroke="#5a3a1a" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="25" y="40" width="50" height="8" rx="3" fill="#f5e6d3" stroke="#5a3a1a" stroke-width="2.5"/>
+  <!-- Handle -->
+  <path d="M75 48 Q90 48 90 58 Q90 68 75 68" fill="none" stroke="#5a3a1a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Saucer -->
+  <ellipse cx="50" cy="77" rx="32" ry="5" fill="#e8d5c0" stroke="#5a3a1a" stroke-width="2"/>
+  <!-- Tea color in cup -->
+  <path d="M29 52 Q29 72 50 72 Q71 72 71 52 Z" fill="#c8860a" opacity="0.5"/>
+  <!-- Teabag string -->
+  <line x1="50" y1="40" x2="50" y2="30" stroke="#8b6914" stroke-width="1.5"/>
+  <rect x="45" y="27" width="10" height="7" rx="2" fill="#c8a060" stroke="#8b6914" stroke-width="1.5"/>
+  <!-- Steam -->
+  <path d="M38 35 Q35 30 38 25 Q41 20 38 15" fill="none" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <path d="M50 35 Q47 30 50 25 Q53 20 50 15" fill="none" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <path d="M62 35 Q59 30 62 25 Q65 20 62 15" fill="none" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+</svg>

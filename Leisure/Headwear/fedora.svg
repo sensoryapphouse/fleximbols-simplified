@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- wide brim -->
+  <ellipse cx="50" cy="60" rx="38" ry="9" fill="#6b5a48" stroke="#333" stroke-width="2.5"/>
+  <!-- crown with center crease -->
+  <path d="M30 60 Q30 35 50 30 Q70 35 70 60" fill="#7d6a55" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- crown crease dip -->
+  <path d="M38 55 Q42 40 50 38 Q58 40 62 55" fill="#6b5a48" stroke="#333" stroke-width="2"/>
+  <!-- hatband -->
+  <path d="M30 60 Q50 57 70 60" fill="none" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- brim curve detail -->
+  <path d="M14 57 Q50 65 86 57" fill="none" stroke="#5a4a38" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Folded garment - bottom half -->
+  <rect x="18" y="55" width="64" height="24" rx="4" fill="#85c1e9" stroke="#2471a3" stroke-width="2"/>
+  <!-- Folded garment - top half folded down -->
+  <rect x="18" y="30" width="64" height="26" rx="4" fill="#5dade2" stroke="#2471a3" stroke-width="2"/>
+  <!-- Fold line/crease -->
+  <line x1="18" y1="55" x2="82" y2="55" stroke="#2471a3" stroke-width="2.5"/>
+  <!-- Hands doing the folding -->
+  <path d="M12 50 Q16 46 22 48 L22 58 Q16 58 12 54 Z" fill="#f5cba7" stroke="#555" stroke-width="1.5"/>
+  <path d="M88 50 Q84 46 78 48 L78 58 Q84 58 88 54 Z" fill="#f5cba7" stroke="#555" stroke-width="1.5"/>
+  <!-- Arrow showing fold direction -->
+  <path d="M50 30 Q50 42 50 55" fill="none" stroke="#2471a3" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <polygon points="50,57 46,50 54,50" fill="#2471a3"/>
+</svg>

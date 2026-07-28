@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-23.131 -16.827) scale(1.5190)">
+<!-- two green bean pods -->
+  <!-- Pod 1 -->
+  <path d="M22 30 C22 22 78 18 78 30 C78 42 22 46 22 30Z" fill="#66BB6A" stroke="#2E7D32" stroke-width="2" transform="rotate(-10 50 34)"/>
+  <!-- Pod 2 -->
+  <path d="M22 55 C22 47 78 43 78 55 C78 67 22 71 22 55Z" fill="#4CAF50" stroke="#2E7D32" stroke-width="2" transform="rotate(10 50 57)"/>
+  <!-- bump details on pods -->
+  <ellipse cx="32" cy="28" rx="5" ry="4" fill="#81C784" stroke="#2E7D32" stroke-width="1" transform="rotate(-10 32 28)"/>
+  <ellipse cx="46" cy="26" rx="5" ry="4" fill="#81C784" stroke="#2E7D32" stroke-width="1" transform="rotate(-10 46 26)"/>
+  <ellipse cx="60" cy="26" rx="5" ry="4" fill="#81C784" stroke="#2E7D32" stroke-width="1" transform="rotate(-10 60 26)"/>
+  <ellipse cx="32" cy="56" rx="5" ry="4" fill="#66BB6A" stroke="#2E7D32" stroke-width="1" transform="rotate(10 32 56)"/>
+  <ellipse cx="46" cy="56" rx="5" ry="4" fill="#66BB6A" stroke="#2E7D32" stroke-width="1" transform="rotate(10 46 56)"/>
+  <ellipse cx="60" cy="58" rx="5" ry="4" fill="#66BB6A" stroke="#2E7D32" stroke-width="1" transform="rotate(10 60 58)"/>
+</g>
+  </svg>

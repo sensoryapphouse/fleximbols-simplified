@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- fuselage pod -->
+  <path d="M22 52 Q22 44 30 42 L64 42 Q72 42 74 50 Q72 58 64 58 L30 58 Q22 60 22 52 Z" fill="#b8c9d8" stroke="#4a5568" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- mast up from fuselage -->
+  <line x1="42" y1="42" x2="42" y2="22" stroke="#4a5568" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- auto-rotation rotor (long) -->
+  <line x1="10" y1="22" x2="74" y2="22" stroke="#4a5568" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="20" y1="12" x2="64" y2="32" stroke="#4a5568" stroke-width="2" stroke-linecap="round"/>
+  <!-- rotor hub -->
+  <circle cx="42" cy="22" r="4" fill="#6a8faf" stroke="#4a5568" stroke-width="2"/>
+  <!-- tail boom -->
+  <line x1="64" y1="50" x2="88" y2="46" stroke="#4a5568" stroke-width="2" stroke-linecap="round"/>
+  <!-- tail fin -->
+  <path d="M88 46 L92 40 L88 50 Z" fill="#b8c9d8" stroke="#4a5568" stroke-width="2" stroke-linejoin="round"/>
+  <!-- pusher prop at rear -->
+  <ellipse cx="76" cy="50" rx="3" ry="8" fill="none" stroke="#555" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <!-- small wings/stubs -->
+  <path d="M42 52 L22 58 L22 56 L42 50" fill="#b8c9d8" stroke="#4a5568" stroke-width="1.5"/>
+  <path d="M42 52 L64 56 L64 58 L42 50" fill="#b8c9d8" stroke="#4a5568" stroke-width="1.5"/>
+  <!-- wheels -->
+  <line x1="30" y1="58" x2="30" y2="66" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <line x1="52" y1="58" x2="52" y2="66" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="30" cy="68" r="3" fill="none" stroke="#555" stroke-width="2"/>
+  <circle cx="52" cy="68" r="3" fill="none" stroke="#555" stroke-width="2"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Speech bubble -->
+  <rect x="8" y="14" width="82" height="56" rx="10" fill="#ECF0F1" stroke="#333" stroke-width="2.5"/>
+  <!-- Bubble tail -->
+  <polygon points="20,70 14,84 40,70" fill="#ECF0F1" stroke="#333" stroke-width="2"/>
+  <!-- Text lines in bubble (representing comment text) -->
+  <line x1="18" y1="30" x2="82" y2="30" stroke="#BDC3C7" stroke-width="3" stroke-linecap="round"/>
+  <line x1="18" y1="40" x2="82" y2="40" stroke="#BDC3C7" stroke-width="3" stroke-linecap="round"/>
+  <line x1="18" y1="50" x2="82" y2="50" stroke="#BDC3C7" stroke-width="3" stroke-linecap="round"/>
+  <line x1="18" y1="60" x2="55" y2="60" stroke="#BDC3C7" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pen/pencil icon -->
+  <rect x="65" y="52" width="6" height="16" rx="2" fill="#E67E22" stroke="#333" stroke-width="1.5" transform="rotate(-30,68,60)"/>
+  <polygon points="62,72 65,64 68,72" fill="#333" transform="rotate(-30,65,68)"/>
+</svg>

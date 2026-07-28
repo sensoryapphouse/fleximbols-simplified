@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- DJINN: genie emerging from a magic lamp on a column of smoke -->
+<!-- lamp body -->
+  <path d="M22 86 Q20 76 34 74 Q48 72 58 74 Q72 76 70 86 Q56 92 46 92 Q34 92 22 86 Z" fill="#e0a82e" stroke="#7a5410" stroke-width="2.5" stroke-linejoin="round"/>
+<!-- lamp base -->
+  <ellipse cx="46" cy="90" rx="22" ry="4" fill="#c98e1e" stroke="#7a5410" stroke-width="2"/>
+<!-- lamp spout -->
+  <path d="M70 80 Q84 78 86 84 Q80 84 72 84 Z" fill="#e0a82e" stroke="#7a5410" stroke-width="2" stroke-linejoin="round"/>
+<!-- lamp handle -->
+  <path d="M22 80 Q12 78 16 88" fill="none" stroke="#7a5410" stroke-width="3" stroke-linecap="round"/>
+<!-- lamp highlight -->
+  <path d="M30 80 Q40 76 52 78" fill="none" stroke="#f7d27a" stroke-width="2" stroke-linecap="round"/>
+<!-- smoke column rising from spout, tapering down to lamp -->
+  <path d="M48 74 Q40 66 44 58 Q50 52 46 44 Q40 38 48 34" fill="none" stroke="#9aa7c4" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+<!-- genie torso (tail of smoke into body) -->
+  <path d="M40 60 Q34 50 42 42 Q48 38 54 42 Q62 50 56 60 Q50 66 40 60 Z" fill="#5f9ec9" stroke="#2c5a78" stroke-width="2.5" stroke-linejoin="round"/>
+<!-- crossed arms -->
+  <path d="M40 48 Q30 50 30 56 M56 48 Q66 50 66 56" stroke="#2c5a78" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M40 48 Q30 50 30 56 M56 48 Q66 50 66 56" stroke="#5f9ec9" stroke-width="3" stroke-linecap="round" fill="none"/>
+<!-- head -->
+  <circle cx="48" cy="28" r="11" fill="#5f9ec9" stroke="#2c5a78" stroke-width="2.5"/>
+<!-- turban -->
+  <path d="M37 24 Q40 14 48 13 Q56 14 59 24 Q48 20 37 24 Z" fill="#d8484a" stroke="#7a1e20" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="48" cy="14" r="2.5" fill="#f7d27a" stroke="#7a5410" stroke-width="1.5"/>
+<!-- eyes -->
+  <circle cx="44" cy="29" r="2" fill="#1a1a1a"/>
+  <circle cx="52" cy="29" r="2" fill="#1a1a1a"/>
+<!-- beard -->
+  <path d="M42 34 Q48 42 54 34 Q48 38 42 34 Z" fill="#2c5a78" stroke="none"/>
+</svg>

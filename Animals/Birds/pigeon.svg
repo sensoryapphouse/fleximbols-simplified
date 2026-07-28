@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- branch/ledge -->
+  <path d="M10 72 Q50 68 90 72" fill="none" stroke="#888" stroke-width="4" stroke-linecap="round"/>
+  <!-- tail -->
+  <path d="M56 70 Q62 74 66 70 Q62 84 58 86 Q54 84 56 70 Z" fill="#8898a8" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- body - plump grey -->
+  <ellipse cx="48" cy="56" rx="16" ry="15" fill="#9898a8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- iridescent neck patch -->
+  <path d="M36 46 Q40 40 50 40 Q58 42 62 48 Q60 54 50 54 Q40 54 36 46 Z" fill="#60a080" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- wing bars -->
+  <path d="M34 54 Q40 58 48 58" fill="none" stroke="#6a6a7a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M34 58 Q40 62 48 62" fill="none" stroke="#6a6a7a" stroke-width="2" stroke-linecap="round"/>
+  <!-- belly lighter -->
+  <ellipse cx="52" cy="62" rx="10" ry="10" fill="#c8c8d8" stroke="#333" stroke-width="1" stroke-linejoin="round"/>
+  <!-- wing -->
+  <path d="M34 52 Q26 58 26 70 Q32 72 38 64 Q40 58 46 54 Z" fill="#8898a8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- head - small round -->
+  <circle cx="38" cy="42" r="11" fill="#9898a8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- small bill -->
+  <path d="M27 44 Q34 40 38 42 Q36 46 32 48 Z" fill="#d0d0d0" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- cere (white bump on beak base) -->
+  <ellipse cx="34" cy="41" rx="3" ry="2" fill="#f0f0f0" stroke="#333" stroke-width="1"/>
+  <!-- eye - orange/red ring -->
+  <circle cx="34" cy="38" r="3.5" fill="#e05020" stroke="#333" stroke-width="1"/>
+  <circle cx="34" cy="38" r="2" fill="#333"/>
+  <circle cx="33.5" cy="37.5" r="0.7" fill="white"/>
+  <!-- feet - pink/red -->
+  <line x1="42" y1="70" x2="36" y2="76" stroke="#e07060" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="36" y1="76" x2="30" y2="78" stroke="#e07060" stroke-width="2" stroke-linecap="round"/>
+  <line x1="36" y1="76" x2="34" y2="80" stroke="#e07060" stroke-width="2" stroke-linecap="round"/>
+  <line x1="36" y1="76" x2="38" y2="80" stroke="#e07060" stroke-width="2" stroke-linecap="round"/>
+  <line x1="54" y1="70" x2="58" y2="76" stroke="#e07060" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="58" y1="76" x2="62" y2="78" stroke="#e07060" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="76" x2="60" y2="80" stroke="#e07060" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="76" x2="56" y2="80" stroke="#e07060" stroke-width="2" stroke-linecap="round"/>
+</svg>

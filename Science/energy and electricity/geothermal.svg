@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- earth cross-section -->
+  <circle cx="50" cy="82" r="40" fill="#c8a878" stroke="#8b5e3c" stroke-width="2.5"/>
+  <circle cx="50" cy="82" r="30" fill="#e87c1e" stroke="#b05000" stroke-width="2"/>
+  <circle cx="50" cy="82" r="18" fill="#e05050" stroke="#b03030" stroke-width="2"/>
+  <!-- ground surface -->
+  <rect x="5" y="58" width="90" height="12" rx="3" fill="#a0c878" stroke="#5bba5b" stroke-width="2"/>
+  <!-- drilling pipe -->
+  <rect x="46" y="28" width="8" height="34" rx="2" fill="#888" stroke="#555" stroke-width="2"/>
+  <!-- steam emerging -->
+  <path d="M46,28 Q42,20 46,12 Q50,18 46,28Z" fill="#d4e8ff" stroke="#7aaad4" stroke-width="2"/>
+  <path d="M50,26 Q46,18 50,10 Q54,18 50,26Z" fill="#d4e8ff" stroke="#7aaad4" stroke-width="2"/>
+  <path d="M54,28 Q58,20 54,12 Q50,18 54,28Z" fill="#d4e8ff" stroke="#7aaad4" stroke-width="2"/>
+  <!-- power station building -->
+  <rect x="60" y="44" width="24" height="16" rx="2" fill="#888" stroke="#555" stroke-width="2"/>
+  <!-- chimney -->
+  <rect x="68" y="36" width="8" height="10" rx="1" fill="#888" stroke="#555" stroke-width="2"/>
+  <!-- lightning bolt -->
+  <polygon points="76,48 70,58 74,58 68,68 82,56 78,56" fill="#f5c518" stroke="#c8940a" stroke-width="1.5"/>
+</svg>

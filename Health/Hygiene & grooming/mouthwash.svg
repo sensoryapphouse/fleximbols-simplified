@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-8.898 -10.496) scale(1.3097)">
+<!-- Bottle body -->
+  <rect x="30" y="30" width="30" height="48" rx="6" fill="#a0d8b8" stroke="#334" stroke-width="2"/>
+  <!-- Bottle neck -->
+  <rect x="38" y="20" width="14" height="14" rx="3" fill="#80c0a0" stroke="#334" stroke-width="2"/>
+  <!-- Cap -->
+  <rect x="36" y="14" width="18" height="8" rx="3" fill="#5a8f70" stroke="#334" stroke-width="2"/>
+  <!-- Label -->
+<line x1="36" y1="48" x2="54" y2="48" stroke="#5a8f70" stroke-width="1.5"/>
+  <line x1="36" y1="53" x2="54" y2="53" stroke="#5a8f70" stroke-width="1.5"/>
+  <line x1="36" y1="58" x2="48" y2="58" stroke="#5a8f70" stroke-width="1.5"/>
+  <!-- Mouth/smile with fresh lines -->
+  <path d="M68,45 Q78,52 68,60" fill="none" stroke="#334" stroke-width="2" stroke-linecap="round"/>
+  <path d="M68,47 Q76,52 68,58" fill="#a0d8b8" stroke="none"/>
+  <!-- Bubbles -->
+  <circle cx="72" cy="35" r="3" fill="none" stroke="#5a8f70" stroke-width="1.5"/>
+  <circle cx="78" cy="42" r="2" fill="none" stroke="#5a8f70" stroke-width="1.5"/>
+</g>
+  </svg>

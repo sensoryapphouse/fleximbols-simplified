@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,8.500) scale(0.915)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Fingerprint swirl arcs centered at 50,52 -->
+  <!-- Innermost -->
+  <path d="M44 52 Q44 45 50 45 Q56 45 56 52 Q56 62 50 62" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- 2nd -->
+  <path d="M37 52 Q37 38 50 38 Q63 38 63 52 Q63 68 50 70" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- 3rd -->
+  <path d="M30 52 Q30 30 50 30 Q70 30 70 52 Q70 74 50 78" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- 4th -->
+  <path d="M22 52 Q22 22 50 22 Q78 22 78 52 Q78 80 50 86" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- 5th outer -->
+  <path d="M14 52 Q14 14 50 14 Q86 14 86 52 Q86 82 68 87" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Core dot -->
+  <circle cx="50" cy="52" r="3" fill="#333"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl595" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl595)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

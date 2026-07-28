@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Wall cabinet (green) -->
+  <rect x="20" y="14" width="60" height="68" rx="5" fill="#27ae60" stroke="#1e8449" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Cabinet door outline -->
+  <rect x="25" y="19" width="50" height="58" rx="4" fill="#2ecc71" stroke="#1e8449" stroke-width="2"/>
+  <!-- AED text on cabinet -->
+  
+  <!-- Heart + lightning symbol -->
+  <path d="M42 52 L50 68 L58 52 Q65 44 58 38 Q51 32 50 44 Q49 32 42 38 Q35 44 42 52Z" fill="white" stroke="#27ae60" stroke-width="1.5"/>
+  <polygon points="52,44 47,52 51,52 49,60 55,50 51,50" fill="#27ae60"/>
+  <!-- Handle -->
+  <rect x="46" y="73" width="8" height="4" rx="2" fill="#1e8449" stroke="#1e8449" stroke-width="1"/>
+</svg>

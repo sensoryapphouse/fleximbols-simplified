@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Torn fabric -->
+  <rect x="15" y="32" width="70" height="44" rx="3" fill="#f0c8e0" stroke="#cc6699" stroke-width="2"/>
+  <!-- Tear/hole in fabric -->
+  <path d="M38 32 L42 48 L36 56 L42 64 L38 76" fill="white" stroke="#cc0066" stroke-width="2"/>
+  <path d="M62 32 L58 48 L64 56 L58 64 L62 76" fill="white" stroke="#cc0066" stroke-width="2"/>
+  <!-- Mending stitches across tear -->
+  <path d="M38 40 L62 40" fill="none" stroke="#cc0066" stroke-width="2" stroke-dasharray="4,3"/>
+  <path d="M36 50 L64 50" fill="none" stroke="#cc0066" stroke-width="2" stroke-dasharray="4,3"/>
+  <path d="M38 60 L62 60" fill="none" stroke="#cc0066" stroke-width="2" stroke-dasharray="4,3"/>
+  <path d="M38 70 L62 70" fill="none" stroke="#cc0066" stroke-width="2" stroke-dasharray="4,3"/>
+  <!-- Needle and thread -->
+  <line x1="72" y1="14" x2="68" y2="38" stroke="#888" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="72" cy="16" rx="3" ry="4" fill="none" stroke="#888" stroke-width="1.5"/>
+  <path d="M72 16 Q78 12 80 22 Q78 28 72 28" fill="none" stroke="#cc0066" stroke-width="1.5"/>
+</svg>

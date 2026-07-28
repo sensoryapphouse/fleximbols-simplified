@@ -1,0 +1,24 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Glass mug with creamy pale yellow eggnog, nutmeg sprinkle, steam -->
+  <!-- Mug body -->
+  <path d="M18 28 L18 82 Q18 88 26 88 L70 88 Q78 88 78 82 L78 28 Z" fill="#f5e8b0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Handle -->
+  <path d="M78 38 Q92 38 92 55 Q92 72 78 72" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <!-- Cream-yellow liquid -->
+  <path d="M20 35 L20 82 Q20 86 26 86 L70 86 Q76 86 76 82 L76 35 Z" fill="#edd890"/>
+  <!-- Whipped cream top -->
+  <path d="M20 35 Q35 26 50 30 Q65 26 78 35 Q65 44 50 40 Q35 44 20 35 Z" fill="#fff8f0" stroke="#eee" stroke-width="1"/>
+  <!-- Nutmeg sprinkle dots -->
+  <circle cx="40" cy="33" r="1.5" fill="#8b4513"/>
+  <circle cx="50" cy="30" r="1.5" fill="#8b4513"/>
+  <circle cx="60" cy="33" r="1.5" fill="#8b4513"/>
+  <circle cx="45" cy="37" r="1" fill="#8b4513"/>
+  <circle cx="55" cy="36" r="1" fill="#8b4513"/>
+  <!-- Mug rim -->
+  <rect x="18" y="26" width="60" height="6" rx="3" fill="#ddd" stroke="#333" stroke-width="2"/>
+  <!-- Cinnamon stick garnish -->
+  <rect x="62" y="22" width="3" height="20" rx="1.5" fill="#8b4513" stroke="#5a2d0c" stroke-width="1.5"/>
+  <!-- Steam -->
+  <path d="M32 22 Q35 15 32 8" fill="none" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <path d="M50 21 Q53 14 50 7" fill="none" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+</svg>

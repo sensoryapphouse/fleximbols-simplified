@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- plate -->
+  <ellipse cx="50" cy="66" rx="34" ry="9" fill="#e8e0d0" stroke="#888" stroke-width="2.5"/>
+  <ellipse cx="50" cy="60" rx="34" ry="9" fill="#f5f0e8" stroke="#888" stroke-width="2.5"/>
+  <!-- food on plate - meat/veg -->
+  <ellipse cx="50" cy="58" rx="24" ry="7" fill="#c86828" stroke="#8b4010" stroke-width="1.5"/>
+  <!-- fork (left) -->
+  <line x1="18" y1="30" x2="18" y2="70" stroke="#aaa" stroke-width="3" stroke-linecap="round"/>
+  <line x1="14" y1="30" x2="14" y2="44" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <line x1="18" y1="30" x2="18" y2="44" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <line x1="22" y1="30" x2="22" y2="44" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <!-- knife (right) -->
+  <line x1="82" y1="30" x2="82" y2="70" stroke="#aaa" stroke-width="3" stroke-linecap="round"/>
+  <path d="M82,30 L86,36 L86,50 L82,50" fill="#c8c8c8" stroke="#888" stroke-width="1.5"/>
+  <!-- moon - evening -->
+  <path d="M60,16 C60,10 68,8 72,12 C66,14 64,18 68,22 C64,24 58,22 60,16 Z" fill="#f0c020" stroke="#c89010" stroke-width="1.5"/>
+</svg>

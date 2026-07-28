@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-0.530 14.683) scale(1.0116)">
+<!-- Martini/cocktail glass -->
+  <path d="M18 18 L50 62 L82 18Z" fill="#f0f0f8" stroke="#8090b0" stroke-width="2.5"/>
+  <line x1="50" y1="62" x2="50" y2="80" stroke="#8090b0" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="32" y1="80" x2="68" y2="80" stroke="#8090b0" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Clear gin martini fill -->
+  <path d="M24 30 L50 62 L76 30 Q63 44 50 46 Q37 44 24 30Z" fill="#d8e8f8" stroke="none" opacity="0.7"/>
+  <!-- Olive on pick -->
+  <line x1="60" y1="18" x2="56" y2="48" stroke="#c0b090" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="60" cy="18" r="5" fill="#6aad4a" stroke="#4a8a2a" stroke-width="1.5"/>
+  <circle cx="60" cy="18" r="2" fill="#e87a5a" stroke="none"/>
+  <!-- Lemon twist -->
+  <path d="M26 20 Q22 15 28 14 Q30 18 26 20Z" fill="#f5e040" stroke="#c4a820" stroke-width="1"/>
+</g>
+  </svg>

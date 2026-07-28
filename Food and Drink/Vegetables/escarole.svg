@@ -1,0 +1,15 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Escarole - broad flat wavy leaves, pale green head -->
+  <!-- Outer leaves - wavy edged, darker green -->
+  <path d="M50 88 C18 88 6 70 8 52 C10 36 22 20 50 10 C78 20 90 36 92 52 C94 70 82 88 50 88 Z"
+        fill="#5a8a2a" stroke="#2a5a0a" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Wavy leaf edges -->
+  <path d="M8 52 Q12 44 8 36 Q16 30 20 38 Q18 28 28 24 Q32 32 26 40" fill="none" stroke="#2a5a0a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M92 52 Q88 44 92 36 Q84 30 80 38 Q82 28 72 24 Q68 32 74 40" fill="none" stroke="#2a5a0a" stroke-width="2" stroke-linecap="round"/>
+  <!-- Inner leaves lighter -->
+  <ellipse cx="50" cy="52" rx="28" ry="32" fill="#8ab840" stroke="#3a6a1a" stroke-width="2"/>
+  <!-- Core - pale yellow-green -->
+  <ellipse cx="50" cy="54" rx="16" ry="22" fill="#c8e070" stroke="#5a8a2a" stroke-width="1.5"/>
+  <!-- Midrib -->
+  <line x1="50" y1="14" x2="50" y2="85" stroke="#e0f090" stroke-width="2" stroke-linecap="round"/>
+</svg>

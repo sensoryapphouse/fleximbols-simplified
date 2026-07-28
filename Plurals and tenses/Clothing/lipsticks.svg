@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M38 18 L62 18 L62 38 L38 38 Z" fill="#d01424" stroke="#222" stroke-width="2.5"/>
+  <path d="M38 18 L62 18 L57 10 L43 10 Z" fill="#a01020" stroke="#222" stroke-width="2"/>
+  <rect x="34" y="38" width="32" height="10" fill="#f0d050" stroke="#222" stroke-width="2.5"/>
+  <rect x="30" y="48" width="40" height="44" rx="4" fill="#7c3fac" stroke="#222" stroke-width="2.5"/>
+  <line x1="34" y1="60" x2="66" y2="60" stroke="#3a1c70" stroke-width="1.5"/>
+  <text x="50" y="80" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#f0d050">L</text>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl735" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl735)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

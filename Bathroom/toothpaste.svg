@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Tube body -->
+  <rect x="14" y="40" width="55" height="22" rx="4" fill="#7ad4a4" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Stripe on tube -->
+  <rect x="14" y="44" width="55" height="4" fill="#d47a7a"/>
+  <rect x="14" y="54" width="55" height="4" fill="#7ab8d4"/>
+  <!-- Crimped end -->
+  <rect x="12" y="38" width="6" height="26" rx="1" fill="#999" stroke="#555" stroke-width="2"/>
+  <!-- Cap -->
+  <rect x="67" y="37" width="18" height="28" rx="4" fill="#e8e8e8" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Nozzle -->
+  <path d="M85 44 L94 48 L94 54 L85 58 Z" fill="#ccc" stroke="#555" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Toothpaste blob -->
+  <ellipse cx="94" cy="51" rx="4" ry="3" fill="#7ad4a4" stroke="#555" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- EKG: heart with electrocardiogram trace waveform -->
+  <!-- Heart icon (top left) -->
+  <path d="M18,22 Q18,14 25,14 Q32,14 32,22 Q32,14 39,14 Q46,14 46,22 Q46,32 32,40 Q18,32 18,22 Z" fill="#cc2222" stroke="#222" stroke-width="2"/>
+  <!-- ECG trace waveform (characteristic PQRST) -->
+  <polyline points="10,70 22,70 26,70 28,60 30,80 34,30 38,88 42,70 46,70 50,65 54,70 66,70 72,70 76,70 80,64 82,70 90,70" fill="none" stroke="#cc2222" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Grid lines (ECG paper) -->
+  <rect x="6" y="48" width="88" height="34" rx="2" fill="#fff8ee" stroke="#e0c080" stroke-width="1"/>
+  <!-- Grid -->
+  <line x1="6" y1="56" x2="94" y2="56" stroke="#f0d090" stroke-width="0.8"/>
+  <line x1="6" y1="64" x2="94" y2="64" stroke="#f0d090" stroke-width="0.8"/>
+  <line x1="6" y1="72" x2="94" y2="72" stroke="#f0d090" stroke-width="0.8"/>
+  <line x1="22" y1="48" x2="22" y2="82" stroke="#f0d090" stroke-width="0.8"/>
+  <line x1="38" y1="48" x2="38" y2="82" stroke="#f0d090" stroke-width="0.8"/>
+  <line x1="54" y1="48" x2="54" y2="82" stroke="#f0d090" stroke-width="0.8"/>
+  <line x1="70" y1="48" x2="70" y2="82" stroke="#f0d090" stroke-width="0.8"/>
+  <line x1="86" y1="48" x2="86" y2="82" stroke="#f0d090" stroke-width="0.8"/>
+  <!-- Trace on top of grid -->
+  <polyline points="10,70 22,70 26,70 28,60 30,80 34,30 38,88 42,70 46,70 50,65 54,70 66,70 72,70 76,70 80,64 82,70 90,70" fill="none" stroke="#cc2222" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- EKG label -->
+</svg>

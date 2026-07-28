@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- upper wings large colourful -->
+  <ellipse cx="32" cy="42" rx="22" ry="18" fill="#e8780a" stroke="#3a2a00" stroke-width="2.5"/>
+  <ellipse cx="68" cy="42" rx="22" ry="18" fill="#e8780a" stroke="#3a2a00" stroke-width="2.5"/>
+  <!-- wing markings upper -->
+  <circle cx="28" cy="38" r="5" fill="#1a1a1a"/>
+  <circle cx="26" cy="50" r="3" fill="#1a1a1a" opacity="0.6"/>
+  <circle cx="72" cy="38" r="5" fill="#1a1a1a"/>
+  <circle cx="74" cy="50" r="3" fill="#1a1a1a" opacity="0.6"/>
+  <!-- white border marks -->
+  <circle cx="20" cy="40" r="2" fill="white"/>
+  <circle cx="17" cy="48" r="2" fill="white"/>
+  <circle cx="80" cy="40" r="2" fill="white"/>
+  <circle cx="83" cy="48" r="2" fill="white"/>
+  <!-- lower wings smaller -->
+  <ellipse cx="34" cy="62" rx="16" ry="12" fill="#e8a030" stroke="#3a2a00" stroke-width="2.5"/>
+  <ellipse cx="66" cy="62" rx="16" ry="12" fill="#e8a030" stroke="#3a2a00" stroke-width="2.5"/>
+  <!-- lower wing marks -->
+  <circle cx="31" cy="65" r="4" fill="#1a1a1a" opacity="0.5"/>
+  <circle cx="69" cy="65" r="4" fill="#1a1a1a" opacity="0.5"/>
+  <!-- body slim -->
+  <ellipse cx="50" cy="54" rx="4" ry="20" fill="#1a1a1a" stroke="#3a2a00" stroke-width="2"/>
+  <!-- head -->
+  <circle cx="50" cy="33" r="4" fill="#1a1a1a" stroke="#3a2a00" stroke-width="2"/>
+  <!-- antennae with club ends -->
+  <line x1="48" y1="30" x2="38" y2="20" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="38" cy="20" r="2.5" fill="#1a1a1a"/>
+  <line x1="52" y1="30" x2="62" y2="20" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="62" cy="20" r="2.5" fill="#1a1a1a"/>
+  <!-- label -->
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Pencil body -->
+  <rect x="40" y="14" width="14" height="52" rx="2" fill="#f5c842" stroke="#333" stroke-width="2.5" transform="rotate(10 47 40)"/>
+  <!-- Eraser end (pink) -->
+  <rect x="40" y="14" width="14" height="10" rx="2" fill="#f0a0b0" stroke="#333" stroke-width="2" transform="rotate(10 47 40)"/>
+  <!-- Ferrule (metal band) -->
+  <rect x="40" y="24" width="14" height="5" rx="1" fill="#888" stroke="#333" stroke-width="1.5" transform="rotate(10 47 40)"/>
+  <!-- Wood exposed at tip -->
+  <rect x="40" y="62" width="14" height="10" rx="0" fill="#e8c090" stroke="#333" stroke-width="2" transform="rotate(10 47 40)"/>
+  <!-- Tip/graphite point -->
+  <polygon points="40,72 54,72 47,84" fill="#555" stroke="#333" stroke-width="2" stroke-linejoin="round" transform="rotate(10 47 40)"/>
+  <!-- Label -->
+</svg>

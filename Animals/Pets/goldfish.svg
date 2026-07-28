@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- water/bowl -->
+  <ellipse cx="50" cy="78" rx="38" ry="14" fill="#a8d8f0" stroke="#4488aa" stroke-width="2"/>
+  <path d="M12,78 Q12,92 50,92 Q88,92 88,78" fill="#a8d8f0" stroke="#4488aa" stroke-width="2"/>
+  <!-- water surface shimmer -->
+  <path d="M18,75 Q30,72 42,75 Q54,72 66,75 Q78,72 84,75" fill="none" stroke="white" stroke-width="1.5" opacity="0.7"/>
+  <!-- fish body -->
+  <ellipse cx="48" cy="65" rx="22" ry="13" fill="#e87820" stroke="#a84800" stroke-width="2"/>
+  <!-- scales pattern -->
+  <path d="M35,60 Q40,55 45,60" fill="none" stroke="#c86010" stroke-width="1"/>
+  <path d="M42,57 Q47,52 52,57" fill="none" stroke="#c86010" stroke-width="1"/>
+  <path d="M30,65 Q35,60 40,65" fill="none" stroke="#c86010" stroke-width="1"/>
+  <!-- tail fin - forked -->
+  <path d="M70,65 Q82,55 86,48" fill="#e87820" stroke="#a84800" stroke-width="1.5"/>
+  <path d="M70,65 Q82,65 88,60" fill="#e87820" stroke="#a84800" stroke-width="1.5"/>
+  <path d="M70,65 Q82,75 86,80" fill="#e87820" stroke="#a84800" stroke-width="1.5"/>
+  <!-- dorsal fin -->
+  <path d="M42,52 Q48,44 56,52" fill="#e87820" stroke="#a84800" stroke-width="1.5"/>
+  <!-- pectoral fin -->
+  <path d="M50,65 Q55,70 58,75" fill="#e87820" stroke="#a84800" stroke-width="1.5"/>
+  <!-- head -->
+  <circle cx="30" cy="64" r="12" fill="#e87820" stroke="#a84800" stroke-width="2"/>
+  <!-- eye -->
+  <circle cx="26" cy="60" r="5" fill="white" stroke="#555" stroke-width="1.5"/>
+  <circle cx="26" cy="60" r="3" fill="#1a1a1a"/>
+  <circle cx="26.8" cy="59.2" r="1" fill="white"/>
+  <!-- mouth -->
+  <path d="M18,65 Q20,68 22,65" fill="none" stroke="#a84800" stroke-width="2" stroke-linecap="round"/>
+</svg>

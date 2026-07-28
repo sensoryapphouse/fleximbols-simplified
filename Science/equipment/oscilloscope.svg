@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Scope body -->
+  <rect x="5" y="10" width="90" height="72" rx="4" fill="#d0d8d0" stroke="#3a5a3a" stroke-width="2.5"/>
+  <!-- Screen -->
+  <rect x="10" y="15" width="60" height="46" rx="3" fill="#0a1a0a" stroke="#3a5a3a" stroke-width="2"/>
+  <!-- Grid lines on screen -->
+  <line x1="10" y1="25" x2="70" y2="25" stroke="#1a3a1a" stroke-width="0.8"/>
+  <line x1="10" y1="35" x2="70" y2="35" stroke="#1a3a1a" stroke-width="0.8"/>
+  <line x1="10" y1="45" x2="70" y2="45" stroke="#1a3a1a" stroke-width="0.8"/>
+  <line x1="10" y1="55" x2="70" y2="55" stroke="#1a3a1a" stroke-width="0.8"/>
+  <line x1="22" y1="15" x2="22" y2="61" stroke="#1a3a1a" stroke-width="0.8"/>
+  <line x1="34" y1="15" x2="34" y2="61" stroke="#1a3a1a" stroke-width="0.8"/>
+  <line x1="46" y1="15" x2="46" y2="61" stroke="#1a3a1a" stroke-width="0.8"/>
+  <line x1="58" y1="15" x2="58" y2="61" stroke="#1a3a1a" stroke-width="0.8"/>
+  <!-- Sine wave trace -->
+  <path d="M11,38 Q16,20 22,38 Q28,56 34,38 Q40,20 46,38 Q52,56 58,38 Q64,20 70,38" fill="none" stroke="#50e050" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Control panel right side -->
+  <rect x="73" y="15" width="20" height="46" rx="2" fill="#b0b8b0" stroke="#3a5a3a" stroke-width="1"/>
+  <circle cx="83" cy="22" r="4" fill="#707870" stroke="#3a5a3a" stroke-width="1"/>
+  <circle cx="83" cy="33" r="4" fill="#707870" stroke="#3a5a3a" stroke-width="1"/>
+  <circle cx="83" cy="44" r="4" fill="#707870" stroke="#3a5a3a" stroke-width="1"/>
+  <circle cx="83" cy="55" r="4" fill="#f05050" stroke="#3a5a3a" stroke-width="1"/>
+  <!-- Probe inputs at bottom -->
+  <rect x="10" y="63" width="60" height="7" rx="1" fill="#909890" stroke="#3a5a3a" stroke-width="1"/>
+  <circle cx="25" cy="66.5" r="2.5" fill="#f0c030"/>
+  <circle cx="45" cy="66.5" r="2.5" fill="#5080f0"/>
+</svg>

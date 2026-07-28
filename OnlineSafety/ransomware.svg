@@ -1,0 +1,32 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Dark screen background -->
+  <rect x="5" y="5" width="90" height="72" rx="5" fill="#1a0a0a" stroke="#c03030" stroke-width="3"/>
+  <rect x="8" y="8" width="84" height="66" rx="3" fill="#0a0005"/>
+  <!-- Lock icon (padlock) center of screen -->
+  <rect x="32" y="35" width="36" height="28" rx="5" fill="#c03030" stroke="#ff4040" stroke-width="2.5"/>
+  <!-- Lock shackle -->
+  <path d="M38 35 L38 26 Q38 16 50 16 Q62 16 62 26 L62 35" fill="none" stroke="#ff4040" stroke-width="4" stroke-linecap="round"/>
+  <!-- Lock keyhole -->
+  <circle cx="50" cy="46" r="5" fill="#1a0a0a"/>
+  <rect x="48" y="50" width="4" height="7" rx="2" fill="#1a0a0a"/>
+  <!-- Skull overlay on lock -->
+  <circle cx="50" cy="44" r="4" fill="#1a0a0a"/>
+  <circle cx="47" cy="43" r="1.5" fill="#ff4040"/>
+  <circle cx="53" cy="43" r="1.5" fill="#ff4040"/>
+  <rect x="47" y="47" width="6" height="3" rx="1" fill="#1a0a0a"/>
+  <line x1="47" y1="47" x2="47" y2="50" stroke="#ff4040" stroke-width="1.5"/>
+  <line x1="50" y1="47" x2="50" y2="50" stroke="#ff4040" stroke-width="1.5"/>
+  <line x1="53" y1="47" x2="53" y2="50" stroke="#ff4040" stroke-width="1.5"/>
+  <!-- Ransom text on screen -->
+  <text x="50" y="18" text-anchor="middle" font-size="7" fill="#ff4040" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif">FILES ENCRYPTED!</text>
+  <text x="50" y="72" text-anchor="middle" font-size="6" fill="#ff8080" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif">PAY OR LOSE DATA</text>
+  <!-- Bitcoin symbol (ransom demand) -->
+  <circle cx="20" cy="88" r="10" fill="#f0a020" stroke="#333" stroke-width="2"/>
+  <text x="20" y="92" text-anchor="middle" font-size="12" fill="#ffffff" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold">₿</text>
+  <!-- Timer countdown -->
+  <circle cx="80" cy="88" r="10" fill="#c03030" stroke="#333" stroke-width="2"/>
+  <text x="80" y="92" text-anchor="middle" font-size="8" fill="#ffffff" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif">24h</text>
+  <!-- Screen base -->
+  <rect x="38" y="77" width="24" height="7" rx="2" fill="#2a2a2a" stroke="#333" stroke-width="2"/>
+  <rect x="25" y="83" width="50" height="5" rx="3" fill="#333" stroke="#333" stroke-width="1.5"/>
+</svg>

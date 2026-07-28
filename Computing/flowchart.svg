@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Start oval -->
+  <ellipse cx="50" cy="14" rx="18" ry="8" fill="#338866" stroke="#333" stroke-width="2"/>
+  <!-- Arrow down -->
+  <line x1="50" y1="22" x2="50" y2="30" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="50,30 46,24 54,24" fill="#333"/>
+  <!-- Decision diamond -->
+  <polygon points="50,30 68,42 50,54 32,42" fill="#d4a820" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Yes arrow down -->
+  <line x1="50" y1="54" x2="50" y2="62" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="50,62 46,56 54,56" fill="#333"/>
+  <!-- No arrow right -->
+  <line x1="68" y1="42" x2="80" y2="42" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="80,42 74,38 74,46" fill="#333"/>
+  <!-- Process box -->
+  <rect x="32" y="62" width="36" height="14" rx="3" fill="#5577aa" stroke="#333" stroke-width="2"/>
+  <!-- Arrow down to end -->
+  <line x1="50" y1="76" x2="50" y2="82" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="50,82 46,76 54,76" fill="#333"/>
+  <!-- End oval -->
+  <ellipse cx="50" cy="87" rx="18" ry="8" fill="#cc5544" stroke="#333" stroke-width="2"/>
+  <!-- No process box at right -->
+  <rect x="76" y="35" width="16" height="14" rx="2" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+</svg>

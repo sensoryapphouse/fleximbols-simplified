@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Giver figure -->
+  <circle cx="22" cy="24" r="8" fill="#a8c8e8" stroke="#444" stroke-width="2.5"/>
+  <rect x="15" y="34" width="14" height="20" rx="4" fill="#a8c8e8" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Arm extending with gift -->
+  <line x1="29" y1="40" x2="46" y2="46" stroke="#a8c8e8" stroke-width="4" stroke-linecap="round"/>
+  <!-- Gift box -->
+  <rect x="44" y="38" width="20" height="18" rx="2" fill="#f5a8a8" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Gift lid -->
+  <rect x="42" y="34" width="24" height="6" rx="1" fill="#e85c8a" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Ribbon vertical -->
+  <line x1="54" y1="34" x2="54" y2="56" stroke="#c84060" stroke-width="2"/>
+  <!-- Ribbon horizontal -->
+  <line x1="44" y1="44" x2="64" y2="44" stroke="#c84060" stroke-width="2"/>
+  <!-- Bow -->
+  <path d="M 51,34 C 48,30 44,31 46,34 C 48,37 51,34 54,34 C 57,34 60,37 62,34 C 64,31 60,30 57,34" fill="none" stroke="#c84060" stroke-width="2" stroke-linecap="round"/>
+  <!-- Recipient figure -->
+  <circle cx="78" cy="24" r="8" fill="#c8e8a8" stroke="#444" stroke-width="2.5"/>
+  <rect x="71" y="34" width="14" height="20" rx="4" fill="#c8e8a8" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Recipient arm reaching -->
+  <line x1="71" y1="40" x2="64" y2="46" stroke="#c8e8a8" stroke-width="4" stroke-linecap="round"/>
+  <!-- Legs giver -->
+  <line x1="19" y1="54" x2="17" y2="68" stroke="#444" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="25" y1="54" x2="27" y2="68" stroke="#444" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Legs recipient -->
+  <line x1="75" y1="54" x2="73" y2="68" stroke="#444" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="81" y1="54" x2="83" y2="68" stroke="#444" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

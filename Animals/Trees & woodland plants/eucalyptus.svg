@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- trunk with hanging bark stripes -->
+  <rect x="45" y="40" width="10" height="46" fill="#C8A870" stroke="#8A6840" stroke-width="2" stroke-linejoin="round"/>
+  <!-- bark strips hanging -->
+  <path d="M45 55 Q42 62 44 70" stroke="#A07840" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M55 60 Q58 67 56 75" stroke="#A07840" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M46 70 Q43 77 45 82" stroke="#A07840" stroke-width="1" fill="none" stroke-linecap="round"/>
+  <!-- sparse drooping branches -->
+  <path d="M50 42 Q30 38 18 28" stroke="#6A9040" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M50 48 Q70 42 80 30" stroke="#6A9040" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M50 36 Q40 28 32 18" stroke="#6A9040" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- sickle-shaped leaves hanging -->
+  <g fill="#7AB848" stroke="#3A6820" stroke-width="1.5">
+    <ellipse cx="22" cy="26" rx="7" ry="2.5" transform="rotate(-40 22 26)"/>
+    <ellipse cx="76" cy="28" rx="7" ry="2.5" transform="rotate(40 76 28)"/>
+    <ellipse cx="35" cy="17" rx="7" ry="2.5" transform="rotate(-60 35 17)"/>
+    <ellipse cx="15" cy="32" rx="5" ry="2" transform="rotate(-20 15 32)"/>
+    <ellipse cx="83" cy="35" rx="5" ry="2" transform="rotate(30 83 35)"/>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Ground with heather -->
+  <ellipse cx="50" cy="87" rx="38" ry="6" fill="#9a8878" stroke="#7a6858" stroke-width="1.5"/>
+  <!-- Body: plump round ground bird -->
+  <ellipse cx="50" cy="64" rx="24" ry="17" fill="#8a6838" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Intricate barred/mottled plumage -->
+  <path d="M30,58 Q36,54 42,58" stroke="#6a4820" stroke-width="1.2" fill="none"/>
+  <path d="M38,62 Q44,58 50,62" stroke="#6a4820" stroke-width="1.2" fill="none"/>
+  <path d="M46,66 Q52,62 58,66" stroke="#6a4820" stroke-width="1.2" fill="none"/>
+  <path d="M32,64 Q38,60 44,64" stroke="#6a4820" stroke-width="1"/>
+  <path d="M40,68 Q46,64 52,68" stroke="#6a4820" stroke-width="1"/>
+  <path d="M50,62 Q56,58 62,62" stroke="#6a4820" stroke-width="1.2" fill="none"/>
+  <path d="M54,66 Q60,62 66,66" stroke="#6a4820" stroke-width="1.2" fill="none"/>
+  <!-- Black belly patch (male) -->
+  <ellipse cx="50" cy="70" rx="14" ry="8" fill="#2a2018" stroke="none"/>
+  <!-- White line on side -->
+  <path d="M34,64 Q42,60 50,64" stroke="#e8e0d0" stroke-width="2" fill="none"/>
+  <!-- Tail: spread fan -->
+  <path d="M68,60 Q78,54 82,48" stroke="#5a3818" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M68,63 Q80,60 84,56" stroke="#5a3818" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M68,66 Q78,66 82,64" stroke="#5a3818" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Head: small round -->
+  <ellipse cx="30" cy="52" rx="12" ry="11" fill="#8a6838" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Red eyebrow comb: distinctive -->
+  <path d="M22,46 Q26,42 32,44" stroke="#cc2020" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Eye -->
+  <circle cx="26" cy="49" r="2.5" fill="#222"/>
+  <circle cx="27" cy="48" r="0.8" fill="white"/>
+  <!-- Feathered bill: small -->
+  <path d="M20,52 Q16,52 15,55 Q17,56 22,55" fill="#8a7860" stroke="#444" stroke-width="1.5"/>
+  <!-- Feathered legs (grouse have feathered legs) -->
+  <rect x="38" y="79" width="8" height="8" rx="3" fill="#c8a878" stroke="#888" stroke-width="1.5"/>
+  <rect x="54" y="79" width="8" height="8" rx="3" fill="#c8a878" stroke="#888" stroke-width="1.5"/>
+  <!-- Toes -->
+  <line x1="38" y1="87" x2="32" y2="91" stroke="#888" stroke-width="2"/>
+  <line x1="42" y1="87" x2="42" y2="92" stroke="#888" stroke-width="2"/>
+  <line x1="46" y1="87" x2="50" y2="91" stroke="#888" stroke-width="2"/>
+</svg>

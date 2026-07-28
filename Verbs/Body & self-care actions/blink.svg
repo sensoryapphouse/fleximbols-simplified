@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-29.922 -21.953) scale(1.6000)">
+<!-- Head -->
+  <circle cx="50" cy="45" r="22" fill="#f5c5a0" stroke="#333" stroke-width="2.5"/>
+  <!-- One eye open -->
+  <ellipse cx="38" cy="40" rx="6" ry="7" fill="white" stroke="#333" stroke-width="2"/>
+  <circle cx="38" cy="41" r="3.5" fill="#5080c0"/>
+  <circle cx="38" cy="41" r="2" fill="#222"/>
+  <circle cx="36" cy="39" r="1" fill="white"/>
+  <!-- Eyelashes open eye -->
+  <line x1="33" y1="34" x2="34" y2="32" stroke="#333" stroke-width="1.5"/>
+  <line x1="38" y1="33" x2="38" y2="31" stroke="#333" stroke-width="1.5"/>
+  <line x1="43" y1="34" x2="44" y2="32" stroke="#333" stroke-width="1.5"/>
+  <!-- One eye blinking (closed) -->
+  <path d="M53 40 Q62 35 71 40" fill="#f5c5a0" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Blink motion lines -->
+  <line x1="55" y1="34" x2="55" y2="30" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="62" y1="33" x2="62" y2="29" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="69" y1="34" x2="69" y2="30" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Neutral mouth -->
+  <path d="M40" y1="57 Q50 60 60 57" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <path d="M40 57 Q50 60 60 57" fill="none" stroke="#c06060" stroke-width="2" stroke-linecap="round"/>
+  <!-- Label -->
+</g>
+  </svg>

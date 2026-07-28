@@ -1,0 +1,20 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Memoir: book with photo/portrait on cover -->
+  <rect x="18" y="10" width="10" height="80" rx="2" fill="#4e342e" stroke="#333" stroke-width="2.5"/>
+  <rect x="18" y="8" width="64" height="84" rx="3" fill="#6d4c41" stroke="#333" stroke-width="2.5"/>
+  <rect x="25" y="13" width="54" height="74" rx="2" fill="#fafafa" stroke="#d7ccc8" stroke-width="1.5"/>
+  <!-- Photo frame on cover -->
+  <rect x="30" y="18" width="42" height="38" rx="2" fill="#e8d5b7" stroke="#795548" stroke-width="2"/>
+  <!-- Portrait silhouette -->
+  <circle cx="51" cy="31" r="9" fill="#a1887f" stroke="#795548" stroke-width="1.5"/>
+  <path d="M37 55 Q44 44 51 44 Q58 44 65 55" fill="#a1887f" stroke="#795548" stroke-width="1.5"/>
+  <!-- Vintage photo corner marks -->
+  <line x1="30" y1="22" x2="34" y2="22" stroke="#795548" stroke-width="2"/>
+  <line x1="30" y1="22" x2="30" y2="26" stroke="#795548" stroke-width="2"/>
+  <line x1="72" y1="22" x2="68" y2="22" stroke="#795548" stroke-width="2"/>
+  <line x1="72" y1="22" x2="72" y2="26" stroke="#795548" stroke-width="2"/>
+  <!-- Title lines -->
+  <line x1="28" y1="62" x2="72" y2="62" stroke="#d7ccc8" stroke-width="2"/>
+  <line x1="30" y1="70" x2="70" y2="70" stroke="#bbb" stroke-width="1"/>
+  <line x1="34" y1="77" x2="66" y2="77" stroke="#bbb" stroke-width="1"/>
+</svg>

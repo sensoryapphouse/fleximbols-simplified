@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Truck body -->
+  <rect x="8" y="42" width="84" height="32" rx="4" fill="#cc0000" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Cab -->
+  <path d="M58 42 L58 26 Q58 22 62 22 L84 22 Q90 22 92 28 L92 42Z" fill="#cc0000" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Cab window -->
+  <rect x="62" y="26" width="22" height="12" rx="2" fill="#a8d8ea" stroke="#333" stroke-width="1.5"/>
+  <!-- Ladder on top -->
+  <line x1="12" y1="42" x2="58" y2="42" stroke="#333" stroke-width="1"/>
+  <rect x="12" y="36" width="46" height="6" rx="1" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+  <line x1="20" y1="36" x2="20" y2="42" stroke="#333" stroke-width="1"/>
+  <line x1="28" y1="36" x2="28" y2="42" stroke="#333" stroke-width="1"/>
+  <line x1="36" y1="36" x2="36" y2="42" stroke="#333" stroke-width="1"/>
+  <line x1="44" y1="36" x2="44" y2="42" stroke="#333" stroke-width="1"/>
+  <line x1="52" y1="36" x2="52" y2="42" stroke="#333" stroke-width="1"/>
+  <!-- Lights on cab -->
+  <rect x="70" y="22" width="8" height="4" rx="1" fill="#4a90d9" stroke="#333" stroke-width="1"/>
+  <!-- Siren -->
+  <rect x="74" y="18" width="10" height="5" rx="2" fill="#cc0000" stroke="#333" stroke-width="1.5"/>
+  <!-- Wheels -->
+  <circle cx="28" cy="74" r="12" fill="#333" stroke="#333" stroke-width="2"/>
+  <circle cx="28" cy="74" r="6" fill="#888"/>
+  <circle cx="72" cy="74" r="12" fill="#333" stroke="#333" stroke-width="2"/>
+  <circle cx="72" cy="74" r="6" fill="#888"/>
+  <!-- Hose reel -->
+  <circle cx="34" cy="56" r="8" fill="none" stroke="white" stroke-width="2"/>
+  <circle cx="34" cy="56" r="4" fill="none" stroke="white" stroke-width="1.5"/>
+</svg>

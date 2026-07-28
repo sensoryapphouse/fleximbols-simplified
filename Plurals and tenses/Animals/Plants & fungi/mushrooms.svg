@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,9.850) scale(0.9015)">
+  <g transform="translate(-20.210 -30.916) scale(1.4056)">
+<!-- mushroom cap -->
+  <path d="M18 52 C18 30 82 30 82 52 Z" fill="#A1887F" stroke="#5D4037" stroke-width="2.5"/>
+  <!-- cap underside/gills -->
+  <path d="M20 52 C20 52 26 56 50 56 C74 56 80 52 80 52" fill="#EFEBE9" stroke="#5D4037" stroke-width="2"/>
+  <!-- stem -->
+  <rect x="40" y="55" width="20" height="25" rx="4" fill="#D7CCC8" stroke="#5D4037" stroke-width="2"/>
+  <!-- cap highlight -->
+  <ellipse cx="38" cy="40" rx="10" ry="6" fill="#BCAAA4" opacity="0.5"/>
+  <!-- spots on cap -->
+  <circle cx="50" cy="38" r="4" fill="#EFEBE9" stroke="#5D4037" stroke-width="1"/>
+  <circle cx="35" cy="42" r="3" fill="#EFEBE9" stroke="#5D4037" stroke-width="1"/>
+  <circle cx="65" cy="42" r="3" fill="#EFEBE9" stroke="#5D4037" stroke-width="1"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl300" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl300)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

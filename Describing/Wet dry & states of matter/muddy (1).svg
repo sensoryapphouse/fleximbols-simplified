@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Muddy puddle -->
+  <ellipse cx="50" cy="60" rx="36" ry="16" fill="#8B5E3C" stroke="#5a3a1a" stroke-width="2.5"/>
+  <!-- Mud ripple -->
+  <ellipse cx="50" cy="60" rx="24" ry="9" fill="none" stroke="#6b4422" stroke-width="1.5"/>
+  <ellipse cx="50" cy="60" rx="12" ry="5" fill="none" stroke="#5a3a1a" stroke-width="1.5"/>
+  <!-- Mud splatter -->
+  <circle cx="30" cy="48" r="3" fill="#8B5E3C" stroke="#5a3a1a" stroke-width="1.5"/>
+  <circle cx="70" cy="50" r="2.5" fill="#8B5E3C" stroke="#5a3a1a" stroke-width="1.5"/>
+  <circle cx="55" cy="44" r="2" fill="#8B5E3C" stroke="#5a3a1a" stroke-width="1.5"/>
+  <circle cx="38" cy="46" r="1.5" fill="#8B5E3C" stroke="#5a3a1a" stroke-width="1"/>
+</svg>

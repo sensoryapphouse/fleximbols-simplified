@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Carrot body (tapered) -->
+  <path d="M38 20 Q62 20 62 20 L50 82 Z" fill="#f07020" stroke="#c04810" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Horizontal texture rings -->
+  <path d="M43 30 Q50 28 57 30" fill="none" stroke="#d05810" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M42 42 Q50 40 58 42" fill="none" stroke="#d05810" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M42 54 Q50 52 58 54" fill="none" stroke="#d05810" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M43 66 Q50 64 57 66" fill="none" stroke="#d05810" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Green leafy top -->
+  <path d="M50 20 Q44 10 36 8 Q42 16 50 20" fill="#50c020" stroke="#308010" stroke-width="1.5"/>
+  <path d="M50 20 Q50 8 50 4 Q52 12 50 20" fill="#50c020" stroke="#308010" stroke-width="1.5"/>
+  <path d="M50 20 Q56 10 64 8 Q58 16 50 20" fill="#50c020" stroke="#308010" stroke-width="1.5"/>
+  <path d="M50 20 Q40 8 34 10 Q42 14 50 20" fill="#70d040" stroke="#408020" stroke-width="1.5"/>
+  <path d="M50 20 Q60 8 66 10 Q58 14 50 20" fill="#70d040" stroke="#408020" stroke-width="1.5"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1631" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1631)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

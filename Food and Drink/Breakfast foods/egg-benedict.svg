@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- plate -->
+  <ellipse cx="50" cy="74" rx="40" ry="10" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+  <!-- bottom English muffin half -->
+  <ellipse cx="50" cy="64" rx="30" ry="9" fill="#e8c878" stroke="#333" stroke-width="2.5"/>
+  <!-- ham/Canadian bacon -->
+  <ellipse cx="50" cy="56" rx="24" ry="7" fill="#c06878" stroke="#333" stroke-width="2"/>
+  <!-- poached egg white -->
+  <ellipse cx="50" cy="48" rx="22" ry="10" fill="#fffaf0" stroke="#ddd" stroke-width="2"/>
+  <!-- yolk -->
+  <ellipse cx="50" cy="46" rx="10" ry="8" fill="#f5c010" stroke="#d4a010" stroke-width="1.5"/>
+  <!-- hollandaise drizzle -->
+  <path d="M30 44 Q38 36 50 38 Q62 36 70 44" fill="none" stroke="#f0d060" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+  <path d="M34 50 Q42 42 50 44 Q58 42 66 50" fill="none" stroke="#f0d060" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+</svg>

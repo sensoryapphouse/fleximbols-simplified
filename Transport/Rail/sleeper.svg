@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Baby sleeper/footie pajamas -->
+  <!-- Hood/head area -->
+  <path d="M38 6 Q50 2 62 6 L60 14 Q50 16 40 14 Z" fill="#88aadd" stroke="#333" stroke-width="2"/>
+  <!-- Body -->
+  <rect x="24" y="14" width="52" height="44" rx="8" fill="#88aadd" stroke="#333" stroke-width="2.5"/>
+  <!-- Short sleeves -->
+  <path d="M24 16 L8 22 L8 34 L24 28 Z" fill="#88aadd" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M76 16 L92 22 L92 34 L76 28 Z" fill="#88aadd" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Leg/feet section - footed -->
+  <path d="M24 54 Q22 68 22 76 Q22 84 28 86 L38 86 Q44 86 46 80 Q46 70 46 58 Z" fill="#88aadd" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M76 54 Q78 68 78 76 Q78 84 72 86 L62 86 Q56 86 54 80 Q54 70 54 58 Z" fill="#88aadd" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Feet -->
+  <ellipse cx="34" cy="86" rx="12" ry="5" fill="#6688cc" stroke="#333" stroke-width="2"/>
+  <ellipse cx="66" cy="86" rx="12" ry="5" fill="#6688cc" stroke="#333" stroke-width="2"/>
+  <!-- Snap buttons down center -->
+  <line x1="50" y1="14" x2="50" y2="56" stroke="#6688cc" stroke-width="1.5"/>
+  <circle cx="50" cy="20" r="2" fill="white" stroke="#333" stroke-width="1"/>
+  <circle cx="50" cy="28" r="2" fill="white" stroke="#333" stroke-width="1"/>
+  <circle cx="50" cy="36" r="2" fill="white" stroke="#333" stroke-width="1"/>
+  <circle cx="50" cy="44" r="2" fill="white" stroke="#333" stroke-width="1"/>
+  <!-- Snaps at crotch -->
+  <circle cx="46" cy="56" r="2" fill="white" stroke="#333" stroke-width="1"/>
+  <circle cx="50" cy="58" r="2" fill="white" stroke="#333" stroke-width="1"/>
+  <circle cx="54" cy="56" r="2" fill="white" stroke="#333" stroke-width="1"/>
+  <!-- Star print detail -->
+  <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="38" y="46" font-size="8" fill="#6688cc">★</text>
+  <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="55" y="40" font-size="6" fill="#6688cc">★</text>
+  <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="32" y="34" font-size="6" fill="#6688cc">★</text>
+</svg>

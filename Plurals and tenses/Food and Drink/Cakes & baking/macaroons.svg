@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,12.200) scale(0.878)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-29.789 -41.254) scale(1.5973)">
+<!-- Coconut macaroon (mounded ball) -->
+  <!-- Shadow/base -->
+  <ellipse cx="50" cy="72" rx="28" ry="8" fill="#e0d0a0" opacity="0.7"/>
+  <!-- Main macaroon mound -->
+  <ellipse cx="50" cy="60" rx="28" ry="22" fill="#f0d080" stroke="#9a7a10" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Domed top -->
+  <ellipse cx="50" cy="50" rx="24" ry="18" fill="#c8a870" stroke="#8B6914" stroke-width="2"/>
+  <!-- Coconut shreds texture -->
+  <line x1="34" y1="48" x2="40" y2="44" stroke="#f5f5dc" stroke-width="2" stroke-linecap="round"/>
+  <line x1="42" y1="44" x2="46" y2="40" stroke="#f5f5dc" stroke-width="2" stroke-linecap="round"/>
+  <line x1="52" y1="42" x2="58" y2="44" stroke="#f5f5dc" stroke-width="2" stroke-linecap="round"/>
+  <line x1="60" y1="46" x2="66" y2="50" stroke="#f5f5dc" stroke-width="2" stroke-linecap="round"/>
+  <line x1="36" y1="56" x2="44" y2="52" stroke="#f5f5dc" stroke-width="2" stroke-linecap="round"/>
+  <line x1="56" y1="52" x2="64" y2="56" stroke="#f5f5dc" stroke-width="2" stroke-linecap="round"/>
+  <line x1="38" y1="64" x2="46" y2="60" stroke="#f5f5dc" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="54" y1="60" x2="62" y2="64" stroke="#f5f5dc" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Chocolate dip at base (optional chocolate macaroon) -->
+  <ellipse cx="50" cy="70" rx="24" ry="8" fill="#5a3a0a" stroke="#3a1a00" stroke-width="1.5"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1004" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1004)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

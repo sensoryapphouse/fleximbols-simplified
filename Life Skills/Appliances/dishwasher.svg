@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Machine body -->
+  <rect x="14" y="14" width="72" height="72" rx="4" fill="#e0e8f0" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Control panel top -->
+  <rect x="14" y="14" width="72" height="16" rx="4" fill="#c8d8e8" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Control buttons -->
+  <circle cx="28" cy="22" r="4" fill="#7ab8d4" stroke="#555" stroke-width="1.5"/>
+  <circle cx="42" cy="22" r="4" fill="#7ab8d4" stroke="#555" stroke-width="1.5"/>
+  <circle cx="58" cy="22" r="3" fill="#555" stroke="#555" stroke-width="1"/>
+  <rect x="64" y="19" width="16" height="6" rx="2" fill="#aad4f0" stroke="#555" stroke-width="1"/>
+  <!-- Door -->
+  <rect x="16" y="32" width="68" height="52" rx="2" fill="#d8e8f0" stroke="#555" stroke-width="2"/>
+  <!-- Door handle -->
+  <rect x="32" y="78" width="36" height="6" rx="3" fill="#aaa" stroke="#555" stroke-width="1.5"/>
+  <!-- Dishes inside (visible through door outline) -->
+  <circle cx="36" cy="55" r="12" fill="none" stroke="#9ab8d0" stroke-width="2"/>
+  <circle cx="64" cy="55" r="12" fill="none" stroke="#9ab8d0" stroke-width="2"/>
+  <!-- Water drops -->
+  <circle cx="36" cy="45" r="2" fill="#7ab8d4"/>
+  <circle cx="64" cy="45" r="2" fill="#7ab8d4"/>
+  <circle cx="50" cy="58" r="2" fill="#7ab8d4"/>
+</svg>

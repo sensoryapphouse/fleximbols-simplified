@@ -1,0 +1,10 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(-28.633 -13.596) scale(1.4126)">
+<!-- crescent moon -->
+  <path d="M58 20 A25 25 0 1 0 58 70 A18 18 0 1 1 58 20 Z" fill="#f0e890" stroke="#c8b840" stroke-width="2.5"/>
+  <!-- stars -->
+  <circle cx="72" cy="28" r="2" fill="#c8b840"/>
+  <circle cx="78" cy="42" r="1.5" fill="#c8b840"/>
+  <circle cx="68" cy="50" r="1.5" fill="#c8b840"/>
+</g>
+  </svg>

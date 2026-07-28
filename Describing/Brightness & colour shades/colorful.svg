@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Rainbow arc -->
+  <path d="M15 72 Q15 30 50 28 Q85 30 85 72" fill="none" stroke="#e63946" stroke-width="6" stroke-linecap="round"/>
+  <path d="M21 72 Q21 36 50 34 Q79 36 79 72" fill="none" stroke="#f4a261" stroke-width="6" stroke-linecap="round"/>
+  <path d="M27 72 Q27 42 50 40 Q73 42 73 72" fill="none" stroke="#ffd166" stroke-width="6" stroke-linecap="round"/>
+  <path d="M33 72 Q33 48 50 46 Q67 48 67 72" fill="none" stroke="#2ec4b6" stroke-width="6" stroke-linecap="round"/>
+  <path d="M39 72 Q39 54 50 52 Q61 54 61 72" fill="none" stroke="#3a86ff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M45 72 Q45 60 50 58 Q55 60 55 72" fill="none" stroke="#8338ec" stroke-width="6" stroke-linecap="round"/>
+</svg>

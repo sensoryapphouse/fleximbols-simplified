@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.092 -19.651) scale(1.5047)">
+<!-- Stack of cards (back) -->
+  <rect x="20" y="28" width="55" height="38" rx="3" fill="#d4c8f5" stroke="#555" stroke-width="1.5" transform="rotate(8,47,47)"/>
+  <rect x="18" y="26" width="55" height="38" rx="3" fill="#c8d4f5" stroke="#555" stroke-width="1.5" transform="rotate(4,47,47)"/>
+  <!-- Front card -->
+<!-- Q side label -->
+  <text x="26" y="33" font-size="6" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#888">Q:</text>
+  <text x="26" y="42" font-size="8" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#333" font-weight="bold">2 x 3 = ?</text>
+  <!-- Divider -->
+  <line x1="17" y1="48" x2="73" y2="48" stroke="#ddd" stroke-width="1.5"/>
+  <!-- A side label -->
+  <text x="26" y="56" font-size="6" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#888">A:</text>
+  <text x="26" y="57" font-size="8" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#a8d8a8" font-weight="bold">      6</text>
+</g>
+  </svg>

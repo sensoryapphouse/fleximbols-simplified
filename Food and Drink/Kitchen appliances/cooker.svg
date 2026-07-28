@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Stove body -->
+  <rect x="8" y="18" width="84" height="62" rx="4" fill="#c8c8c8" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Stovetop surface -->
+  <rect x="10" y="18" width="80" height="32" rx="3" fill="#555" stroke="#555" stroke-width="1"/>
+  <!-- Burners (4) -->
+  <circle cx="30" cy="33" r="10" fill="none" stroke="#888" stroke-width="2.5"/>
+  <circle cx="30" cy="33" r="4" fill="#777" stroke="#888" stroke-width="1.5"/>
+  <circle cx="70" cy="33" r="10" fill="none" stroke="#888" stroke-width="2.5"/>
+  <circle cx="70" cy="33" r="4" fill="#777" stroke="#888" stroke-width="1.5"/>
+  <!-- Lower burners (smaller) -->
+  <circle cx="30" cy="22" r="0" fill="none"/>
+  <!-- Oven door -->
+  <rect x="12" y="52" width="76" height="26" rx="3" fill="#aaa" stroke="#555" stroke-width="2"/>
+  <!-- Oven window -->
+  <rect x="20" y="56" width="60" height="18" rx="2" fill="#333" stroke="#666" stroke-width="1.5"/>
+  <!-- Door handle -->
+  <rect x="22" y="75" width="56" height="5" rx="2" fill="#999" stroke="#555" stroke-width="1.5"/>
+  <!-- Knobs -->
+  <circle cx="18" cy="14" r="4" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <circle cx="32" cy="14" r="4" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <circle cx="68" cy="14" r="4" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <circle cx="82" cy="14" r="4" fill="#555" stroke="#333" stroke-width="1.5"/>
+</svg>

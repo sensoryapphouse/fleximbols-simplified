@@ -1,0 +1,18 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Rock on ground with impact crater -->
+  <!-- Ground -->
+  <ellipse cx="50" cy="82" rx="40" ry="8" fill="#c8a86c" stroke="#333" stroke-width="2"/>
+  <!-- Crater dip -->
+  <ellipse cx="50" cy="82" rx="25" ry="5" fill="#b09050" stroke="#333" stroke-width="1.5"/>
+  <!-- Meteorite rock -->
+  <polygon points="30,75 38,55 50,50 65,58 70,72 55,80 35,80" fill="#776655" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Rock texture marks -->
+  <line x1="40" y1="62" x2="45" y2="70" stroke="#554433" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="52" y1="58" x2="58" y2="68" stroke="#554433" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Streak trail from above -->
+  <line x1="65" y1="10" x2="50" y2="50" stroke="#ffeeaa" stroke-width="3" stroke-linecap="round" stroke-dasharray="5,3"/>
+  <!-- Impact sparks -->
+  <line x1="30" y1="75" x2="15" y2="65" stroke="#ffaa22" stroke-width="2" stroke-linecap="round"/>
+  <line x1="35" y1="80" x2="18" y2="78" stroke="#ffaa22" stroke-width="2" stroke-linecap="round"/>
+  <line x1="70" y1="72" x2="85" y2="62" stroke="#ffaa22" stroke-width="2" stroke-linecap="round"/>
+</svg>

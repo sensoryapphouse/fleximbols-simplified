@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Endoscopy (upper GI): scope down throat, stomach view, camera -->
+  <!-- Stomach outline -->
+  <path d="M20,42 Q16,56 20,72 Q26,86 46,84 Q66,82 74,68 Q82,54 78,42 Q74,30 58,28 Q40,28 20,42 Z" fill="#f0c080" stroke="#8B4513" stroke-width="2.5"/>
+  <!-- Stomach rugae (folds) -->
+  <path d="M24,56 Q34,48 44,52 Q54,56 64,52" fill="none" stroke="#c88040" stroke-width="1.5"/>
+  <path d="M26,64 Q36,58 46,62 Q56,66 66,62" fill="none" stroke="#c88040" stroke-width="1.5"/>
+  <!-- Esophagus -->
+  <rect x="44" y="12" width="12" height="20" rx="5" fill="#f0c080" stroke="#8B4513" stroke-width="2"/>
+  <!-- Scope tube entering from mouth -->
+  <path d="M8,8 Q20,10 30,16 Q40,22 46,28" fill="none" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+  <!-- Mouth at top left -->
+  <path d="M4,6 Q8,2 12,6 Q10,12 6,10 Q4,8 4,6 Z" fill="#ffd0a0" stroke="#222" stroke-width="1.5"/>
+  <!-- Scope tip inside stomach -->
+  <circle cx="54" cy="48" r="6" fill="#333" stroke="#222" stroke-width="1.5"/>
+  <circle cx="54" cy="48" r="3" fill="#4488cc" stroke="#222" stroke-width="1"/>
+  <circle cx="51" cy="46" r="1.5" fill="#f0f070"/>
+  <!-- Air bubble in stomach -->
+  <ellipse cx="68" cy="40" rx="6" ry="4" fill="#ddeeff" stroke="#aaa" stroke-width="1"/>
+  <!-- Scope continues from mouth to handle -->
+  <!-- Handle box -->
+  <rect x="4" y="16" width="12" height="16" rx="3" fill="#555" stroke="#222" stroke-width="2"/>
+  <!-- Scope dial controls -->
+  <circle cx="8" cy="20" r="3" fill="#888" stroke="#222" stroke-width="1"/>
+  <circle cx="12" cy="26" r="3" fill="#888" stroke="#222" stroke-width="1"/>
+  <!-- Scope channel port -->
+  <circle cx="16" cy="20" r="2" fill="#aaa" stroke="#222" stroke-width="1"/>
+</svg>

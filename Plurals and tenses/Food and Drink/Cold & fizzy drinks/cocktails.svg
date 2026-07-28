@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,1.610) scale(0.9839)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-2.502 17.580) scale(1.0573)">
+<!-- Cocktail glass (martini shape) -->
+  <path d="M18 15 L50 58 L82 15 Z" fill="#d0f0e8" stroke="#1a6050" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Drink fill -->
+  <path d="M26 28 L50 55 L74 28 Z" fill="#60c0a0" opacity="0.6"/>
+  <!-- Stem -->
+  <rect x="46" y="58" width="8" height="13" fill="#d0eee8" stroke="#1a6050" stroke-width="2"/>
+  <!-- Base -->
+  <rect x="30" y="69" width="40" height="5" rx="2" fill="#c0e0d8" stroke="#1a6050" stroke-width="2"/>
+  <!-- Cocktail umbrella -->
+  <line x1="58" y1="15" x2="68" y2="8" stroke="#c03060" stroke-width="1.5"/>
+  <path d="M62 10 Q68 8 72 12 Q68 14 62 12 Z" fill="#ff6090" stroke="#c03060" stroke-width="1"/>
+  <path d="M62 12 Q68 10 72 14" fill="none" stroke="#ff90b0" stroke-width="1"/>
+  <!-- Olive on stick -->
+  <line x1="30" y1="32" x2="45" y2="38" stroke="#8b6010" stroke-width="1.5"/>
+  <circle cx="28" cy="31" r="4" fill="#5a9a10" stroke="#3a6010" stroke-width="1.5"/>
+  <circle cx="28" cy="31" r="1.5" fill="#e04030"/>
+  <!-- Glass rim -->
+  <rect x="17" y="13" width="66" height="4" rx="2" fill="#d0f0e8" stroke="#1a6050" stroke-width="2"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1030" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1030)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

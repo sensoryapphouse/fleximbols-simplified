@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-22.877 -19.956) scale(1.4590)">
+<circle cx="50" cy="48" r="20" fill="#e8c4c4" stroke="#cc3333" stroke-width="2.5"/>
+<circle cx="50" cy="48" r="8" fill="#cc3333" opacity="0.4"/>
+<!-- spikes -->
+<line x1="50" y1="28" x2="50" y2="20" stroke="#cc3333" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="50" cy="19" r="3" fill="#cc3333"/>
+<line x1="50" y1="68" x2="50" y2="76" stroke="#cc3333" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="50" cy="77" r="3" fill="#cc3333"/>
+<line x1="30" y1="48" x2="22" y2="48" stroke="#cc3333" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="21" cy="48" r="3" fill="#cc3333"/>
+<line x1="70" y1="48" x2="78" y2="48" stroke="#cc3333" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="79" cy="48" r="3" fill="#cc3333"/>
+<line x1="36" y1="34" x2="30" y2="28" stroke="#cc3333" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="29" cy="27" r="3" fill="#cc3333"/>
+<line x1="64" y1="34" x2="70" y2="28" stroke="#cc3333" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="71" cy="27" r="3" fill="#cc3333"/>
+<line x1="36" y1="62" x2="30" y2="68" stroke="#cc3333" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="29" cy="69" r="3" fill="#cc3333"/>
+<line x1="64" y1="62" x2="70" y2="68" stroke="#cc3333" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="71" cy="69" r="3" fill="#cc3333"/>
+</g>
+  </svg>

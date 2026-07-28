@@ -1,0 +1,19 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Washcloth - small square cloth, slightly rolled corner -->
+  <!-- Main cloth body -->
+  <rect x="15" y="15" width="70" height="70" rx="5" ry="5" fill="#e8c8d0" stroke="#333" stroke-width="2.5"/>
+  <!-- Rolled corner fold at top right -->
+  <path d="M72 15 Q85 15 85 28 Q76 22 72 15 Z" fill="#d0a8b4" stroke="#333" stroke-width="2"/>
+  <!-- Texture grid lines (woven fabric) -->
+  <line x1="15" y1="30" x2="85" y2="30" stroke="#d4b0bc" stroke-width="1.5"/>
+  <line x1="15" y1="45" x2="85" y2="45" stroke="#d4b0bc" stroke-width="1.5"/>
+  <line x1="15" y1="60" x2="85" y2="60" stroke="#d4b0bc" stroke-width="1.5"/>
+  <line x1="15" y1="75" x2="85" y2="75" stroke="#d4b0bc" stroke-width="1.5"/>
+  <line x1="30" y1="15" x2="30" y2="85" stroke="#d4b0bc" stroke-width="1.5"/>
+  <line x1="45" y1="15" x2="45" y2="85" stroke="#d4b0bc" stroke-width="1.5"/>
+  <line x1="60" y1="15" x2="60" y2="85" stroke="#d4b0bc" stroke-width="1.5"/>
+  <line x1="75" y1="15" x2="75" y2="85" stroke="#d4b0bc" stroke-width="1.5"/>
+  <!-- Border stripe -->
+  <rect x="15" y="15" width="70" height="70" rx="5" ry="5" fill="none" stroke="#c89aaa" stroke-width="4"/>
+  <rect x="15" y="15" width="70" height="70" rx="5" ry="5" fill="none" stroke="#333" stroke-width="2.5"/>
+</svg>

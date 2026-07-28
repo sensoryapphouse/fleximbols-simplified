@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Inverter box -->
+  <rect x="8" y="22" width="84" height="52" rx="5" fill="#d8d0c8" stroke="#4a4030" stroke-width="2.5"/>
+  <!-- Label -->
+  
+  <!-- DC input left -->
+  <rect x="8" y="38" width="14" height="20" rx="2" fill="#e05050" stroke="#8a1010" stroke-width="2"/>
+  
+  
+  <!-- AC output right -->
+  <rect x="78" y="38" width="14" height="20" rx="2" fill="#5080d0" stroke="#1a3a8a" stroke-width="2"/>
+  
+  
+  <!-- DC wave (flat) -->
+  <line x1="25" y1="50" x2="40" y2="50" stroke="#e05050" stroke-width="2.5"/>
+  <!-- Arrow conversion -->
+  <polygon points="42,46 42,54 50,50" fill="#4a4030" stroke="#4a4030" stroke-width="1"/>
+  <!-- AC sine wave -->
+  <path d="M52,50 Q55,44 58,50 Q61,56 64,50 Q67,44 70,50" fill="none" stroke="#5080d0" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Fan vent slits -->
+  <line x1="35" y1="58" x2="65" y2="58" stroke="#8a8070" stroke-width="1.5"/>
+  <line x1="35" y1="62" x2="65" y2="62" stroke="#8a8070" stroke-width="1.5"/>
+  <line x1="35" y1="66" x2="65" y2="66" stroke="#8a8070" stroke-width="1.5"/>
+  <!-- LED indicator -->
+  <circle cx="50" cy="30" r="3" fill="#50e050" stroke="#1a6a1a" stroke-width="1"/>
+</svg>

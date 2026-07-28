@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-24.810 -42.214) scale(1.4977)">
+<!-- Small espresso cup -->
+  <path d="M30 50 Q32 72 50 74 Q68 72 70 50Z" fill="#f0ece4" stroke="#8b7355" stroke-width="2.5"/>
+  <rect x="30" y="44" width="40" height="10" rx="4" fill="#f0ece4" stroke="#8b7355" stroke-width="2.5"/>
+  <!-- Dark espresso -->
+  <path d="M32 50 Q34 70 50 72 Q66 70 68 50Z" fill="#2a1408" stroke="none"/>
+  <!-- Crema (golden foam) -->
+  <ellipse cx="50" cy="50" rx="18" ry="4" fill="#c8882a" stroke="#a06818" stroke-width="1.5"/>
+  <!-- Cup handle -->
+  <path d="M70 52 Q80 54 80 60 Q80 66 70 66" fill="none" stroke="#8b7355" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Saucer -->
+  <ellipse cx="50" cy="74" rx="30" ry="6" fill="#f0ece4" stroke="#c0b8a8" stroke-width="1.5"/>
+  <!-- Small spoon -->
+  <line x1="56" y1="74" x2="72" y2="80" stroke="#c0b898" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="54" cy="73" rx="4" ry="2.5" fill="#d0c8b0" stroke="#c0b898" stroke-width="1"/>
+</g>
+  </svg>

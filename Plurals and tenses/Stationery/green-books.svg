@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,13.680) scale(0.8632)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Book back cover / spine depth -->
+  <path d="M22,14 h54 a6,6 0 0 1 6,6 v60 a6,6 0 0 1 -6,6 h-54 a6,6 0 0 1 -6,-6 v-60 a6,6 0 0 1 6,-6 Z"
+        fill="#3f6b27" stroke="#1d3a10" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Front cover -->
+  <rect x="22" y="14" width="60" height="72" rx="5" fill="#5a9d34" stroke="#1d3a10" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Spine -->
+  <rect x="22" y="14" width="9" height="72" rx="2" fill="#4a832b" stroke="#1d3a10" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Cover decorative panel -->
+  <rect x="38" y="26" width="36" height="48" rx="3" fill="none" stroke="#cfe8b8" stroke-width="2"/>
+  <!-- Highlight -->
+  <path d="M36,20 q0,-2 4,-2" fill="none" stroke="#9ed27a" stroke-width="2.5" stroke-linecap="round"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2956" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2956)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

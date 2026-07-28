@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(11.595 0.334) scale(0.9856)">
+<!-- Beer stein -->
+  <rect x="20" y="30" width="38" height="48" rx="4" fill="#f9a825" stroke="#e65100" stroke-width="2.5"/>
+  <!-- Stein handle -->
+  <path d="M58,38 Q76,38 76,54 Q76,70 58,70" fill="none" stroke="#e65100" stroke-width="4" stroke-linecap="round"/>
+  <!-- Beer foam -->
+  <ellipse cx="39" cy="30" rx="20" ry="8" fill="white" stroke="#e0e0e0" stroke-width="2"/>
+  <ellipse cx="30" cy="28" rx="7" ry="5" fill="white" stroke="#e0e0e0" stroke-width="1.5"/>
+  <ellipse cx="48" cy="28" rx="7" ry="5" fill="white" stroke="#e0e0e0" stroke-width="1.5"/>
+  <!-- Stein bands -->
+  <rect x="20" y="50" width="38" height="5" fill="#c8a000" stroke="#7a5c00" stroke-width="1"/>
+  <rect x="20" y="62" width="38" height="5" fill="#c8a000" stroke="#7a5c00" stroke-width="1"/>
+  <!-- Pretzel -->
+  <path d="M68,26 A8,8 0 1,1 80,26" fill="none" stroke="#8B5E3C" stroke-width="5" stroke-linecap="round"/>
+  <path d="M64,32 Q68,42 80,42" fill="none" stroke="#8B5E3C" stroke-width="5" stroke-linecap="round"/>
+  <path d="M84,32 Q80,42 68,42" fill="none" stroke="#8B5E3C" stroke-width="5" stroke-linecap="round"/>
+  <!-- Pretzel salt dots -->
+  <circle cx="69" cy="36" r="1.5" fill="white"/>
+  <circle cx="75" cy="38" r="1.5" fill="white"/>
+  <circle cx="81" cy="36" r="1.5" fill="white"/>
+  <!-- Label -->
+</g>
+  </svg>

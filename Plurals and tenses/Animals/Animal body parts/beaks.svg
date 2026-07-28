@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <svg viewBox="0 0 290 240" preserveAspectRatio="xMidYMid meet">
+  
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="24,66 24,66 28,64 39,60 56,56 66,54 77,54 88,54 99,55 110,59 121,63 131,70 136,75 141,80 145,85 149,92 153,99 157,107 157,107 150,113 143,121 139,129 137,133 137,138 137,138 136,138 136,138 131,138 125,140 118,143 108,149 98,158 86,169 74,185 74,185 74,185 73,187 69,190 62,196 62,196 45,182 32,169 22,157 15,145 10,133 7,123 6,113 6,104 8,95 10,88 13,82 16,76 21,69 24,66 24,66" fill="#d2d1d2" stroke="#000000" stroke-width="3.0" fill-rule="evenodd"/>
+    <polygon points="153,104 153,104 156,109 156,109 183,139 201,160 206,168 208,172 208,172 207,172 205,172 197,169 173,157 134,136 134,136 133,131 134,126 136,122 139,118 145,110 153,104 153,104" fill="#f8130d" stroke="#000000" stroke-width="4.0" fill-rule="evenodd"/>
+    <polygon points="108,86 108,86 107,90 107,93 108,96 111,99 111,99 115,100 118,100 121,99 124,97 124,97 125,94 125,90 123,87 120,85 120,85 117,83 113,83 110,84 108,86 108,86" fill="#000000" stroke="none" stroke-width="0.0" fill-rule="evenodd"/>
+    <polygon points="200,167 200,167 192,160 174,145 153,130 144,124 137,122" fill="#f8130d" stroke="none" stroke-width="0.0" fill-rule="evenodd"/>
+    <polyline points="200,167 200,167 192,160 174,145 153,130 144,124 137,122" fill="none" stroke="#000000" stroke-width="4.0"/>
+    <polygon points="228,115 259,100 265,112 234,127 238,136 196,136 224,105 228,115" fill="#000000" stroke="none" stroke-width="0.0" fill-rule="evenodd"/>
+  </g>
+</svg>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl6" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl6)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

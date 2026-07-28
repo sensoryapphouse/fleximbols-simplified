@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Bodhran: flat Irish frame drum (circular) -->
+  <!-- Outer frame -->
+  <circle cx="50" cy="47" r="36" fill="#8B4513" stroke="#5a3a10" stroke-width="3"/>
+  <!-- Drum skin -->
+  <circle cx="50" cy="47" r="32" fill="#e8d4a0" stroke="#7a5a20" stroke-width="1.5"/>
+  <!-- Cross brace on back (visible at edges) -->
+  <line x1="14" y1="47" x2="86" y2="47" stroke="#6b3a10" stroke-width="2.5"/>
+  <!-- Frame depth marker -->
+  <circle cx="50" cy="47" r="35" fill="none" stroke="#a07040" stroke-width="1"/>
+  <!-- Skin texture (subtle grain) -->
+  <circle cx="50" cy="47" r="20" fill="none" stroke="#d4c090" stroke-width="0.8" stroke-dasharray="3,4"/>
+  <!-- Tipper/beater -->
+  <line x1="72" y1="18" x2="62" y2="60" stroke="#5a3a10" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="73" cy="16" rx="4" ry="5" fill="#a07840" stroke="#5a3a10" stroke-width="1.5"/>
+  <ellipse cx="61" cy="62" rx="4" ry="5" fill="#a07840" stroke="#5a3a10" stroke-width="1.5"/>
+</svg>

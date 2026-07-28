@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,11.590) scale(0.8841)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Tall stockpot body -->
+  <rect x="22" y="25" width="56" height="58" rx="4" fill="#c0c0c0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Bottom -->
+  <ellipse cx="50" cy="83" rx="28" ry="5" fill="#aaa" stroke="#333" stroke-width="2"/>
+  <!-- Lid -->
+  <rect x="20" y="18" width="60" height="9" rx="3" fill="#d8d8d8" stroke="#333" stroke-width="2"/>
+  <ellipse cx="50" cy="18" rx="9" ry="3.5" fill="#999" stroke="#333" stroke-width="1.5"/>
+  <!-- Two small side handles -->
+  <rect x="10" y="30" width="12" height="6" rx="3" fill="#888" stroke="#333" stroke-width="2"/>
+  <rect x="78" y="30" width="12" height="6" rx="3" fill="#888" stroke="#333" stroke-width="2"/>
+  <!-- Sheen -->
+  <line x1="28" y1="30" x2="28" y2="75" stroke="white" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1383" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1383)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

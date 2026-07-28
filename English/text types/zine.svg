@@ -1,0 +1,25 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Zine: hand-stapled DIY folded pages -->
+  <!-- Back pages (slightly offset) -->
+  <rect x="24" y="17" width="55" height="70" rx="2" fill="#e0e0e0" stroke="#aaa" stroke-width="1.5"/>
+  <rect x="22" y="14" width="55" height="70" rx="2" fill="#eeeeee" stroke="#bbb" stroke-width="1.5"/>
+  <!-- Main page -->
+  <rect x="20" y="12" width="55" height="70" rx="2" fill="#fff9c4" stroke="#333" stroke-width="2.5"/>
+  <!-- Fold line down center -->
+  <line x1="47" y1="12" x2="47" y2="82" stroke="#ccc" stroke-width="1" stroke-dasharray="4,3"/>
+  <!-- Staple at center top -->
+  <rect x="44" y="11" width="6" height="4" rx="1" fill="#9e9e9e" stroke="#666" stroke-width="1"/>
+  <!-- DIY hand-drawn style content -->
+  <rect x="24" y="18" width="20" height="16" rx="1" fill="#ef9a9a" stroke="#e53935" stroke-width="1.5"/>
+  <circle cx="34" cy="26" r="5" fill="#fff" stroke="#e53935" stroke-width="1"/>
+  <!-- Scrawled text lines -->
+  <path d="M25 40 Q28 38 32 40 Q36 42 40 40" fill="none" stroke="#555" stroke-width="1.5"/>
+  <path d="M25 46 Q30 44 35 46 Q38 47 42 45" fill="none" stroke="#555" stroke-width="1.5"/>
+  <line x1="25" y1="54" x2="43" y2="54" stroke="#555" stroke-width="1.5"/>
+  <line x1="25" y1="60" x2="40" y2="60" stroke="#555" stroke-width="1.5"/>
+  <!-- Right half: different content -->
+  <line x1="51" y1="22" x2="71" y2="22" stroke="#888" stroke-width="1.5"/>
+  <line x1="51" y1="30" x2="71" y2="30" stroke="#888" stroke-width="1.5"/>
+  <line x1="51" y1="38" x2="67" y2="38" stroke="#888" stroke-width="1.5"/>
+  <rect x="51" y="46" width="18" height="14" rx="1" fill="#c8e6c9" stroke="#388e3c" stroke-width="1"/>
+</svg>

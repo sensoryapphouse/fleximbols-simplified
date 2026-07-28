@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sole -->
+  <path d="M30 14 Q60 14 64 38 Q66 60 60 78 Q56 90 44 90 Q30 90 28 78 Q26 60 28 38 Q30 24 30 14 Z" fill="#5a8ac0" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Inner sole highlight band -->
+  <path d="M34 24 Q56 24 58 40 Q60 60 56 76 Q54 84 46 84 Q34 84 32 76 Q30 60 32 42 Q34 30 34 24 Z" fill="#7eb0e0" stroke="none"/>
+  <!-- Thong strap V -->
+  <path d="M46 28 L36 50 M46 28 L56 50 M46 28 L46 24" stroke="#222" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- Toe peg -->
+  <circle cx="46" cy="24" r="3" fill="#222" stroke="#222" stroke-width="1.5"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl767" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl767)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

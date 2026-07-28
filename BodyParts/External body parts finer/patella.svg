@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- upper leg -->
+  <path d="M34 10 Q30 14 29 26 L31 46 Q34 50 39 51 Q44 50 47 46 L49 26 Q48 14 44 10 Z" fill="#f5ddd0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- lower leg -->
+  <path d="M31 58 Q29 68 31 78 Q34 82 39 83 Q44 82 47 78 Q49 68 47 58 L44 54 Q41 57 39 57 Q37 57 34 54 Z" fill="#f5ddd0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- patella large and labelled -->
+  <ellipse cx="39" cy="54" rx="11" ry="9" fill="#dcc9a8" stroke="#333" stroke-width="3"/>
+  <!-- internal structure lines -->
+  <path d="M32 52 Q39 48 46 52" fill="none" stroke="#aaa090" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M32 56 Q39 60 46 56" fill="none" stroke="#aaa090" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- label -->
+  
+  <line x1="55" y1="49" x2="50" y2="52" stroke="#666" stroke-width="1.2"/>
+</svg>

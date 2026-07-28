@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-5.965 -1.319) scale(1.1193)">
+<!-- Screw head (hex) -->
+  <polygon points="50,14 62,20 62,34 50,40 38,34 38,20" fill="#999" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Cross slot on head -->
+  <line x1="50" y1="18" x2="50" y2="36" stroke="#333" stroke-width="2.5"/>
+  <line x1="42" y1="27" x2="58" y2="27" stroke="#333" stroke-width="2.5"/>
+  <!-- Shaft -->
+  <rect x="46" y="40" width="8" height="28" fill="#999" stroke="#333" stroke-width="2"/>
+  <!-- Thread lines -->
+  <line x1="44" y1="46" x2="54" y2="46" stroke="#777" stroke-width="1.5"/>
+  <line x1="44" y1="52" x2="54" y2="52" stroke="#777" stroke-width="1.5"/>
+  <line x1="44" y1="58" x2="54" y2="58" stroke="#777" stroke-width="1.5"/>
+  <line x1="44" y1="64" x2="54" y2="64" stroke="#777" stroke-width="1.5"/>
+  <!-- Point -->
+  <polygon points="46,68 54,68 50,78" fill="#888" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+</g>
+  <g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1834" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1834)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

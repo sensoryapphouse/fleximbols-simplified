@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Grill grates -->
+  <rect x="15" y="45" width="70" height="30" rx="4" fill="#888" stroke="#333" stroke-width="2.5"/>
+  <line x1="15" y1="53" x2="85" y2="53" stroke="#555" stroke-width="2"/>
+  <line x1="15" y1="61" x2="85" y2="61" stroke="#555" stroke-width="2"/>
+  <line x1="15" y1="69" x2="85" y2="69" stroke="#555" stroke-width="2"/>
+  <!-- Food (steak) on grill with grill marks -->
+  <ellipse cx="50" cy="50" rx="22" ry="10" fill="#cd853f" stroke="#5a3a1a" stroke-width="2"/>
+  <!-- Grill marks on food -->
+  <line x1="36" y1="44" x2="32" y2="56" stroke="#5a3a1a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="44" y1="42" x2="40" y2="58" stroke="#5a3a1a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="52" y1="41" x2="48" y2="59" stroke="#5a3a1a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="60" y1="43" x2="56" y2="57" stroke="#5a3a1a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Flames underneath -->
+  <path d="M22 76 Q18 70 22 65 Q25 70 29 67 Q27 73 32 70 Q30 78 23 79Z" fill="#ff6600" stroke="#cc3300" stroke-width="1.5"/>
+  <path d="M46 76 Q42 70 46 65 Q49 70 53 67 Q51 73 56 70 Q54 78 47 79Z" fill="#ff8800" stroke="#cc3300" stroke-width="1.5"/>
+  <path d="M68 76 Q64 70 68 65 Q71 70 75 67 Q73 73 78 70 Q76 78 69 79Z" fill="#ff6600" stroke="#cc3300" stroke-width="1.5"/>
+</svg>

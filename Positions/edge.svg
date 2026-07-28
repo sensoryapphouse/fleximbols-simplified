@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-22.988 -22.061) scale(1.4612)">
+<!-- Shape with highlighted edge -->
+  <rect x="20" y="25" width="60" height="50" fill="#d0e8ff" stroke="#aaa" stroke-width="1.5"/>
+  <!-- Highlighted top edge -->
+  <line x1="20" y1="25" x2="80" y2="25" stroke="#c0392b" stroke-width="4" stroke-linecap="round"/>
+</g>
+  </svg>

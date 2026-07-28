@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- font/basin -->
+  <ellipse cx="50" cy="65" rx="30" ry="8" fill="#4a90d9" stroke="#2060a0" stroke-width="2.5"/>
+  <path d="M20,65 Q20,80 50,82 Q80,80 80,65" fill="#4a90d9" stroke="#2060a0" stroke-width="2.5"/>
+  <!-- water ripples -->
+  <ellipse cx="50" cy="65" rx="18" ry="4" fill="none" stroke="#7aaad4" stroke-width="1.5"/>
+  <ellipse cx="50" cy="65" rx="10" ry="2.5" fill="none" stroke="#7aaad4" stroke-width="1"/>
+  <!-- font pedestal -->
+  <rect x="43" y="75" width="14" height="10" rx="2" fill="#8b8b8b" stroke="#555" stroke-width="2"/>
+  <rect x="38" y="83" width="24" height="5" rx="2" fill="#8b8b8b" stroke="#555" stroke-width="2"/>
+  <!-- dove above -->
+  <ellipse cx="50" cy="28" rx="10" ry="6" fill="white" stroke="#7aaad4" stroke-width="2"/>
+  <path d="M40,28 Q43,20 50,20 Q57,20 60,28" fill="white" stroke="#7aaad4" stroke-width="2"/>
+  <circle cx="61" cy="27" r="4" fill="white" stroke="#7aaad4" stroke-width="2"/>
+  <circle cx="63" cy="26" r="1" fill="#555"/>
+  <path d="M40,28 L33,32 M40,30 L32,36" stroke="#7aaad4" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- rays from dove -->
+  <line x1="50" y1="34" x2="50" y2="52" stroke="#f5c518" stroke-width="2" stroke-linecap="round" stroke-dasharray="3,3"/>
+</svg>

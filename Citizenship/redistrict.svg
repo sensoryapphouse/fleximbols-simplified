@@ -1,0 +1,17 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Map background -->
+  <rect x="5" y="5" width="90" height="80" rx="3" fill="#ecf0f1" stroke="#222" stroke-width="2.5"/>
+  <!-- Old district lines (faded/dashed) -->
+  <line x1="5" y1="42" x2="95" y2="42" stroke="#bdc3c7" stroke-width="2" stroke-dasharray="5,4"/>
+  <line x1="50" y1="5" x2="50" y2="85" stroke="#bdc3c7" stroke-width="2" stroke-dasharray="5,4"/>
+  <!-- New district lines being drawn -->
+  <path d="M5,25 Q30,40 55,20 Q70,10 95,30" fill="none" stroke="#c0392b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M5,60 Q20,75 45,65 Q65,55 95,70" fill="none" stroke="#3498db" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Pencil drawing the line -->
+  <line x1="82" y1="56" x2="96" y2="42" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="82,56 78,58 80,54" fill="#f1c40f" stroke="#222" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="84" y="42" width="7" height="16" rx="1" fill="#f1c40f" stroke="#222" stroke-width="2" transform="rotate(45,87,50)"/>
+  <polygon points="96,42 100,38 92,38" fill="#e8c49a" stroke="#222" stroke-width="1.5" stroke-linejoin="round" transform="rotate(45,96,40)"/>
+  <!-- "REDRAW" label -->
+  <rect x="5" y="82" width="90" height="14" rx="2" fill="#f39c12" stroke="#222" stroke-width="2"/>
+</svg>

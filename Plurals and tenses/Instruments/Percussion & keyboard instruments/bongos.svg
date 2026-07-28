@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,13.880) scale(0.8612)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-5.664 -37.054) scale(1.4286)">
+<!-- Bongo drums - two small joined drums -->
+  <!-- Left smaller drum -->
+  <path d="M12 48 Q10 48 9 58 Q8 70 10 78 L34 78 Q36 70 35 58 Q34 48 32 48Z" fill="#a07040" stroke="#333" stroke-width="2"/>
+  <ellipse cx="22" cy="48" rx="12" ry="5" fill="#e0d0b0" stroke="#333" stroke-width="2"/>
+  <!-- Connector between drums -->
+  <rect x="34" y="50" width="6" height="28" rx="2" fill="#888" stroke="#333" stroke-width="1.5"/>
+  <!-- Right larger drum -->
+  <path d="M40 45 Q38 45 37 57 Q36 70 38 78 L68 78 Q70 70 69 57 Q68 45 66 45Z" fill="#a07040" stroke="#333" stroke-width="2"/>
+  <ellipse cx="54" cy="45" rx="16" ry="6" fill="#e0d0b0" stroke="#333" stroke-width="2"/>
+  <!-- Tension rods on left drum -->
+  <line x1="12" y1="55" x2="12" y2="75" stroke="#888" stroke-width="1.5"/>
+  <line x1="32" y1="55" x2="32" y2="75" stroke="#888" stroke-width="1.5"/>
+  <!-- Tension rods on right drum -->
+  <line x1="40" y1="52" x2="40" y2="75" stroke="#888" stroke-width="1.5"/>
+  <line x1="68" y1="52" x2="68" y2="75" stroke="#888" stroke-width="1.5"/>
+  <!-- Base -->
+  <ellipse cx="22" cy="78" rx="13" ry="4" fill="#8a6030" stroke="#333" stroke-width="1.5"/>
+  <ellipse cx="54" cy="78" rx="17" ry="5" fill="#8a6030" stroke="#333" stroke-width="1.5"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2380" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2380)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

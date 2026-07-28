@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Browser window frame -->
+  <rect x="8" y="14" width="84" height="70" rx="5" ry="5" fill="#e8f0fe" stroke="#3a3a3a" stroke-width="2.5"/>
+  <!-- Title bar -->
+  <rect x="8" y="14" width="84" height="16" rx="5" ry="5" fill="#4a90d9" stroke="#3a3a3a" stroke-width="2.5"/>
+  <rect x="8" y="22" width="84" height="8" fill="#4a90d9" stroke="none"/>
+  <!-- Traffic light buttons -->
+  <circle cx="18" cy="22" r="3.5" fill="#e74c3c" stroke="#c0392b" stroke-width="1"/>
+  <circle cx="28" cy="22" r="3.5" fill="#f39c12" stroke="#e67e22" stroke-width="1"/>
+  <circle cx="38" cy="22" r="3.5" fill="#27ae60" stroke="#1e8449" stroke-width="1"/>
+  <!-- Address bar -->
+<!-- Content area lines -->
+  <rect x="14" y="54" width="55" height="4" rx="2" fill="#b0bec5"/>
+  <rect x="14" y="63" width="70" height="4" rx="2" fill="#b0bec5"/>
+  <rect x="14" y="72" width="40" height="4" rx="2" fill="#b0bec5"/>
+</svg>

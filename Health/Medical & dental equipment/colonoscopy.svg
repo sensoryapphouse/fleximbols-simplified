@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Colonoscopy: colonoscope with flexible tube, colon outline, camera tip -->
+  <!-- Colon outline (simplified large intestine cross-section view) -->
+  <path d="M12,18 Q10,50 14,70 Q20,88 40,86 Q60,84 68,80 Q84,74 88,60 Q92,46 86,32 Q80,18 60,16 Q40,14 12,18 Z" fill="none" stroke="#8B4513" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Inner colon mucosa -->
+  <path d="M16,22 Q14,50 18,68 Q24,84 42,82 Q58,80 66,76 Q80,70 84,58 Q88,44 82,32 Q78,22 60,20 Q40,18 16,22 Z" fill="#f0a060" stroke="none"/>
+  <!-- Polyp/lesion inside colon -->
+  <ellipse cx="72" cy="44" rx="6" ry="5" fill="#cc5522" stroke="#222" stroke-width="1.5"/>
+  <!-- Colonoscope tube (flexible) -->
+  <path d="M88,88 Q80,78 70,70 Q60,60 55,50 Q52,44 54,38 Q58,34 66,38 Q74,42 74,48" fill="none" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+  <!-- Scope tip (camera) -->
+  <circle cx="74" cy="48" r="5" fill="#333" stroke="#222" stroke-width="1.5"/>
+  <!-- Camera lens on tip -->
+  <circle cx="74" cy="48" r="2.5" fill="#4488cc" stroke="#222" stroke-width="1"/>
+  <!-- Light source on tip -->
+  <circle cx="71" cy="46" r="1.5" fill="#f0f070"/>
+  <!-- Scope handle (at insertion end) -->
+  <rect x="82" y="82" width="14" height="14" rx="4" fill="#555" stroke="#222" stroke-width="2"/>
+  <!-- Scope controls (dials) -->
+  <circle cx="86" cy="86" r="3" fill="#888" stroke="#222" stroke-width="1"/>
+  <circle cx="92" cy="90" r="3" fill="#888" stroke="#222" stroke-width="1"/>
+  <!-- Insufflation (air) line -->
+  <line x1="82" y1="88" x2="74" y2="80" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sky -->
+  <rect x="0" y="0" width="100" height="38" fill="#87ceeb"/>
+  <!-- Dam wall -->
+  <polygon points="35,38 65,38 72,65 28,65" fill="#b0a090" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Dam face texture lines -->
+  <line x1="38" y1="44" x2="62" y2="44" stroke="#9a8a78" stroke-width="1.5"/>
+  <line x1="40" y1="50" x2="60" y2="50" stroke="#9a8a78" stroke-width="1.5"/>
+  <line x1="41" y1="56" x2="59" y2="56" stroke="#9a8a78" stroke-width="1.5"/>
+  <!-- Water behind dam (reservoir) -->
+  <path d="M5 55 Q20 45 35 38 L35 58 Q20 62 5 68Z" fill="#4ab0e0" stroke="#333" stroke-width="2"/>
+  <path d="M95 52 Q80 44 65 38 L65 58 Q80 62 95 66Z" fill="#4ab0e0" stroke="#333" stroke-width="2"/>
+  <!-- Ground/riverbed below dam -->
+  <rect x="0" y="65" width="100" height="35" fill="#9a9070"/>
+  <!-- Spillway water -->
+  <rect x="45" y="65" width="10" height="20" fill="#4ab0e0" stroke="#333" stroke-width="1.5"/>
+  <ellipse cx="50" cy="85" rx="12" ry="5" fill="#4ab0e0" stroke="#333" stroke-width="1.5"/>
+  <!-- Water surface lines in reservoir -->
+  <path d="M8 58 Q20 56 34 58" fill="none" stroke="#80d0f0" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M66 56 Q80 54 94 57" fill="none" stroke="#80d0f0" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

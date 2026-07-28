@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.210 -27.279) scale(1.4056)">
+<!-- Glossy rounded object - like a glossy button/surface -->
+  <ellipse cx="50" cy="55" rx="32" ry="24" fill="#60a8d0" stroke="#333" stroke-width="2.5"/>
+  <!-- Wet-look sheen - large white highlight area at top -->
+  <ellipse cx="42" cy="42" rx="18" ry="8" fill="white" opacity="0.55"/>
+  <!-- Second smaller highlight -->
+  <ellipse cx="38" cy="40" rx="8" ry="3" fill="white" opacity="0.4"/>
+  <!-- Bottom reflection -->
+  <path d="M25,68 Q50,75 75,68" fill="none" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+</g>
+  </svg>

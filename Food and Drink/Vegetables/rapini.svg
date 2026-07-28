@@ -1,0 +1,23 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-7.911 -20.280) scale(1.1360)">
+  <!-- Rapini: very similar to broccoli rabe, Italian name -->
+  <!-- Stems -->
+  <line x1="50" y1="93" x2="50" y2="52" stroke="#3a6c1e" stroke-width="3" stroke-linecap="round"/>
+  <line x1="50" y1="74" x2="32" y2="60" stroke="#3a6c1e" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="66" x2="70" y2="52" stroke="#3a6c1e" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="60" x2="36" y2="42" stroke="#3a6c1e" stroke-width="2" stroke-linecap="round"/>
+  <!-- Leaves - wavy/toothed -->
+  <path d="M44 78 Q34 74 28 65 Q38 66 44 73Z" fill="#4a8c2e" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M55 70 Q66 66 70 57 Q61 59 56 64Z" fill="#4a8c2e" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M44 63 Q33 58 30 48 Q40 50 45 57Z" fill="#4a8c2e" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M55 57 Q64 51 67 43 Q58 46 54 52Z" fill="#4a8c2e" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Floret buds at top -->
+  <circle cx="50" cy="45" r="9" fill="#285c14" stroke="#333" stroke-width="2.5"/>
+  <circle cx="43" cy="41" r="6" fill="#285c14" stroke="#333" stroke-width="2"/>
+  <circle cx="57" cy="41" r="6" fill="#285c14" stroke="#333" stroke-width="2"/>
+  <circle cx="50" cy="37" r="6" fill="#3a7820" stroke="#333" stroke-width="2"/>
+  <circle cx="32" cy="54" r="7" fill="#285c14" stroke="#333" stroke-width="2"/>
+  <circle cx="70" cy="46" r="7" fill="#285c14" stroke="#333" stroke-width="2"/>
+  <circle cx="36" cy="36" r="6" fill="#285c14" stroke="#333" stroke-width="1.5"/>
+</g>
+  </svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- File folder (labeled) -->
+  <!-- Tab -->
+  <path d="M16,36 L16,32 Q16,28 20,28 L40,28 Q44,28 46,32 L50,36 Z" fill="#5B8CC8" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Body -->
+  <rect x="16" y="36" width="68" height="46" rx="3" fill="#5B8CC8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Label strip -->
+<!-- Label lines (text) -->
+  <line x1="30" y1="49" x2="70" y2="49" stroke="#888" stroke-width="2"/>
+  <line x1="30" y1="54" x2="58" y2="54" stroke="#888" stroke-width="2"/>
+</svg>

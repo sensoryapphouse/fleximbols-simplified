@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-6.213 11.628) scale(1.1243)">
+<!-- Figure left -->
+  <circle cx="25" cy="30" r="7" fill="#f5c5a3" stroke="#333" stroke-width="2"/>
+  <rect x="19" y="38" width="12" height="18" rx="4" fill="#6ab0e8" stroke="#333" stroke-width="2"/>
+  <!-- Figure right -->
+  <circle cx="75" cy="30" r="7" fill="#f5c5a3" stroke="#333" stroke-width="2"/>
+  <rect x="69" y="38" width="12" height="18" rx="4" fill="#9b59b6" stroke="#333" stroke-width="2"/>
+  <!-- Handshake in middle -->
+  <rect x="33" y="45" width="34" height="10" rx="5" fill="#f5c5a3" stroke="#333" stroke-width="2.5"/>
+  <line x1="31" y1="42" x2="25" y2="48" stroke="#f5c5a3" stroke-width="3" stroke-linecap="round"/>
+  <line x1="69" y1="42" x2="75" y2="48" stroke="#f5c5a3" stroke-width="3" stroke-linecap="round"/>
+  <!-- Smiles on faces -->
+  <path d="M21 31 Q25 35 29 31" stroke="#333" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M71 31 Q75 35 79 31" stroke="#333" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Hearts above -->
+  <path d="M50 16 Q50 12 53 12 Q56 12 56 16 Q56 20 50 24 Q44 20 44 16 Q44 12 47 12 Q50 12 50 16 Z" fill="#e87c7c" stroke="#c0392b" stroke-width="1.5"/>
+</g>
+  </svg>

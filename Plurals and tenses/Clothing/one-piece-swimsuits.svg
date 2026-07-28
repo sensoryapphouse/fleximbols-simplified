@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,4.190) scale(0.9581)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-12.358 -19.916) scale(1.2484)">
+<!-- one piece body -->
+  <path d="M30 42 Q32 32 42 28 L50 35 L58 28 Q68 32 70 42 L72 65 Q68 78 50 80 Q32 78 28 65 Z" fill="#2a6ea8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- shoulder straps -->
+  <line x1="42" y1="28" x2="40" y2="20" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <line x1="58" y1="28" x2="60" y2="20" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <!-- v-neck cut -->
+  <path d="M38 35 L50 48 L62 35" fill="none" stroke="#333" stroke-width="2"/>
+  <!-- waist definition seam -->
+  <path d="M30 55 Q50 52 70 55" fill="none" stroke="#1e5888" stroke-width="2"/>
+  <!-- side color panel -->
+  <path d="M30 42 L28 65 L35 65 L36 42 Z" fill="#1e5888" stroke="none"/>
+  <path d="M70 42 L72 65 L65 65 L64 42 Z" fill="#1e5888" stroke="none"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl741" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl741)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

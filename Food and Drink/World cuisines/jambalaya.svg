@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- pan -->
+  <ellipse cx="50" cy="62" rx="36" ry="18" fill="#8B5010" stroke="#5A3000" stroke-width="2.5"/>
+  <!-- pan handle -->
+  <rect x="82" y="58" width="14" height="6" rx="2" fill="#666" stroke="#444" stroke-width="2"/>
+  <!-- rice base with tomato -->
+  <ellipse cx="50" cy="58" rx="32" ry="14" fill="#C84820"/>
+  <!-- rice grains scattered -->
+  <ellipse cx="32" cy="56" rx="3" ry="1.5" fill="#F5F0E0"/>
+  <ellipse cx="42" cy="52" rx="3" ry="1.5" fill="#F5F0E0"/>
+  <ellipse cx="54" cy="54" rx="3" ry="1.5" fill="#F5F0E0"/>
+  <ellipse cx="64" cy="58" rx="3" ry="1.5" fill="#F5F0E0"/>
+  <ellipse cx="40" cy="62" rx="3" ry="1.5" fill="#F5F0E0"/>
+  <ellipse cx="58" cy="64" rx="3" ry="1.5" fill="#F5F0E0"/>
+  <!-- andouille sausage slices -->
+  <circle cx="30" cy="62" r="6" fill="#8B2020" stroke="#5A0A0A" stroke-width="1.5"/>
+  <circle cx="68" cy="55" r="6" fill="#8B2020" stroke="#5A0A0A" stroke-width="1.5"/>
+  <!-- shrimp -->
+  <path d="M44 56 Q40 50 44 46 Q48 42 50 48 Q52 54 46 58 Z" fill="#E87040" stroke="#B85020" stroke-width="1.5"/>
+  <!-- bell pepper pieces -->
+  <path d="M54 62 Q58 56 62 60 Q60 66 56 66 Z" fill="#E84030" stroke="#C02010" stroke-width="1"/>
+  <path d="M36 54 Q40 48 44 52 Q42 58 38 58 Z" fill="#5A9A30" stroke="#3A7010" stroke-width="1"/>
+</svg>

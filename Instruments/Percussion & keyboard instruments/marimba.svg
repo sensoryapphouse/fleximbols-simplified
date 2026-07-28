@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Marimba: wooden bars with tube resonators below -->
+  <!-- Frame rails -->
+  <line x1="8" y1="38" x2="92" y2="38" stroke="#8B4513" stroke-width="3" stroke-linecap="round"/>
+  <line x1="8" y1="48" x2="92" y2="48" stroke="#8B4513" stroke-width="3" stroke-linecap="round"/>
+  <!-- Wooden bars (natural notes - wider/longer) -->
+  <rect x="10" y="30" width="8" height="22" rx="2" fill="#d4a020" stroke="#5a3a10" stroke-width="1.5"/>
+  <rect x="20" y="31" width="8" height="21" rx="2" fill="#d4a020" stroke="#5a3a10" stroke-width="1.5"/>
+  <rect x="30" y="32" width="8" height="20" rx="2" fill="#d4a020" stroke="#5a3a10" stroke-width="1.5"/>
+  <rect x="40" y="33" width="8" height="19" rx="2" fill="#d4a020" stroke="#5a3a10" stroke-width="1.5"/>
+  <rect x="50" y="34" width="8" height="18" rx="2" fill="#d4a020" stroke="#5a3a10" stroke-width="1.5"/>
+  <rect x="60" y="35" width="8" height="17" rx="2" fill="#d4a020" stroke="#5a3a10" stroke-width="1.5"/>
+  <rect x="70" y="36" width="8" height="16" rx="2" fill="#d4a020" stroke="#5a3a10" stroke-width="1.5"/>
+  <rect x="80" y="37" width="8" height="15" rx="2" fill="#d4a020" stroke="#5a3a10" stroke-width="1.5"/>
+  <!-- Accidental bars (sharps/flats - smaller, darker) -->
+  <rect x="15" y="28" width="6" height="14" rx="1" fill="#3a2a10" stroke="#1a0a00" stroke-width="1.5"/>
+  <rect x="35" y="30" width="6" height="13" rx="1" fill="#3a2a10" stroke="#1a0a00" stroke-width="1.5"/>
+  <rect x="55" y="32" width="6" height="12" rx="1" fill="#3a2a10" stroke="#1a0a00" stroke-width="1.5"/>
+  <rect x="65" y="33" width="6" height="12" rx="1" fill="#3a2a10" stroke="#1a0a00" stroke-width="1.5"/>
+  <!-- Resonator tubes hanging below -->
+  <rect x="12" y="52" width="6" height="20" rx="3" fill="#aaa" stroke="#666" stroke-width="1"/>
+  <rect x="22" y="52" width="6" height="18" rx="3" fill="#aaa" stroke="#666" stroke-width="1"/>
+  <rect x="32" y="52" width="6" height="16" rx="3" fill="#aaa" stroke="#666" stroke-width="1"/>
+  <rect x="42" y="52" width="6" height="14" rx="3" fill="#aaa" stroke="#666" stroke-width="1"/>
+  <rect x="52" y="52" width="6" height="13" rx="3" fill="#aaa" stroke="#666" stroke-width="1"/>
+  <rect x="62" y="52" width="6" height="12" rx="3" fill="#aaa" stroke="#666" stroke-width="1"/>
+  <rect x="72" y="52" width="6" height="11" rx="3" fill="#aaa" stroke="#666" stroke-width="1"/>
+  <rect x="82" y="52" width="6" height="10" rx="3" fill="#aaa" stroke="#666" stroke-width="1"/>
+  <!-- Legs -->
+  <line x1="15" y1="73" x2="15" y2="82" stroke="#8B4513" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="85" y1="68" x2="85" y2="77" stroke="#8B4513" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

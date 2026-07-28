@@ -1,0 +1,19 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- diplodocus - very long neck AND very long whip tail, small head -->
+  <!-- very long thin tail going right -->
+  <path d="M76,62 Q88,58 95,50 Q100,44 98,40" fill="none" stroke="#8aaa70" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M76,62 Q88,58 95,50 Q100,44 98,40" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- body -->
+  <ellipse cx="56" cy="66" rx="22" ry="16" fill="#8aaa70" stroke="#333" stroke-width="2.5"/>
+  <!-- long neck going left and up -->
+  <path d="M40,58 Q28,46 18,28 Q14,18 18,12 Q22,8 26,14 Q30,24 38,40 Q44,54 46,60" fill="#8aaa70" stroke="#333" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- small head -->
+  <ellipse cx="18" cy="12" rx="8" ry="5" fill="#8aaa70" stroke="#333" stroke-width="2"/>
+  <circle cx="14" cy="11" r="2" fill="#222"/>
+  <path d="M12,14 Q18,16 24,14" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- legs -->
+  <rect x="38" y="78" width="9" height="18" rx="4" fill="#7a9a60" stroke="#333" stroke-width="2"/>
+  <rect x="50" y="78" width="9" height="16" rx="4" fill="#7a9a60" stroke="#333" stroke-width="2"/>
+  <rect x="62" y="78" width="9" height="16" rx="4" fill="#7a9a60" stroke="#333" stroke-width="2"/>
+  <rect x="74" y="78" width="9" height="18" rx="4" fill="#7a9a60" stroke="#333" stroke-width="2"/>
+</svg>

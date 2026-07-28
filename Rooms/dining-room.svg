@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Floor -->
+  <rect x="5" y="82" width="90" height="6" fill="#d4c4a0" stroke="#8a6030" stroke-width="1.5"/>
+  <!-- Dining table -->
+  <rect x="22" y="48" width="56" height="34" rx="4" fill="#c8a870" stroke="#8a6030" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Table legs -->
+  <rect x="24" y="79" width="5" height="10" fill="#a08050" stroke="#6a4a2a" stroke-width="1.5"/>
+  <rect x="71" y="79" width="5" height="10" fill="#a08050" stroke="#6a4a2a" stroke-width="1.5"/>
+  <!-- Chairs - top side -->
+  <rect x="28" y="36" width="14" height="14" rx="2" fill="#8877aa" stroke="#5a4a77" stroke-width="2"/>
+  <rect x="58" y="36" width="14" height="14" rx="2" fill="#8877aa" stroke="#5a4a77" stroke-width="2"/>
+  <!-- Chair backs top -->
+  <rect x="28" y="28" width="14" height="10" rx="2" fill="#9988bb" stroke="#5a4a77" stroke-width="2"/>
+  <rect x="58" y="28" width="14" height="10" rx="2" fill="#9988bb" stroke="#5a4a77" stroke-width="2"/>
+  <!-- Chairs - bottom side -->
+  <rect x="28" y="80" width="14" height="14" rx="2" fill="#8877aa" stroke="#5a4a77" stroke-width="2"/>
+  <rect x="58" y="80" width="14" height="14" rx="2" fill="#8877aa" stroke="#5a4a77" stroke-width="2"/>
+  <!-- Chair backs bottom -->
+  <rect x="28" y="92" width="14" height="8" rx="2" fill="#9988bb" stroke="#5a4a77" stroke-width="2"/>
+  <rect x="58" y="92" width="14" height="8" rx="2" fill="#9988bb" stroke="#5a4a77" stroke-width="2"/>
+  <!-- Chair left side -->
+  <rect x="8" y="52" width="14" height="26" rx="2" fill="#8877aa" stroke="#5a4a77" stroke-width="2"/>
+  <rect x="4" y="52" width="6" height="26" rx="2" fill="#9988bb" stroke="#5a4a77" stroke-width="2"/>
+  <!-- Chair right side -->
+  <rect x="78" y="52" width="14" height="26" rx="2" fill="#8877aa" stroke="#5a4a77" stroke-width="2"/>
+  <rect x="90" y="52" width="6" height="26" rx="2" fill="#9988bb" stroke="#5a4a77" stroke-width="2"/>
+  <!-- Place settings on table -->
+  <circle cx="38" cy="58" r="6" fill="none" stroke="#888" stroke-width="1.5"/>
+  <line x1="30" y1="54" x2="30" y2="62" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="46" y1="54" x2="46" y2="62" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="62" cy="58" r="6" fill="none" stroke="#888" stroke-width="1.5"/>
+  <line x1="54" y1="54" x2="54" y2="62" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="70" y1="54" x2="70" y2="62" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Central candle/flowers -->
+  <rect x="48" y="60" width="4" height="10" fill="#ffee88" stroke="#cc9900" stroke-width="1"/>
+  <circle cx="50" cy="58" r="4" fill="#ff6688" stroke="#cc3366" stroke-width="1.5"/>
+</svg>

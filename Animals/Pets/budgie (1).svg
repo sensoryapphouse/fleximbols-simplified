@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-8.408 -10.806) scale(1.1693)">
+<!-- Branch / perch -->
+  <rect x="18" y="76" width="64" height="7" rx="3" fill="#8a6040" stroke="#5a3818" stroke-width="2"/>
+  <!-- Tail: short budgie tail -->
+  <path d="M50,73 Q46,82 44,90" stroke="#2060a8" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M50,73 Q54,82 56,90" stroke="#2060a8" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Body: plump -->
+  <ellipse cx="50" cy="61" rx="15" ry="14" fill="#3090d0" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Wing barred pattern -->
+  <path d="M36,58 Q28,62 28,72 Q36,70 42,68" fill="#2878b8" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Wing bars -->
+  <line x1="31" y1="62" x2="41" y2="60" stroke="#1a5888" stroke-width="1.2"/>
+  <line x1="30" y1="66" x2="41" y2="64" stroke="#1a5888" stroke-width="1.2"/>
+  <line x1="30" y1="70" x2="40" y2="68" stroke="#1a5888" stroke-width="1.2"/>
+  <path d="M64,58 Q72,62 72,72 Q64,70 58,68" fill="#2878b8" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="69" y1="62" x2="59" y2="60" stroke="#1a5888" stroke-width="1.2"/>
+  <line x1="70" y1="66" x2="59" y2="64" stroke="#1a5888" stroke-width="1.2"/>
+  <line x1="70" y1="70" x2="60" y2="68" stroke="#1a5888" stroke-width="1.2"/>
+  <!-- Head: round -->
+  <ellipse cx="50" cy="42" rx="14" ry="13" fill="#c8d840" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Black scallop pattern on head/back -->
+  <path d="M40,38 Q44,34 48,38" stroke="#333" stroke-width="1.5" fill="none"/>
+  <path d="M44,36 Q48,32 52,36" stroke="#333" stroke-width="1.5" fill="none"/>
+  <path d="M48,38 Q52,34 56,38" stroke="#333" stroke-width="1.5" fill="none"/>
+  <path d="M36,40 Q40,36 44,40" stroke="#333" stroke-width="1.5" fill="none"/>
+  <!-- Blue cere (nose) -->
+  <ellipse cx="50" cy="44" rx="5" ry="3" fill="#4880d8" stroke="#3060b0" stroke-width="1"/>
+  <!-- Nostrils -->
+  <circle cx="48" cy="43" r="0.8" fill="#333"/>
+  <circle cx="52" cy="43" r="0.8" fill="#333"/>
+  <!-- Bill: small hooked -->
+  <path d="M46,46 Q50,45 54,48 Q52,51 50,51 Q48,51 46,49 Z" fill="#c8a020" stroke="#333" stroke-width="1.5"/>
+  <!-- Eyes -->
+  <circle cx="43" cy="40" r="3.5" fill="white" stroke="#aaa" stroke-width="1"/>
+  <circle cx="43" cy="40" r="2" fill="#222"/>
+  <circle cx="42" cy="39" r="0.7" fill="white"/>
+  <circle cx="57" cy="40" r="3.5" fill="white" stroke="#aaa" stroke-width="1"/>
+  <circle cx="57" cy="40" r="2" fill="#222"/>
+  <circle cx="56" cy="39" r="0.7" fill="white"/>
+  <!-- Throat spots -->
+  <circle cx="46" cy="50" r="1.8" fill="#1840a0"/>
+  <circle cx="50" cy="51" r="1.8" fill="#1840a0"/>
+  <circle cx="54" cy="50" r="1.8" fill="#1840a0"/>
+  <!-- Feet -->
+  <line x1="43" y1="78" x2="39" y2="83" stroke="#666" stroke-width="1.5"/>
+  <line x1="47" y1="78" x2="47" y2="84" stroke="#666" stroke-width="1.5"/>
+  <line x1="53" y1="78" x2="53" y2="84" stroke="#666" stroke-width="1.5"/>
+  <line x1="57" y1="78" x2="61" y2="83" stroke="#666" stroke-width="1.5"/>
+</g>
+  </svg>

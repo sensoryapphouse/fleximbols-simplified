@@ -1,0 +1,14 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Moisturizer jar body -->
+  <path d="M16 65 L16 80 Q16 92 50 92 Q84 92 84 80 L84 65" fill="#e8f0f8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Jar lid -->
+  <ellipse cx="50" cy="65" rx="34" ry="11" fill="#c8d8e8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Cream surface -->
+  <ellipse cx="50" cy="65" rx="26" ry="7" fill="#f0f8ff" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Cream swirl -->
+  <path d="M36 65 Q42 60 50 63 Q58 60 64 65" fill="none" stroke="#a0b8c8" stroke-width="2" stroke-linecap="round"/>
+  <!-- Droplets above (moisture) -->
+  <path d="M40 40 Q43 48 40 54 Q37 48 40 40 Z" fill="#90c8f0" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M50 35 Q53 43 50 49 Q47 43 50 35 Z" fill="#90c8f0" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M60 40 Q63 48 60 54 Q57 48 60 40 Z" fill="#90c8f0" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-3.675 -6.073) scale(1.1160)">
+<!-- umbrella handle -->
+  <path d="M50 75 Q50 82 44 82 Q38 82 38 78" stroke="#4a4a9a" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- umbrella canopy -->
+  <path d="M20 52 Q20 35 50 35 Q80 35 80 52 Z" fill="#6060c0" stroke="#4a4a9a" stroke-width="2.5"/>
+  <path d="M20 52 Q22 48 27 52" stroke="#4a4a9a" stroke-width="1.5" fill="none"/>
+  <path d="M35 48 Q37 44 42 48" stroke="#4a4a9a" stroke-width="1.5" fill="none"/>
+  <path d="M50 47 Q52 43 57 47" stroke="#4a4a9a" stroke-width="1.5" fill="none"/>
+  <path d="M65 48 Q67 44 72 48" stroke="#4a4a9a" stroke-width="1.5" fill="none"/>
+  <!-- rain drops -->
+  <line x1="20" y1="22" x2="16" y2="32" stroke="#4090d0" stroke-width="2" stroke-linecap="round"/>
+  <line x1="35" y1="18" x2="31" y2="28" stroke="#4090d0" stroke-width="2" stroke-linecap="round"/>
+  <line x1="50" y1="20" x2="46" y2="30" stroke="#4090d0" stroke-width="2" stroke-linecap="round"/>
+  <line x1="65" y1="18" x2="61" y2="28" stroke="#4090d0" stroke-width="2" stroke-linecap="round"/>
+  <line x1="80" y1="22" x2="76" y2="32" stroke="#4090d0" stroke-width="2" stroke-linecap="round"/>
+</g>
+  </svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-24.810 -24.810) scale(1.4977)">
+<!-- Capsule shape - two halves -->
+  <!-- Left half (red) -->
+  <path d="M20,50 A18,18 0 0 1 56,50 L56,50 A18,18 0 0 1 20,50 Z" fill="#e74c3c" stroke="#8B1a1a" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M20,50 Q20,32 38,32 L56,32 L56,68 L38,68 Q20,68 20,50 Z" fill="#e74c3c" stroke="#8B1a1a" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Right half (white/cream) -->
+  <path d="M44,32 L62,32 Q80,32 80,50 Q80,68 62,68 L44,68 Z" fill="#f5f5dc" stroke="#8B8B60" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Dividing line -->
+  <line x1="50" y1="32" x2="50" y2="68" stroke="#333" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <!-- Sheen highlight -->
+  <ellipse cx="34" cy="40" rx="6" ry="3" fill="white" opacity="0.5" transform="rotate(-20 34 40)"/>
+  <ellipse cx="64" cy="40" rx="6" ry="3" fill="white" opacity="0.3" transform="rotate(-20 64 40)"/>
+</g>
+  </svg>

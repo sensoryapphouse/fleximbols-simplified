@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Map background -->
+  <rect x="10" y="12" width="80" height="64" rx="4" fill="#c8d8e8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Continents simplified outline -->
+  <!-- Americas -->
+  <path d="M22 22 Q26 18 30 22 Q34 28 32 40 Q30 52 28 58 Q26 62 24 58 Q20 50 20 38 Q18 28 22 22Z" fill="#8aba8a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Europe/Africa -->
+  <path d="M44 20 Q52 18 54 26 Q56 32 52 36 Q48 40 46 48 Q44 56 42 60 Q40 62 38 58 Q36 48 38 40 Q40 30 44 20Z" fill="#8aba8a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Asia/Australia -->
+  <path d="M58 18 Q70 16 76 22 Q80 28 78 36 Q74 40 66 38 Q62 42 60 50 Q58 54 56 50 Q54 40 56 30 Q56 22 58 18Z" fill="#8aba8a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Australia -->
+  <ellipse cx="72" cy="56" rx="8" ry="6" fill="#8aba8a" stroke="#333" stroke-width="1.5"/>
+  <!-- Compass rose -->
+  <circle cx="82" cy="22" r="7" fill="#f5f0e8" stroke="#555" stroke-width="1.5"/>
+  <text x="82" y="19" font-size="5" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#e05555" font-weight="bold">N</text>
+  <text x="82" y="27" font-size="5" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#333">S</text>
+  <text x="78" y="24" font-size="5" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#333">W</text>
+  <text x="86" y="24" font-size="5" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" text-anchor="middle" fill="#333">E</text>
+</svg>

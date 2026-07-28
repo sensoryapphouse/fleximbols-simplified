@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Coiled rattlesnake (Gadsden) on a yellow ground -->
+  <rect x="6" y="6" width="88" height="88" rx="10" fill="#f4d03f" stroke="#333" stroke-width="2.5"/>
+  <!-- Coiled body -->
+  <path d="M50 80
+           C20 80 18 50 40 48
+           C60 46 62 66 48 66
+           C38 66 38 56 48 56"
+        fill="none" stroke="#3a7d44" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50 80
+           C80 80 82 48 56 46
+           C40 44 42 64 52 62"
+        fill="none" stroke="#46945a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Raised head/neck striking up -->
+  <path d="M52 62 C58 50 50 40 44 34" fill="none" stroke="#3a7d44" stroke-width="8" stroke-linecap="round"/>
+  <path d="M44 34 q-7 -6 -2 -12 q6 -2 8 4 q5 -2 7 3 q-2 6 -9 6 z" fill="#3a7d44" stroke="#333" stroke-width="2"/>
+  <!-- eye -->
+  <circle cx="46" cy="26" r="1.8" fill="#222"/>
+  <!-- forked tongue -->
+  <path d="M50 24 l8 -3 m-8 3 l8 1" fill="none" stroke="#c0392b" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- rattle tail -->
+  <path d="M48 66 l-8 6 l3 5 l-7 4" fill="none" stroke="#8a6d3b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,41 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-0.488 -5.664)">
+  <!-- 4WD truck - high clearance, chunky tires -->
+  <path d="M4 72 L4 44 Q4 40 8 40 L14 40 Q22 28 30 26 L70 26 Q78 28 86 34 L94 40 Q97 40 97 44 L97 72 Z" fill="#7a6050" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- roof -->
+  <path d="M22 40 Q26 30 34 27 L70 26 Q78 28 84 34 L92 40 Z" fill="#5a4030" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- roof rack -->
+  <rect x="26" y="22" width="50" height="5" rx="1" fill="#4a3020" stroke="#333" stroke-width="1.5"/>
+  <line x1="36" y1="22" x2="36" y2="27" stroke="#333" stroke-width="1.5"/>
+  <line x1="50" y1="22" x2="50" y2="27" stroke="#333" stroke-width="1.5"/>
+  <line x1="64" y1="22" x2="64" y2="27" stroke="#333" stroke-width="1.5"/>
+  <!-- windows -->
+  <rect x="26" y="28" width="22" height="18" rx="2" fill="#b8d8f0" stroke="#333" stroke-width="1.5"/>
+  <rect x="50" y="28" width="20" height="18" rx="2" fill="#b8d8f0" stroke="#333" stroke-width="1.5"/>
+  <path d="M72 28 Q78 29 84 34 L88 40 L71 40 Z" fill="#b8d8f0" stroke="#333" stroke-width="1.5"/>
+  <!-- door line -->
+  <line x1="50" y1="46" x2="48" y2="72" stroke="#5a4030" stroke-width="2" stroke-linecap="round"/>
+  <!-- nerf bars / step board -->
+  <rect x="6" y="66" width="88" height="5" rx="2" fill="#888" stroke="#333" stroke-width="2"/>
+  <!-- bottom skirt -->
+  <rect x="4" y="68" width="93" height="6" rx="1" fill="#5a4030" stroke="#333" stroke-width="2"/>
+  <!-- large chunky wheels -->
+  <circle cx="22" cy="76" r="15" fill="#333" stroke="#222" stroke-width="2.5"/>
+  <circle cx="22" cy="76" r="9" fill="#888" stroke="#555" stroke-width="2"/>
+  <circle cx="22" cy="76" r="4" fill="#ccc"/>
+  <circle cx="78" cy="76" r="15" fill="#333" stroke="#222" stroke-width="2.5"/>
+  <circle cx="78" cy="76" r="9" fill="#888" stroke="#555" stroke-width="2"/>
+  <circle cx="78" cy="76" r="4" fill="#ccc"/>
+  <!-- headlight -->
+  <rect x="90" y="42" width="6" height="10" rx="2" fill="#e8d050" stroke="#333" stroke-width="1.5"/>
+  <!-- grille -->
+  <rect x="90" y="52" width="6" height="12" rx="1" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <line x1="90" y1="56" x2="96" y2="56" stroke="#444" stroke-width="1"/>
+  <line x1="90" y1="60" x2="96" y2="60" stroke="#444" stroke-width="1"/>
+  <!-- taillight -->
+  <rect x="4" y="42" width="6" height="10" rx="2" fill="#e05050" stroke="#333" stroke-width="1.5"/>
+  <!-- 4WD label badge -->
+  <rect x="36" y="60" width="28" height="10" rx="2" fill="#e8c050" stroke="#333" stroke-width="1.5"/>
+  
+</g>
+  </svg>

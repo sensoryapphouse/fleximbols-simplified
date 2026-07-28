@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- envelope-style clutch (rectangular flat) -->
+  <rect x="12" y="36" width="76" height="44" rx="3" fill="#2c3e7a" stroke="#1a2a5e" stroke-width="2.5"/>
+  <!-- envelope flap top (triangle fold) -->
+  <path d="M12 36 L50 60 L88 36" fill="#3a4e8a" stroke="#1a2a5e" stroke-width="2" stroke-linejoin="round"/>
+  <!-- flap fold line at center -->
+  <line x1="12" y1="58" x2="88" y2="58" stroke="#1a2a5e" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <!-- clasp on flap -->
+  <rect x="43" y="57" width="14" height="6" rx="3" fill="#c8c8c8" stroke="#888" stroke-width="2"/>
+  <circle cx="50" cy="60" r="2" fill="#888"/>
+  <!-- subtle side seam -->
+  <line x1="14" y1="38" x2="14" y2="78" stroke="#1a2a5e" stroke-width="1"/>
+  <line x1="86" y1="38" x2="86" y2="78" stroke="#1a2a5e" stroke-width="1"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl714" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl714)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

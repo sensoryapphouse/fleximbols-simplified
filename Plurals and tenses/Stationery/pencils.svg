@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Pencil body -->
+  <rect x="40" y="14" width="14" height="52" rx="2" fill="#f5c842" stroke="#333" stroke-width="2.5" transform="rotate(10 47 40)"/>
+  <!-- Eraser end (pink) -->
+  <rect x="40" y="14" width="14" height="10" rx="2" fill="#f0a0b0" stroke="#333" stroke-width="2" transform="rotate(10 47 40)"/>
+  <!-- Ferrule (metal band) -->
+  <rect x="40" y="24" width="14" height="5" rx="1" fill="#888" stroke="#333" stroke-width="1.5" transform="rotate(10 47 40)"/>
+  <!-- Wood exposed at tip -->
+  <rect x="40" y="62" width="14" height="10" rx="0" fill="#e8c090" stroke="#333" stroke-width="2" transform="rotate(10 47 40)"/>
+  <!-- Tip/graphite point -->
+  <polygon points="40,72 54,72 47,84" fill="#555" stroke="#333" stroke-width="2" stroke-linejoin="round" transform="rotate(10 47 40)"/>
+  <!-- Label -->
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2983" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2983)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

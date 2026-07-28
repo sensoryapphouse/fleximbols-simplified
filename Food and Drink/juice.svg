@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Glass -->
+  <path d="M28 18 L33 80 L67 80 L72 18 Z" fill="#fff8ee" stroke="#333" stroke-width="2.5"/>
+  <line x1="28" y1="18" x2="72" y2="18" stroke="#333" stroke-width="2.5"/>
+  <!-- Orange juice fill -->
+  <path d="M33 80 L34 38 Q50 32 66 38 L67 80 Z" fill="#ffaa44" opacity="0.8"/>
+  <!-- Wave on top of juice -->
+  <path d="M34 40 Q42 36 50 40 Q58 44 66 40" fill="none" stroke="#ffcc88" stroke-width="2" stroke-linecap="round"/>
+  <!-- Generic fruit symbol -->
+  <circle cx="50" cy="10" r="9" fill="#ffcc44" stroke="#cc8800" stroke-width="2"/>
+  <!-- Leaf -->
+  <path d="M50 1 Q54 4 50 6 Q46 4 50 1" fill="#66aa44" stroke="#448822" stroke-width="1"/>
+</svg>

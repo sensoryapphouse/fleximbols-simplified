@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Console body -->
+  <rect x="15" y="28" width="70" height="44" rx="6" fill="#b0c4de" stroke="#333" stroke-width="2.5"/>
+  <!-- Screen -->
+  <rect x="22" y="34" width="35" height="24" rx="3" fill="#1a1a2e" stroke="#333" stroke-width="2"/>
+  <!-- Screen glow -->
+  <rect x="24" y="36" width="31" height="20" rx="2" fill="#0d3b6e"/>
+  <!-- D-pad -->
+  <rect x="62" y="43" width="7" height="3" rx="1" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <rect x="64.5" y="40.5" width="3" height="7" rx="1" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <!-- Buttons -->
+  <circle cx="63" cy="51" r="2" fill="#e74c3c" stroke="#333" stroke-width="1.5"/>
+  <circle cx="68" cy="49" r="2" fill="#27ae60" stroke="#333" stroke-width="1.5"/>
+  <!-- Disc slot -->
+  <rect x="30" y="62" width="20" height="3" rx="1.5" fill="#888" stroke="#555" stroke-width="1"/>
+  <!-- Power LED -->
+  <circle cx="75" cy="65" r="2" fill="#2ecc71" stroke="#333" stroke-width="1"/>
+  <!-- Label -->
+  
+</svg>

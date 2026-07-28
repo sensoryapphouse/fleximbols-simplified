@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- head -->
+<circle cx="50" cy="42" r="20" fill="#f5e8c8" stroke="#886644" stroke-width="2"/>
+<!-- headgear strap over head -->
+<path d="M30,38 Q20,25 35,18 Q50,14 65,18 Q80,25 70,38" fill="none" stroke="#888899" stroke-width="3" stroke-linecap="round"/>
+<!-- facebow (metal bar) -->
+<line x1="33" y1="46" x2="28" y2="46" stroke="#888899" stroke-width="3" stroke-linecap="round"/>
+<line x1="67" y1="46" x2="72" y2="46" stroke="#888899" stroke-width="3" stroke-linecap="round"/>
+<path d="M28,46 Q25,38 30,34" fill="none" stroke="#888899" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M72,46 Q75,38 70,34" fill="none" stroke="#888899" stroke-width="2.5" stroke-linecap="round"/>
+<!-- teeth/mouth line -->
+<line x1="38" y1="52" x2="62" y2="52" stroke="#886644" stroke-width="2" stroke-linecap="round"/>
+<!-- strap going back around head -->
+<path d="M30,34 Q14,38 16,52 Q18,62 30,60" fill="none" stroke="#cc8844" stroke-width="3" stroke-linecap="round"/>
+<path d="M70,34 Q86,38 84,52 Q82,62 70,60" fill="none" stroke="#cc8844" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Glass with lemonade -->
+  <path d="M28 22 L33 80 L67 80 L72 22 Z" fill="#fffff0" stroke="#333" stroke-width="2.5"/>
+  <line x1="28" y1="22" x2="72" y2="22" stroke="#333" stroke-width="2.5"/>
+  <!-- Lemonade fill - pale yellow -->
+  <path d="M33 80 L34 40 Q50 34 66 40 L67 80 Z" fill="#ffee66" opacity="0.8"/>
+  <!-- Wave -->
+  <path d="M34 40 Q42 37 50 40 Q58 43 66 40" fill="none" stroke="#ffff99" stroke-width="2" stroke-linecap="round"/>
+  <!-- Straw -->
+  <rect x="60" y="16" width="4" height="50" rx="2" fill="#ffaaaa" stroke="#cc8888" stroke-width="1"/>
+  <!-- Lemon slice on rim -->
+  <circle cx="32" cy="22" r="12" fill="#ffee33" stroke="#cc9900" stroke-width="2"/>
+  <path d="M32 10 L32 34" stroke="#cc9900" stroke-width="1.5"/>
+  <path d="M21 16 L43 28" stroke="#cc9900" stroke-width="1.5"/>
+  <path d="M43 16 L21 28" stroke="#cc9900" stroke-width="1.5"/>
+  <circle cx="32" cy="22" r="4" fill="#fffae0" stroke="#cc9900" stroke-width="1"/>
+</svg>

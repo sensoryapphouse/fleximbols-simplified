@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-16.238 -35.531) scale(1.4264)">
+<!-- Rectangular sponge cake - two slices -->
+  <!-- Back slice -->
+  <rect x="28" y="42" width="50" height="30" rx="3" fill="#e8a820" stroke="#8a5808" stroke-width="2.5"/>
+  <!-- Dark top crust -->
+  <rect x="28" y="42" width="50" height="8" rx="3" fill="#8a5808" stroke="#5a3005" stroke-width="2"/>
+  <!-- Sponge interior visible on cut face -->
+  <rect x="28" y="50" width="50" height="22" rx="2" fill="#f0c840"/>
+  <!-- Front slice (angled to show 3D) -->
+  <rect x="15" y="48" width="48" height="30" rx="3" fill="#e8a820" stroke="#8a5808" stroke-width="2.5"/>
+  <!-- Dark top crust -->
+  <rect x="15" y="48" width="48" height="8" rx="3" fill="#8a5808" stroke="#5a3005" stroke-width="2"/>
+  <!-- Sponge interior -->
+  <rect x="15" y="56" width="48" height="22" rx="2" fill="#f0c840"/>
+  <!-- Air bubble texture -->
+  <circle cx="28" cy="64" r="2" fill="#e0b030" opacity="0.7"/>
+  <circle cx="38" cy="70" r="1.5" fill="#e0b030" opacity="0.7"/>
+  <circle cx="48" cy="62" r="2" fill="#e0b030" opacity="0.7"/>
+  <circle cx="56" cy="68" r="1.5" fill="#e0b030" opacity="0.7"/>
+</g>
+  </svg>

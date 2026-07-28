@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,20.350) scale(0.7965)">
+<!-- Road going into distance (perspective) -->
+  <polygon points="30,78 70,78 58,12 42,12" fill="#888" stroke="#333" stroke-width="2"/>
+  <!-- Road edge lines -->
+  <polygon points="30,78 34,78 52,12 42,12" fill="#e8e0d0"/>
+  <polygon points="70,78 66,78 48,12 58,12" fill="#e8e0d0"/>
+  <!-- Centre line (dashes, perspective) -->
+  <line x1="50" y1="14" x2="50" y2="26" stroke="white" stroke-width="2"/>
+  <line x1="50" y1="30" x2="50" y2="46" stroke="white" stroke-width="2.5"/>
+  <line x1="50" y1="51" x2="50" y2="68" stroke="white" stroke-width="3"/>
+  <!-- Ground on sides -->
+  <polygon points="0,78 30,78 42,12 0,12" fill="#8ab870"/>
+  <polygon points="100,78 70,78 58,12 100,12" fill="#8ab870"/>
+  <!-- Label -->
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3481" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3481)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

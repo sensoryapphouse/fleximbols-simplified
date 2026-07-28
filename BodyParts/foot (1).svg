@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Human foot, side profile, pointing right, standing on ground -->
+<!-- Ankle / lower leg -->
+  <path d="M22 14 L40 14 L42 40 Q42 48 30 48 L22 46 Z" fill="#f5c5a3" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<!-- Foot body: heel at left, arch, ball, toes to the right -->
+  <path d="M22 46
+           Q14 48 14 60
+           Q14 74 26 78
+           L78 80
+           Q88 80 88 73
+           Q88 66 80 64
+           Q60 62 52 56
+           Q46 50 44 44
+           Q40 44 34 46 Z"
+        fill="#f5c5a3" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+<!-- Arch underside curve highlight -->
+  <path d="M30 76 Q42 66 54 66" fill="none" stroke="#e8b79a" stroke-width="2.5" stroke-linecap="round"/>
+<!-- Toes along the front (big toe at far right) -->
+  <ellipse cx="84" cy="72" rx="6" ry="7.5" fill="#f5c5a3" stroke="#333" stroke-width="2.2"/>
+  <circle cx="75" cy="76" r="3.5" fill="#f5c5a3" stroke="#333" stroke-width="2"/>
+  <circle cx="68" cy="78" r="3" fill="#f5c5a3" stroke="#333" stroke-width="2"/>
+  <circle cx="61" cy="79" r="2.6" fill="#f5c5a3" stroke="#333" stroke-width="2"/>
+  <circle cx="55" cy="79" r="2.2" fill="#f5c5a3" stroke="#333" stroke-width="2"/>
+<!-- Big toenail -->
+  <ellipse cx="86" cy="69" rx="2.5" ry="3" fill="#fbe3d2" stroke="#d9a98a" stroke-width="1"/>
+<!-- Ankle bone hint -->
+  <circle cx="30" cy="50" r="2.5" fill="#e8b79a" opacity="0.6"/>
+<!-- Ground line -->
+  <line x1="10" y1="86" x2="92" y2="86" stroke="#7f8c8d" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

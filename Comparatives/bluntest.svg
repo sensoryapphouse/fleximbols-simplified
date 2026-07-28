@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,15.090) scale(0.8491)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-13.179 -12.994) scale(1.2648)">
+<!-- Blunt tool / pencil with rounded tip -->
+  <!-- Body of pencil/rod -->
+  <rect x="38" y="28" width="24" height="44" rx="3" fill="#e8c870" stroke="#333" stroke-width="2.5"/>
+  <!-- Rounded blunt tip at bottom -->
+  <ellipse cx="50" cy="72" rx="12" ry="7" fill="#d4b450" stroke="#333" stroke-width="2.5"/>
+  <!-- Top flat eraser -->
+  <rect x="38" y="22" width="24" height="8" rx="3" fill="#e88888" stroke="#333" stroke-width="2"/>
+  <!-- Comparison - sharp arrow crossed out nearby -->
+  <line x1="74" y1="60" x2="82" y2="30" stroke="#c8c8c8" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="82,30 78,36 84,36" fill="#c8c8c8"/>
+  <line x1="70" y1="25" x2="86" y2="65" stroke="#e06060" stroke-width="2" stroke-linecap="round"/>
+  <line x1="86" y1="25" x2="70" y2="65" stroke="#e06060" stroke-width="2" stroke-linecap="round"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.195312) translate(360 8) scale(0.2812)"><path d="M 256,44 L 300,178 L 441,178 L 327,262 L 370,396 L 256,313 L 142,396 L 185,262 L 71,178 L 212,178 Z" fill="#f0b400" stroke="#1a1a1a" stroke-width="26" stroke-linejoin="round"/><rect x="86" y="412" width="340" height="72" rx="16" fill="#3fae5a" stroke="#1a1a1a" stroke-width="26"/></g></svg>

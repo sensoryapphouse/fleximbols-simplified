@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-29.844 -34.219) scale(1.6000)">
+<!-- stem -->
+  <line x1="50" y1="80" x2="50" y2="60" stroke="#4a7c3f" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- 5 petals trumpet-shaped -->
+  <ellipse cx="50" cy="42" rx="11" ry="16" fill="#c05fa0" stroke="#333" stroke-width="2" transform="rotate(0,50,42)"/>
+  <ellipse cx="50" cy="42" rx="11" ry="16" fill="#c05fa0" stroke="#333" stroke-width="2" transform="rotate(72,50,54)"/>
+  <ellipse cx="50" cy="42" rx="11" ry="16" fill="#c05fa0" stroke="#333" stroke-width="2" transform="rotate(144,50,54)"/>
+  <ellipse cx="50" cy="42" rx="11" ry="16" fill="#c05fa0" stroke="#333" stroke-width="2" transform="rotate(216,50,54)"/>
+  <ellipse cx="50" cy="42" rx="11" ry="16" fill="#c05fa0" stroke="#333" stroke-width="2" transform="rotate(288,50,54)"/>
+  <!-- center -->
+  <circle cx="50" cy="54" r="8" fill="#f7e0f0" stroke="#333" stroke-width="2"/>
+  <circle cx="50" cy="54" r="3" fill="#f5c518" stroke="#333" stroke-width="1.5"/>
+  <!-- leaf -->
+  <ellipse cx="38" cy="72" rx="7" ry="4" fill="#6ab04c" stroke="#333" stroke-width="1.5" transform="rotate(-30,38,72)"/>
+</g>
+  </svg>

@@ -1,0 +1,23 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sun (center) -->
+  <circle cx="50" cy="50" r="10" fill="#f8c020" stroke="#222" stroke-width="2"/>
+  <!-- Orbits -->
+  <circle cx="50" cy="50" r="18" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="3,3"/>
+  <circle cx="50" cy="50" r="26" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="3,3"/>
+  <circle cx="50" cy="50" r="34" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="3,3"/>
+  <circle cx="50" cy="50" r="42" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="3,3"/>
+  <!-- Mercury -->
+  <circle cx="68" cy="50" r="2.5" fill="#a8a0a0" stroke="#222" stroke-width="1.5"/>
+  <!-- Venus -->
+  <circle cx="50" cy="24" r="3" fill="#e8d890" stroke="#222" stroke-width="1.5"/>
+  <!-- Earth -->
+  <circle cx="27" cy="42" r="3.5" fill="#4878c0" stroke="#222" stroke-width="1.5"/>
+  <!-- Mars -->
+  <circle cx="50" cy="84" r="3" fill="#c84820" stroke="#222" stroke-width="1.5"/>
+  <!-- Jupiter (off edge, shown partially) -->
+  <circle cx="92" cy="50" r="7" fill="#d4a870" stroke="#222" stroke-width="1.5"/>
+  <path d="M 85 48 Q 92 46 99 48" stroke="#b07840" stroke-width="1.5" fill="none"/>
+  <!-- Saturn with rings hint -->
+  <circle cx="50" cy="8" r="5" fill="#e0c878" stroke="#222" stroke-width="1.5"/>
+  <line x1="42" y1="8" x2="58" y2="8" stroke="#b8a060" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

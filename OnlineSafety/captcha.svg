@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Captcha box -->
+  <rect x="10" y="22" width="80" height="44" rx="4" fill="#e8e8e8" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Distorted text lines (captcha effect) -->
+  <text x="20" y="52" font-size="20" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold" fill="#7ec8e3" transform="rotate(-8 20 52)">A</text>
+  <text x="34" y="48" font-size="20" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold" fill="#e57373" transform="rotate(5 34 48)">3</text>
+  <text x="47" y="54" font-size="20" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold" fill="#333" transform="rotate(-4 47 54)">X</text>
+  <text x="60" y="46" font-size="20" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="bold" fill="#c8a028" transform="rotate(10 60 46)">7</text>
+  <!-- Strike-through lines for distortion -->
+  <line x1="12" y1="38" x2="88" y2="42" stroke="#bbb" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="12" y1="52" x2="88" y2="48" stroke="#bbb" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Robot / human check checkbox -->
+<polyline points="14,78 18,82 22,74" fill="none" stroke="#2e7d32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="30" y="82" font-size="7" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#333">I am not a robot</text>
+</svg>

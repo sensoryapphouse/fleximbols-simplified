@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,2.700) scale(0.973)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-15.079 -19.076) scale(1.2991)">
+<!-- eggplant/aubergine body - deep purple, pear shaped -->
+  <path d="M50 75 Q26 75 24 55 Q24 35 50 30 Q76 35 76 55 Q76 75 50 75 Z" fill="#5a2878" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- calyx at top -->
+  <path d="M50 30 Q44 22 40 18 Q46 24 50 22 Q54 24 60 18 Q56 22 50 30 Z" fill="#4a9830" stroke="#333" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M50 30 Q40 24 36 20 Q42 28 50 30 Z" fill="#5aaa38" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M50 30 Q60 24 64 20 Q58 28 50 30 Z" fill="#5aaa38" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- stem -->
+  <rect x="47" y="18" width="6" height="12" rx="2" fill="#4a9830" stroke="#333" stroke-width="1.5"/>
+  <!-- highlight -->
+  <ellipse cx="36" cy="48" rx="7" ry="12" fill="#7a3898" opacity="0.5"/>
+  <ellipse cx="34" cy="45" rx="3" ry="5" fill="white" opacity="0.25"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1644" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1644)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

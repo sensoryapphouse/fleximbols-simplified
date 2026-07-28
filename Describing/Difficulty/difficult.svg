@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Many steps (staircase) -->
+  <rect x="10" y="65" width="15" height="8" rx="1" fill="#d0a870" stroke="#333" stroke-width="2"/>
+  <rect x="10" y="55" width="15" height="10" rx="1" fill="#d0a870" stroke="#333" stroke-width="2"/>
+  <rect x="25" y="55" width="15" height="8" rx="1" fill="#d0a870" stroke="#333" stroke-width="2"/>
+  <rect x="25" y="43" width="15" height="12" rx="1" fill="#d0a870" stroke="#333" stroke-width="2"/>
+  <rect x="40" y="43" width="15" height="8" rx="1" fill="#d0a870" stroke="#333" stroke-width="2"/>
+  <rect x="40" y="29" width="15" height="14" rx="1" fill="#d0a870" stroke="#333" stroke-width="2"/>
+  <rect x="55" y="29" width="15" height="8" rx="1" fill="#d0a870" stroke="#333" stroke-width="2"/>
+  <!-- Sweat drop face -->
+  <circle cx="80" cy="25" r="12" fill="#f8e070" stroke="#333" stroke-width="2"/>
+  <circle cx="76" cy="22" r="1.5" fill="#333"/>
+  <circle cx="84" cy="22" r="1.5" fill="#333"/>
+  <path d="M76 29 Q80 27 84 29" stroke="#333" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Sweat drop -->
+  <path d="M88 20 Q91 16 88 13 Q85 16 88 20 Z" fill="#6090e0"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,13.270) scale(0.8673)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Colorful gas cloud -->
+  <!-- Outer tendrils -->
+  <ellipse cx="50" cy="48" rx="44" ry="36" fill="#3a1a5a" opacity="0.6"/>
+  <ellipse cx="40" cy="42" rx="30" ry="22" fill="#5a1a6a" opacity="0.6"/>
+  <ellipse cx="62" cy="54" rx="28" ry="20" fill="#1a3a7a" opacity="0.6"/>
+  <!-- Core glow regions -->
+  <ellipse cx="50" cy="45" rx="20" ry="16" fill="#8a2898" opacity="0.7"/>
+  <ellipse cx="42" cy="50" rx="16" ry="12" fill="#2050c0" opacity="0.6"/>
+  <ellipse cx="58" cy="42" rx="14" ry="10" fill="#c82050" opacity="0.5"/>
+  <!-- Bright core -->
+  <ellipse cx="50" cy="46" rx="10" ry="8" fill="#e060c0" opacity="0.8"/>
+  <circle cx="52" cy="44" r="5" fill="#f0a0e0" opacity="0.8"/>
+  <!-- Embedded stars -->
+  <circle cx="50" cy="44" r="2.5" fill="white"/>
+  <circle cx="38" cy="38" r="1.5" fill="white" opacity="0.9"/>
+  <circle cx="65" cy="50" r="1.5" fill="white" opacity="0.9"/>
+  <circle cx="44" cy="60" r="1" fill="white" opacity="0.8"/>
+  <circle cx="62" cy="35" r="1" fill="white" opacity="0.8"/>
+  <!-- Scattered stars in background -->
+  <circle cx="15" cy="15" r="0.8" fill="white" opacity="0.7"/>
+  <circle cx="82" cy="12" r="0.8" fill="white" opacity="0.7"/>
+  <circle cx="8" cy="70" r="0.8" fill="white" opacity="0.6"/>
+  <circle cx="90" cy="75" r="0.8" fill="white" opacity="0.6"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3031" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3031)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,20 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Cassava - long brown root cluster with fibrous look, shown with leaves above -->
+  <!-- Roots -->
+  <path d="M50 55 Q40 58 32 72 Q26 84 30 92 Q35 98 40 94 Q45 88 46 75 Q48 62 50 55 Z"
+        fill="#8a6030" stroke="#4a3010" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M50 55 Q50 65 48 80 Q46 92 50 97 Q54 100 58 95 Q62 88 60 75 Q58 62 50 55 Z"
+        fill="#9a7040" stroke="#4a3010" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M50 55 Q60 58 68 72 Q74 84 70 92 Q65 98 60 94 Q55 88 54 75 Q52 62 50 55 Z"
+        fill="#8a6030" stroke="#4a3010" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Stem -->
+  <line x1="50" y1="55" x2="50" y2="25" stroke="#5a3a10" stroke-width="4" stroke-linecap="round"/>
+  <!-- Palmate leaves -->
+  <path d="M50 30 Q36 18 28 22 Q30 30 50 30 Z" fill="#3a7a2a" stroke="#1a4a0a" stroke-width="2"/>
+  <path d="M50 30 Q34 24 30 32 Q36 36 50 30 Z" fill="#3a7a2a" stroke="#1a4a0a" stroke-width="2"/>
+  <path d="M50 30 Q40 40 38 50 Q44 50 50 30 Z" fill="#3a7a2a" stroke="#1a4a0a" stroke-width="2"/>
+  <path d="M50 30 Q64 18 72 22 Q70 30 50 30 Z" fill="#4a8a3a" stroke="#1a4a0a" stroke-width="2"/>
+  <path d="M50 30 Q66 24 70 32 Q64 36 50 30 Z" fill="#4a8a3a" stroke="#1a4a0a" stroke-width="2"/>
+  <path d="M50 30 Q60 40 62 50 Q56 50 50 30 Z" fill="#4a8a3a" stroke="#1a4a0a" stroke-width="2"/>
+  <path d="M50 30 Q50 15 50 8 Q48 14 50 30 Z" fill="#3a7a2a" stroke="#1a4a0a" stroke-width="2"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-29.922 -44.297) scale(1.6000)">
+<!-- Bin body -->
+  <path d="M26,44 L28,80 Q50,84 72,80 L74,44 Z" fill="#7AB87A" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Bin lid -->
+  <rect x="22" y="36" width="56" height="10" rx="3" fill="#5A9A5A" stroke="#333" stroke-width="2"/>
+  <!-- Recycle arrows on bin -->
+  <path d="M50,50 L44,60 L48,60 Q48,68 56,68 Q58,68 60,67 L57,64 Q56,65 55,65 Q52,65 52,62 L56,62 Z" fill="white" stroke="none"/>
+  <path d="M50,50 L56,60 L52,60 Q52,68 44,68 Q42,68 40,67 L43,64 Q44,65 45,65 Q48,65 48,62 L44,62 Z" fill="white" stroke="none"/>
+  <!-- Arrow cycle outline -->
+  <path d="M50,48 L43,60 L49,60 Q48,70 58,70 L56,66 Q54,66 53,64 L57,64 Z" fill="white" stroke="#2A6A2A" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M50,48 L57,60 L51,60 Q52,70 42,70 L44,66 Q46,66 47,64 L43,64 Z" fill="white" stroke="#2A6A2A" stroke-width="1.5" stroke-linejoin="round"/>
+</g>
+  </svg>

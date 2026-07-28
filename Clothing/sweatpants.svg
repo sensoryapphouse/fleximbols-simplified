@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Waistband -->
+  <rect x="20" y="14" width="60" height="10" rx="4" fill="#666" stroke="#333" stroke-width="2"/>
+  <!-- Pants body - loose/wide -->
+  <path d="M20,24 L20,55 L42,55 L50,72 L58,55 L80,55 L80,24 Z" fill="#aabbcc" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Loose legs (wider than joggers) -->
+  <path d="M20,55 L26,84 L44,84 L42,55" fill="#aabbcc" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M80,55 L74,84 L56,84 L58,55" fill="#aabbcc" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Drawstring -->
+  <line x1="44" y1="18" x2="42" y2="26" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="56" y1="18" x2="58" y2="26" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

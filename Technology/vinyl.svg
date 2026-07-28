@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- vinyl record - black disc -->
+  <circle cx="50" cy="50" r="40" fill="#2c3e50" stroke="#2c3e50" stroke-width="2.5"/>
+  <!-- groove rings -->
+  <circle cx="50" cy="50" r="36" fill="none" stroke="#34495e" stroke-width="1"/>
+  <circle cx="50" cy="50" r="30" fill="none" stroke="#34495e" stroke-width="1"/>
+  <circle cx="50" cy="50" r="24" fill="none" stroke="#34495e" stroke-width="1"/>
+  <!-- centre label area -->
+  <circle cx="50" cy="50" r="16" fill="#e74c3c" stroke="#2c3e50" stroke-width="1.5"/>
+  <!-- label text area -->
+  <circle cx="50" cy="50" r="12" fill="#c0392b"/>
+  <!-- label details -->
+  <line x1="38" y1="50" x2="62" y2="50" stroke="#f5b7b1" stroke-width="1" opacity="0.7"/>
+  <line x1="42" y1="44" x2="58" y2="44" stroke="#f5b7b1" stroke-width="1" opacity="0.5"/>
+  <line x1="42" y1="56" x2="58" y2="56" stroke="#f5b7b1" stroke-width="1" opacity="0.5"/>
+  <!-- centre spindle hole -->
+  <circle cx="50" cy="50" r="3" fill="#2c3e50"/>
+  <!-- light reflection on disc surface -->
+  <path d="M 20 28 Q 24 22 30 26" fill="none" stroke="#5d6d7e" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+</svg>

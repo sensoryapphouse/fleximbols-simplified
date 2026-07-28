@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Waistband -->
+  <rect x="20" y="16" width="60" height="9" rx="2" fill="#1a3a6a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Belt loops -->
+  <rect x="26" y="14" width="4" height="12" rx="1" fill="#0a2a5a" stroke="#333" stroke-width="1"/>
+  <rect x="70" y="14" width="4" height="12" rx="1" fill="#0a2a5a" stroke="#333" stroke-width="1"/>
+  <!-- Jean body -->
+  <path d="M20 25 L20 55 L50 55 L80 55 L80 25 Z" fill="#2a5a9a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Left leg -->
+  <path d="M20 55 L38 55 L42 82 L14 82 Z" fill="#2a5a9a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Right leg -->
+  <path d="M80 55 L62 55 L58 82 L86 82 Z" fill="#2a5a9a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Stitching detail -->
+  <line x1="28" y1="25" x2="24" y2="82" stroke="#e8c830" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="72" y1="25" x2="76" y2="82" stroke="#e8c830" stroke-width="1" stroke-dasharray="3,2"/>
+  <!-- Pocket stitching -->
+  <path d="M60 26 Q72 26 74 36 L60 36" fill="none" stroke="#e8c830" stroke-width="1" stroke-dasharray="2,2"/>
+</svg>

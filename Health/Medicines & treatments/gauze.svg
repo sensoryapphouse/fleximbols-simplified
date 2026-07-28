@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.346 -18.212) scale(1.3656)">
+<!-- Gauze roll -->
+  <ellipse cx="70" cy="50" rx="14" ry="18" fill="#f5f5dc" stroke="#999" stroke-width="2.5"/>
+  <ellipse cx="70" cy="50" rx="8" ry="12" fill="#e8e8c8" stroke="#888" stroke-width="1.5"/>
+  <!-- Gauze strip unrolling left -->
+  <rect x="20" y="42" width="52" height="16" rx="2" fill="#f5f5dc" stroke="#999" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Woven mesh texture on strip -->
+  <line x1="28" y1="42" x2="28" y2="58" stroke="#aaa" stroke-width="1"/>
+  <line x1="36" y1="42" x2="36" y2="58" stroke="#aaa" stroke-width="1"/>
+  <line x1="44" y1="42" x2="44" y2="58" stroke="#aaa" stroke-width="1"/>
+  <line x1="52" y1="42" x2="52" y2="58" stroke="#aaa" stroke-width="1"/>
+  <line x1="20" y1="46" x2="72" y2="46" stroke="#aaa" stroke-width="1"/>
+  <line x1="20" y1="50" x2="72" y2="50" stroke="#aaa" stroke-width="1"/>
+  <line x1="20" y1="54" x2="72" y2="54" stroke="#aaa" stroke-width="1"/>
+  <!-- Left end curling slightly -->
+  <path d="M20,42 Q16,50 20,58" fill="#f5f5dc" stroke="#999" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+  </svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Left strap going up-left -->
+  <path d="M35 80 Q30 60 25 40 Q22 28 20 18" stroke="#8B1A14" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Right strap going up-right -->
+  <path d="M65 80 Q70 60 75 40 Q78 28 80 18" stroke="#8B1A14" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Cross connector (Y shape) -->
+  <path d="M25 40 Q50 48 75 40" stroke="#8B1A14" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Bottom clips -->
+  <rect x="28" y="77" width="14" height="7" rx="2" fill="#C8A000" stroke="#7A6000" stroke-width="2"/>
+  <rect x="58" y="77" width="14" height="7" rx="2" fill="#C8A000" stroke="#7A6000" stroke-width="2"/>
+  <!-- Top clips -->
+  <rect x="14" y="14" width="12" height="7" rx="2" fill="#C8A000" stroke="#7A6000" stroke-width="2"/>
+  <rect x="74" y="14" width="12" height="7" rx="2" fill="#C8A000" stroke="#7A6000" stroke-width="2"/>
+  <!-- Label -->
+</svg>

@@ -1,0 +1,20 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Fanzine: like zine but with a star/fan element -->
+  <rect x="22" y="10" width="58" height="80" rx="3" fill="#e8eaf6" stroke="#333" stroke-width="2.5"/>
+  <rect x="22" y="10" width="9" height="80" rx="2" fill="#3949ab" stroke="#333" stroke-width="2.5"/>
+  <!-- Star/fan burst -->
+  <polygon points="61,30 63,36 69,33 66,39 72,40 66,43 69,49 63,46 61,52 59,46 53,49 56,43 50,40 56,39 53,33 59,36" fill="#ffd600" stroke="#f9a825" stroke-width="1.5"/>
+  <!-- Fan/music note inside star area -->
+  <circle cx="61" cy="40" r="4" fill="#e53935" stroke="#c62828" stroke-width="1"/>
+  <!-- Scrapbook style torn paper bits -->
+  <path d="M30 20 L46 20 L44 36 L28 36 Z" fill="#fff9c4" stroke="#f9a825" stroke-width="1.5"/>
+  <line x1="32" y1="24" x2="43" y2="24" stroke="#888" stroke-width="1"/>
+  <line x1="32" y1="29" x2="43" y2="29" stroke="#888" stroke-width="1"/>
+  <!-- Clippings area -->
+  <line x1="30" y1="44" x2="74" y2="44" stroke="#9fa8da" stroke-width="1.5"/>
+  <line x1="30" y1="52" x2="74" y2="52" stroke="#9fa8da" stroke-width="1.5"/>
+  <line x1="30" y1="60" x2="74" y2="60" stroke="#9fa8da" stroke-width="1.5"/>
+  <line x1="30" y1="68" x2="60" y2="68" stroke="#9fa8da" stroke-width="1.5"/>
+  <!-- Exclamation/fan excitement -->
+  
+</svg>

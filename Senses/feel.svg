@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.210 -14.856) scale(1.4056)">
+<!-- Large heart in center -->
+  <path d="M50 72 C20 54 14 36 26 26 C34 20 44 24 50 32 C56 24 66 20 74 26 C86 36 80 54 50 72Z" fill="#f08080" stroke="#333" stroke-width="2.5"/>
+  <!-- Hands cupping the heart from below -->
+  <!-- Left hand -->
+  <path d="M18 62 C16 56 20 52 24 52 L34 52 L36 56 L24 58 C22 58 20 60 20 62 C20 64 22 66 24 66 L38 66 L38 62Z" fill="#f5c8a0" stroke="#333" stroke-width="1.5"/>
+  <!-- Right hand -->
+  <path d="M82 62 C84 56 80 52 76 52 L66 52 L64 56 L76 58 C78 58 80 60 80 62 C80 64 78 66 76 66 L62 66 L62 62Z" fill="#f5c8a0" stroke="#333" stroke-width="1.5"/>
+  <!-- Pulse line inside heart -->
+  <path d="M32 50 L38 50 L42 42 L46 56 L50 46 L54 52 L58 50 L68 50" fill="none" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+  </svg>

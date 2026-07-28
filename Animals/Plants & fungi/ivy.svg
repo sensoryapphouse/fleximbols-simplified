@@ -1,0 +1,16 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(-21.232 4.268) scale(1.0180)">
+<!-- wall -->
+  <rect x="55" y="15" width="30" height="60" fill="#d4c9b0" stroke="#999" stroke-width="1.5"/>
+  <!-- ivy stem up wall -->
+  <path d="M50 80 Q58 65 60 50 Q62 38 65 25" stroke="#3d7a28" stroke-width="2" fill="none"/>
+  <!-- ivy leaves on wall -->
+  <path d="M62 48 L55 42 L58 35 L66 38 Z" fill="#5a9e3a" stroke="#2d5a1b" stroke-width="1.5"/>
+  <path d="M64 62 L56 56 L59 49 L67 52 Z" fill="#4a8a2a" stroke="#2d5a1b" stroke-width="1.5"/>
+  <path d="M66 30 L58 26 L60 19 L68 22 Z" fill="#5a9e3a" stroke="#2d5a1b" stroke-width="1.5"/>
+  <!-- ground ivy leaves -->
+  <path d="M48 76 L38 70 L40 62 L50 65 Z" fill="#5a9e3a" stroke="#2d5a1b" stroke-width="1.5"/>
+  <path d="M42 68 L32 65 L35 57 L44 60 Z" fill="#4a8a2a" stroke="#2d5a1b" stroke-width="1.5"/>
+  <path d="M35 62 L25 60 L28 52 L37 55 Z" fill="#5a9e3a" stroke="#2d5a1b" stroke-width="1.5"/>
+</g>
+  </svg>

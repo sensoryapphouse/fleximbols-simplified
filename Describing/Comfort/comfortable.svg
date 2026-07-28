@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Armchair -->
+  <rect x="15" y="62" width="70" height="22" rx="6" fill="#ddbbee" stroke="#9977cc" stroke-width="2"/>
+  <!-- Chair back -->
+  <rect x="15" y="40" width="12" height="44" rx="6" fill="#ddbbee" stroke="#9977cc" stroke-width="2"/>
+  <rect x="73" y="40" width="12" height="44" rx="6" fill="#ddbbee" stroke="#9977cc" stroke-width="2"/>
+  <!-- Person sitting in chair -->
+  <circle cx="50" cy="38" r="16" fill="#ffe0a0" stroke="#333" stroke-width="2"/>
+  <!-- Happy closed eyes -->
+  <path d="M42 35 Q46 32 50 35" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <path d="M50 35 Q54 32 58 35" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Content smile -->
+  <path d="M42 42 Q50 48 58 42" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- Body in chair -->
+  <ellipse cx="50" cy="60" rx="14" ry="10" fill="#aaccee" stroke="#333" stroke-width="2"/>
+</svg>

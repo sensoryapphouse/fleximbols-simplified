@@ -1,0 +1,19 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Mug with dark brown hot chocolate, whipped cream, marshmallows, steam -->
+  <!-- Mug body -->
+  <path d="M16 30 L16 83 Q16 90 25 90 L72 90 Q81 90 81 83 L81 30 Z" fill="#3d1800" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Handle -->
+  <path d="M81 42 Q94 42 94 57 Q94 72 81 72" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <!-- Dark chocolate liquid -->
+  <path d="M18 38 L18 83 Q18 88 25 88 L72 88 Q79 88 79 83 L79 38 Z" fill="#2a0e00"/>
+  <!-- Whipped cream -->
+  <path d="M18 38 Q30 28 50 32 Q70 28 81 38 Q70 48 50 44 Q30 48 18 38 Z" fill="#fff8f0" stroke="#eee" stroke-width="1"/>
+  <!-- Marshmallow squares -->
+
+<!-- Mug rim -->
+  <rect x="16" y="28" width="65" height="6" rx="3" fill="#ccc" stroke="#333" stroke-width="2"/>
+  <!-- Steam -->
+  <path d="M30 22 Q33 15 30 8" fill="none" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <path d="M50 20 Q53 13 50 6" fill="none" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+  <path d="M68 22 Q71 15 68 8" fill="none" stroke="#aaa" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Estuary: widening river mouth meeting tidal sea - top down -->
+  <!-- Sea on right -->
+  <rect x="55" y="0" width="45" height="100" fill="#4488cc" stroke="none"/>
+  <!-- Land areas -->
+  <!-- Upper land -->
+  <polygon points="0,0 55,0 60,35 15,40 0,35" fill="#88aa55" stroke="#222" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Lower land -->
+  <polygon points="0,100 55,100 60,65 15,60 0,65" fill="#88aa55" stroke="#222" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Estuary water channel (widening left to right) -->
+  <path d="M0,40 Q30,42 60,35 L60,65 Q30,58 0,60 Z" fill="#4488cc" stroke="#336699" stroke-width="2"/>
+  <!-- Tidal mudflat areas -->
+  <ellipse cx="25" cy="46" rx="12" ry="5" fill="#bbaa77" stroke="#aa8844" stroke-width="1.5"/>
+  <ellipse cx="25" cy="54" rx="12" ry="5" fill="#bbaa77" stroke="#aa8844" stroke-width="1.5"/>
+  <!-- Ripple lines in water -->
+  <path d="M5,50 Q30,48 58,50" fill="none" stroke="#6699cc" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Saltmarsh vegetation at edges -->
+  <line x1="8" y1="44" x2="8" y2="38" stroke="#669944" stroke-width="2" stroke-linecap="round"/>
+  <line x1="15" y1="42" x2="15" y2="36" stroke="#669944" stroke-width="2" stroke-linecap="round"/>
+  <line x1="8" y1="56" x2="8" y2="62" stroke="#669944" stroke-width="2" stroke-linecap="round"/>
+  <line x1="15" y1="58" x2="15" y2="64" stroke="#669944" stroke-width="2" stroke-linecap="round"/>
+</svg>

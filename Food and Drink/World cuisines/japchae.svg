@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Bowl -->
+  <ellipse cx="50" cy="72" rx="36" ry="8" fill="#c8a87a" stroke="#333" stroke-width="2"/>
+  <path d="M14 72 L18 44 Q50 32 82 44 L86 72 Z" fill="#ddb896" stroke="#333" stroke-width="2.5"/>
+  <!-- Glass noodles - translucent wavy lines -->
+  <path d="M22 56 Q30 50 38 56 Q46 62 54 56 Q62 50 70 56 Q76 60 80 56" fill="none" stroke="#b8d8f0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M20 62 Q28 56 36 62 Q44 68 52 62 Q60 56 68 62 Q74 66 82 62" fill="none" stroke="#b8d8f0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M24 50 Q32 44 40 50 Q48 56 56 50 Q64 44 72 50 Q78 54 82 50" fill="none" stroke="#c8e8f8" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Vegetables on top -->
+  <!-- Spinach -->
+  <ellipse cx="34" cy="44" rx="8" ry="4" fill="#6ab04c" stroke="#333" stroke-width="1.5" transform="rotate(-20,34,44)"/>
+  <!-- Carrots -->
+  <ellipse cx="52" cy="40" rx="7" ry="3" fill="#f39c12" stroke="#333" stroke-width="1.5" transform="rotate(10,52,40)"/>
+  <!-- Beef strips -->
+  <path d="M62 46 Q70 42 76 48" fill="none" stroke="#8B4513" stroke-width="4" stroke-linecap="round"/>
+  <!-- Sesame seeds -->
+  <circle cx="40" cy="52" r="1.5" fill="#888"/>
+  <circle cx="52" cy="48" r="1.5" fill="#888"/>
+  <circle cx="64" cy="54" r="1.5" fill="#888"/>
+</svg>

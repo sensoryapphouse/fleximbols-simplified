@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Pear shape: narrow top, round bottom -->
+  <path d="M50 20 Q42 20 38 30 Q35 38 40 46 Q28 50 26 62 Q24 78 50 82 Q76 78 74 62 Q72 50 60 46 Q65 38 62 30 Q58 20 50 20 Z" fill="#c8d850" stroke="#608020" stroke-width="2.5"/>
+  <!-- Highlight -->
+  <path d="M38 55 Q36 62 38 68" fill="none" stroke="#d8e870" stroke-width="2" stroke-linecap="round"/>
+  <!-- Stem -->
+  <rect x="49" y="11" width="3" height="10" rx="1" fill="#7a5020" stroke="#5a3010" stroke-width="1"/>
+  <!-- Leaf -->
+  <path d="M50 16 Q55 8 62 8 Q58 14 50 16" fill="#50a020" stroke="#308010" stroke-width="1.5"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1662" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1662)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Left loop of bow -->
+  <path d="M50 48 Q38 30 22 28 Q10 28 10 40 Q10 52 22 52 Q38 52 50 48 Z" fill="#E870A8" stroke="#A03060" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Right loop of bow -->
+  <path d="M50 48 Q62 30 78 28 Q90 28 90 40 Q90 52 78 52 Q62 52 50 48 Z" fill="#E870A8" stroke="#A03060" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Left tail -->
+  <path d="M50 52 Q40 60 28 72 Q24 76 20 72 Q26 60 50 52 Z" fill="#D4508C" stroke="#A03060" stroke-width="2"/>
+  <!-- Right tail -->
+  <path d="M50 52 Q60 60 72 72 Q76 76 80 72 Q74 60 50 52 Z" fill="#D4508C" stroke="#A03060" stroke-width="2"/>
+  <!-- Centre knot -->
+  <ellipse cx="50" cy="50" rx="9" ry="7" fill="#F090C0" stroke="#A03060" stroke-width="2.5"/>
+  <!-- Polka dots left loop -->
+  <circle cx="30" cy="38" r="3" fill="#F8C0D8" opacity="0.7"/>
+  <circle cx="40" cy="44" r="2" fill="#F8C0D8" opacity="0.7"/>
+  <!-- Polka dots right loop -->
+  <circle cx="70" cy="38" r="3" fill="#F8C0D8" opacity="0.7"/>
+  <circle cx="60" cy="44" r="2" fill="#F8C0D8" opacity="0.7"/>
+  <!-- Label -->
+  
+</svg>

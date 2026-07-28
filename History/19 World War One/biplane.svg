@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- fuselage -->
+  <path d="M10 50 Q16 44 24 43 L70 43 L82 50 L70 57 L24 57 Q16 56 10 50 Z" fill="#e8d5b5" stroke="#5a3e1b" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- upper wing -->
+  <path d="M36 43 L5 32 L5 36 L36 44" fill="#c0392b" stroke="#7b241c" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M36 43 L88 34 L88 38 L36 44" fill="#c0392b" stroke="#7b241c" stroke-width="2" stroke-linejoin="round"/>
+  <!-- lower wing -->
+  <path d="M40 57 L8 64 L8 60 L40 56" fill="#c0392b" stroke="#7b241c" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M40 57 L85 62 L85 58 L40 56" fill="#c0392b" stroke="#7b241c" stroke-width="2" stroke-linejoin="round"/>
+  <!-- interplane struts -->
+  <line x1="30" y1="44" x2="30" y2="57" stroke="#5a3e1b" stroke-width="1.5"/>
+  <line x1="52" y1="44" x2="52" y2="57" stroke="#5a3e1b" stroke-width="1.5"/>
+  <!-- prop disc -->
+  <ellipse cx="82" cy="50" rx="3" ry="12" fill="none" stroke="#555" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <!-- tail -->
+  <path d="M10 50 L6 44 L10 44" fill="#e8d5b5" stroke="#5a3e1b" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M10 50 L6 56 L10 56" fill="#e8d5b5" stroke="#5a3e1b" stroke-width="2" stroke-linejoin="round"/>
+  <!-- cockpit -->
+  <ellipse cx="54" cy="43" rx="6" ry="3" fill="#aad4e8" stroke="#4a5568" stroke-width="1.5"/>
+  <!-- wheels -->
+  <line x1="40" y1="57" x2="40" y2="67" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <line x1="52" y1="57" x2="52" y2="67" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <line x1="34" y1="67" x2="60" y2="67" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="38" cy="70" r="4" fill="none" stroke="#555" stroke-width="2"/>
+  <circle cx="54" cy="70" r="4" fill="none" stroke="#555" stroke-width="2"/>
+</svg>

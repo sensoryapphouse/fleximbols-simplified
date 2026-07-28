@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Metallic bar/surface with silvery texture banding -->
+  <rect x="15" y="32" width="70" height="42" rx="4" fill="#b8b8c0" stroke="#555" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Silvery bands suggesting metal texture -->
+  <rect x="15" y="32" width="70" height="7" rx="4" fill="#d8d8e0" stroke="none"/>
+  <rect x="15" y="43" width="70" height="5" rx="0" fill="#a8a8b0" stroke="none"/>
+  <rect x="15" y="52" width="70" height="7" rx="0" fill="#d0d0d8" stroke="none"/>
+  <rect x="15" y="63" width="70" height="5" rx="0" fill="#a8a8b0" stroke="none"/>
+  <rect x="15" y="72" width="70" height="2" rx="0" fill="#c8c8d0" stroke="none"/>
+  <!-- Bright specular highlight line -->
+  <line x1="20" y1="37" x2="80" y2="37" stroke="white" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <!-- Rivets / bolts -->
+  <circle cx="24" cy="53" r="4" fill="#909098" stroke="#555" stroke-width="1.5"/>
+  <circle cx="76" cy="53" r="4" fill="#909098" stroke="#555" stroke-width="1.5"/>
+</svg>

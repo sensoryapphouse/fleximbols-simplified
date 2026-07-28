@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,21.050) scale(0.7895)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- Counter/worktop -->
+  <rect x="8" y="55" width="84" height="8" fill="#d4b890" stroke="#8a6030" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Cupboards below -->
+  <rect x="8" y="63" width="84" height="22" fill="#c8a870" stroke="#8a6030" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="50" y1="63" x2="50" y2="85" stroke="#8a6030" stroke-width="1.5"/>
+  <circle cx="29" cy="74" r="3" fill="#cc9900" stroke="#886600" stroke-width="1.5"/>
+  <circle cx="71" cy="74" r="3" fill="#cc9900" stroke="#886600" stroke-width="1.5"/>
+  <!-- Cooker/hob - main feature -->
+  <rect x="28" y="38" width="34" height="20" fill="#555" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Cooker knobs -->
+  <circle cx="34" cy="57" r="3" fill="#888" stroke="#444" stroke-width="1.5"/>
+  <circle cx="44" cy="57" r="3" fill="#888" stroke="#444" stroke-width="1.5"/>
+  <circle cx="54" cy="57" r="3" fill="#888" stroke="#444" stroke-width="1.5"/>
+  <!-- Hob rings -->
+  <circle cx="38" cy="46" rx="6" r="6" fill="#333" stroke="#888" stroke-width="2"/>
+  <circle cx="38" cy="46" rx="3" r="3" fill="#555" stroke="#888" stroke-width="1"/>
+  <circle cx="52" cy="46" rx="6" r="6" fill="#333" stroke="#888" stroke-width="2"/>
+  <circle cx="52" cy="46" rx="3" r="3" fill="#555" stroke="#888" stroke-width="1"/>
+  <!-- Cooker back panel/controls -->
+  <rect x="28" y="30" width="34" height="10" fill="#666" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="36" cy="35" r="3" fill="#888" stroke="#444" stroke-width="1"/>
+  <circle cx="45" cy="35" r="3" fill="#888" stroke="#444" stroke-width="1"/>
+  <circle cx="54" cy="35" r="3" fill="#888" stroke="#444" stroke-width="1"/>
+  <!-- Sink -->
+  <rect x="66" y="40" width="24" height="17" rx="2" fill="#d0d0d0" stroke="#888" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="68" y="42" width="20" height="13" rx="2" fill="#e8e8e8" stroke="#888" stroke-width="1.5"/>
+  <!-- Tap -->
+  <rect x="76" y="35" width="4" height="8" fill="#aaa" stroke="#666" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="73" y="35" width="10" height="3" rx="1" fill="#aaa" stroke="#666" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Drain -->
+  <circle cx="78" cy="50" r="2" fill="#888"/>
+  <!-- Cupboard above sink -->
+  <rect x="66" y="12" width="26" height="22" fill="#c8a870" stroke="#8a6030" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="79" y1="12" x2="79" y2="34" stroke="#8a6030" stroke-width="1"/>
+  <circle cx="73" cy="23" r="2" fill="#cc9900" stroke="#886600" stroke-width="1"/>
+  <circle cx="85" cy="23" r="2" fill="#cc9900" stroke="#886600" stroke-width="1"/>
+  <!-- Cupboard above cooker -->
+  <rect x="10" y="12" width="24" height="22" fill="#c8a870" stroke="#8a6030" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="22" cy="23" r="2" fill="#cc9900" stroke="#886600" stroke-width="1"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2814" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2814)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

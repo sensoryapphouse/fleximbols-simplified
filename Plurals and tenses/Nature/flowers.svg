@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g transform="translate(-9.576 -6.563) scale(1.0826)">
+<!-- Stem -->
+  <line x1="50" y1="55" x2="50" y2="85" stroke="#4a8a2a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Leaf -->
+  <path d="M50,72 Q60,65 65,68 Q58,75 50,72 Z" fill="#5a9a3a" stroke="#2a5a0a" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Petals -->
+  <ellipse cx="50" cy="35" rx="9" ry="16" fill="#ff99cc" stroke="#cc3366" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="50" cy="35" rx="9" ry="16" fill="#ff99cc" stroke="#cc3366" stroke-width="2" stroke-linejoin="round" transform="rotate(45,50,40)"/>
+  <ellipse cx="50" cy="35" rx="9" ry="16" fill="#ff99cc" stroke="#cc3366" stroke-width="2" stroke-linejoin="round" transform="rotate(90,50,40)"/>
+  <ellipse cx="50" cy="35" rx="9" ry="16" fill="#ff99cc" stroke="#cc3366" stroke-width="2" stroke-linejoin="round" transform="rotate(135,50,40)"/>
+  <!-- Centre -->
+  <circle cx="50" cy="40" r="9" fill="#ffdd33" stroke="#cc9900" stroke-width="2"/>
+</g>
+  <g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2492" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2492)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

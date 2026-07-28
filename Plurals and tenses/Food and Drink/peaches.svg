@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Peach body -->
+  <circle cx="50" cy="54" r="32" fill="#f5b090" stroke="#c06030" stroke-width="2.5"/>
+  <!-- Peach crease/groove -->
+  <path d="M50 22 Q46 38 47 54 Q48 68 50 82" fill="none" stroke="#e08060" stroke-width="2" stroke-linecap="round"/>
+  <!-- Fuzzy texture dots -->
+  <circle cx="38" cy="42" r="1.5" fill="#f8c8a8" opacity="0.6"/>
+  <circle cx="62" cy="46" r="1.5" fill="#f8c8a8" opacity="0.6"/>
+  <circle cx="44" cy="65" r="1.5" fill="#f8c8a8" opacity="0.6"/>
+  <circle cx="58" cy="62" r="1.5" fill="#f8c8a8" opacity="0.6"/>
+  <!-- Blush -->
+  <circle cx="62" cy="46" r="10" fill="#e05030" opacity="0.2"/>
+  <!-- Stem -->
+  <rect x="49" y="14" width="3" height="10" rx="1" fill="#7a5020" stroke="#5a3010" stroke-width="1"/>
+  <!-- Leaf -->
+  <path d="M50 18 Q56 10 63 10 Q58 16 50 18" fill="#50a020" stroke="#308010" stroke-width="1.5"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1661" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1661)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

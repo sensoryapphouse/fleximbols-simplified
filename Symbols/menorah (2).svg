@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-5.718 -9.854) scale(1.1144)">
+<!-- base -->
+  <rect x="30" y="78" width="40" height="6" rx="3" fill="#c8940a" stroke="#8b5e3c" stroke-width="2"/>
+  <!-- stem -->
+  <rect x="46" y="48" width="8" height="32" rx="2" fill="#c8940a" stroke="#8b5e3c" stroke-width="2"/>
+  <!-- cross bar -->
+  <rect x="18" y="56" width="64" height="6" rx="2" fill="#c8940a" stroke="#8b5e3c" stroke-width="2"/>
+  <!-- 7 arms: center + 3 left + 3 right -->
+  <!-- center arm (straight up) -->
+  <rect x="46" y="36" width="8" height="22" rx="2" fill="#c8940a" stroke="#8b5e3c" stroke-width="2"/>
+  <!-- left arms -->
+  <path d="M38,59 Q30,52 28,44 L34,44 Q36,52 42,56" fill="#c8940a" stroke="#8b5e3c" stroke-width="2"/>
+  <path d="M30,59 Q20,50 18,40 L24,40 Q26,50 32,56" fill="#c8940a" stroke="#8b5e3c" stroke-width="2"/>
+  <rect x="24" y="36" width="8" height="8" rx="2" fill="#c8940a" stroke="#8b5e3c" stroke-width="2"/>
+  <rect x="32" y="36" width="8" height="18" rx="2" fill="#c8940a" stroke="#8b5e3c" stroke-width="2"/>
+  <!-- right arms -->
+  <path d="M62,59 Q70,52 72,44 L66,44 Q64,52 58,56" fill="#c8940a" stroke="#8b5e3c" stroke-width="2"/>
+  <path d="M70,59 Q80,50 82,40 L76,40 Q74,50 68,56" fill="#c8940a" stroke="#8b5e3c" stroke-width="2"/>
+  <rect x="68" y="36" width="8" height="8" rx="2" fill="#c8940a" stroke="#8b5e3c" stroke-width="2"/>
+  <rect x="60" y="36" width="8" height="18" rx="2" fill="#c8940a" stroke="#8b5e3c" stroke-width="2"/>
+  <!-- 7 flames -->
+  <path d="M50,36 Q48,30 50,24 Q52,30 50,36Z" fill="#f5c518" stroke="#e87c1e" stroke-width="1"/>
+  <path d="M36,36 Q34,30 36,24 Q38,30 36,36Z" fill="#f5c518" stroke="#e87c1e" stroke-width="1"/>
+  <path d="M28,36 Q26,30 28,24 Q30,30 28,36Z" fill="#f5c518" stroke="#e87c1e" stroke-width="1"/>
+  <path d="M64,36 Q62,30 64,24 Q66,30 64,36Z" fill="#f5c518" stroke="#e87c1e" stroke-width="1"/>
+  <path d="M72,36 Q70,30 72,24 Q74,30 72,36Z" fill="#f5c518" stroke="#e87c1e" stroke-width="1"/>
+  <path d="M44,36 Q42,30 44,24 Q46,30 44,36Z" fill="#f5c518" stroke="#e87c1e" stroke-width="1"/>
+  <path d="M56,36 Q54,30 56,24 Q58,30 56,36Z" fill="#f5c518" stroke="#e87c1e" stroke-width="1"/>
+</g>
+  </svg>

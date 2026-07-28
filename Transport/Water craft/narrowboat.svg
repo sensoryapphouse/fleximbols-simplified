@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- water -->
+  <path d="M5 74 Q20 70 35 74 Q50 78 65 74 Q80 70 95 74" fill="none" stroke="#4a9eca" stroke-width="2" stroke-linecap="round"/>
+  <!-- long narrow hull -->
+  <path d="M8 68 L8 60 L85 60 L92 64 L85 68 Z" fill="#2e6b9e" stroke="#1a3f5c" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- cabin roof -->
+  <rect x="15" y="50" width="62" height="12" rx="3" fill="#c0392b" stroke="#7b241c" stroke-width="2"/>
+  <!-- cabin side band -->
+  <rect x="15" y="56" width="62" height="3" fill="#f1c40f" stroke="none"/>
+  <!-- tiller -->
+  <line x1="8" y1="63" x2="3" y2="55" stroke="#8b6914" stroke-width="2" stroke-linecap="round"/>
+  <!-- chimney -->
+  <rect x="22" y="43" width="6" height="9" rx="1" fill="#555" stroke="#333" stroke-width="1.5"/>
+  <!-- porthole -->
+  <circle cx="45" cy="55" r="4" fill="#aad4e8" stroke="#1a3f5c" stroke-width="1.5"/>
+  <circle cx="62" cy="55" r="4" fill="#aad4e8" stroke="#1a3f5c" stroke-width="1.5"/>
+</svg>

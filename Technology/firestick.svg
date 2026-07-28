@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-8.766 -7.074) scale(1.1550)">
+<!-- Firestick body -->
+  <rect x="20" y="42" width="60" height="18" rx="9" fill="#444" stroke="#222" stroke-width="2.5"/>
+  <!-- HDMI plug end -->
+  <rect x="68" y="46" width="14" height="10" rx="2" fill="#555" stroke="#333" stroke-width="2"/>
+  <!-- Fire flame -->
+  <path d="M44,54 C42,50 44,44 48,40 C47,44 50,42 50,38 C53,42 56,46 54,50 C53,48 51,49 50,52 C49,49 47,50 44,54 Z" fill="#e85a20" stroke="#c04010" stroke-width="1" stroke-linejoin="round"/>
+  <!-- Amazon text hint - small lines -->
+  <line x1="34" y1="46" x2="34" y2="54" stroke="#aaa" stroke-width="1.5"/>
+</g>
+  </svg>

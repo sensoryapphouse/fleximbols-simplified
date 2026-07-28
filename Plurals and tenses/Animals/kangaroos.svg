@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- tail - thick, on ground -->
+  <path d="M48 78 Q30 80 22 72 Q20 64 28 62 Q38 62 48 70 Z" fill="#c8924a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- body -->
+  <ellipse cx="56" cy="62" rx="18" ry="22" fill="#c8924a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- pouch -->
+  <path d="M46 68 Q50 72 54 70 Q52 80 48 80 Q44 78 44 72 Z" fill="#b07840" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- joey head peeking from pouch -->
+  <circle cx="50" cy="69" r="4" fill="#d4a060" stroke="#333" stroke-width="1.5"/>
+  <circle cx="48.5" cy="67.5" r="1" fill="#333"/>
+  <!-- neck -->
+  <path d="M54 42 Q50 36 52 28 Q58 26 62 34 Q64 42 60 46 Z" fill="#c8924a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- head -->
+  <ellipse cx="56" cy="26" rx="12" ry="10" fill="#c8924a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- long ears -->
+  <path d="M50 18 Q48 8 50 6 Q54 8 54 18 Z" fill="#c8924a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M51 18 Q50 10 51 7 Q53 9 52 18 Z" fill="#d4a878" stroke="none"/>
+  <path d="M60 18 Q60 8 62 6 Q66 8 64 18 Z" fill="#c8924a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M61 18 Q61 10 62 7 Q64 9 63 18 Z" fill="#d4a878" stroke="none"/>
+  <!-- muzzle -->
+  <ellipse cx="62" cy="30" rx="6" ry="5" fill="#b07840" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- nostril -->
+  <ellipse cx="60" cy="31" rx="1.2" ry="0.8" fill="#555"/>
+  <!-- eye -->
+  <circle cx="52" cy="23" r="2.5" fill="#333"/>
+  <circle cx="51.5" cy="22.5" r="0.7" fill="white"/>
+  <!-- small arms -->
+  <path d="M56 48 Q48 46 44 50 Q46 54 50 52 Z" fill="#c8924a" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- large hind legs -->
+  <path d="M46 76 Q36 78 30 72 Q32 64 44 66 Z" fill="#c8924a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M60 80 Q56 90 52 92 Q48 90 50 84 Q54 82 58 76 Z" fill="#c8924a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M64 76 Q68 88 66 92 Q62 92 62 86 Q62 82 62 78 Z" fill="#c8924a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+  <!-- foot -->
+  <path d="M48 92 Q56 94 60 92" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+<g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl484" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl484)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

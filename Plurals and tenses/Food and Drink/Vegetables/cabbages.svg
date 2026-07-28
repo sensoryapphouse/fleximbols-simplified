@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,3.170) scale(0.9683)">
+<!-- outer round head -->
+  <circle cx="50" cy="52" r="33" fill="#81C784" stroke="#2E7D32" stroke-width="2.5"/>
+  <!-- leaf lines on surface -->
+  <ellipse cx="50" cy="52" r="24" fill="#A5D6A7" stroke="#388E3C" stroke-width="2"/>
+  <ellipse cx="50" cy="52" r="15" fill="#C8E6C9" stroke="#388E3C" stroke-width="1.5"/>
+  <!-- curved vein lines -->
+  <path d="M50 37 Q38 52 50 67" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+  <path d="M50 37 Q62 52 50 67" stroke="#388E3C" stroke-width="1.5" fill="none"/>
+  <!-- small stub at top -->
+  <ellipse cx="50" cy="20" rx="6" ry="4" fill="#66BB6A" stroke="#2E7D32" stroke-width="1.5"/>
+</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1519" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1519)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

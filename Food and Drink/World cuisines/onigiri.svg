@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-12.439 -12.378) scale(1.2500)">
+<!-- triangle rice ball -->
+<polygon points="50,15 18,72 82,72" fill="white" stroke="#cccccc" stroke-width="2.5"/>
+<!-- nori band around middle -->
+<rect x="26" y="50" width="48" height="16" rx="0" fill="#223322" stroke="none"/>
+<!-- seaweed texture lines -->
+<line x1="26" y1="54" x2="74" y2="54" stroke="#334433" stroke-width="1"/>
+<line x1="26" y1="62" x2="74" y2="62" stroke="#334433" stroke-width="1"/>
+<!-- rice texture dots -->
+<circle cx="40" cy="38" r="2" fill="#eeeeee"/>
+<circle cx="50" cy="32" r="2" fill="#eeeeee"/>
+<circle cx="60" cy="38" r="2" fill="#eeeeee"/>
+<circle cx="44" cy="44" r="2" fill="#eeeeee"/>
+<circle cx="56" cy="44" r="2" fill="#eeeeee"/>
+</g>
+  </svg>

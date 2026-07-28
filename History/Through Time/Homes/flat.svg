@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<!-- Apartment block building -->
+  <rect x="15" y="20" width="70" height="65" fill="#d4c4a0" stroke="#5a4a2a" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Roof -->
+  <rect x="12" y="17" width="76" height="6" fill="#8a7a5a" stroke="#5a4a2a" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Floors indicator lines -->
+  <line x1="15" y1="37" x2="85" y2="37" stroke="#5a4a2a" stroke-width="1.5"/>
+  <line x1="15" y1="54" x2="85" y2="54" stroke="#5a4a2a" stroke-width="1.5"/>
+  <line x1="15" y1="71" x2="85" y2="71" stroke="#5a4a2a" stroke-width="1.5"/>
+  <!-- Windows - row 1 -->
+  <rect x="22" y="24" width="12" height="10" fill="#aaccee" stroke="#5a4a2a" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="44" y="24" width="12" height="10" fill="#aaccee" stroke="#5a4a2a" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="66" y="24" width="12" height="10" fill="#aaccee" stroke="#5a4a2a" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Windows - row 2 -->
+  <rect x="22" y="41" width="12" height="10" fill="#aaccee" stroke="#5a4a2a" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="44" y="41" width="12" height="10" fill="#ffee99" stroke="#5a4a2a" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="66" y="41" width="12" height="10" fill="#aaccee" stroke="#5a4a2a" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Windows - row 3 -->
+  <rect x="22" y="58" width="12" height="10" fill="#aaccee" stroke="#5a4a2a" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="44" y="58" width="12" height="10" fill="#aaccee" stroke="#5a4a2a" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="66" y="58" width="12" height="10" fill="#ffee99" stroke="#5a4a2a" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Door at ground floor -->
+  <rect x="43" y="73" width="14" height="12" fill="#8a6030" stroke="#5a3a1a" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="55" cy="80" r="1.5" fill="#cc9900"/>
+  <!-- Arrow showing "one flat" highlighted -->
+  <rect x="44" y="41" width="12" height="10" fill="#ffee99" stroke="#cc6600" stroke-width="2" stroke-linejoin="round"/>
+</svg>

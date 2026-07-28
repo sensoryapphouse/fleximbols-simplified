@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g transform="translate(0.000,11.330) scale(0.8867)">
+  <g transform="translate(-1.605 -10.013) scale(1.0762)">
+<!-- long thin tail -->
+  <path d="M72,70 Q92,65 90,45 Q89,35 85,30" fill="none" stroke="#888" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- body - slender -->
+  <ellipse cx="48" cy="65" rx="22" ry="14" fill="#a8a0a8" stroke="#555" stroke-width="2"/>
+  <!-- belly -->
+  <ellipse cx="48" cy="66" rx="14" ry="8" fill="#d8d0d8"/>
+  <!-- head - pointed snout -->
+  <ellipse cx="50" cy="46" rx="14" ry="13" fill="#a8a0a8" stroke="#555" stroke-width="2"/>
+  <ellipse cx="50" cy="55" rx="8" ry="6" fill="#a8a0a8" stroke="#555" stroke-width="1.5"/>
+  <!-- ears - large round -->
+  <circle cx="36" cy="34" r="9" fill="#a8a0a8" stroke="#555" stroke-width="2"/>
+  <circle cx="36" cy="34" r="5.5" fill="#e8a090"/>
+  <circle cx="64" cy="34" r="9" fill="#a8a0a8" stroke="#555" stroke-width="2"/>
+  <circle cx="64" cy="34" r="5.5" fill="#e8a090"/>
+  <!-- eyes -->
+  <circle cx="43" cy="44" r="3.5" fill="#1a1a1a"/>
+  <circle cx="57" cy="44" r="3.5" fill="#1a1a1a"/>
+  <circle cx="44" cy="43" r="1" fill="white"/>
+  <circle cx="58" cy="43" r="1" fill="white"/>
+  <!-- nose -->
+  <ellipse cx="50" cy="58" rx="2.5" ry="2" fill="#e88"/>
+  <!-- whiskers -->
+  <line x1="47" y1="57" x2="28" y2="54" stroke="#ccc" stroke-width="0.8"/>
+  <line x1="47" y1="58" x2="28" y2="58" stroke="#ccc" stroke-width="0.8"/>
+  <line x1="53" y1="57" x2="72" y2="54" stroke="#ccc" stroke-width="0.8"/>
+  <line x1="53" y1="58" x2="72" y2="58" stroke="#ccc" stroke-width="0.8"/>
+  <!-- paws -->
+  <ellipse cx="35" cy="77" rx="5" ry="3" fill="#a8a0a8" stroke="#555" stroke-width="1.5"/>
+  <ellipse cx="61" cy="77" rx="5" ry="3" fill="#a8a0a8" stroke="#555" stroke-width="1.5"/>
+</g>
+  </g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl492" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl492)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

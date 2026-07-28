@@ -1,0 +1,24 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Mawlid: Prophet's birthday - mosque dome + crescent, candles/lanterns -->
+  <!-- Mosque dome -->
+  <path d="M20 60 Q20 25 50 22 Q80 25 80 60Z" fill="#27ae60" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Mosque body -->
+  <rect x="20" y="60" width="60" height="25" rx="2" fill="#3498db" stroke="#222" stroke-width="2.5"/>
+  <!-- Arched door -->
+  <path d="M42 85 L42 70 Q50 62 58 70 L58 85Z" fill="#e8d5a3" stroke="#222" stroke-width="2"/>
+  <!-- Windows -->
+  <path d="M25 68 Q30 63 35 68 L35 78 L25 78Z" fill="#f5a623" stroke="#222" stroke-width="1.5"/>
+  <path d="M65 68 Q70 63 75 68 L75 78 L65 78Z" fill="#f5a623" stroke="#222" stroke-width="1.5"/>
+  <!-- Minaret left -->
+  <rect x="8" y="42" width="10" height="43" rx="2" fill="#3498db" stroke="#222" stroke-width="2"/>
+  <path d="M8 42 Q13 32 18 42Z" fill="#27ae60" stroke="#222" stroke-width="2"/>
+  <!-- Minaret right -->
+  <rect x="82" y="42" width="10" height="43" rx="2" fill="#3498db" stroke="#222" stroke-width="2"/>
+  <path d="M82 42 Q87 32 92 42Z" fill="#27ae60" stroke="#222" stroke-width="2"/>
+  <!-- Crescent on top of dome -->
+  <path d="M50 8 A8 8 0 1 1 43 14 A6 6 0 1 0 50 8Z" fill="#f5a623" stroke="#222" stroke-width="1.5"/>
+  <!-- Small star -->
+  <polygon points="57,10 58,13 61,13 58.5,15 59.5,18 57,16.5 54.5,18 55.5,15 53,13 56,13" fill="#fff700" stroke="#222" stroke-width="1"/>
+  <!-- Decorative string lights / bunting -->
+  <path d="M10 30 Q50 20 90 30" fill="none" stroke="#f5a623" stroke-width="1.5" stroke-dasharray="3,3"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Nonfiction: book with fact/magnifying glass -->
+  <rect x="18" y="10" width="10" height="80" rx="2" fill="#37474f" stroke="#333" stroke-width="2.5"/>
+  <rect x="18" y="8" width="64" height="84" rx="3" fill="#546e7a" stroke="#333" stroke-width="2.5"/>
+  <rect x="25" y="13" width="54" height="74" rx="2" fill="#eceff1" stroke="#cfd8dc" stroke-width="1.5"/>
+  <!-- FACT stamp/badge -->
+  <rect x="28" y="18" width="48" height="14" rx="2" fill="#37474f"/>
+  
+  <!-- Magnifying glass -->
+  <circle cx="46" cy="55" r="12" fill="none" stroke="#546e7a" stroke-width="3"/>
+  <circle cx="46" cy="55" r="8" fill="#b0bec5" stroke="#78909c" stroke-width="1.5"/>
+  <line x1="55" y1="64" x2="64" y2="74" stroke="#546e7a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Check marks for facts -->
+  <path d="M62 40 L66 44 L74 36" fill="none" stroke="#4caf50" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Text lines -->
+  <line x1="28" y1="73" x2="72" y2="73" stroke="#ccc" stroke-width="1"/>
+  <line x1="28" y1="79" x2="65" y2="79" stroke="#ccc" stroke-width="1"/>
+</svg>
