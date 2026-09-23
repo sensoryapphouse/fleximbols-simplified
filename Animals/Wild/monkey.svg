@@ -1,42 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-<!-- branch at top -->
-  <path d="M20 18 Q50 14 80 18" fill="none" stroke="#8B6030" stroke-width="5" stroke-linecap="round"/>
-  <!-- arms reaching up to branch -->
-  <path d="M42 30 Q38 22 34 18" fill="none" stroke="#c8824a" stroke-width="5" stroke-linecap="round"/>
-  <path d="M58 30 Q62 22 66 18" fill="none" stroke="#c8824a" stroke-width="5" stroke-linecap="round"/>
-  <!-- hands gripping branch -->
-  <circle cx="33" cy="18" r="4" fill="#c8824a" stroke="#333" stroke-width="1.5"/>
-  <circle cx="67" cy="18" r="4" fill="#c8824a" stroke="#333" stroke-width="1.5"/>
-  <!-- body swinging -->
-  <ellipse cx="50" cy="52" rx="16" ry="18" fill="#c8824a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-  <!-- tummy lighter -->
-  <ellipse cx="50" cy="55" rx="10" ry="11" fill="#e0b080" stroke="#333" stroke-width="1" stroke-linejoin="round"/>
-  <!-- head -->
-  <circle cx="50" cy="32" r="16" fill="#c8824a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-  <!-- ear -->
-  <circle cx="34" cy="32" r="6" fill="#c8824a" stroke="#333" stroke-width="1.5"/>
-  <circle cx="34" cy="32" r="3.5" fill="#e0a878" stroke="none"/>
-  <circle cx="66" cy="32" r="6" fill="#c8824a" stroke="#333" stroke-width="1.5"/>
-  <circle cx="66" cy="32" r="3.5" fill="#e0a878" stroke="none"/>
-  <!-- face oval lighter -->
-  <ellipse cx="50" cy="36" rx="10" ry="9" fill="#e0b080" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
-  <!-- eyes -->
-  <circle cx="44" cy="30" r="3" fill="#333"/>
-  <circle cx="43.5" cy="29.5" r="0.9" fill="white"/>
-  <circle cx="56" cy="30" r="3" fill="#333"/>
-  <circle cx="55.5" cy="29.5" r="0.9" fill="white"/>
-  <!-- nose -->
-  <ellipse cx="50" cy="36" rx="3" ry="2" fill="#b06030" stroke="#333" stroke-width="1"/>
-  <ellipse cx="48" cy="36" rx="1" ry="0.8" fill="#222"/>
-  <ellipse cx="52" cy="36" rx="1" ry="0.8" fill="#222"/>
-  <!-- mouth smile -->
-  <path d="M44 40 Q50 44 56 40" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
-  <!-- legs dangling -->
-  <path d="M40 68 Q34 76 32 84 Q36 86 38 80 Q42 72 44 68 Z" fill="#c8824a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-  <path d="M60 68 Q66 76 68 84 Q64 86 62 80 Q58 72 56 68 Z" fill="#c8824a" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-  <!-- feet -->
-  <ellipse cx="32" cy="85" rx="5" ry="3" fill="#c8824a" stroke="#333" stroke-width="1.5"/>
-  <ellipse cx="68" cy="85" rx="5" ry="3" fill="#c8824a" stroke="#333" stroke-width="1.5"/>
-  <!-- tail curving -->
-  <path d="M50 70 Q60 78 66 86 Q70 90 68 92 Q64 92 62 88 Q58 82 50 74" fill="none" stroke="#c8824a" stroke-width="3" stroke-linecap="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.3098) translate(-256.00 -250.00)">
+<circle cx="128.0" cy="250.0" r="40.0" fill="#7a4a2a" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="384.0" cy="250.0" r="40.0" fill="#7a4a2a" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="128.0" cy="250.0" r="20.0" fill="#e7b98a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="384.0" cy="250.0" r="20.0" fill="#e7b98a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256.0" cy="250.0" r="128.0" fill="#7a4a2a" stroke="#1a1a1a" stroke-width="7"/>
+<path d="M 256 158 Q 162 164 170 256 Q 176 346 256 358 Q 336 346 342 256 Q 350 164 256 158 Z" fill="#e7b98a" stroke="#7a4a2a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="216.0" cy="238.0" r="15.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="211.2" cy="233.2" r="5.1" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="296.0" cy="238.0" r="15.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="291.2" cy="233.2" r="5.1" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 198 210 Q 216 196 234 208 M 314 210 Q 296 196 278 208" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="244.0" cy="284.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="268.0" cy="284.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 222 312 Q 256 336 290 312" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+</g></svg>

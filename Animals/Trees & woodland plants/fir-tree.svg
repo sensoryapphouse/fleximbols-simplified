@@ -1,14 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-<!-- Trunk -->
-  <rect x="46" y="74" width="8" height="10" rx="1" fill="#8B6040" stroke="#5a3820" stroke-width="2"/>
-  <!-- Narrow triangular - fir is tighter than pine -->
-  <polygon points="50,12 38,32 62,32" fill="#2d6028" stroke="#1a4018" stroke-width="2" stroke-linejoin="round"/>
-  <polygon points="50,22 35,44 65,44" fill="#2d6028" stroke="#1a4018" stroke-width="2" stroke-linejoin="round"/>
-  <polygon points="50,33 32,56 68,56" fill="#2d6028" stroke="#1a4018" stroke-width="2" stroke-linejoin="round"/>
-  <polygon points="50,44 28,68 72,68" fill="#2d6028" stroke="#1a4018" stroke-width="2.5" stroke-linejoin="round"/>
-  <!-- Upward-pointing branch tips (fir characteristic) -->
-  <line x1="35" y1="44" x2="30" y2="38" stroke="#1a4018" stroke-width="1.2"/>
-  <line x1="65" y1="44" x2="70" y2="38" stroke="#1a4018" stroke-width="1.2"/>
-  <line x1="33" y1="56" x2="27" y2="50" stroke="#1a4018" stroke-width="1.2"/>
-  <line x1="67" y1="56" x2="73" y2="50" stroke="#1a4018" stroke-width="1.2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<path d="M 240 372 L 240 432 Q 256 446 272 432 L 272 372 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 82 L 196 196 L 230 196 L 178 286 L 218 286 L 172 372 L 340 372 L 294 286 L 334 286 L 282 196 L 316 196 Z" fill="#2e7d40" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 130 L 256 360" stroke="#5aa83c" stroke-width="6" stroke-linecap="round"/>
 </svg>

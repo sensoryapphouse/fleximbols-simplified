@@ -1,33 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-<!-- Body: very chubby round -->
-  <ellipse cx="50" cy="65" rx="28" ry="22" fill="#e8c88a" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
-  <!-- Head: big round -->
-  <ellipse cx="50" cy="40" rx="22" ry="20" fill="#e8c88a" stroke="#444" stroke-width="2.5" stroke-linejoin="round"/>
-  <!-- Chubby cheek pouches -->
-  <ellipse cx="31" cy="46" rx="9" ry="8" fill="#f0d8a0" stroke="#444" stroke-width="1.5"/>
-  <ellipse cx="69" cy="46" rx="9" ry="8" fill="#f0d8a0" stroke="#444" stroke-width="1.5"/>
-  <!-- Ears: small round -->
-  <ellipse cx="36" cy="21" rx="8" ry="7" fill="#e8c88a" stroke="#444" stroke-width="2"/>
-  <ellipse cx="36" cy="21" rx="5" ry="4.5" fill="#e8a898"/>
-  <ellipse cx="64" cy="21" rx="8" ry="7" fill="#e8c88a" stroke="#444" stroke-width="2"/>
-  <ellipse cx="64" cy="21" rx="5" ry="4.5" fill="#e8a898"/>
-  <!-- Eyes -->
-  <circle cx="42" cy="38" r="3.5" fill="#222"/>
-  <circle cx="58" cy="38" r="3.5" fill="#222"/>
-  <circle cx="43" cy="37" r="1.2" fill="white"/>
-  <circle cx="59" cy="37" r="1.2" fill="white"/>
-  <!-- Nose: small pink -->
-  <ellipse cx="50" cy="46" rx="2.5" ry="2" fill="#d8789a"/>
-  <!-- Whiskers -->
-  <line x1="49" y1="46" x2="28" y2="43" stroke="#888" stroke-width="1"/>
-  <line x1="51" y1="46" x2="72" y2="43" stroke="#888" stroke-width="1"/>
-  <line x1="49" y1="47" x2="28" y2="50" stroke="#888" stroke-width="1"/>
-  <line x1="51" y1="47" x2="72" y2="50" stroke="#888" stroke-width="1"/>
-  <!-- Belly stripe: lighter -->
-  <ellipse cx="50" cy="66" rx="14" ry="16" fill="#f0e0b0" stroke="none"/>
-  <!-- Tiny tail -->
-  <ellipse cx="76" cy="72" rx="4" ry="3" fill="#e0b880" stroke="#444" stroke-width="1.5"/>
-  <!-- Feet -->
-  <ellipse cx="38" cy="84" rx="7" ry="3.5" fill="#d8b870" stroke="#444" stroke-width="1.5"/>
-  <ellipse cx="62" cy="84" rx="7" ry="3.5" fill="#d8b870" stroke="#444" stroke-width="1.5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.8618) translate(-256.00 -296.50)">
+<ellipse cx="256.0" cy="300.0" rx="118.0" ry="108.0" fill="#e0a96b" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="256.0" cy="360.0" rx="96.0" ry="52.0" fill="#c6904f" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="190.0" cy="214.0" r="30.0" fill="#e0a96b" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="322.0" cy="214.0" r="30.0" fill="#e0a96b" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="190.0" cy="214.0" r="15.0" fill="#e58aa0" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="322.0" cy="214.0" r="15.0" fill="#e58aa0" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="196.0" cy="300.0" r="30.0" fill="#e0a96b" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="316.0" cy="300.0" r="30.0" fill="#e0a96b" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="220.0" cy="268.0" r="12.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="224.2" cy="263.8" r="3.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="292.0" cy="268.0" r="12.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="296.2" cy="263.8" r="3.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256.0" cy="300.0" r="9.0" fill="#5a3a2a" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="256" y1="309" x2="256" y2="318" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<path d="M 256 318 Q 246 326 238 320 M 256 318 Q 266 326 274 320" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="228.0" cy="392.0" r="16.0" fill="#e0a96b" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="284.0" cy="392.0" r="16.0" fill="#e0a96b" stroke="#1a1a1a" stroke-width="6"/>
+</g></svg>

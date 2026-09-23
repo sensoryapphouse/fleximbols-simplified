@@ -1,19 +1,21 @@
-<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <!-- Sky -->
-  <rect x="0" y="0" width="100" height="60" fill="#aaccee" stroke="none"/>
-  <!-- Ground level -->
-  <rect x="0" y="78" width="100" height="22" fill="#c8a870" stroke="#333" stroke-width="2"/>
-  <!-- Mesa - flat-topped elevated landform -->
-  <!-- Vertical cliff sides -->
-  <rect x="18" y="38" width="64" height="40" fill="#b07840" stroke="#222" stroke-width="2.5"/>
-  <!-- Rock strata lines on cliff -->
-  <line x1="18" y1="52" x2="82" y2="52" stroke="#996633" stroke-width="1.5"/>
-  <line x1="18" y1="63" x2="82" y2="63" stroke="#aa7744" stroke-width="1.5"/>
-  <!-- Flat top surface -->
-  <rect x="18" y="32" width="64" height="10" fill="#c8935a" stroke="#222" stroke-width="2.5"/>
-  <!-- Top edge slight overhang effect -->
-  <line x1="14" y1="38" x2="86" y2="38" stroke="#222" stroke-width="2"/>
-  <!-- Talus slope hints at base -->
-  <polygon points="18,78 12,84 18,84" fill="#aa8855" stroke="#333" stroke-width="1"/>
-  <polygon points="82,78 88,84 82,84" fill="#aa8855" stroke="#333" stroke-width="1"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- sky -->
+  <rect x="10" y="10" width="270" height="160" fill="#dff3fd" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- flat ground -->
+  <rect x="10" y="170" width="270" height="60" fill="#eed5b6" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- mesa: WIDE, short, flat top, steep cliff sides -->
+  <path d="M 35 170 L 35 100 L 255 100 L 255 170 Z" fill="#e65a00" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- flat top emphasis -->
+  <line x1="35" y1="100" x2="255" y2="100" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
+  <!-- horizontal strata bands -->
+  <line x1="40" y1="120" x2="250" y2="120" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="40" y1="140" x2="250" y2="140" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="40" y1="158" x2="250" y2="158" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- darker shadow side -->
+  <path d="M 220 100 L 255 100 L 255 170 L 220 170 Z" fill="#5e1f0a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- ground shrub -->
+  <circle cx="80" cy="195" r="8" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="220" cy="200" r="7" fill="#67832d" stroke="#1a1a1a" stroke-width="2.96"/>
+  <!-- sun -->
+  <circle cx="245" cy="40" r="14" fill="#fff200" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></svg>

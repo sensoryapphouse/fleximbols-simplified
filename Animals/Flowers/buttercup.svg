@@ -1,17 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <g transform="translate(-29.922 -51.328) scale(1.6000)">
-<line x1="50" y1="72" x2="50" y2="90" stroke="#4aaa4a" stroke-width="2.5" stroke-linecap="round"/>
-  <ellipse cx="43" cy="82" rx="9" ry="3" fill="#4aaa4a" stroke="#2d7a2d" stroke-width="1.5" transform="rotate(-20 43 82)"/>
-  <!-- 5 shiny round yellow petals -->
-  <ellipse cx="50" cy="50" rx="8" ry="13" fill="#f0d844" stroke="#a88800" stroke-width="2" transform="rotate(0 50 62)"/>
-  <ellipse cx="50" cy="50" rx="8" ry="13" fill="#e8d030" stroke="#a88800" stroke-width="2" transform="rotate(72 50 62)"/>
-  <ellipse cx="50" cy="50" rx="8" ry="13" fill="#f0d844" stroke="#a88800" stroke-width="2" transform="rotate(144 50 62)"/>
-  <ellipse cx="50" cy="50" rx="8" ry="13" fill="#e8d030" stroke="#a88800" stroke-width="2" transform="rotate(216 50 62)"/>
-  <ellipse cx="50" cy="50" rx="8" ry="13" fill="#f0d844" stroke="#a88800" stroke-width="2" transform="rotate(288 50 62)"/>
-  <!-- shiny highlight on petals -->
-  <ellipse cx="50" cy="53" rx="2" ry="4" fill="#fff8aa" stroke="none" transform="rotate(0 50 62)"/>
-  <!-- yellow-green centre -->
-  <circle cx="50" cy="62" r="6" fill="#aabb22" stroke="#667700" stroke-width="1.5"/>
-  <circle cx="50" cy="62" r="3" fill="#ccdd44" stroke="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<g transform="translate(256 256)">
+<!-- stem -->
+<line x1="0" y1="40" x2="0" y2="208" stroke="#2e7d40" stroke-width="14" stroke-linecap="round"/>
+<!-- leaves -->
+<path d="M 0 150 Q -76 122 -90 186 Q -30 192 0 150 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 0 176 Q 76 148 90 212 Q 30 218 0 176 Z" fill="#8cc152" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- five rounded glossy petals -->
+<g fill="#f4c430" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round">
+<circle cx="0" cy="-86" r="40"/>
+<circle cx="0" cy="-86" r="40" transform="rotate(72)"/>
+<circle cx="0" cy="-86" r="40" transform="rotate(144)"/>
+<circle cx="0" cy="-86" r="40" transform="rotate(216)"/>
+<circle cx="0" cy="-86" r="40" transform="rotate(288)"/>
 </g>
-  </svg>
+<!-- centre -->
+<circle cx="0" cy="0" r="30" fill="#e8b24e" stroke="#1a1a1a" stroke-width="7"/>
+</g>
+</svg>

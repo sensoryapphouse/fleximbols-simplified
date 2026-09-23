@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-<!-- Ground line -->
-  <line x1="15" y1="78" x2="85" y2="78" stroke="#8a6030" stroke-width="2" stroke-linecap="round"/>
-  <!-- Bush body - round lumpy shape -->
-  <ellipse cx="50" cy="60" rx="35" ry="24" fill="#4a8a2a" stroke="#2a5a0a" stroke-width="2" stroke-linejoin="round"/>
-  <ellipse cx="30" cy="65" rx="20" ry="18" fill="#5a9a3a" stroke="#2a5a0a" stroke-width="2" stroke-linejoin="round"/>
-  <ellipse cx="70" cy="65" rx="20" ry="18" fill="#5a9a3a" stroke="#2a5a0a" stroke-width="2" stroke-linejoin="round"/>
-  <ellipse cx="50" cy="52" rx="22" ry="18" fill="#6aaa4a" stroke="#2a5a0a" stroke-width="2" stroke-linejoin="round"/>
-  <!-- Few berries/highlights -->
-  <circle cx="38" cy="60" r="3" fill="#cc2222" stroke="#882211" stroke-width="1.5"/>
-  <circle cx="55" cy="55" r="3" fill="#cc2222" stroke="#882211" stroke-width="1.5"/>
-  <circle cx="66" cy="62" r="3" fill="#cc2222" stroke="#882211" stroke-width="1.5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(0 6)"><rect x="244" y="360" width="24" height="58" rx="6" fill="#8a5a2b" stroke="#6b4a2b" stroke-width="6"/><path d="M 140 360 Q 108 358 110 318 Q 96 270 150 262 Q 158 208 224 212 Q 256 176 312 206 Q 376 198 384 256 Q 420 268 410 318 Q 420 364 372 366 Q 350 386 312 372 Q 256 396 200 372 Q 162 384 140 360 Z" fill="#5aa83c" stroke="#2e7d40" stroke-width="9" stroke-linejoin="round"/><g fill="none" stroke="#2e7d40" stroke-width="6" stroke-linecap="round"><path d="M 170 300 Q 200 320 232 300"/><path d="M 256 282 Q 290 304 326 284"/><path d="M 180 340 Q 226 362 274 340"/><path d="M 290 336 Q 332 356 372 334"/><path d="M 246 250 Q 280 268 314 250"/></g></g></svg>

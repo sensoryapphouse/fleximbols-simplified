@@ -1,28 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <g transform="translate(-7.576 -4.146) scale(1.1515)">
-<!-- Left holly leaf -->
-  <path d="M22,50 Q14,34 28,22 Q32,32 36,28 Q40,38 28,50 Q24,56 22,50 Z" fill="#2e7d32" stroke="#1b5e20" stroke-width="2.5" stroke-linejoin="round"/>
-  <!-- Right holly leaf -->
-  <path d="M78,50 Q86,34 72,22 Q68,32 64,28 Q60,38 72,50 Q76,56 78,50 Z" fill="#2e7d32" stroke="#1b5e20" stroke-width="2.5" stroke-linejoin="round"/>
-  <!-- Bottom left leaf -->
-  <path d="M30,72 Q18,60 22,44 Q30,52 36,48 Q38,60 30,72 Q28,76 30,72 Z" fill="#2e7d32" stroke="#1b5e20" stroke-width="2.5" stroke-linejoin="round"/>
-  <!-- Bottom right leaf -->
-  <path d="M70,72 Q82,60 78,44 Q70,52 64,48 Q62,60 70,72 Q72,76 70,72 Z" fill="#2e7d32" stroke="#1b5e20" stroke-width="2.5" stroke-linejoin="round"/>
-  <!-- Leaf veins -->
-  <line x1="22" y1="50" x2="28" y2="28" stroke="#1b5e20" stroke-width="1.5" stroke-linecap="round"/>
-  <line x1="78" y1="50" x2="72" y2="28" stroke="#1b5e20" stroke-width="1.5" stroke-linecap="round"/>
-  <line x1="30" y1="72" x2="28" y2="46" stroke="#1b5e20" stroke-width="1.5" stroke-linecap="round"/>
-  <line x1="70" y1="72" x2="72" y2="46" stroke="#1b5e20" stroke-width="1.5" stroke-linecap="round"/>
-  <!-- Red berries cluster -->
-  <circle cx="44" cy="46" r="7" fill="#e53935" stroke="#b71c1c" stroke-width="2"/>
-  <circle cx="50" cy="38" r="7" fill="#e53935" stroke="#b71c1c" stroke-width="2"/>
-  <circle cx="56" cy="46" r="7" fill="#e53935" stroke="#b71c1c" stroke-width="2"/>
-  <circle cx="50" cy="54" r="7" fill="#e53935" stroke="#b71c1c" stroke-width="2"/>
-  <!-- Berry highlight dots -->
-  <circle cx="42" cy="44" r="2" fill="#ef9a9a"/>
-  <circle cx="48" cy="36" r="2" fill="#ef9a9a"/>
-  <circle cx="54" cy="44" r="2" fill="#ef9a9a"/>
-  <circle cx="48" cy="52" r="2" fill="#ef9a9a"/>
-  <!-- Label -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<g fill="#2e7d40" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round">
+<path d="M 256 110 Q 300 130 296 168 Q 332 156 360 178 Q 338 206 360 234 Q 322 234 316 270 Q 286 246 256 268 Q 226 246 196 270 Q 190 234 152 234 Q 174 206 152 178 Q 180 156 216 168 Q 212 130 256 110 Z"/>
 </g>
-  </svg>
+<path d="M 256 130 L 256 250" stroke="#5aa83c" stroke-width="6" stroke-linecap="round"/>
+<circle cx="240" cy="300" r="20" fill="#d63b46" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="284" cy="300" r="20" fill="#d63b46" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="262" cy="338" r="20" fill="#d63b46" stroke="#1a1a1a" stroke-width="8"/>
+</svg>

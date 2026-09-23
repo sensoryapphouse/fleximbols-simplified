@@ -1,45 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-<!-- branch -->
-  <path d="M10 80 Q50 76 90 80" fill="none" stroke="#8B6030" stroke-width="5" stroke-linecap="round"/>
-  <!-- body - rounded -->
-  <ellipse cx="50" cy="66" rx="18" ry="20" fill="#a07840" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-  <!-- feather pattern on body -->
-  <path d="M36 56 Q42 52 48 56" fill="none" stroke="#7a5820" stroke-width="1.5" stroke-linecap="round"/>
-  <path d="M52 54 Q58 50 64 54" fill="none" stroke="#7a5820" stroke-width="1.5" stroke-linecap="round"/>
-  <path d="M34 62 Q40 58 46 62" fill="none" stroke="#7a5820" stroke-width="1.5" stroke-linecap="round"/>
-  <path d="M54 60 Q60 56 66 60" fill="none" stroke="#7a5820" stroke-width="1.5" stroke-linecap="round"/>
-  <path d="M34 68 Q40 64 46 68" fill="none" stroke="#7a5820" stroke-width="1.5" stroke-linecap="round"/>
-  <path d="M54 66 Q60 62 66 66" fill="none" stroke="#7a5820" stroke-width="1.5" stroke-linecap="round"/>
-  <!-- cream breast -->
-  <ellipse cx="50" cy="70" rx="12" ry="16" fill="#e0d0a0" stroke="#333" stroke-width="1" stroke-linejoin="round"/>
-  <!-- wings folded -->
-  <path d="M32 56 Q24 62 26 74 Q32 76 36 70 Q36 62 40 56 Z" fill="#7a5820" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-  <path d="M68 56 Q76 62 74 74 Q68 76 64 70 Q64 62 60 56 Z" fill="#7a5820" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-  <!-- tail feathers -->
-  <path d="M42 84 Q46 86 50 88 Q54 86 58 84 Q54 90 50 92 Q46 90 42 84 Z" fill="#a07840" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
-  <!-- head - large and round -->
-  <circle cx="50" cy="42" r="20" fill="#a07840" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-  <!-- ear tufts -->
-  <path d="M34 26 Q30 16 34 12 Q38 16 38 26 Z" fill="#7a5820" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
-  <path d="M66 26 Q70 16 66 12 Q62 16 62 26 Z" fill="#7a5820" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
-  <!-- large facial disc -->
-  <ellipse cx="50" cy="44" rx="16" ry="14" fill="#c8b080" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
-  <!-- large round eyes -->
-  <circle cx="40" cy="42" rx="8" r="7" fill="#f0d840" stroke="#333" stroke-width="2"/>
-  <circle cx="40" cy="42" r="5" fill="#f5c000" stroke="none"/>
-  <circle cx="40" cy="42" r="3.5" fill="#333"/>
-  <circle cx="39" cy="41" r="1.2" fill="white"/>
-  <circle cx="60" cy="42" r="7" fill="#f0d840" stroke="#333" stroke-width="2"/>
-  <circle cx="60" cy="42" r="5" fill="#f5c000" stroke="none"/>
-  <circle cx="60" cy="42" r="3.5" fill="#333"/>
-  <circle cx="59" cy="41" r="1.2" fill="white"/>
-  <!-- small hooked beak -->
-  <path d="M46 50 Q50 46 54 50 Q52 54 50 55 Q48 54 46 50 Z" fill="#e0a020" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
-  <!-- talons -->
-  <line x1="40" y1="78" x2="34" y2="84" stroke="#c89020" stroke-width="2.5" stroke-linecap="round"/>
-  <line x1="42" y1="78" x2="38" y2="86" stroke="#c89020" stroke-width="2.5" stroke-linecap="round"/>
-  <line x1="44" y1="78" x2="42" y2="86" stroke="#c89020" stroke-width="2.5" stroke-linecap="round"/>
-  <line x1="58" y1="78" x2="62" y2="84" stroke="#c89020" stroke-width="2.5" stroke-linecap="round"/>
-  <line x1="56" y1="78" x2="58" y2="86" stroke="#c89020" stroke-width="2.5" stroke-linecap="round"/>
-  <line x1="54" y1="78" x2="54" y2="86" stroke="#c89020" stroke-width="2.5" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<ellipse cx="256" cy="468" rx="64" ry="9" fill="#b9bdc2"/>
+<path d="M 150 200 Q 130 130 184 118 Q 200 90 230 110 Q 256 96 282 110 Q 312 90 328 118 Q 382 130 362 200 Q 388 270 376 350 Q 360 430 256 438 Q 152 430 136 350 Q 124 270 150 200 Z" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 250 Q 240 300 256 360 Q 272 300 256 250 Z" fill="#c89a5b" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="206" cy="216" r="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="306" cy="216" r="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="206" cy="216" r="22" fill="#f4c430" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="306" cy="216" r="22" fill="#f4c430" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="206" cy="216" r="10" fill="#1a1a1a"/>
+<circle cx="306" cy="216" r="10" fill="#1a1a1a"/>
+<path d="M 256 232 L 240 256 L 256 268 L 272 256 Z" fill="#e08a3a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 226 430 L 214 462 M 244 430 L 244 462 M 226 430 L 226 462" fill="none" stroke="#e08a3a" stroke-width="8" stroke-linecap="round"/>
+<path d="M 286 430 L 268 462 M 286 430 L 286 462 M 286 430 L 298 462" fill="none" stroke="#e08a3a" stroke-width="8" stroke-linecap="round"/>
 </svg>

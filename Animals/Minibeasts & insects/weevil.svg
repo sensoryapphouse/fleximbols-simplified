@@ -1,31 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <g transform="translate(-25.280 -31.902) scale(1.5071)">
-<!-- Weevil - long-snouted beetle -->
-  <!-- Elytra - oval body -->
-  <ellipse cx="50" cy="60" rx="22" ry="18" fill="#5a3820" stroke="#2a1808" stroke-width="2.5" stroke-linejoin="round"/>
-  <!-- Elytra line -->
-  <path d="M50 43 L50 77" stroke="#2a1808" stroke-width="1.5"/>
-  <!-- Textured elytra striae -->
-  <path d="M38 50 Q42 48 44 56 Q42 64 38 68" fill="none" stroke="#3a2810" stroke-width="1" opacity="0.6"/>
-  <path d="M62 50 Q58 48 56 56 Q58 64 62 68" fill="none" stroke="#3a2810" stroke-width="1" opacity="0.6"/>
-  <!-- Pronotum -->
-  <ellipse cx="50" cy="44" rx="14" ry="9" fill="#5a3820" stroke="#2a1808" stroke-width="2"/>
-  <!-- Head - small -->
-  <circle cx="50" cy="35" r="7" fill="#4a2818" stroke="#2a1808" stroke-width="2"/>
-  <!-- LONG ROSTRUM/SNOUT - key weevil feature -->
-  <path d="M50 40 Q50 52 50 60" fill="none" stroke="#4a2818" stroke-width="4" stroke-linecap="round"/>
-  <rect x="47" y="38" width="6" height="22" rx="3" fill="#4a2818" stroke="#2a1808" stroke-width="1.5"/>
-  <!-- Antennae emerging from snout midpoint (elbowed) -->
-  <path d="M47 48 Q38 44 32 40" fill="none" stroke="#2a1808" stroke-width="1.5" stroke-linecap="round"/>
-  <path d="M53 48 Q62 44 68 40" fill="none" stroke="#2a1808" stroke-width="1.5" stroke-linecap="round"/>
-  <!-- Club ends on antennae -->
-  <circle cx="31" cy="39" r="2.5" fill="#2a1808"/>
-  <circle cx="69" cy="39" r="2.5" fill="#2a1808"/>
-  <!-- Eyes on head -->
-  <circle cx="44" cy="33" r="2.5" fill="#2a1808" stroke="#1a0808" stroke-width="1"/>
-  <circle cx="56" cy="33" r="2.5" fill="#2a1808" stroke="#1a0808" stroke-width="1"/>
-  <!-- Legs -->
-  <path d="M34 50 L22 56 M32 60 L20 66 M34 70 L24 78" stroke="#2a1808" stroke-width="2" stroke-linecap="round" fill="none"/>
-  <path d="M66 50 L78 56 M68 60 L80 66 M66 70 L76 78" stroke="#2a1808" stroke-width="2" stroke-linecap="round" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- six legs -->
+<g stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M 220 312 L 158 300 L 122 318"/>
+<path d="M 296 312 L 358 300 L 394 318"/>
+<path d="M 220 352 L 156 360 L 120 386"/>
+<path d="M 296 352 L 360 360 L 396 386"/>
+<path d="M 232 388 L 184 412 L 156 436"/>
+<path d="M 284 388 L 332 412 L 360 436"/>
 </g>
-  </svg>
+<!-- rounded ridged brown body -->
+<ellipse cx="256" cy="334" rx="86" ry="98" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- elytra ridges -->
+<g stroke="#1a1a1a" stroke-width="5" fill="none">
+<path d="M 256 244 L 256 426"/>
+<path d="M 216 252 Q 206 334 222 416"/>
+<path d="M 296 252 Q 306 334 290 416"/>
+</g>
+<!-- small pronotum -->
+<ellipse cx="256" cy="244" rx="48" ry="34" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- head -->
+<circle cx="256" cy="196" r="30" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="9"/>
+<!-- the signature long downward snout/rostrum -->
+<path d="M 256 222 Q 252 270 256 300" fill="none" stroke="#8a5a2b" stroke-width="20" stroke-linecap="round"/>
+<path d="M 256 222 Q 252 270 256 300" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" opacity="0"/>
+<path d="M 246 226 Q 242 266 248 298 M 266 226 Q 270 266 264 298" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+<!-- eyes on head -->
+<circle cx="242" cy="190" r="6" fill="#1a1a1a"/>
+<circle cx="270" cy="190" r="6" fill="#1a1a1a"/>
+<!-- elbowed antennae from the snout -->
+<path d="M 250 250 Q 214 232 198 200" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+<path d="M 262 250 Q 298 232 314 200" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+</svg>

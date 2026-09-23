@@ -1,35 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-<!-- perch/branch -->
-  <rect x="10" y="72" width="80" height="6" rx="3" fill="#8B6914" stroke="#555" stroke-width="1.5"/>
-  <!-- tail feathers -->
-  <path d="M55,72 Q58,85 53,92" fill="none" stroke="#1a7a1a" stroke-width="5" stroke-linecap="round"/>
-  <path d="M50,72 Q50,87 48,93" fill="none" stroke="#c8a800" stroke-width="4" stroke-linecap="round"/>
-  <path d="M45,72 Q42,85 47,92" fill="none" stroke="#1a7a1a" stroke-width="5" stroke-linecap="round"/>
-  <!-- body -->
-  <ellipse cx="50" cy="58" rx="18" ry="16" fill="#2a9a2a" stroke="#555" stroke-width="2"/>
-  <!-- wing -->
-  <ellipse cx="62" cy="58" rx="10" ry="12" fill="#1a7a1a" stroke="#555" stroke-width="1.5"/>
-  <!-- breast - yellow/orange -->
-  <ellipse cx="46" cy="60" rx="10" ry="10" fill="#c8a800"/>
-  <!-- head -->
-  <circle cx="50" cy="36" r="15" fill="#2a9a2a" stroke="#555" stroke-width="2"/>
-  <!-- red forehead patch -->
-  <ellipse cx="50" cy="28" rx="8" ry="6" fill="#cc2222"/>
-  <!-- eyes -->
-  <circle cx="44" cy="34" r="5" fill="#f0e040" stroke="#555" stroke-width="1.5"/>
-  <circle cx="44" cy="34" r="3" fill="#1a1a1a"/>
-  <circle cx="44.8" cy="33.2" r="0.8" fill="white"/>
-  <!-- curved beak - upper -->
-  <path d="M38,40 Q32,38 31,44 Q32,48 38,46 Z" fill="#d4a800" stroke="#555" stroke-width="1.5"/>
-  <!-- lower beak -->
-  <path d="M38,46 Q33,46 34,50 Q36,52 38,50 Z" fill="#b89000" stroke="#555" stroke-width="1"/>
-  <!-- blue cheek patch -->
-  <ellipse cx="55" cy="38" rx="6" ry="4" fill="#4444cc"/>
-  <!-- feet on perch -->
-  <line x1="43" y1="72" x2="40" y2="76" stroke="#555" stroke-width="2"/>
-  <line x1="43" y1="76" x2="37" y2="76" stroke="#555" stroke-width="2"/>
-  <line x1="43" y1="76" x2="41" y2="78" stroke="#555" stroke-width="2"/>
-  <line x1="57" y1="72" x2="54" y2="76" stroke="#555" stroke-width="2"/>
-  <line x1="57" y1="76" x2="51" y2="76" stroke="#555" stroke-width="2"/>
-  <line x1="57" y1="76" x2="55" y2="78" stroke="#555" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- perch -->
+<line x1="168" y1="440" x2="344" y2="440" stroke="#8a5a2b" stroke-width="16" stroke-linecap="round"/>
+<!-- long tail feathers hanging down -->
+<path d="M 286 330 L 322 460 L 256 380 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- body (green) -->
+<path d="M 196 280 C 196 210 232 170 282 170 C 332 170 364 218 364 296 C 364 372 320 414 280 414 C 232 414 196 354 196 280 Z" fill="#5aa83c" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- folded wing (blue with yellow bar) -->
+<path d="M 252 244 C 304 238 344 266 350 332 C 312 322 274 330 244 346 C 230 314 234 270 252 244 Z" fill="#3d7fb5" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 262 316 C 296 310 326 318 344 340 C 312 336 282 340 258 350 Z" fill="#f4c430" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- head (red, upright) -->
+<circle cx="232" cy="170" r="58" fill="#d63b46" stroke="#1a1a1a" stroke-width="9"/>
+<!-- eye -->
+<circle cx="216" cy="158" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="214" cy="158" r="6" fill="#1a1a1a"/>
+<!-- hooked beak pointing left -->
+<path d="M 184 168 C 150 162 134 178 144 200 C 154 214 176 210 188 196 C 178 192 176 178 184 168 Z" fill="#e8b24e" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 144 200 C 150 216 166 222 178 212 C 168 206 162 200 164 192 Z" fill="#c98a2e" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<!-- feet gripping perch -->
+<path d="M 256 414 L 256 440 M 244 440 L 268 440 M 296 414 L 296 440 M 284 440 L 308 440" fill="none" stroke="#9aa0a6" stroke-width="8" stroke-linecap="round"/>
 </svg>

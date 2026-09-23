@@ -1,34 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-<!-- small round piglet body -->
-  <ellipse cx="52" cy="65" rx="22" ry="16" fill="#f4b8c0" stroke="#c06070" stroke-width="2"/>
-  <!-- tiny legs -->
-  <rect x="34" y="77" width="7" height="8" rx="2" fill="#f4b8c0" stroke="#c06070" stroke-width="1.5"/>
-  <rect x="43" y="77" width="7" height="8" rx="2" fill="#f4b8c0" stroke="#c06070" stroke-width="1.5"/>
-  <rect x="56" y="77" width="7" height="8" rx="2" fill="#f4b8c0" stroke="#c06070" stroke-width="1.5"/>
-  <rect x="65" y="77" width="7" height="8" rx="2" fill="#f4b8c0" stroke="#c06070" stroke-width="1.5"/>
-  <!-- hooves small -->
-  <rect x="34" y="83" width="7" height="3" rx="1" fill="#7a4050"/>
-  <rect x="43" y="83" width="7" height="3" rx="1" fill="#7a4050"/>
-  <rect x="56" y="83" width="7" height="3" rx="1" fill="#7a4050"/>
-  <rect x="65" y="83" width="7" height="3" rx="1" fill="#7a4050"/>
-  <!-- curly tail -->
-  <path d="M74,63 Q82,60 80,54 Q78,50 74,54" fill="none" stroke="#f4b8c0" stroke-width="3" stroke-linecap="round"/>
-  <path d="M74,63 Q82,60 80,54 Q78,50 74,54" fill="none" stroke="#c06070" stroke-width="1.5" stroke-linecap="round"/>
-  <!-- head - large relative to body (baby) -->
-  <circle cx="32" cy="55" r="18" fill="#f4b8c0" stroke="#c06070" stroke-width="2"/>
-  <!-- large ears flopped -->
-  <ellipse cx="18" cy="41" rx="7" ry="9" fill="#f4b8c0" stroke="#c06070" stroke-width="1.5" transform="rotate(-15 18 41)"/>
-  <ellipse cx="46" cy="39" rx="7" ry="9" fill="#f4b8c0" stroke="#c06070" stroke-width="1.5" transform="rotate(15 46 39)"/>
-  <!-- round snout -->
-  <ellipse cx="22" cy="62" rx="9" ry="7" fill="#e898a8" stroke="#c06070" stroke-width="1.5"/>
-  <circle cx="19" cy="63" r="2" fill="#7a4050"/>
-  <circle cx="25" cy="63" r="2" fill="#7a4050"/>
-  <!-- big cute eyes -->
-  <circle cx="26" cy="51" r="4.5" fill="#2a1a1a"/>
-  <circle cx="27.2" cy="50" r="1.5" fill="white"/>
-  <circle cx="38" cy="51" r="4.5" fill="#2a1a1a"/>
-  <circle cx="39.2" cy="50" r="1.5" fill="white"/>
-  <!-- blush cheeks -->
-  <circle cx="17" cy="57" r="5" fill="#f4b0c0" opacity="0.6"/>
-  <circle cx="43" cy="57" r="5" fill="#f4b0c0" opacity="0.6"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<!-- piglet: small pink pig, round snout, curly tail -->
+<!-- legs -->
+<g stroke="#1a1a1a" stroke-width="20" stroke-linecap="round">
+<line x1="158" y1="348" x2="156" y2="406"/>
+<line x1="206" y1="350" x2="204" y2="408"/>
+<line x1="252" y1="354" x2="252" y2="410"/>
+<line x1="300" y1="354" x2="302" y2="410"/>
+</g>
+<!-- body -->
+<ellipse cx="250" cy="300" rx="118" ry="80" fill="#e85a8a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- head -->
+<circle cx="356" cy="262" r="62" fill="#e85a8a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<!-- ears -->
+<path d="M 322 212 L 308 178 L 344 200 Z" fill="#e85a8a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 392 212 L 406 178 L 370 200 Z" fill="#e85a8a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<!-- snout -->
+<ellipse cx="392" cy="276" rx="34" ry="28" fill="#f06ea0" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<ellipse cx="384" cy="276" rx="6" ry="9" fill="#1a1a1a"/>
+<ellipse cx="402" cy="276" rx="6" ry="9" fill="#1a1a1a"/>
+<!-- eyes -->
+<circle cx="344" cy="244" r="8" fill="#1a1a1a"/>
+<circle cx="378" cy="240" r="8" fill="#1a1a1a"/>
+<!-- curly tail -->
+<path d="M 132 286 q -28 -4 -22 18 q 6 16 24 8 q 12 -8 0 -16" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 </svg>

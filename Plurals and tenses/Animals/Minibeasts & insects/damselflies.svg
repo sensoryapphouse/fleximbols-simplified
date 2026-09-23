@@ -1,30 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,1.640) scale(0.9836)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-<!-- Damselfly - narrow wings held along body when resting -->
-  <!-- Slender body -->
-  <rect x="46" y="22" width="8" height="55" rx="4" fill="#3070b8" stroke="#102850" stroke-width="2"/>
-  <!-- Head -->
-  <circle cx="50" cy="19" r="7" fill="#3070b8" stroke="#102850" stroke-width="2"/>
-  <!-- Large compound eyes -->
-  <circle cx="45" cy="16" r="4" fill="#20a020" stroke="#102850" stroke-width="1.5"/>
-  <circle cx="55" cy="16" r="4" fill="#20a020" stroke="#102850" stroke-width="1.5"/>
-  <!-- Wing pairs - narrow and held along body (damselfly not dragonfly) -->
-  <!-- Upper wings -->
-  <path d="M50 35 Q30 28 14 30 Q10 36 16 40 Q30 42 50 38" fill="#c8e0f8" stroke="#102850" stroke-width="1.5" stroke-linejoin="round" opacity="0.85"/>
-  <path d="M50 35 Q70 28 86 30 Q90 36 84 40 Q70 42 50 38" fill="#c8e0f8" stroke="#102850" stroke-width="1.5" stroke-linejoin="round" opacity="0.85"/>
-  <!-- Lower wings (slightly shorter) -->
-  <path d="M50 42 Q32 36 18 38 Q14 43 20 47 Q34 49 50 46" fill="#c8e0f8" stroke="#102850" stroke-width="1.5" stroke-linejoin="round" opacity="0.85"/>
-  <path d="M50 42 Q68 36 82 38 Q86 43 80 47 Q66 49 50 46" fill="#c8e0f8" stroke="#102850" stroke-width="1.5" stroke-linejoin="round" opacity="0.85"/>
-  <!-- Wing veins -->
-  <path d="M50 37 L20 33 M50 37 L80 33" stroke="#a0b8d0" stroke-width="0.5"/>
-  <path d="M50 44 L22 41 M50 44 L78 41" stroke="#a0b8d0" stroke-width="0.5"/>
-  <!-- Body segments -->
-  <path d="M46 30 L54 30 M46 38 L54 38 M46 46 L54 46 M46 54 L54 54 M46 62 L54 62 M46 70 L54 70" stroke="#102850" stroke-width="1" opacity="0.5"/>
-  <!-- Body colour bands (metallic blue) -->
-  <rect x="46" y="50" width="8" height="8" rx="1" fill="#60a0e8" stroke="none"/>
-  <rect x="46" y="62" width="8" height="8" rx="1" fill="#60a0e8" stroke="none"/>
-  <!-- Tail tip -->
-  <ellipse cx="50" cy="76" rx="4" ry="3" fill="#60a0e8" stroke="#102850" stroke-width="1.5"/>
-  <!-- Antennae -->
-  <path d="M47 13 Q44 8 42 4" fill="none" stroke="#102850" stroke-width="1.5" stroke-linecap="round"/>
-  <path d="M53 13 Q56 8 58 4" fill="none" stroke="#102850" stroke-width="1.5" stroke-linecap="round"/>
-</g><g transform="translate(0,0) scale(0.1953) translate(360 8) scale(0.2812)"><defs><radialGradient id="pl240" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl240)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- damselfly: slender body, 4 narrow wings held together above body, large compound eyes -->
+  <!-- Wings held together (closed, not spread like dragonfly) - paired narrow ovals angled back -->
+  <!-- Hindwings (back pair, slightly shorter) -->
+  <ellipse cx="138" cy="100" rx="9" ry="52" transform="rotate(-18 138 100)" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="152" cy="100" rx="9" ry="52" transform="rotate(18 152 100)" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Forewings (front pair, slightly longer) -->
+  <ellipse cx="133" cy="98" rx="8" ry="58" transform="rotate(-14 133 98)" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="157" cy="98" rx="8" ry="58" transform="rotate(14 157 98)" fill="#dff3fd" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wing venation lines -->
+  <line x1="133" y1="55" x2="133" y2="138" stroke="#90a7d6" stroke-width="2.96"/>
+  <line x1="157" y1="55" x2="157" y2="138" stroke="#90a7d6" stroke-width="2.96"/>
+  <!-- Slender elongated body -->
+  <!-- Thorax -->
+  <ellipse cx="145" cy="138" rx="10" ry="18" fill="#529929" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Abdomen - long thin segmented -->
+  <rect x="140" y="155" width="10" height="65" rx="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Abdomen segments -->
+  <line x1="140" y1="165" x2="150" y2="165" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="140" y1="175" x2="150" y2="175" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="140" y1="185" x2="150" y2="185" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="140" y1="195" x2="150" y2="195" stroke="#1a1a1a" stroke-width="4.45"/>
+  <line x1="140" y1="205" x2="150" y2="205" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Abdomen tip -->
+  <ellipse cx="145" cy="222" rx="6" ry="5" fill="#1d0e82" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Head with large compound eyes -->
+  <ellipse cx="145" cy="122" rx="12" ry="10" fill="#529929" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Large compound eyes - characteristic damselfly wide-set eyes -->
+  <ellipse cx="133" cy="120" rx="11" ry="10" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="157" cy="120" rx="11" ry="10" fill="#3aa6a0" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Eye highlights -->
+  <circle cx="130" cy="117" r="3" fill="#dff3fd"/>
+  <circle cx="154" cy="117" r="3" fill="#dff3fd"/>
+  <!-- Thin legs (3 pairs from thorax) -->
+  <path d="M140 142 Q128 148 118 158" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M140 145 Q126 152 114 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M140 148 Q128 156 120 168" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M150 142 Q162 148 172 158" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M150 145 Q164 152 176 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M150 148 Q162 156 170 168" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg133" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg133)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

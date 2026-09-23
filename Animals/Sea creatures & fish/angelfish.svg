@@ -1,30 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-<!-- Angelfish: very tall thin laterally-compressed body -->
-  <!-- Body: diamond-like -->
-  <path d="M50,15 Q68,30 72,50 Q68,70 50,85 Q32,70 28,50 Q32,30 50,15 Z" fill="#e8c040" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
-  <!-- Vertical black stripes: 3 -->
-  <path d="M50,15 Q50,50 50,85" stroke="#222" stroke-width="5" fill="none" stroke-linecap="round"/>
-  <path d="M62,22 Q66,50 62,78" stroke="#222" stroke-width="4" fill="none" stroke-linecap="round"/>
-  <path d="M38,22 Q34,50 38,78" stroke="#222" stroke-width="4" fill="none" stroke-linecap="round"/>
-  <!-- Dorsal fin: very tall spike -->
-  <path d="M46,16 Q42,6 38,2 Q36,8 40,16" fill="#d4a830" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
-  <path d="M50,15 L44,8 L40,14" fill="#d4a830" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
-  <!-- Anal fin: below, also pointed -->
-  <path d="M46,84 Q42,92 38,96 Q36,90 40,84" fill="#d4a830" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
-  <path d="M50,85 L44,90 L40,84" fill="#d4a830" stroke="#333" stroke-width="1.5" stroke-linejoin="round"/>
-  <!-- Trailing ventral filaments -->
-  <path d="M54,60 Q50,72 44,88" stroke="#c8a028" stroke-width="2" fill="none" stroke-linecap="round"/>
-  <path d="M56,62 Q54,76 50,90" stroke="#c8a028" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-  <!-- Tail: fan shaped -->
-  <path d="M70,38 L86,28 L82,50 L86,72 L70,62 Z" fill="#d4a830" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
-  <!-- Head: small pointed -->
-  <ellipse cx="34" cy="50" rx="8" ry="12" fill="#e8c040" stroke="#333" stroke-width="2"/>
-  <!-- Eye -->
-  <circle cx="30" cy="46" r="4" fill="#e8a820" stroke="#333" stroke-width="1.5"/>
-  <circle cx="30" cy="46" r="2.5" fill="#222"/>
-  <circle cx="29" cy="45" r="0.8" fill="white"/>
-  <!-- Mouth -->
-  <path d="M26,52 Q28,54 32,53" stroke="#333" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-  <!-- Pectoral fin -->
-  <path d="M34,44 L22,38 L26,54 Z" fill="#d4a830" stroke="#333" stroke-width="1.5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 44.00) scale(3.3125)"><g transform="scale(0.888889)">
+<path d="M132 48V96C132 98.274 130.716 100.35 128.682 101.37C127.836 101.79 126.912 102 126 102C124.728 102 123.456 101.598 122.4 100.8L102.504 85.878L114 132L43.5 108.432C22.878 102.186 12 72 12 72C12 72 22.878 42.72 43.5 35.778L114.114 12L102.552 58.086L122.4 43.2C124.218 41.838 126.648 41.616 128.682 42.63C130.716 43.65 132 45.726 132 48Z" fill="#ff9900" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path opacity="0.4" d="M102.54 58.08L114.12 12L72 26.16V33.24L97.14 30.36L86.64 72.36L97.074 113.7L72 110.82V117.966L114 132L102.48 85.86L102.54 58.08ZM48 109.92L63 114.96V109.8L48 108.06V109.92ZM48 36L63 34.26V29.22L48 34.26V36Z" fill="white" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path opacity="0.3" d="M33 69C33 72.312 30.312 75 27 75C23.688 75 21 72.312 21 69C21 65.688 23.688 63 27 63C30.312 63 33 65.688 33 69ZM48 36V34.26L43.5 35.778C41.94 36.3 40.446 36.966 39 37.722V106.614C40.446 107.334 41.94 107.958 43.5 108.432L48 109.938V109.92V108.06V36ZM72 110.82V33.24V26.178L63 29.208V29.22V34.26V109.8V114.954L72 117.96V110.82ZM102.54 58.152L102.48 85.782L102.504 85.878L114 94.5V49.5L102.552 58.086L102.54 58.152Z" fill="#000000" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+</g></g></svg>
